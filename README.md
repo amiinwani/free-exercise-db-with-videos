@@ -22,11 +22,11 @@ movement, filmed for both a male and a female model.
 
 A hosted instance is available for evaluation:
 
-**Website:** https://free-exercise-db-with-videos.vercel.app
-**API:** https://free-exercise-db-with-videos.vercel.app/api/v1/exercises
+**Website:** https://exercise-database.zenithfits.com
+**API:** https://exercise-database.zenithfits.com/api/v1/exercises
 
 ```bash
-curl "https://free-exercise-db-with-videos.vercel.app/api/v1/exercises?bodyPart=chest&limit=1"
+curl "https://exercise-database.zenithfits.com/api/v1/exercises?bodyPart=chest&limit=1"
 ```
 
 The hosted demo is intended for testing and evaluation. For production use, clone the repository and

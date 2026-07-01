@@ -4,7 +4,7 @@ import type { Meta } from '@/lib/data/types';
 const meta = metaJson as Meta;
 
 // Canonical site URL. Override with NEXT_PUBLIC_SITE_URL on the deployed demo.
-export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL ?? 'https://free-exercise-db-with-videos.vercel.app').replace(/\/$/, '');
+export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL ?? 'https://exercise-database.zenithfits.com').replace(/\/$/, '');
 
 export const REPO_URL = 'https://github.com/amiinwani/free-exercise-db-with-videos';
 
