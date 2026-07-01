@@ -37,7 +37,7 @@ API key**, so cloning it and deploying to Vercel costs **$0**.
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/arhamwani765/free-exercise-db-with-videos
+git clone https://github.com/amiinwani/free-exercise-db-with-videos
 cd free-exercise-db-with-videos
 npm install && npm run dev
 # → http://localhost:3000/api/v1/exercises
@@ -51,7 +51,7 @@ Paste this prompt into Claude Code, Cursor, or any coding agent and it will do t
 You are setting up a free, open-source exercise database with real demo videos.
 
 1. Clone the repo:
-   git clone https://github.com/arhamwani765/free-exercise-db-with-videos
+   git clone https://github.com/amiinwani/free-exercise-db-with-videos
    cd free-exercise-db-with-videos
 
 2. Install and run the API locally:
@@ -116,7 +116,7 @@ A machine-readable [`openapi.yaml`](./openapi.yaml) ships in the repo root.
 
 **B. Host it yourself (free)** — one-click deploy, no database, no key:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/arhamwani765/free-exercise-db-with-videos)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/amiinwani/free-exercise-db-with-videos)
 
 **C. Download the data / videos**
 
