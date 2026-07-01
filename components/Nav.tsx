@@ -33,6 +33,9 @@ export function Footer() {
         <div style={{ marginTop: 8 }}>
           Exercise metadata is MIT licensed. Demo videos are provided for demonstration.
         </div>
+        <div style={{ marginTop: 8 }}>
+          Built by <a href="https://arhamamin.com" target="_blank" rel="noreferrer">arhamamin.com</a>
+        </div>
       </div>
     </footer>
   );
