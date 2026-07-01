@@ -21,13 +21,11 @@ export const metadata: Metadata = {
     title: `${SITE_NAME} — Free Exercise API with Demo Videos`,
     description: TAGLINE,
     siteName: SITE_NAME,
-    images: [{ url: '/og.png', width: 1200, height: 630, alt: SITE_NAME }],
   },
   twitter: {
     card: 'summary_large_image',
     title: `${SITE_NAME} — Free Exercise API with Demo Videos`,
     description: TAGLINE,
-    images: ['/og.png'],
   },
   alternates: { canonical: SITE_URL },
 };

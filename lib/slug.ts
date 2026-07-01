@@ -1,4 +1,4 @@
-import type { Exercise } from './types';
+import type { Exercise } from './data/types';
 
 /** Base slug for a name (may collide across exercises — see buildSlugMap). */
 export function toSlug(name: string, id: string): string {
