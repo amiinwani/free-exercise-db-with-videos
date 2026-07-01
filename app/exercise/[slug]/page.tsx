@@ -5,6 +5,7 @@ import { Nav, Footer } from '@/components/Nav';
 import { ExercisePlayer } from '@/components/ExercisePlayer';
 import { getAllExercises } from '@/lib/data/loader';
 import { allSlugs, exerciseBySlug, slugFor } from '@/lib/slugs';
+import { bodyPartSlug } from '@/lib/bodyparts';
 import { exerciseJsonLd } from '@/lib/seo/jsonld';
 
 export function generateStaticParams() {
@@ -45,11 +46,12 @@ export default async function ExercisePage({ params }: { params: Promise<{ slug:
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(exerciseJsonLd(ex, slug)) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(exerciseJsonLd(ex, slug, bodyPartSlug(ex.bodyPart))) }} />
       <Nav />
       <main className="wrap">
         <p style={{ margin: '20px 0 0', color: 'var(--faint)', fontSize: 14 }}>
-          <Link href="/#exercises" style={{ color: 'var(--muted)' }}>← All exercises</Link> · <span style={{ textTransform: 'capitalize' }}>{ex.bodyPart}</span>
+          <Link href="/exercises" style={{ color: 'var(--muted)' }}>Exercises</Link> ·{' '}
+          <Link href={`/exercises/${bodyPartSlug(ex.bodyPart)}`} style={{ color: 'var(--muted)', textTransform: 'capitalize' }}>{ex.bodyPart}</Link>
         </p>
 
         <div className="detail">

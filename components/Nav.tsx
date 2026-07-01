@@ -9,7 +9,7 @@ export function Nav() {
           <span className="dot" /> {SITE_NAME}
         </Link>
         <nav className="nav-links">
-          <Link href="/#exercises">Exercises</Link>
+          <Link href="/exercises">Exercises</Link>
           <Link href="/docs">Docs</Link>
           <Link href="/docs/api">API</Link>
           <Link href="/#instruct">Use it</Link>

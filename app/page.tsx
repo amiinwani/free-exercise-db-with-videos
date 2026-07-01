@@ -5,8 +5,10 @@ import { TryApiWidget } from '@/components/TryApiWidget';
 import { InstructBlock } from '@/components/InstructBlock';
 import { getAllExercises } from '@/lib/data/loader';
 import { slugFor } from '@/lib/slugs';
-import { datasetJsonLd } from '@/lib/seo/jsonld';
+import { bodyPartGroups } from '@/lib/bodyparts';
+import { datasetJsonLd, faqJsonLd } from '@/lib/seo/jsonld';
 import { INSTRUCT_PROMPT } from '@/lib/instruct';
+import { FAQS } from '@/lib/faq';
 import { COUNTS, REPO_URL, TAGLINE } from '@/lib/site';
 
 export default function HomePage() {
@@ -24,6 +26,7 @@ export default function HomePage() {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetJsonLd()) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd(FAQS)) }} />
       <Nav />
 
       <main>
@@ -67,6 +70,33 @@ export default function HomePage() {
               <div className="stat" style={{ textAlign: 'left' }}><div className="l">Option C</div><div style={{ fontWeight: 700, marginTop: 6 }}>Download every video</div><div style={{ color: 'var(--muted)', fontSize: 14, marginTop: 4 }}><code>bash scripts/download-all-videos.sh</code></div></div>
             </div>
             <InstructBlock prompt={INSTRUCT_PROMPT} />
+          </div>
+        </section>
+
+        <section className="section">
+          <div className="wrap">
+            <div className="section-head"><div><h2>Browse by body part</h2><p>Category pages for every muscle group.</p></div></div>
+            <div className="meta-badges" style={{ margin: 0 }}>
+              {bodyPartGroups().map((g) => (
+                <Link key={g.slug} href={`/exercises/${g.slug}`} className="chip" style={{ padding: '8px 14px', fontSize: 14 }}>
+                  {g.bodyPart} exercises ({g.exercises.length})
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        <section className="section">
+          <div className="wrap">
+            <div className="section-head"><div><h2>Frequently asked questions</h2></div></div>
+            <div style={{ display: 'grid', gap: 12 }}>
+              {FAQS.map((f) => (
+                <div key={f.q} className="trybox" style={{ padding: 18 }}>
+                  <h3 style={{ fontSize: 17, fontWeight: 700 }}>{f.q}</h3>
+                  <p style={{ color: 'var(--muted)', margin: '8px 0 0' }}>{f.a}</p>
+                </div>
+              ))}
+            </div>
           </div>
         </section>
       </main>
