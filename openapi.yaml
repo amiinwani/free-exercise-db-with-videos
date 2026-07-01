@@ -1,0 +1,89 @@
+openapi: 3.1.0
+info:
+  title: Free Exercise DB with Videos API
+  version: 1.0.0
+  description: >
+    Free, open-source exercise API with 317 exercises and 593 male & female demo
+    videos, form cues, common mistakes and step-by-step instructions. MIT licensed.
+    Self-host for unlimited use; the public demo is rate limited to 4 requests/IP.
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+  - url: /api/v1
+paths:
+  /exercises:
+    get:
+      summary: List / filter exercises
+      parameters:
+        - { name: bodyPart, in: query, schema: { type: string } }
+        - { name: equipment, in: query, schema: { type: string } }
+        - { name: target, in: query, schema: { type: string } }
+        - { name: difficulty, in: query, schema: { type: string, enum: [beginner, intermediate, advanced] } }
+        - { name: search, in: query, schema: { type: string } }
+        - { name: limit, in: query, schema: { type: integer } }
+        - { name: offset, in: query, schema: { type: integer } }
+      responses:
+        '200': { description: List of exercises, content: { application/json: { schema: { $ref: '#/components/schemas/ExerciseList' } } } }
+        '429': { description: Demo rate limit reached }
+  /exercises/{id}:
+    get:
+      summary: Get one exercise by id
+      parameters:
+        - { name: id, in: path, required: true, schema: { type: string } }
+      responses:
+        '200': { description: One exercise, content: { application/json: { schema: { $ref: '#/components/schemas/ExerciseEnvelope' } } } }
+        '404': { description: Not found }
+  /search:
+    get:
+      summary: Search by name, alias, target or muscle
+      parameters:
+        - { name: q, in: query, required: true, schema: { type: string, minLength: 2 } }
+      responses:
+        '200': { description: Matching exercises }
+  /bodyparts:
+    get: { summary: Body part facets with counts, responses: { '200': { description: OK } } }
+  /equipment:
+    get: { summary: Equipment facets with counts, responses: { '200': { description: OK } } }
+  /targets:
+    get: { summary: Target muscle facets with counts, responses: { '200': { description: OK } } }
+components:
+  schemas:
+    GenderMedia:
+      type: object
+      properties:
+        male: { type: string, format: uri }
+        female: { type: string, format: uri }
+    Exercise:
+      type: object
+      properties:
+        id: { type: string }
+        name: { type: string }
+        aliases: { type: array, items: { type: string } }
+        bodyPart: { type: string }
+        target: { type: string }
+        secondaryMuscles: { type: array, items: { type: string } }
+        equipment: { type: string }
+        muscleGroup: { type: string }
+        difficulty: { type: string }
+        compound: { type: boolean }
+        unilateral: { type: boolean }
+        shortDescription: { type: string }
+        instructions: { type: string }
+        steps: { type: array, items: { type: string } }
+        formCues: { type: array, items: { type: string } }
+        commonMistakes: { type: array, items: { type: string } }
+        breathing: { type: string }
+        videos: { $ref: '#/components/schemas/GenderMedia' }
+        thumbnails: { $ref: '#/components/schemas/GenderMedia' }
+    ExerciseList:
+      type: object
+      properties:
+        success: { type: boolean }
+        count: { type: integer }
+        data: { type: array, items: { $ref: '#/components/schemas/Exercise' } }
+    ExerciseEnvelope:
+      type: object
+      properties:
+        success: { type: boolean }
+        data: { $ref: '#/components/schemas/Exercise' }
