@@ -1,0 +1,51 @@
+{
+  "id": "0832",
+  "name": "Weighted Leg Extension Crunch",
+  "aliases": [
+    "weighted crunch with leg extension",
+    "dumbbell leg extension crunch",
+    "leg extension abs",
+    "Weighted Leg Extension Crunch",
+    "weighted crunch"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "hip flexors",
+    "obliques"
+  ],
+  "equipment": "weighted",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A core exercise combining a crunch with a resisted leg extension to engage the abdominals.",
+  "instructions": "Lie on your back holding a weight at your chest, legs lifted and knees bent. Extend your legs out as you crunch upward, then return to the start position.",
+  "steps": [
+    "Lie flat on your back with knees bent, holding a weight across your chest.",
+    "Lift your legs to tabletop position (knees over hips, 90-degree bend).",
+    "Simultaneously extend your legs outward and crunch your upper body up.",
+    "Pause briefly at peak contraction.",
+    "Return arms and legs to the starting position."
+  ],
+  "formCues": [
+    "Keep core braced",
+    "Don't arch lower back",
+    "Control leg extension",
+    "Crunch chest up"
+  ],
+  "commonMistakes": [
+    "Using momentum",
+    "Letting lower back arch",
+    "Holding breath"
+  ],
+  "breathing": "Exhale as you crunch and extend, inhale as you return.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/weighted-leg-extension-crunch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/weighted-leg-extension-crunch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/weighted-leg-extension-crunch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/weighted-leg-extension-crunch.jpg"
+  }
+}

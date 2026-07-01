@@ -1,0 +1,54 @@
+{
+  "id": "0373",
+  "name": "Dumbbell Pronate-grip Triceps Extension",
+  "aliases": [
+    "overhead dumbbell triceps extension",
+    "two-hand overhead triceps extension",
+    "pronated-grip dumbbell triceps extension",
+    "seated overhead triceps extension",
+    "dumbbell triceps extension",
+    "overhead triceps press",
+    "dumbbell pronate-grip triceps extension"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated overhead triceps exercise using one dumbbell held with both hands to bend and straighten the elbows.",
+  "instructions": "Sit on a bench or chair with your back straight and feet flat on the ground. Hold a dumbbell with both hands, palms facing down, and extend your arms straight up overhead. Keeping your upper arms close to your head and elbows pointing forward, slowly lower the dumbbell behind your head by bending your elbows. Pause for a moment, then extend your arms back up to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit tall on a bench or chair with both feet flat on the floor.",
+    "Hold one dumbbell with both hands by the handle using an overhand grip and press it straight overhead.",
+    "Bring your upper arms close to your ears and point your elbows forward.",
+    "Lower the dumbbell behind your head by bending only your elbows.",
+    "Stop when your forearms are below parallel and your upper arms stay mostly still.",
+    "Straighten your elbows to raise the dumbbell back to the overhead start position."
+  ],
+  "formCues": [
+    "Elbows stay close in",
+    "Upper arms stay still",
+    "Brace your ribs down",
+    "Lock out overhead"
+  ],
+  "commonMistakes": [
+    "Elbows flare wide out to the sides.",
+    "Upper arms drift backward and move during the rep.",
+    "Lower back arches as the weight goes overhead.",
+    "The dumbbell drops too low and bumps the upper back."
+  ],
+  "breathing": "Inhale as you lower the dumbbell behind your head, and exhale as you straighten your elbows to lift it overhead.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-pronate-grip-triceps-extension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-pronate-grip-triceps-extension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-pronate-grip-triceps-extension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-pronate-grip-triceps-extension.jpg"
+  }
+}

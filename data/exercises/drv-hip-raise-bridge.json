@@ -1,0 +1,48 @@
+{
+  "id": "drv-hip-raise-bridge",
+  "name": "Glute Bridge",
+  "aliases": [
+    "hip raise",
+    "bridging",
+    "hip thrust (bodyweight)",
+    "floor bridge"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "gluteus maximus",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A floor-based exercise that strengthens the glutes and hamstrings by lifting the hips.",
+  "instructions": "Lie on your back, knees bent and feet flat on the floor hip-width apart. Drive through your heels to lift hips off the ground, squeezing the glutes at the top, then lower back down with control.",
+  "steps": [
+    "Start lying on back with knees bent, feet hip-width apart.",
+    "Arms rest at sides, palms down.",
+    "Push through heels, lifting hips toward ceiling.",
+    "Pause and squeeze glutes at top.",
+    "Lower hips back to floor."
+  ],
+  "formCues": [
+    "Drive through heels",
+    "Squeeze glutes",
+    "Don't overarch back",
+    "Keep knees in line"
+  ],
+  "commonMistakes": [
+    "Pushing through toes",
+    "Flaring ribs",
+    "Rushing movement"
+  ],
+  "breathing": "Exhale as you lift hips, inhale as you lower down.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/hip-raise-bridge.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/hip-raise-bridge.jpg"
+  }
+}

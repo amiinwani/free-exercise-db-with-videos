@@ -1,0 +1,47 @@
+{
+  "id": "drv-stretching-chin-to-chest-stretch",
+  "name": "Chin-to-Chest Stretch",
+  "aliases": [
+    "chin to chest stretch",
+    "neck flexion stretch"
+  ],
+  "bodyPart": "waist",
+  "target": "neck flexors",
+  "secondaryMuscles": [
+    "upper trapezius"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "sternocleidomastoid",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A gentle static stretch to release tension in the neck flexors by tilting the chin toward the chest.",
+  "instructions": "Sit or stand upright. Slowly lower your chin towards your chest until you feel a gentle stretch along the back of your neck, holding the position for 15-30 seconds before releasing.",
+  "steps": [
+    "Sit or stand with a straight back.",
+    "Gently lower your chin toward your chest.",
+    "Relax your shoulders and feel the stretch along your neck.",
+    "Hold the position for 15-30 seconds.",
+    "Slowly return to neutral."
+  ],
+  "formCues": [
+    "Move slowly",
+    "Keep shoulders relaxed",
+    "Do not force the stretch",
+    "Hold gently"
+  ],
+  "commonMistakes": [
+    "Bouncing the stretch",
+    "Tensing shoulders",
+    "Overstretching the neck"
+  ],
+  "breathing": "Breathe deeply and evenly throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-chin-to-chest-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-chin-to-chest-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-chin-to-chest-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-chin-to-chest-stretch.jpg"
+  }
+}

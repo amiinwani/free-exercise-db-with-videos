@@ -1,0 +1,57 @@
+{
+  "id": "0028",
+  "name": "Barbell Clean And Press",
+  "aliases": [
+    "clean and press",
+    "barbell clean & press",
+    "clean to press",
+    "floor to overhead press",
+    "barbell ground-to-overhead",
+    "barbell clean and press"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "secondaryMuscles": [
+    "hamstrings",
+    "glutes",
+    "shoulders",
+    "triceps"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "hamstrings",
+  "difficulty": "advanced",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A full-body barbell lift that moves the bar from the floor to the shoulders, then presses it overhead.",
+  "instructions": "Stand with your feet shoulder-width apart and the barbell on the floor in front of you. Bend your knees and hinge at the hips to lower down and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Drive through your heels and extend your hips and knees to lift the barbell off the floor, keeping it close to your body. As the barbell reaches your thighs, explosively extend your hips, shrug your shoulders, and pull the barbell up towards your chest. As the barbell reaches chest height, quickly drop under it and catch it at shoulder level, with your elbows pointing forward and your palms facing up. From the catch position, press the barbell overhead by extending your arms and pushing the barbell straight up. Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand with your feet hip- to shoulder-width apart and place the barbell over your midfoot.",
+    "Bend at your hips and knees, grip the bar just outside your legs, and set your back flat with your chest up.",
+    "Push the floor away and lift the bar, keeping it close to your shins and thighs as you stand.",
+    "Explosively extend your hips, knees, and ankles, then shrug and pull yourself under the bar.",
+    "Catch the bar on the fronts of your shoulders with elbows forward and stand tall.",
+    "Press the bar straight overhead until your arms are locked out and the bar is over your shoulders.",
+    "Lower the bar back to your shoulders, then guide it down to the floor under control."
+  ],
+  "formCues": [
+    "Keep the bar close",
+    "Drive through the floor",
+    "Elbows fast through",
+    "Press straight overhead"
+  ],
+  "commonMistakes": [
+    "Starting with the bar too far in front of the feet",
+    "Rounding the lower back when pulling from the floor",
+    "Catching the bar with elbows low and chest collapsed",
+    "Pressing the bar forward instead of overhead"
+  ],
+  "breathing": "Inhale and brace before pulling from the floor, then exhale as you press overhead and reset your breath before the next rep.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-clean-and-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-clean-and-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-clean-and-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-clean-and-press.jpg"
+  }
+}

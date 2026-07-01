@@ -1,0 +1,54 @@
+{
+  "id": "0599",
+  "name": "Lever Seated Leg Curl",
+  "aliases": [
+    "seated leg curl",
+    "machine seated leg curl",
+    "lever leg curl",
+    "seated hamstring curl",
+    "hamstring curl machine",
+    "leg curl machine",
+    "lever seated leg curl"
+  ],
+  "bodyPart": "upper legs",
+  "target": "hamstrings",
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "calves",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated machine hamstring exercise where you bend your knees to pull a padded lever downward.",
+  "instructions": "Adjust the machine to fit your body and sit on it with your back against the backrest. Place your lower legs under the padded lever, just above your ankles. Grasp the handles on the sides of the machine for support. Keeping your upper legs stationary, exhale and curl your legs up as far as possible. Hold the contracted position for a brief pause as you squeeze your hamstrings. Inhale and slowly lower the lever back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Adjust the seat and pad so your knees line up with the machine’s pivot point.",
+    "Sit back against the pad and place your lower legs under the roller just above your ankles.",
+    "Grip the handles and keep your thighs pressed into the seat.",
+    "Curl the pad down by bending your knees until your heels move toward the floor.",
+    "Pause briefly and squeeze your hamstrings at the bottom.",
+    "Lower the pad back up with control until your knees are nearly straight."
+  ],
+  "formCues": [
+    "Keep hips glued down",
+    "Curl through the heels",
+    "Move only at knees",
+    "Lower with control"
+  ],
+  "commonMistakes": [
+    "Lifting the hips off the seat during the curl.",
+    "Using momentum and swinging the pad through the rep.",
+    "Letting the knees fully lock out at the top.",
+    "Setting the pad too high on the calves instead of above the ankles."
+  ],
+  "breathing": "Exhale as you curl the pad down, and inhale as you return it to the starting position.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-seated-leg-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-seated-leg-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-seated-leg-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-seated-leg-curl.jpg"
+  }
+}

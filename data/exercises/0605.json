@@ -1,0 +1,54 @@
+{
+  "id": "0605",
+  "name": "Lever Standing Calf Raise",
+  "aliases": [
+    "standing calf raise machine",
+    "machine standing calf raise",
+    "lever calf raise",
+    "calf raise machine",
+    "standing heel raise",
+    "lever standing calf raise"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "soleus",
+    "ankle stabilizers"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "soleus",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A machine calf exercise where you raise and lower your heels under shoulder pads to train the calves through ankle movement.",
+  "instructions": "Adjust the machine to your height and stand with your feet shoulder-width apart. Place your shoulders under the pads and hold onto the handles for stability. Raise your heels as high as possible by extending your ankles. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Adjust the shoulder pads so they rest comfortably on your shoulders when you stand on the platform.",
+    "Place the balls of your feet on the edge of the platform with your heels hanging off and grip the handles.",
+    "Straighten your legs, brace your torso, and let your heels lower until you feel a stretch in your calves.",
+    "Press through the balls of your feet to raise your heels as high as you can.",
+    "Pause briefly at the top while staying balanced under the pads.",
+    "Lower your heels under control back to the stretched start position."
+  ],
+  "formCues": [
+    "Drive through big toe",
+    "Lift heels straight up",
+    "Use full ankle range",
+    "Control the lowering"
+  ],
+  "commonMistakes": [
+    "Bouncing out of the bottom instead of lowering under control.",
+    "Bending the knees noticeably during the raise.",
+    "Rolling the ankles inward or outward as the heels lift.",
+    "Using a short range and stopping before the heels fully lower."
+  ],
+  "breathing": "Inhale as you lower your heels, and exhale as you press up onto the balls of your feet.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-standing-calf-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-standing-calf-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-standing-calf-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-standing-calf-raise.jpg"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0123",
+  "name": "Barbell Wide-Grip Upright Row",
+  "aliases": [
+    "wide-grip upright row",
+    "wide grip barbell upright row",
+    "Barbell Upright Row (wide-grip)",
+    "barbell wide-grip upright row"
+  ],
+  "bodyPart": "shoulders",
+  "target": "deltoids",
+  "secondaryMuscles": [
+    "trapezius",
+    "biceps"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "deltoids",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A compound barbell lift with a wide grip to target the shoulders and upper back.",
+  "instructions": "Stand with feet shoulder-width apart, holding a barbell with a wide grip resting in front of your thighs. Pull the bar straight up toward your chest, lifting elbows high, then lower slowly.",
+  "steps": [
+    "Stand upright with feet shoulder width apart.",
+    "Hold the barbell using a wide, overhand grip.",
+    "Let the bar rest in front of your thighs.",
+    "Lift the bar straight up toward your chest, elbows out to the sides.",
+    "Lower the bar slowly to the starting position."
+  ],
+  "formCues": [
+    "Lead with your elbows",
+    "Keep bar close to your body",
+    "Stop at upper chest",
+    "Maintain neutral spine"
+  ],
+  "commonMistakes": [
+    "Shrugging shoulders excessively",
+    "Using too much momentum",
+    "Hands too close"
+  ],
+  "breathing": "Exhale as you lift, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-upright-row-wide-grip.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-upright-row-wide-grip.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-upright-row-wide-grip.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-upright-row-wide-grip.jpg"
+  }
+}

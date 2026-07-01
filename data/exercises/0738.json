@@ -1,0 +1,53 @@
+{
+  "id": "0738",
+  "name": "Sled 45 Degree Calf Press",
+  "aliases": [
+    "45 degree sled calf press",
+    "sled calf press",
+    "leg press calf raise",
+    "calf press on leg press",
+    "machine calf press",
+    "sled 45 degree calf press"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "equipment": "sled machine",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated calf exercise on a 45-degree sled where you press through the balls of your feet to raise and lower the heels.",
+  "instructions": "Adjust the sled machine to a 45-degree angle. Place your feet on the sled platform with your toes pointing forward. Push the sled platform away from you by extending your ankles and calves. Pause for a moment at the top, then slowly lower the sled platform back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit in the 45-degree sled machine and place the balls of both feet on the lower edge of the platform with your heels hanging off.",
+    "Straighten your legs enough to support the sled and keep a small bend in your knees.",
+    "Let your heels drop down by bending at the ankles until you feel a stretch in your calves.",
+    "Press through the balls of your feet and raise your heels as high as you can.",
+    "Pause briefly at the top while keeping your legs steady.",
+    "Lower your heels under control back to the stretched position and repeat."
+  ],
+  "formCues": [
+    "Drive through the balls of feet",
+    "Lift heels as high as possible",
+    "Control the heel drop",
+    "Keep knees softly bent"
+  ],
+  "commonMistakes": [
+    "Bending and straightening the knees instead of moving only at the ankles",
+    "Placing the whole foot flat on the platform so the heels cannot drop",
+    "Bouncing out of the bottom instead of lowering under control",
+    "Turning the toes excessively in or out during the rep"
+  ],
+  "breathing": "Inhale as you lower your heels, and exhale as you press through the balls of your feet to raise them.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/sled-45-degree-calf-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/sled-45-degree-calf-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/sled-45-degree-calf-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/sled-45-degree-calf-press.jpg"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "0293",
+  "name": "Dumbbell Bent-Over Row",
+  "aliases": [
+    "bent over dumbbell row",
+    "dumbbell row",
+    "DB bentover row",
+    "two arm dumbbell row",
+    "Dumbbell Bent-over Row",
+    "dumbbell bent over row"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "rhomboids",
+    "trapezius",
+    "posterior deltoids",
+    "biceps brachii"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A rowing movement that targets the back muscles while bracing the core in a bent-over position.",
+  "instructions": "Hold a dumbbell in each hand with feet shoulder-width apart, hinge at the hips while keeping your back flat. Row the weights to your sides by pulling elbows back, then lower the weights slowly.",
+  "steps": [
+    "Stand with feet shoulder-width apart holding dumbbells.",
+    "Hinge at hips, keeping back flat and chest up.",
+    "Let arms hang straight down, palms facing each other.",
+    "Pull dumbbells to your sides, elbows close to body.",
+    "Lower the weights under control to starting position."
+  ],
+  "formCues": [
+    "Flat back",
+    "Lead with elbows",
+    "Engage core",
+    "Squeeze shoulder blades"
+  ],
+  "commonMistakes": [
+    "Rounding the back",
+    "Jerking the weights",
+    "Not fully extending arms",
+    "Using biceps too much"
+  ],
+  "breathing": "Exhale as you row up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-bent-over-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-bent-over-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-bent-over-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-bent-over-row.jpg"
+  }
+}

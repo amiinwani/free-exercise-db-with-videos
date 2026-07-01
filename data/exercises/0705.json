@@ -1,0 +1,51 @@
+{
+  "id": "0705",
+  "name": "Side Plank",
+  "aliases": [
+    "side bridge",
+    "lateral plank",
+    "side elbow plank",
+    "Side Bridge - Side Plank"
+  ],
+  "bodyPart": "waist",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "gluteus medius",
+    "quadratus lumborum",
+    "shoulders"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "obliquus externus abdominis",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": true,
+  "shortDescription": "A core-strengthening hold performed on one side, engaging the obliques and stabilizing hip muscles.",
+  "instructions": "Lie on one side with your elbow under your shoulder and legs extended. Lift your hips off the ground to form a straight line from head to feet, bracing your abs and holding the position while breathing steadily.",
+  "steps": [
+    "Lie on your side, elbow stacked under shoulder.",
+    "Stack your feet or place one in front of the other.",
+    "Raise hips up to create a straight line.",
+    "Hold body in line, keeping abs and glutes engaged.",
+    "Lower hips gently to finish; switch sides."
+  ],
+  "formCues": [
+    "Keep body straight",
+    "Elbow directly under shoulder",
+    "Squeeze glutes",
+    "Don't let hips sag"
+  ],
+  "commonMistakes": [
+    "Letting hips drop",
+    "Shoulder collapsing inward",
+    "Twisting upper body"
+  ],
+  "breathing": "Breathe steadily throughout the hold.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/side-bridge-side-plank.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/side-bridge-side-plank.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/side-bridge-side-plank.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/side-bridge-side-plank.jpg"
+  }
+}

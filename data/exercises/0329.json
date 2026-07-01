@@ -1,0 +1,53 @@
+{
+  "id": "0329",
+  "name": "Dumbbell Incline Shrug",
+  "aliases": [
+    "incline dumbbell shrug",
+    "DB incline shrug",
+    "incline shrugs",
+    "dumbbell shrugs on incline bench",
+    "leaning dumbbell shoulder shrug",
+    "dumbbell incline shrug"
+  ],
+  "bodyPart": "back",
+  "target": "traps",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A chest-supported shrug on an incline bench using dumbbells to target the upper traps with minimal body momentum.",
+  "instructions": "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand. Place your feet flat on the ground and let your arms hang straight down with your palms facing your body. Keeping your arms straight, shrug your shoulders up towards your ears as high as possible. Hold the contraction for a moment, then slowly lower your shoulders back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set an incline bench to about 45 degrees and sit with your chest supported against the pad.",
+    "Hold a dumbbell in each hand and let your arms hang straight down at your sides with your palms facing in.",
+    "Plant your feet firmly on the floor and keep your chest against the bench.",
+    "Lift your shoulders straight up toward your ears without bending your elbows.",
+    "Pause briefly at the top, then lower your shoulders back down under control.",
+    "Repeat from a dead hang each rep."
+  ],
+  "formCues": [
+    "Arms stay long",
+    "Shrug straight up",
+    "Keep chest on pad",
+    "Lower with control"
+  ],
+  "commonMistakes": [
+    "Bending the elbows and turning the rep into a row",
+    "Rolling the shoulders forward or backward at the top",
+    "Lifting the chest off the bench to move the weight",
+    "Using momentum and dropping quickly between reps"
+  ],
+  "breathing": "Inhale at the bottom, exhale as you shrug your shoulders up, then inhale as you lower back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-shrug.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-shrug.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-shrug.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-shrug.jpg"
+  }
+}

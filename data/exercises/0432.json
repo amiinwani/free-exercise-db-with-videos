@@ -1,0 +1,54 @@
+{
+  "id": "0432",
+  "name": "Dumbbell Stiff Leg Deadlift",
+  "aliases": [
+    "stiff leg deadlift",
+    "dumbbell SLDL",
+    "dumbbell stiff-legged deadlift",
+    "straight-leg dumbbell deadlift",
+    "dumbbell hamstring deadlift",
+    "dumbbell stiff leg deadlift"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "hamstrings",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A hip-hinge deadlift with dumbbells that emphasizes the hamstrings and glutes while keeping only a slight knee bend.",
+  "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. Keeping your back straight and your core engaged, hinge at the hips and lower the dumbbells towards the ground, allowing a slight bend in your knees. Lower the dumbbells until you feel a stretch in your hamstrings, then squeeze your glutes and push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with your feet hip-width apart, holding a dumbbell in each hand in front of your thighs.",
+    "Soften your knees slightly and brace your midsection.",
+    "Push your hips straight back and slide the dumbbells down the front of your legs.",
+    "Lower until the dumbbells reach mid-shin or you feel a strong hamstring stretch while keeping your back flat.",
+    "Drive your feet into the floor and extend your hips to stand back up.",
+    "Finish tall with the dumbbells at your thighs and repeat."
+  ],
+  "formCues": [
+    "Hips back, not down",
+    "Keep dumbbells close",
+    "Back flat the whole time",
+    "Feel the hamstring stretch"
+  ],
+  "commonMistakes": [
+    "Bending the knees too much and turning it into a squat",
+    "Letting the dumbbells drift away from the legs",
+    "Rounding the lower back on the way down",
+    "Looking up and cranking the neck"
+  ],
+  "breathing": "Inhale as you hinge and lower the dumbbells, then exhale as you drive your hips forward to stand tall.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-stiff-leg-deadlift.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-stiff-leg-deadlift.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-stiff-leg-deadlift.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-stiff-leg-deadlift.jpg"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "drv-hundred-pilates",
+  "name": "Pilates Hundred",
+  "aliases": [
+    "the hundred",
+    "100s",
+    "pilates ab warm up"
+  ],
+  "bodyPart": "waist",
+  "target": "abdominals",
+  "secondaryMuscles": [
+    "obliques",
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A classic Pilates exercise involving rhythmic arm pumps and core engagement.",
+  "instructions": "Lie on your back with legs extended or in tabletop position. Lift your head, neck, and shoulders off the mat, extend arms, and pulse them up and down in small, quick movements while holding the core contracted for 100 counts.",
+  "steps": [
+    "Lie on back, legs in tabletop or extended.",
+    "Lift head, neck, shoulders off mat.",
+    "Extend arms at sides, hovering above floor.",
+    "Pump arms up and down vigorously.",
+    "Inhale for 5 pumps, exhale for 5 pumps; repeat to 100."
+  ],
+  "formCues": [
+    "Engage core",
+    "Keep lower back down",
+    "Strong arm pulses",
+    "Steady breath"
+  ],
+  "commonMistakes": [
+    "Neck strain",
+    "Arching lower back",
+    "Rapid, shallow breathing"
+  ],
+  "breathing": "Inhale for 5 pumps, exhale for 5 pumps, continue cycle.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/hundred-pilates.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/hundred-pilates.jpg"
+  }
+}

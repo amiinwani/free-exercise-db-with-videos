@@ -1,0 +1,54 @@
+{
+  "id": "0033",
+  "name": "Barbell Decline Bench Press",
+  "aliases": [
+    "decline barbell bench press",
+    "decline bench press",
+    "barbell decline press",
+    "decline chest press",
+    "decline barbell press",
+    "barbell decline bench press"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "triceps",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A decline barbell press done on a downward-angled bench to train the chest, triceps, and shoulders through a pressing pattern.",
+  "instructions": "Lie on a decline bench with your feet secured and your head lower than your hips. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in. Pause for a moment at the bottom, then push the barbell back up to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Lie on the decline bench and secure your legs under the pads with your eyes under the bar.",
+    "Grip the bar slightly wider than shoulder width and pull your shoulder blades back into the bench.",
+    "Unrack the bar and hold it above your lower chest with straight wrists and locked elbows.",
+    "Lower the bar under control to your lower chest or upper sternum while keeping your elbows at about a 45-degree angle.",
+    "Press the bar straight up until your elbows are extended and the bar returns over your lower chest.",
+    "Repeat each rep with the same bar path and controlled tempo."
+  ],
+  "formCues": [
+    "Drive shoulders into bench",
+    "Wrists stacked over forearms",
+    "Lower to lower chest",
+    "Press straight up"
+  ],
+  "commonMistakes": [
+    "Bouncing the bar off the chest",
+    "Flaring the elbows straight out to the sides",
+    "Letting the wrists bend back under the bar",
+    "Pressing the bar toward the face instead of over the chest"
+  ],
+  "breathing": "Inhale as you lower the bar to your chest, and exhale as you press it back up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-decline-bench-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-decline-bench-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-decline-bench-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-decline-bench-press.jpg"
+  }
+}

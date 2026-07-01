@@ -1,0 +1,49 @@
+{
+  "id": "0030",
+  "name": "Barbell Close Grip Bench Press",
+  "aliases": [
+    "close grip bench press",
+    "narrow grip bench press",
+    "triceps bench press",
+    "Barbell Close Grip Bench Press",
+    "barbell close-grip bench press"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "pectorals",
+    "anterior deltoid"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "triceps brachii",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "Bench press variation with close grip targeting triceps along with chest and shoulders.",
+  "instructions": "Lie on a bench with feet flat, grip the barbell with hands about shoulder-width apart or slightly narrower. Lower the bar to your lower chest while keeping elbows tucked. Press the bar back up, focusing on extending through your triceps.",
+  "steps": [
+    "Lie on bench and grasp barbell with close grip.",
+    "Unrack and position bar above lower chest.",
+    "Lower bar slowly, elbows close to sides.",
+    "Touch chest briefly, then press bar to starting position.",
+    "Repeat for reps."
+  ],
+  "formCues": [
+    "Tuck elbows",
+    "Grip just inside shoulder width",
+    "Press through triceps",
+    "Control the descent"
+  ],
+  "commonMistakes": [
+    "Gripping too narrow or wide",
+    "Elbows flaring out",
+    "Bouncing bar on chest"
+  ],
+  "breathing": "Exhale pressing up, inhale lowering bar.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-close-grip-bench-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-close-grip-bench-press.jpg"
+  }
+}

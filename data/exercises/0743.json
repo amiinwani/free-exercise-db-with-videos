@@ -1,0 +1,56 @@
+{
+  "id": "0743",
+  "name": "Sled Hack Squat",
+  "aliases": [
+    "hack squat",
+    "sled hack squat machine",
+    "machine hack squat",
+    "hack squat machine",
+    "angled sled squat",
+    "supported sled squat",
+    "sled hack squat"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": "sled machine",
+  "muscleGroup": "quadriceps",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A machine squat on an angled sled with your back supported to train the quads, glutes, and legs through a controlled range.",
+  "instructions": "Adjust the sled machine to a comfortable position for your height. Stand with your feet shoulder-width apart on the platform, toes slightly pointed outwards. Hold onto the handles or bars for stability. Lower your body by bending your knees and hips, keeping your back straight and chest up. Continue lowering until your thighs are parallel to the ground or slightly below. Pause for a moment, then push through your heels to raise your body back up to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand on the sled platform with your back against the pad and your shoulders under the pads.",
+    "Place your feet about shoulder-width apart on the platform with toes turned slightly out, then grip the handles.",
+    "Unlock the sled and lower yourself by bending your knees and hips until your thighs reach parallel or your deepest controlled position.",
+    "Keep your full foot planted against the platform as your knees track in line with your toes.",
+    "Drive through your heels and midfoot to extend your knees and hips and return the sled upward.",
+    "Stop just short of locking your knees, then continue into the next repetition."
+  ],
+  "formCues": [
+    "Keep your back on pad",
+    "Knees track over toes",
+    "Push through whole foot",
+    "Control the descent"
+  ],
+  "commonMistakes": [
+    "Feet placed too low so the heels lift off the platform",
+    "Knees collapsing inward during the lowering phase",
+    "Lower back rounding or hips peeling off the pad",
+    "Bouncing out of the bottom instead of pausing briefly"
+  ],
+  "breathing": "Inhale as you lower the sled, then exhale as you press it back up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/sled-hack-squat.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/sled-hack-squat.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/sled-hack-squat.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/sled-hack-squat.jpg"
+  }
+}

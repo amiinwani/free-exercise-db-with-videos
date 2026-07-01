@@ -1,0 +1,50 @@
+{
+  "id": "0600",
+  "name": "Leg Raise Crunch",
+  "aliases": [
+    "crunch with leg raise",
+    "reverse crunch",
+    "lying leg raise crunch",
+    "leg lift crunch",
+    "Crunch (leg raise)",
+    "lever seated leg raise crunch"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "hip flexors",
+    "obliques"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "An ab exercise combining a crunch with a leg raise to emphasize upper and lower abdominals.",
+  "instructions": "Lie on your back with your arms at your sides and legs extended. Raise your legs and torso together, crunching your upper body forward as you lift your legs off the floor, then slowly return to starting position.",
+  "steps": [
+    "Lie on your back and extend your legs.",
+    "Place your hands by your sides or behind your head.",
+    "Simultaneously lift your legs and upper torso toward each other.",
+    "Squeeze at the top of the movement.",
+    "Lower your legs and upper body back down under control."
+  ],
+  "formCues": [
+    "Keep lower back pressed to floor",
+    "Move slowly",
+    "Exhale at the crunch",
+    "Don't use momentum"
+  ],
+  "commonMistakes": [
+    "Arching the lower back",
+    "Using momentum",
+    "Neck strain from pulling"
+  ],
+  "breathing": "Exhale during the crunch, inhale as you return.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/crunch-leg-raise.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/crunch-leg-raise.jpg"
+  }
+}

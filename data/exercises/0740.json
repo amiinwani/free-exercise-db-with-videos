@@ -1,0 +1,54 @@
+{
+  "id": "0740",
+  "name": "Sled 45 Degree Wide Leg Press",
+  "aliases": [
+    "leg press machine",
+    "hack squat press",
+    "plate-loaded leg press",
+    "wide stance leg press",
+    "Sled 45 Degree Leg Wide Press",
+    "sled 45° leg wide press"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quadriceps",
+  "secondaryMuscles": [
+    "gluteus maximus",
+    "adductors",
+    "hamstrings"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A compound lower body movement targeting the quadriceps with emphasis on glutes and adductors due to a wide foot stance.",
+  "instructions": "Sit on a 45-degree leg press machine with feet placed wider than hip-width on the platform. Push the platform up to release the safety handles and slowly lower it toward your chest, then drive through your heels to press the weight back up.",
+  "steps": [
+    "Adjust the seat and load desired weight.",
+    "Sit with your back and head against the pad, feet flat and wide on the platform.",
+    "Release the safety handles and grasp the side handles.",
+    "Bend your knees to lower the platform until your thighs reach 90 degrees or just past.",
+    "Press through your heels to extend your legs fully, but avoid locking out the knees."
+  ],
+  "formCues": [
+    "Push through heels",
+    "Keep knees in line with toes",
+    "Do not lock knees at top",
+    "Maintain flat lower back"
+  ],
+  "commonMistakes": [
+    "Allowing knees to collapse inward",
+    "Rounding lower back",
+    "Half reps or short range",
+    "Locking knees at extension"
+  ],
+  "breathing": "Inhale as you lower the platform, exhale as you press it back up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/sled-45-degree-leg-wide-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/sled-45-degree-leg-wide-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/sled-45-degree-leg-wide-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/sled-45-degree-leg-wide-press.jpg"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1393",
+  "name": "Smith Machine Calf Raise",
+  "aliases": [
+    "smith calf raise",
+    "smith standing calf raise",
+    "smith machine standing calf press",
+    "smith one leg floor calf raise"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "soleus"
+  ],
+  "equipment": "smith machine",
+  "muscleGroup": "gastrocnemius",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A standing calf raise using a Smith machine to isolate and strengthen the calf muscles.",
+  "instructions": "Stand upright under the Smith machine bar, with the bar resting across your upper traps and feet shoulder-width apart. Raise your heels to stand on your toes, contract your calves, and slowly lower back to the ground.",
+  "steps": [
+    "Set up the Smith machine bar at shoulder height.",
+    "Step under the bar, position it across your upper traps, and unrack.",
+    "Stand upright with feet hip to shoulder-width apart.",
+    "Rise onto the balls of your feet by extending your ankles.",
+    "Pause at the top, then lower your heels in a controlled manner."
+  ],
+  "formCues": [
+    "Move only at ankles",
+    "Keep legs straight (but not locked)",
+    "Control the movement",
+    "Pause at top"
+  ],
+  "commonMistakes": [
+    "Bouncing for momentum",
+    "Partial range of motion",
+    "Allowing ankles to roll outward/inward"
+  ],
+  "breathing": "Exhale as you rise, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/smith-calf-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/smith-calf-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/smith-calf-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/smith-calf-raise.jpg"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0334",
+  "name": "Dumbbell Lateral Raise",
+  "aliases": [
+    "lateral raise",
+    "dumbbell side raise",
+    "side delt raise",
+    "DB lateral raise",
+    "standing lateral raise",
+    "dumbbell lateral raise"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "traps",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A shoulder isolation exercise where you lift dumbbells out to the sides to target the lateral delts.",
+  "instructions": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing your body. Keep your back straight and engage your core. Raise your arms out to the sides until they are parallel to the floor, keeping a slight bend in your elbows. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with a dumbbell in each hand at your sides, palms facing in.",
+    "Set your shoulders down and brace your midsection.",
+    "Raise both arms out to the sides until your hands reach about shoulder height, keeping a soft bend in your elbows.",
+    "Pause briefly at the top without shrugging your shoulders.",
+    "Lower the dumbbells back to your sides with control."
+  ],
+  "formCues": [
+    "Lead with your elbows",
+    "Stop at shoulder height",
+    "Keep shoulders down",
+    "Soft bend in elbows"
+  ],
+  "commonMistakes": [
+    "Shrugging the shoulders up toward the ears",
+    "Swinging the torso to heave the dumbbells upward",
+    "Lifting the hands well above shoulder height",
+    "Straightening the elbows and turning it into a front swing"
+  ],
+  "breathing": "Exhale as you raise the dumbbells to the sides, and inhale as you lower them back down under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lateral-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lateral-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lateral-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lateral-raise.jpg"
+  }
+}

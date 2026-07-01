@@ -1,0 +1,50 @@
+{
+  "id": "0353",
+  "name": "Stability Ball Leg Curl",
+  "aliases": [
+    "Swiss Ball Hamstring Curl",
+    "Physio Ball Leg Curl",
+    "Stability Ball Hamstring",
+    "Leg Curl (on stability ball)",
+    "dumbbell one arm concentration curl (on stability ball)"
+  ],
+  "bodyPart": "upper arms",
+  "target": "hamstrings",
+  "secondaryMuscles": [
+    "glutes",
+    "calves",
+    "erector spinae"
+  ],
+  "equipment": "stability ball",
+  "muscleGroup": "hamstrings",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A hamstring-focused curl using a stability ball for both resistance and core engagement.",
+  "instructions": "Lie on your back with your heels on a stability ball. Lift your hips, then curl the ball toward your glutes by flexing your knees, and extend legs back out while keeping hips elevated.",
+  "steps": [
+    "Lie face up on the floor, arms at your sides, heels on a stability ball.",
+    "Lift hips to form a straight line from shoulders to heels.",
+    "Bend knees to roll the ball toward your glutes.",
+    "Pause and squeeze your hamstrings.",
+    "Extend your legs to roll the ball back out."
+  ],
+  "formCues": [
+    "Hips up",
+    "Control movement",
+    "Don’t let hips sag",
+    "Engage core"
+  ],
+  "commonMistakes": [
+    "Letting hips drop",
+    "Rapid reps",
+    "Not extending legs fully"
+  ],
+  "breathing": "Exhale as you curl in, inhale as you extend out.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/leg-curl-on-stability-ball.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/leg-curl-on-stability-ball.jpg"
+  }
+}

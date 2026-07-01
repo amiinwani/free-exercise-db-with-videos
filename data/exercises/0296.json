@@ -1,0 +1,53 @@
+{
+  "id": "0296",
+  "name": "Dumbbell Close-Grip Press",
+  "aliases": [
+    "close grip dumbbell press",
+    "dumbbell triceps press",
+    "DB close grip bench press",
+    "narrow grip dumbbell press",
+    "Dumbbell Close Grip Press",
+    "dumbbell close-grip press"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "pectoralis major",
+    "anterior deltoids"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "triceps brachii",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A pressing movement with dumbbells held close together to emphasize triceps activation.",
+  "instructions": "Lie on a bench holding dumbbells together above your chest, palms facing each other. Lower the weights while keeping elbows close to your sides, then press back up by extending the arms.",
+  "steps": [
+    "Lie flat on a bench with a dumbbell in each hand.",
+    "Hold dumbbells together above chest, palms in.",
+    "Lower dumbbells toward sternum, elbows tight to torso.",
+    "Pause when elbows reach 90 degrees.",
+    "Press dumbbells back up by extending arms."
+  ],
+  "formCues": [
+    "Keep elbows close",
+    "Touch dumbbells together",
+    "Press through palms",
+    "Own the descent"
+  ],
+  "commonMistakes": [
+    "Flaring elbows out",
+    "Letting dumbbells drift apart",
+    "Arching back excessively",
+    "Lowering weights too far"
+  ],
+  "breathing": "Inhale as you lower the dumbbells, exhale as you press up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-close-grip-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-close-grip-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-close-grip-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-close-grip-press.jpg"
+  }
+}

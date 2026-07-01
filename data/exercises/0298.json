@@ -1,0 +1,54 @@
+{
+  "id": "0298",
+  "name": "Dumbbell Cross Body Hammer Curl",
+  "aliases": [
+    "cross body hammer curl",
+    "dumbbell cross-body hammer curl",
+    "alternating cross body hammer curl",
+    "cross-body DB hammer curl",
+    "across-the-body hammer curl",
+    "hammer curl to opposite shoulder",
+    "dumbbell cross body hammer curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A dumbbell curl variation where each hand travels across the body to the opposite shoulder with a neutral grip.",
+  "instructions": "Stand up straight with a dumbbell in each hand, palms facing your body. Keep your elbows close to your torso and your upper arms stationary. Exhale and curl the weights while contracting your biceps, bringing the dumbbells across your body towards your opposite shoulder. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall holding a dumbbell in each hand at your sides with your palms facing inward.",
+    "Brace your torso and keep your elbows pinned close to your ribs.",
+    "Curl one dumbbell diagonally across your body toward the opposite shoulder without swinging.",
+    "Pause briefly near shoulder height while keeping your wrist straight and palm facing inward.",
+    "Lower the dumbbell back to your side under control.",
+    "Repeat on the other arm, alternating sides."
+  ],
+  "formCues": [
+    "Elbows stay tucked",
+    "Curl across, not straight up",
+    "Keep wrists neutral",
+    "Don't swing the weight"
+  ],
+  "commonMistakes": [
+    "Swinging the torso or leaning back to lift the dumbbell",
+    "Letting the elbow drift forward away from the ribs",
+    "Twisting the wrist so the palm turns up at the top",
+    "Dropping the dumbbell quickly instead of lowering with control"
+  ],
+  "breathing": "Exhale as you curl the dumbbell across your body, and inhale as you lower it back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-cross-body-hammer-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-cross-body-hammer-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-cross-body-hammer-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-cross-body-hammer-curl.jpg"
+  }
+}

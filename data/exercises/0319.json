@@ -1,0 +1,54 @@
+{
+  "id": "0319",
+  "name": "Dumbbell Incline Fly",
+  "aliases": [
+    "incline dumbbell fly",
+    "incline DB fly",
+    "dumbbell incline chest fly",
+    "incline chest fly",
+    "incline fly",
+    "incline dumbbell chest fly",
+    "dumbbell incline fly"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A chest isolation exercise done on an incline bench by opening the arms wide with dumbbells and squeezing them back together.",
+  "instructions": "Set an incline bench to a 45-degree angle. Sit on the bench with a dumbbell in each hand, palms facing each other. Lie back on the bench and press the dumbbells up to the starting position, directly above your chest. Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then squeeze your chest muscles to bring the dumbbells back up to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set an incline bench and sit with a dumbbell in each hand on your thighs.",
+    "Lie back and press the dumbbells above your upper chest with your palms facing each other.",
+    "Bend your elbows slightly and keep that bend locked in.",
+    "Lower the dumbbells out to your sides in a wide arc until they reach chest level or a gentle chest stretch.",
+    "Squeeze your chest to bring the dumbbells back together over your upper chest along the same arc.",
+    "Stop with the dumbbells nearly touching and repeat."
+  ],
+  "formCues": [
+    "Soft elbows, fixed angle",
+    "Open wide, not too low",
+    "Squeeze chest at the top",
+    "Keep shoulders down"
+  ],
+  "commonMistakes": [
+    "Bending and straightening the elbows like a press",
+    "Lowering the dumbbells far below chest level",
+    "Letting the dumbbells drift behind the shoulders",
+    "Clanging the dumbbells together at the top"
+  ],
+  "breathing": "Inhale as you lower the dumbbells out to the sides, and exhale as you bring them back together over your chest.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-fly.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-fly.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-fly.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-fly.jpg"
+  }
+}

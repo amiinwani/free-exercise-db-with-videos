@@ -1,0 +1,47 @@
+{
+  "id": "drv-cardio-exercises-machine",
+  "name": "Cardio Machine Exercise",
+  "aliases": [
+    "treadmill cardio",
+    "elliptical session",
+    "rower cardio",
+    "stationary bike cardio"
+  ],
+  "bodyPart": "cardio",
+  "target": "cardiovascular system",
+  "secondaryMuscles": [
+    "varies by machine"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "heart and lungs",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "Any sustained aerobic activity using a cardio machine to increase heart rate and endurance.",
+  "instructions": "Select an appropriate cardio machine, adjust resistance and settings for your fitness level, and perform steady-state or interval training maintaining proper form. Focus on continuous movement and controlled breathing for the session.",
+  "steps": [
+    "Choose your preferred cardio machine (treadmill, bike, etc).",
+    "Adjust resistance, incline, and settings as desired.",
+    "Begin with a brief warm-up.",
+    "Perform cardio at steady or variable intensity.",
+    "Cool down after session."
+  ],
+  "formCues": [
+    "Maintain upright posture",
+    "Relax shoulders",
+    "Use full range of motion",
+    "Control your breathing"
+  ],
+  "commonMistakes": [
+    "Slouching or poor posture",
+    "Using excessive resistance or speed",
+    "Neglecting warm-up or cool-down"
+  ],
+  "breathing": "Breathe rhythmically according to intensity; exhale during exertion, inhale during recovery.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cardio-exercises-machine.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cardio-exercises-machine.jpg"
+  }
+}

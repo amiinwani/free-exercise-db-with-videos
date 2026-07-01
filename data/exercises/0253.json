@@ -1,0 +1,55 @@
+{
+  "id": "0253",
+  "name": "Chin-ups (narrow parallel grip)",
+  "aliases": [
+    "neutral-grip chin-up",
+    "close neutral-grip pull-up",
+    "parallel-grip chin-up",
+    "narrow parallel pull-up",
+    "close-grip chin-up",
+    "assisted bodyweight chin-up",
+    "chin-ups (narrow parallel grip)"
+  ],
+  "bodyPart": "back",
+  "target": "upper back",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "biceps",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bodyweight vertical pull using a narrow parallel grip to train the upper back, biceps, and forearms.",
+  "instructions": "Hang from a pull-up bar with a narrow parallel grip, palms facing towards you. Engage your back muscles and pull your body up towards the bar, keeping your elbows close to your body. Continue pulling until your chin is above the bar. Pause for a moment at the top, then slowly lower your body back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Grab the parallel handles with a narrow neutral grip and hang with your arms straight.",
+    "Cross your ankles or keep your legs still, then brace your midline and pull your shoulders down away from your ears.",
+    "Pull your elbows down and back to lift your chest toward your hands.",
+    "Keep pulling until your chin rises above your hands or handles.",
+    "Lower yourself under control until your arms are straight again.",
+    "Pause briefly at the bottom without relaxing your shoulders, then repeat."
+  ],
+  "formCues": [
+    "Drive elbows to ribs",
+    "Chest up to handles",
+    "Keep shoulders down",
+    "Lower with control"
+  ],
+  "commonMistakes": [
+    "Shrugging the shoulders up toward the ears while pulling.",
+    "Swinging the legs or kipping to get upward.",
+    "Stopping short with the chin below the hands.",
+    "Dropping quickly to the bottom without control."
+  ],
+  "breathing": "Inhale at the bottom before you pull, exhale as you lift yourself up, and inhale again as you lower under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/chin-ups-narrow-parallel-grip.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/chin-ups-narrow-parallel-grip.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/chin-ups-narrow-parallel-grip.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/chin-ups-narrow-parallel-grip.jpg"
+  }
+}

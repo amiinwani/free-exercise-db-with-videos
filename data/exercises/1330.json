@@ -1,0 +1,53 @@
+{
+  "id": "1330",
+  "name": "Dumbbell Hammer Grip Incline Bench Row",
+  "aliases": [
+    "Incline Dumbbell Neutral-Grip Row",
+    "Incline Bench Row Hammer Grip",
+    "Chest-Supported Neutral Row",
+    "Dumbbell Hammer Grip Incline Bench Row",
+    "dumbbell reverse grip incline bench one arm row"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "rhomboids",
+    "trapezius",
+    "posterior deltoid",
+    "biceps"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A back-focused row performed chest-down on an incline bench with dumbbells and a neutral (hammer) grip.",
+  "instructions": "Lie face down on an incline bench with a dumbbell in each hand, neutral grip. Row the weights up toward your hips, squeezing your lats, then lower with control.",
+  "steps": [
+    "Set an incline bench to 30-45 degrees and lie facedown with dumbbells.",
+    "Hold the dumbbells with palms facing each other (neutral/hammer grip).",
+    "Pull the dumbbells up toward your hips, elbows close to your body.",
+    "Pause and contract your back muscles at the top.",
+    "Lower the weights slowly with control."
+  ],
+  "formCues": [
+    "Chest on bench",
+    "Elbows tight",
+    "No shrugging",
+    "Full squeeze"
+  ],
+  "commonMistakes": [
+    "Letting chest leave bench",
+    "Over-rowing with biceps",
+    "Shrugging shoulders"
+  ],
+  "breathing": "Exhale pulling up, inhale lowering down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-hammer-grip-incline-bench-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-hammer-grip-incline-bench-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-hammer-grip-incline-bench-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-hammer-grip-incline-bench-row.jpg"
+  }
+}

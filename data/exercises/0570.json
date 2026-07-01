@@ -1,0 +1,54 @@
+{
+  "id": "0570",
+  "name": "Bench Pull-Up",
+  "aliases": [
+    "assisted pull-up",
+    "feet-elevated pull-up",
+    "bench-supported pull-up",
+    "Bench Pull-ups",
+    "leg pull in flat bench"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps brachii",
+    "rhomboids",
+    "brachialis",
+    "trapezius"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A pull-up variation using a bench for foot support to reduce load and assist the movement.",
+  "instructions": "Set a bench or box under a pull-up bar and place your feet on it for support. Grip the bar overhead and engage your lats to pull your chest up, using your legs to assist as needed, then lower yourself under control.",
+  "steps": [
+    "Place a bench under a pull-up bar.",
+    "Grip the bar with hands wider than shoulder-width.",
+    "Position feet on the bench for support.",
+    "Pull your chest towards the bar, using feet as needed.",
+    "Lower yourself slowly to starting position."
+  ],
+  "formCues": [
+    "Keep core engaged",
+    "Lead with chest",
+    "Pull elbows down and back",
+    "Don't let legs push too much"
+  ],
+  "commonMistakes": [
+    "Using too much leg drive",
+    "Swinging body or kicking feet",
+    "Chin barely reaching bar",
+    "Not controlling descent"
+  ],
+  "breathing": "Exhale as you pull up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/bench-pull-ups.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/bench-pull-ups.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/bench-pull-ups.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/bench-pull-ups.jpg"
+  }
+}

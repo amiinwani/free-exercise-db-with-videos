@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-standing-back-rotation-stretch",
+  "name": "Standing Back Rotation Stretch",
+  "aliases": [
+    "standing spinal twist",
+    "standing torso rotation",
+    "standing twist stretch"
+  ],
+  "bodyPart": "back",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "erector spinae",
+    "latissimus dorsi"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "external obliques",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A standing twisting stretch targeting the obliques and rotational muscles of the back.",
+  "instructions": "Stand with feet shoulder-width apart and arms out in front or at your sides. Slowly rotate your upper body to one side, keeping hips square, to feel a gentle stretch along your back and waist. Hold, return to center, and repeat to the other side.",
+  "steps": [
+    "Stand tall with feet shoulder-width apart.",
+    "Extend arms at shoulder height or place hands on hips.",
+    "Rotate torso gently to one side without moving hips.",
+    "Hold stretch for desired time.",
+    "Return to center and repeat on other side."
+  ],
+  "formCues": [
+    "Keep hips facing forward",
+    "Rotate gently",
+    "Elongate spine",
+    "Don’t force stretch"
+  ],
+  "commonMistakes": [
+    "Over-rotating",
+    "Letting hips twist",
+    "Holding breath"
+  ],
+  "breathing": "Exhale as you twist, inhale as you return to center.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-back-rotation-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-standing-back-rotation-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-back-rotation-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-standing-back-rotation-stretch.jpg"
+  }
+}

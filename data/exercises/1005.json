@@ -1,0 +1,52 @@
+{
+  "id": "1005",
+  "name": "Band Standing Crunch",
+  "aliases": [
+    "band standing crunch",
+    "standing band crunch",
+    "resistance band crunch",
+    "band ab crunch",
+    "standing abs crunch with band"
+  ],
+  "bodyPart": "waist",
+  "target": "abs",
+  "secondaryMuscles": [
+    "obliques"
+  ],
+  "equipment": "band",
+  "muscleGroup": "obliques",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A standing abdominal crunch using a resistance band to train the abs and obliques through spinal flexion.",
+  "instructions": "Attach the band to a sturdy anchor point at waist height. Stand facing away from the anchor point with your feet shoulder-width apart. Hold the band with both hands and bring it up to your chest, keeping your elbows bent and close to your body. Engage your abs and slowly crunch forward, bringing your chest towards your knees. Pause for a moment at the top of the crunch, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Attach the band to an anchor around waist height and stand facing away from it.",
+    "Hold the band at your chest with both hands and step forward until the band is taut.",
+    "Set your feet about hip-width apart and soften your knees.",
+    "Brace your midsection and curl your ribs down, bending your torso forward.",
+    "Pause briefly at the bottom while keeping your hips mostly still.",
+    "Slowly uncurl your torso and return to an upright position under control."
+  ],
+  "formCues": [
+    "Ribs down",
+    "Curl through your spine",
+    "Keep hips still",
+    "Move slowly both ways"
+  ],
+  "commonMistakes": [
+    "Pulling the band with the arms instead of curling the torso.",
+    "Hinging at the hips like a bow instead of rounding into a crunch.",
+    "Letting the band snap the torso back upright.",
+    "Standing too close to the anchor so the band has no tension."
+  ],
+  "breathing": "Exhale as you crunch forward, and inhale as you return to standing.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-standing-crunch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-standing-crunch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-standing-crunch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-standing-crunch.jpg"
+  }
+}

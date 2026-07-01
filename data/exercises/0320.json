@@ -1,0 +1,53 @@
+{
+  "id": "0320",
+  "name": "Dumbbell Incline Hammer Curl",
+  "aliases": [
+    "incline hammer curl",
+    "dumbbell incline hammer curl",
+    "incline DB hammer curl",
+    "incline neutral-grip curl",
+    "seated incline hammer curl",
+    "lean-back hammer curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated incline curl with a neutral grip that targets the biceps and forearms while limiting body swing.",
+  "instructions": "Sit on an incline bench with a dumbbell in each hand, palms facing your torso and arms fully extended. Keep your back against the bench and your feet flat on the floor. While keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set an incline bench and sit back with a dumbbell in each hand.",
+    "Let your arms hang straight down by your sides with your palms facing each other.",
+    "Keep your upper arms still and curl both dumbbells toward your shoulders.",
+    "Stop when your forearms are nearly vertical and squeeze your biceps.",
+    "Lower the dumbbells slowly until your elbows are fully straight again.",
+    "Repeat without swinging your torso or letting your shoulders roll forward."
+  ],
+  "formCues": [
+    "Palms face each other",
+    "Keep elbows pinned",
+    "Lift, don't swing",
+    "Lower under control"
+  ],
+  "commonMistakes": [
+    "Swinging the dumbbells up with the torso",
+    "Letting the elbows drift forward during the curl",
+    "Turning the palms up at the top",
+    "Cutting the lowering phase short"
+  ],
+  "breathing": "Exhale as you curl the dumbbells up, and inhale as you lower them back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-hammer-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-hammer-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-hammer-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-hammer-curl.jpg"
+  }
+}

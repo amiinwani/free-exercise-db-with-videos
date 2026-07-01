@@ -1,0 +1,52 @@
+{
+  "id": "0218",
+  "name": "Seated Cable Row (Wide-Grip)",
+  "aliases": [
+    "wide-grip cable row",
+    "wide handle seated row",
+    "cable wide grip row",
+    "Cable Seated Row (wide-grip)",
+    "cable seated wide-grip row"
+  ],
+  "bodyPart": "back",
+  "target": "upper back",
+  "secondaryMuscles": [
+    "posterior deltoids",
+    "biceps brachii",
+    "teres major"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "rhomboids, trapezius, latissimus dorsi",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A cable row variation using a wide grip to target the upper back and rear deltoids.",
+  "instructions": "Sit on the cable row machine with feet on the platform and grab the wide grip handle. Pull the bar towards the upper abdomen, retracting the shoulder blades, and return to the starting position with control.",
+  "steps": [
+    "Sit down and place feet against the platform.",
+    "Grasp the wide grip attachment with both hands.",
+    "Keep your torso upright, arms fully extended.",
+    "Pull the handle toward your upper abdomen, squeezing your upper back.",
+    "Slowly release back to the start position."
+  ],
+  "formCues": [
+    "Keep elbows high",
+    "Squeeze shoulder blades",
+    "Keep back neutral",
+    "Don’t rock the torso"
+  ],
+  "commonMistakes": [
+    "Leaning back too far",
+    "Letting elbows drop",
+    "Rounding the back"
+  ],
+  "breathing": "Exhale as you pull, inhale as you extend arms.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-seated-row-wide-grip.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-seated-row-wide-grip.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-seated-row-wide-grip.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-seated-row-wide-grip.jpg"
+  }
+}

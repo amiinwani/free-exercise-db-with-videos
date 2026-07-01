@@ -1,0 +1,53 @@
+{
+  "id": "0297",
+  "name": "Dumbbell Concentration Curl",
+  "aliases": [
+    "concentration curl",
+    "dumbbell concentration curl",
+    "seated concentration curl",
+    "single-arm concentration curl",
+    "one-arm biceps curl",
+    "elbow-on-thigh curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A seated single-arm biceps curl with the upper arm braced against the inner thigh to isolate the biceps.",
+  "instructions": "Sit on a bench with your legs spread apart and a dumbbell in one hand, resting your elbow on the inside of your thigh. Fully extend your arm and hold the dumbbell with an underhand grip. Keeping your upper arm stationary, exhale and curl the weight up towards your shoulder while contracting your biceps. Continue to raise the dumbbell until your biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly lower the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+  "steps": [
+    "Sit on a bench with your feet flat and knees apart, holding a dumbbell in one hand.",
+    "Lean forward slightly and brace the back of your upper arm against the inside of your same-side thigh near the knee.",
+    "Let your arm hang straight down with your palm facing up and your wrist neutral.",
+    "Curl the dumbbell toward your same-side shoulder without moving your upper arm.",
+    "Squeeze your biceps at the top when your forearm is nearly vertical.",
+    "Lower the dumbbell slowly until your elbow is fully extended, then repeat and switch sides."
+  ],
+  "formCues": [
+    "Keep elbow glued to thigh",
+    "Curl only at the elbow",
+    "Palm stays facing up",
+    "Lower with control"
+  ],
+  "commonMistakes": [
+    "Lifting the elbow off the thigh during the curl",
+    "Swinging the torso to help raise the dumbbell",
+    "Cutting the rep short and not fully lowering",
+    "Bending the wrist back instead of keeping it neutral"
+  ],
+  "breathing": "Inhale as you lower the dumbbell and exhale as you curl it up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-concentration-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-concentration-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-concentration-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-concentration-curl.jpg"
+  }
+}

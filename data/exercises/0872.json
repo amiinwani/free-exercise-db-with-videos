@@ -1,0 +1,48 @@
+{
+  "id": "0872",
+  "name": "Reverse Crunch",
+  "aliases": [
+    "lower ab crunch",
+    "reverse abdominal crunch",
+    "Reverse Crunch (female)",
+    "reverse crunch"
+  ],
+  "bodyPart": "waist",
+  "target": "abdominals",
+  "secondaryMuscles": [
+    "obliques",
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A bodyweight abs exercise lifting the hips toward the chest to target the lower abdominals.",
+  "instructions": "Lie on your back with your arms by your sides and knees bent at 90 degrees. Engage your core and lift your hips off the floor, bringing your knees toward your chest, then slowly lower back to the starting position without letting your feet touch the floor.",
+  "steps": [
+    "Lie on your back, arms at your sides, knees bent, and feet off the ground.",
+    "Engage your core and lift your legs, bringing knees toward your chest.",
+    "Lift hips off the floor in a curling motion.",
+    "Pause and squeeze your abs at the top.",
+    "Lower your hips back down slowly, keeping control."
+  ],
+  "formCues": [
+    "Move slowly",
+    "Don't swing legs",
+    "Keep core braced",
+    "Avoid arching lower back"
+  ],
+  "commonMistakes": [
+    "Using momentum to swing legs",
+    "Not controlling the descent",
+    "Letting lower back arch off the floor"
+  ],
+  "breathing": "Exhale as you lift hips, inhale as you lower down.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/reverse-crunch-female.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/reverse-crunch-female.jpg"
+  }
+}

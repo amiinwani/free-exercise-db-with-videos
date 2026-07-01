@@ -1,0 +1,54 @@
+{
+  "id": "2137",
+  "name": "Dumbbell Arnold Press",
+  "aliases": [
+    "Arnold press",
+    "dumbbell shoulder rotation press",
+    "rotating dumbbell shoulder press",
+    "seated Arnold press",
+    "twisting dumbbell press",
+    "dumbbell arnold press"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "triceps",
+    "upper chest"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "triceps",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A seated dumbbell shoulder press that rotates from palms-in at the bottom to palms-forward overhead.",
+  "instructions": "Sit on a bench with back support and hold a dumbbell in each hand at shoulder level, palms facing your body and elbows bent. Press the dumbbells upward until your arms are fully extended and your palms are facing forward. Rotate your wrists as you lift, so that your palms are facing forward at the top of the movement. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit tall on a bench with back support and plant your feet on the floor.",
+    "Hold a dumbbell in each hand in front of your shoulders with palms facing you and elbows bent.",
+    "Brace your midline and press the dumbbells upward while rotating your palms outward.",
+    "Finish overhead with arms straight and palms facing forward.",
+    "Lower the dumbbells under control while rotating your palms back toward you.",
+    "Return to the start with dumbbells in front of your shoulders and repeat."
+  ],
+  "formCues": [
+    "Press and rotate smoothly",
+    "Keep ribs down",
+    "Wrists stacked over elbows",
+    "Finish biceps by ears"
+  ],
+  "commonMistakes": [
+    "Arching the lower back as the dumbbells go overhead",
+    "Letting the elbows flare straight out at the bottom",
+    "Pressing the dumbbells up without rotating the hands",
+    "Lowering the dumbbells too fast and losing control"
+  ],
+  "breathing": "Inhale at the bottom, exhale as you press and rotate overhead, then inhale as you lower back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-arnold-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-arnold-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-arnold-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-arnold-press.jpg"
+  }
+}

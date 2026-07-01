@@ -1,0 +1,52 @@
+{
+  "id": "0361",
+  "name": "Dumbbell Alternating Shoulder Press",
+  "aliases": [
+    "Alternating Dumbbell Shoulder Press",
+    "Alternating Overhead Press",
+    "Alt DB Shoulder Press",
+    "Dumbbell Alternate Shoulder Press",
+    "dumbbell one arm shoulder press"
+  ],
+  "bodyPart": "shoulders",
+  "target": "deltoids",
+  "secondaryMuscles": [
+    "triceps",
+    "upper chest",
+    "trapezius"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "deltoideus",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": true,
+  "shortDescription": "A shoulder press using dumbbells, pressing one arm at a time to target the deltoids and stabilizers.",
+  "instructions": "Sit or stand with a dumbbell in each hand at shoulder height. Press one dumbbell overhead while keeping the other stationary, then alternate arms for each repetition.",
+  "steps": [
+    "Hold dumbbells at shoulder level, palms facing forward.",
+    "Brace your core and press one dumbbell overhead until arm is fully extended.",
+    "Lower to shoulder height as you press the opposite dumbbell overhead.",
+    "Continue alternating arms with each rep.",
+    "Maintain upright posture and avoid arching back."
+  ],
+  "formCues": [
+    "No arching",
+    "Core tight",
+    "Elbow under wrist",
+    "Smooth transition"
+  ],
+  "commonMistakes": [
+    "Leaning to side",
+    "Pressing both at once",
+    "Shrugging shoulders"
+  ],
+  "breathing": "Exhale pressing up, inhale lowering down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-alternate-shoulder-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-alternate-shoulder-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-alternate-shoulder-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-alternate-shoulder-press.jpg"
+  }
+}

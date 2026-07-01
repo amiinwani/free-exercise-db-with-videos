@@ -1,0 +1,54 @@
+{
+  "id": "2141",
+  "name": "Elliptical Trainer",
+  "aliases": [
+    "elliptical",
+    "cross trainer",
+    "elliptical machine",
+    "walk elliptical cross trainer"
+  ],
+  "bodyPart": "cardio",
+  "target": "cardiovascular system",
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "gluteus maximus",
+    "calves",
+    "pectoralis major",
+    "deltoids"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "cardiovascular system",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A low-impact cardio exercise using a standing elliptical machine for total body endurance and aerobic gains.",
+  "instructions": "Step onto the elliptical machine and grasp the moving handles. Begin moving feet in an elliptical motion, engaging both the lower and upper body by pushing and pulling the handles as you stride.",
+  "steps": [
+    "Step onto the pedals and hold the handles.",
+    "Select desired resistance and incline.",
+    "Begin moving feet in a smooth, elliptical pattern.",
+    "Push and pull the handles with your arms in sync with your strides.",
+    "Maintain a steady cadence and upright posture."
+  ],
+  "formCues": [
+    "Keep chest up",
+    "Balance weight evenly",
+    "Smooth, controlled motion",
+    "Engage core lightly"
+  ],
+  "commonMistakes": [
+    "Leaning too far forward or backward",
+    "Relying only on legs or arms",
+    "Choppy, fast movements"
+  ],
+  "breathing": "Maintain rhythmic, deep breathing throughout the workout.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/elliptical.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/elliptical.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/elliptical.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/elliptical.jpg"
+  }
+}

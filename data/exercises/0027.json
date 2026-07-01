@@ -1,0 +1,53 @@
+{
+  "id": "0027",
+  "name": "Barbell Underhand Bent-Over Row",
+  "aliases": [
+    "reverse grip barbell row",
+    "underhand grip barbell row",
+    "supinated barbell row",
+    "Barbell Underhand Bent-over Row",
+    "barbell bent over row"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps",
+    "rhomboids",
+    "trapezius",
+    "rear deltoids"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "Row performed bent over with barbell and an underhand (supinated) grip, targeting lats and biceps.",
+  "instructions": "Stand with feet hip-width apart, grasp the barbell with a supinated (underhand) grip. Bend forward at the hips keeping your back flat, bar hanging from extended arms. Pull the bar towards your lower ribs, squeezing shoulder blades, then lower it until arms are straight.",
+  "steps": [
+    "Stand with feet hip-width apart, barbell on floor.",
+    "Bend forward from hips, back straight, grasp bar underhand.",
+    "Let bar hang at arm’s length below shoulders.",
+    "Row barbell to torso, elbows close to sides.",
+    "Lower barbell under control to starting position."
+  ],
+  "formCues": [
+    "Keep back flat",
+    "Pull with elbows",
+    "Squeeze shoulder blades",
+    "Keep wrists neutral"
+  ],
+  "commonMistakes": [
+    "Rounding lower back",
+    "Flaring elbows excessively",
+    "Using momentum"
+  ],
+  "breathing": "Exhale as you row up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-underhand-bent-over-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-underhand-bent-over-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-underhand-bent-over-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-underhand-bent-over-row.jpg"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "1673",
+  "name": "Dumbbell Preacher Curl Over Exercise Ball",
+  "aliases": [
+    "dumbbell preacher curl on ball",
+    "exercise ball preacher curl",
+    "single-arm dumbbell preacher curl",
+    "one-arm preacher curl",
+    "biceps curl with elbow on ball",
+    "dumbbell preacher curl over exercise ball"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A single-arm biceps curl done with the upper arm braced against an exercise ball to limit cheating and isolate the elbow flexors.",
+  "instructions": "Sit on an exercise ball with your feet flat on the ground and your back straight. Hold a dumbbell in one hand with an underhand grip, resting your elbow on the exercise ball. Keeping your upper arm stationary, exhale and curl the dumbbell up towards your shoulder. Pause for a moment at the top, then inhale and slowly lower the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+  "steps": [
+    "Sit tall on the exercise ball with both feet flat and spread for balance.",
+    "Hold a dumbbell in one hand with your palm facing up and brace the back of your upper arm against the ball.",
+    "Let the arm straighten almost fully so the dumbbell hangs below your elbow.",
+    "Curl the dumbbell toward your shoulder without lifting your elbow off the ball.",
+    "Squeeze your biceps at the top while keeping your wrist straight.",
+    "Lower the dumbbell slowly until your arm is almost straight, then repeat and switch sides."
+  ],
+  "formCues": [
+    "Keep elbow glued down",
+    "Curl only at the elbow",
+    "Keep wrist straight",
+    "Lower under control"
+  ],
+  "commonMistakes": [
+    "Elbow slides or lifts off the ball during the curl.",
+    "Shoulder rolls forward to help raise the dumbbell.",
+    "Wrist bends back or curls inward at the top.",
+    "Body rocks on the ball to create momentum."
+  ],
+  "breathing": "Inhale as you lower the dumbbell and exhale as you curl it up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-preacher-curl-over-exercise-ball.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-preacher-curl-over-exercise-ball.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-preacher-curl-over-exercise-ball.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-preacher-curl-over-exercise-ball.jpg"
+  }
+}

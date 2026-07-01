@@ -1,0 +1,54 @@
+{
+  "id": "0392",
+  "name": "Dumbbell Seated Front Raise",
+  "aliases": [
+    "seated dumbbell front raise",
+    "DB seated front raise",
+    "dumbbell front raise seated",
+    "seated shoulder front raise",
+    "seated arm raise",
+    "dumbbell seated front raise"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "trapezius",
+    "biceps"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "trapezius",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated shoulder isolation exercise where you lift dumbbells straight in front to shoulder height to train the front delts.",
+  "instructions": "Sit on a bench with your feet flat on the ground and a dumbbell in each hand, resting on your thighs. Keep your back straight and core engaged. Raise the dumbbells in front of you, with your palms facing down, until they are at shoulder level. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit tall on a bench with your feet flat on the floor and a dumbbell in each hand at your sides.",
+    "Hold the dumbbells with your palms facing down or slightly toward each other, and brace your midsection.",
+    "Raise both arms straight forward until the dumbbells reach shoulder height.",
+    "Pause briefly at the top without leaning back or shrugging your shoulders.",
+    "Lower the dumbbells under control back to the starting position by your thighs.",
+    "Repeat each rep with the same seated posture and arm path."
+  ],
+  "formCues": [
+    "Lift to shoulder height",
+    "Keep torso still",
+    "Soft bend in elbows",
+    "Shoulders down and back"
+  ],
+  "commonMistakes": [
+    "Leaning the torso back to swing the dumbbells up",
+    "Raising the dumbbells above shoulder height",
+    "Shrugging the shoulders toward the ears",
+    "Dropping the weights quickly on the way down"
+  ],
+  "breathing": "Exhale as you raise the dumbbells, and inhale as you lower them back down under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-front-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-front-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-front-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-front-raise.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0257",
+  "name": "Hip Circles Stretch",
+  "aliases": [
+    "hip mobility circles",
+    "hip joint circles",
+    "dynamic hip stretch",
+    "hip rotations",
+    "Stretching - Hip Circles Stretch",
+    "circles knee stretch"
+  ],
+  "bodyPart": "upper legs",
+  "target": "hip flexors",
+  "secondaryMuscles": [
+    "tensor fasciae latae",
+    "gluteus maximus",
+    "adductors",
+    "piriformis"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "iliopsoas, gluteus medius, gluteus minimus",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A dynamic stretch to increase mobility in the hips by performing circular leg movements.",
+  "instructions": "Stand upright and place your hands on your hips. Lift one knee and move your leg in a controlled circular motion from the hip joint, reversing direction as needed; repeat with the other leg.",
+  "steps": [
+    "Stand tall with feet shoulder-width apart, hands on hips.",
+    "Lift one knee up in front of you.",
+    "Move your knee and thigh in a circular motion outward.",
+    "Reverse and perform circles inward after the set.",
+    "Switch legs and repeat."
+  ],
+  "formCues": [
+    "Move leg from the hip",
+    "Keep upper body stable",
+    "Smooth, controlled circles",
+    "Breathe steadily"
+  ],
+  "commonMistakes": [
+    "Rushing the circles",
+    "Swinging the whole body",
+    "Holding breath"
+  ],
+  "breathing": "Inhale and exhale naturally during the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-hip-circles-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-hip-circles-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-hip-circles-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-hip-circles-stretch.jpg"
+  }
+}

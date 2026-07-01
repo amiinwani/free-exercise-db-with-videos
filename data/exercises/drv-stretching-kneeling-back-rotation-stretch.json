@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-kneeling-back-rotation-stretch",
+  "name": "Kneeling Back Rotation Stretch",
+  "aliases": [
+    "kneeling thoracic rotation stretch",
+    "kneeling spinal rotation"
+  ],
+  "bodyPart": "chest",
+  "target": "thoracic spine",
+  "secondaryMuscles": [
+    "obliques",
+    "pectorals",
+    "latissimus dorsi"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "thoracic spinal extensors",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A mobility stretch that improves thoracic spine rotation while kneeling, also opening the chest and shoulders.",
+  "instructions": "Begin in a quadruped or kneeling lunge position. Place one hand behind your head and rotate your torso to open the chest, aiming elbow upward. Hold briefly and return, then repeat on the other side.",
+  "steps": [
+    "Kneel on the floor (all fours or lunge position).",
+    "Place one hand behind your head or neck.",
+    "Rotate elbow and upper body upward, opening chest.",
+    "Hold for a moment at top of rotation.",
+    "Return to start and repeat; switch sides."
+  ],
+  "formCues": [
+    "Keep hips stable",
+    "Open chest fully",
+    "Rotate through upper back",
+    "Move slowly"
+  ],
+  "commonMistakes": [
+    "Rotating through lower back",
+    "Forcing the stretch",
+    "Letting hips move"
+  ],
+  "breathing": "Exhale as you rotate, inhale returning to start.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-kneeling-back-rotation-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-kneeling-back-rotation-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-kneeling-back-rotation-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-kneeling-back-rotation-stretch.jpg"
+  }
+}

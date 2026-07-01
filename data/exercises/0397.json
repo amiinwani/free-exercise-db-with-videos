@@ -1,0 +1,53 @@
+{
+  "id": "0397",
+  "name": "Dumbbell Seated Neutral Wrist Curl",
+  "aliases": [
+    "seated neutral wrist curl",
+    "dumbbell neutral-grip wrist curl",
+    "hammer wrist curl",
+    "seated forearm curl",
+    "neutral dumbbell wrist curl",
+    "dumbbell seated neutral wrist curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated forearm isolation exercise where you curl dumbbells by bending at the wrists with a neutral grip.",
+  "instructions": "Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand, palms facing each other. Rest your forearms on your thighs, allowing the dumbbells to hang down. Keeping your wrists in a neutral position, curl the dumbbells up towards your shoulders. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit on a bench with your feet flat and hold a dumbbell in each hand with your palms facing each other.",
+    "Rest your forearms on your thighs near your knees and let your wrists hang just past your knees.",
+    "Start with your wrists straight and your hands hanging down under control.",
+    "Curl the dumbbells upward by bending only at your wrists while keeping your forearms pressed into your thighs.",
+    "Squeeze briefly at the top without turning your palms up or down.",
+    "Lower the dumbbells slowly back to the start until your wrists are fully extended."
+  ],
+  "formCues": [
+    "Move only your wrists",
+    "Keep palms facing in",
+    "Forearms stay glued down",
+    "Control the lowering"
+  ],
+  "commonMistakes": [
+    "Lifting the forearms off the thighs to swing the dumbbells up",
+    "Turning the palms up or down during the curl",
+    "Bouncing the dumbbells at the bottom",
+    "Using the shoulders or elbows to help the movement"
+  ],
+  "breathing": "Exhale as you curl your wrists up, and inhale as you lower the dumbbells back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-neutral-wrist-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-neutral-wrist-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-neutral-wrist-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-neutral-wrist-curl.jpg"
+  }
+}

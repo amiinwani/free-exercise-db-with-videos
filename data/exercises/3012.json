@@ -1,0 +1,52 @@
+{
+  "id": "3012",
+  "name": "Scapula Dips",
+  "aliases": [
+    "scapula dips",
+    "scapular dips",
+    "scap dips",
+    "shoulder blade dips",
+    "scapular depression dips"
+  ],
+  "bodyPart": "back",
+  "target": "traps",
+  "secondaryMuscles": [
+    "rhomboids",
+    "deltoids"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rhomboids",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A bodyweight shoulder-blade dip on straight arms that trains scapular control and shoulder depression in a supported position.",
+  "instructions": "Start by standing with your feet shoulder-width apart and your arms extended in front of you. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Lower your body by bending your elbows and retracting your shoulder blades, as if you are trying to squeeze a pencil between them. Pause for a moment at the bottom, then push through your hands to extend your elbows and return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Start in a straight-arm support on parallel bars or dip bars with your elbows locked and shoulders stacked over your hands.",
+    "Lift your chest and brace your trunk while keeping your legs still under you.",
+    "Lower your body a few inches by letting your shoulders rise toward your ears without bending your elbows.",
+    "Press down through your hands to pull your shoulders away from your ears and raise your body back up.",
+    "Repeat with slow, controlled shoulder movement while keeping your arms straight the whole time."
+  ],
+  "formCues": [
+    "Keep elbows locked",
+    "Shoulders away from ears",
+    "Move only at shoulders",
+    "Stay tall through chest"
+  ],
+  "commonMistakes": [
+    "Bending the elbows like a regular dip",
+    "Swinging the legs or torso to create momentum",
+    "Shrugging up and never pressing back down",
+    "Dropping too far and losing shoulder control"
+  ],
+  "breathing": "Inhale as you lower into the shoulder shrug, and exhale as you press down to lift your body back up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/scapula-dips.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/scapula-dips.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/scapula-dips.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/scapula-dips.jpg"
+  }
+}

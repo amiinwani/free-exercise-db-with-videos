@@ -1,0 +1,48 @@
+{
+  "id": "drv-lying-hip-lift-on-stability-ball",
+  "name": "Lying Hip Lift on Stability Ball",
+  "aliases": [
+    "stability ball hip lift",
+    "lying glute bridge on ball",
+    "bridge on stability ball"
+  ],
+  "bodyPart": "waist",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back",
+    "core"
+  ],
+  "equipment": "stability ball",
+  "muscleGroup": "gluteus maximus",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A hip-thrusting exercise using a stability ball to engage glutes, hamstrings, and core.",
+  "instructions": "Lie with your upper back and arms on the floor and your feet on a stability ball. Brace your core, drive through your heels, and lift your hips to form a straight line from shoulders to knees, then lower back down with control.",
+  "steps": [
+    "Lie on your back with arms by your sides and feet on the stability ball.",
+    "Bend knees at 90 degrees and keep feet hip-width apart.",
+    "Drive through your heels and squeeze your glutes to lift your hips.",
+    "Pause at the top, keeping your body in a straight line.",
+    "Lower your hips back down with control."
+  ],
+  "formCues": [
+    "Press through heels",
+    "Squeeze glutes",
+    "Keep core engaged",
+    "Avoid overextending back"
+  ],
+  "commonMistakes": [
+    "Letting knees collapse",
+    "Overarching lower back",
+    "Dropping hips too low"
+  ],
+  "breathing": "Exhale when lifting hips, inhale when lowering hips.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lying-hip-lift-on-stability-ball.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lying-hip-lift-on-stability-ball.jpg"
+  }
+}

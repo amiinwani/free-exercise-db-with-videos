@@ -1,0 +1,55 @@
+{
+  "id": "0192",
+  "name": "Cable One Arm Lateral Raise",
+  "aliases": [
+    "single-arm cable lateral raise",
+    "one-arm cable side raise",
+    "cable side raise",
+    "single arm delt raise",
+    "cable shoulder raise",
+    "cable one arm lateral raise"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "traps",
+    "triceps"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "traps",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A single-arm shoulder isolation exercise using a cable to lift the arm out to the side and target the lateral delts.",
+  "instructions": "Stand with your feet shoulder-width apart, facing the cable machine. Hold the cable handle with one hand, palm facing down, and stand far enough away from the machine so that there is tension on the cable. Keep your arm straight and slowly raise it out to the side until it is parallel to the ground. Pause for a moment at the top, then slowly lower your arm back down to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+  "steps": [
+    "Stand sideways to the cable machine and grasp the handle with the outside hand.",
+    "Step away until the cable is taut, with your arm down by your side and a slight bend in your elbow.",
+    "Brace your torso and keep your shoulders level.",
+    "Raise your arm out to the side until your hand reaches about shoulder height.",
+    "Pause briefly without shrugging your shoulder.",
+    "Lower the handle back down with control to the starting position.",
+    "Complete the reps on one side, then switch arms."
+  ],
+  "formCues": [
+    "Lead with the elbow",
+    "Keep shoulders level",
+    "Raise to shoulder height",
+    "Lower with control"
+  ],
+  "commonMistakes": [
+    "Shrugging the working shoulder toward the ear",
+    "Swinging the torso to start the rep",
+    "Turning the raise into a front raise",
+    "Lifting the hand far above shoulder height"
+  ],
+  "breathing": "Exhale as you raise your arm to the side, and inhale as you lower it back down under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-one-arm-lateral-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-one-arm-lateral-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-one-arm-lateral-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-one-arm-lateral-raise.jpg"
+  }
+}

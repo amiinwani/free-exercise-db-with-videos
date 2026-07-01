@@ -1,0 +1,53 @@
+{
+  "id": "0226",
+  "name": "Cable Standing Crunch",
+  "aliases": [
+    "standing cable crunch",
+    "cable crunch",
+    "high cable standing crunch",
+    "rope standing crunch",
+    "standing ab crunch with cable",
+    "cable standing crunch"
+  ],
+  "bodyPart": "waist",
+  "target": "abs",
+  "secondaryMuscles": [
+    "obliques"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "obliques",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A standing cable ab exercise where you curl your torso downward against a high pulley to train the abs and obliques.",
+  "instructions": "Attach a cable handle to a high pulley and stand facing away from the machine. Hold the handle with both hands and place it behind your head, keeping your elbows bent. Stand with your feet shoulder-width apart and your knees slightly bent. Keeping your abs engaged, exhale and crunch your torso down towards your knees, bringing your elbows towards your thighs. Pause for a moment at the bottom of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set a cable at the high pulley and stand facing away from the machine.",
+    "Hold the attachment by the sides of your head with both hands and bend your knees slightly.",
+    "Brace your midsection and keep your hips mostly still.",
+    "Curl your ribcage down toward your pelvis, bringing your elbows toward your thighs.",
+    "Pause briefly in the bottom position and squeeze your abs.",
+    "Slowly uncurl your torso back to the start without letting the weight stack slam."
+  ],
+  "formCues": [
+    "Ribs to hips",
+    "Keep hips still",
+    "Curl, don't hinge",
+    "Brace your abs"
+  ],
+  "commonMistakes": [
+    "Hinging forward at the hips instead of curling the spine",
+    "Pulling the attachment down with the arms",
+    "Standing too upright and barely moving the torso",
+    "Letting the weight yank the torso back up"
+  ],
+  "breathing": "Inhale at the top, exhale as you curl down, and inhale again as you return under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-standing-crunch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-standing-crunch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-standing-crunch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-standing-crunch.jpg"
+  }
+}

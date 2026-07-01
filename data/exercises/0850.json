@@ -1,0 +1,49 @@
+{
+  "id": "0850",
+  "name": "Side Bend on Stability Ball",
+  "aliases": [
+    "stability ball side bend",
+    "ball side crunch",
+    "oblique crunch ball",
+    "Side Bend (on stability ball)",
+    "weighted side bend (on stability ball)"
+  ],
+  "bodyPart": "waist",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "rectus abdominis",
+    "quadratus lumborum"
+  ],
+  "equipment": "stability ball",
+  "muscleGroup": "external obliques",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A lateral flexion movement performed on a stability ball to target the obliques.",
+  "instructions": "Lie sideways over a stability ball, feet anchored, and hands behind head. Crunch your torso upward in a side-bending motion, then lower with control.",
+  "steps": [
+    "Position yourself sideways on a stability ball, feet braced.",
+    "Place top hand behind head, other hand for balance.",
+    "Lower your torso over the ball for a stretch.",
+    "Contract your side to lift torso up in a side bend.",
+    "Lower back down with control, repeat."
+  ],
+  "formCues": [
+    "Keep hips stacked",
+    "Engage obliques",
+    "Avoid pulling neck",
+    "Slow movement"
+  ],
+  "commonMistakes": [
+    "Using momentum",
+    "Rotating torso",
+    "Not stabilizing with lower arm"
+  ],
+  "breathing": "Exhale as you crunch up, inhale as you lower.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/side-bend-on-stability-ball.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/side-bend-on-stability-ball.jpg"
+  }
+}

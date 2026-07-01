@@ -1,0 +1,52 @@
+{
+  "id": "1564",
+  "name": "Hip Flexor and Quadriceps Stretch",
+  "aliases": [
+    "lunge stretch",
+    "runner's stretch",
+    "quad hip stretch",
+    "Stretching - Hip Flexor and Quad Stretch",
+    "intermediate hip flexor and quad stretch"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quadriceps",
+  "secondaryMuscles": [
+    "hip flexors",
+    "iliopsoas",
+    "glutes"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A stretch that lengthens the hip flexors and quadriceps by using a kneeling or lunge position.",
+  "instructions": "Start in a half-kneeling (lunge) position with one knee on the floor and the other foot planted in front. Gently shift hips forward while keeping torso upright, feeling the stretch in the front of the rear leg and thigh. Hold, then switch sides.",
+  "steps": [
+    "Begin in a half-kneeling position, one knee down, one foot forward.",
+    "Keep torso upright with hands on hips or front knee.",
+    "Push hips forward slightly to increase the stretch.",
+    "Feel the stretch in the hip flexor and thigh of the back leg.",
+    "Hold for desired time, then switch legs."
+  ],
+  "formCues": [
+    "Keep core engaged",
+    "Torso upright",
+    "Push hips forward gently",
+    "Don't arch lower back"
+  ],
+  "commonMistakes": [
+    "Leaning forward",
+    "Arching lower back",
+    "Letting front knee go past toes"
+  ],
+  "breathing": "Breathe deeply and steadily throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-hip-flexor-and-quad-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-hip-flexor-and-quad-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-hip-flexor-and-quad-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-hip-flexor-and-quad-stretch.jpg"
+  }
+}

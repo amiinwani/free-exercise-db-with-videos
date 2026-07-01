@@ -1,0 +1,50 @@
+{
+  "id": "1511",
+  "name": "Standing Hamstring Stretch",
+  "aliases": [
+    "hamstring stretch",
+    "toe touch stretch",
+    "static hamstring stretch",
+    "Stretching - Hamstring Stretch"
+  ],
+  "bodyPart": "upper legs",
+  "target": "hamstrings",
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A static stretch targeting the hamstring muscles along the back of the upper leg.",
+  "instructions": "Stand tall and keep knees slightly bent. Hinge forward at the hips, lowering your torso while reaching towards your toes to feel a gentle stretch in your hamstrings. Hold the stretch without bouncing.",
+  "steps": [
+    "Stand up straight with feet hip-width apart.",
+    "Keep knees soft, and hinge forward at the hips.",
+    "Lower your torso toward your legs while reaching for your toes.",
+    "Stop when you feel a gentle stretch in your hamstrings.",
+    "Hold for the desired duration, then return to standing."
+  ],
+  "formCues": [
+    "Keep back straight",
+    "Hinge from hips",
+    "Avoid locking knees",
+    "Don't bounce"
+  ],
+  "commonMistakes": [
+    "Rounding the back",
+    "Locking out the knees",
+    "Forcing the stretch"
+  ],
+  "breathing": "Exhale as you hinge forward, inhale as you return upright.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-hamstring-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-hamstring-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-hamstring-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-hamstring-stretch.jpg"
+  }
+}

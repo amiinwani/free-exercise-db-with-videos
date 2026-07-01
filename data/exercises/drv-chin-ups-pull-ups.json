@@ -1,0 +1,54 @@
+{
+  "id": "drv-chin-ups-pull-ups",
+  "name": "Pull-Up / Chin-Up",
+  "aliases": [
+    "pull-up",
+    "chin-up",
+    "bodyweight pull-up",
+    "neutral grip pull-up"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps brachii",
+    "brachialis",
+    "rhomboids",
+    "trapezius",
+    "rear deltoids"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bodyweight pulling exercise that develops lat and upper body strength using a hanging bar.",
+  "instructions": "Grab a pull-up bar with either a pronated (overhand, pull-up) or supinated (underhand, chin-up) grip slightly wider or narrower than shoulder width as desired. Start from a dead hang, retract your shoulders, and pull your chin above the bar using your back and arms. Control your descent back to the bottom.",
+  "steps": [
+    "Stand under a pull-up bar and grip it with your chosen grip (overhand for pull-up, underhand for chin-up).",
+    "Hang at full arm extension with shoulders engaged.",
+    "Brace your core and pull your chest up toward the bar by driving elbows down.",
+    "Clear the bar with your chin or chest as you squeeze your lats.",
+    "Lower yourself under control to the starting hang position."
+  ],
+  "formCues": [
+    "Lead with chest",
+    "Drive elbows down",
+    "Don't swing",
+    "Engage shoulders"
+  ],
+  "commonMistakes": [
+    "Not going to full hang",
+    "Using leg kick or swing",
+    "Chin not over the bar",
+    "Shrugging shoulders"
+  ],
+  "breathing": "Exhale as you pull up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/chin-ups-pull-ups.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/chin-ups-pull-ups.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/chin-ups-pull-ups.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/chin-ups-pull-ups.jpg"
+  }
+}

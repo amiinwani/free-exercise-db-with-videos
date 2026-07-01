@@ -1,0 +1,52 @@
+{
+  "id": "2611",
+  "name": "Lever Horizontal Leg Press",
+  "aliases": [
+    "machine leg press",
+    "horizontal plate-loaded leg press",
+    "Lever Horizontal Leg Press",
+    "lever horizontal one leg press"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quadriceps",
+  "secondaryMuscles": [
+    "gluteus maximus",
+    "hamstrings",
+    "adductors"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A horizontal plate-loaded machine exercise targeting the entire thigh, especially the quadriceps.",
+  "instructions": "Sit on the leg press machine with your feet hip-width apart on the platform. Press the platform away by extending your legs, but avoid locking your knees, then lower slowly back to the starting position.",
+  "steps": [
+    "Sit on the leg press and adjust seat as needed.",
+    "Place feet shoulder-width apart on platform.",
+    "Push platform away by extending legs.",
+    "Do not lock knees at the top position.",
+    "Lower platform under control to start position."
+  ],
+  "formCues": [
+    "Keep lower back pressed into seat",
+    "Do not lock knees",
+    "Feet flat and even pressure",
+    "Control the descent"
+  ],
+  "commonMistakes": [
+    "Letting knees cave in/out",
+    "Lifting hips off seat",
+    "Locking out knees",
+    "Using too much weight"
+  ],
+  "breathing": "Exhale as you press up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-horizontal-leg-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-horizontal-leg-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-horizontal-leg-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-horizontal-leg-press.jpg"
+  }
+}

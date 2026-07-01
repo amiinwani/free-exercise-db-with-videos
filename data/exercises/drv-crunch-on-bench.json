@@ -1,0 +1,48 @@
+{
+  "id": "drv-crunch-on-bench",
+  "name": "Bench Crunch",
+  "aliases": [
+    "crunch on bench",
+    "ab crunch on bench",
+    "bench ab crunch"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "obliques"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "An abdominal crunch performed lying on a flat or decline bench to isolate the abs.",
+  "instructions": "Lie back on a bench with your knees bent and feet on the bench or floor. Cross your arms over your chest or place hands lightly behind your head, engage your abs, and lift your shoulders off the bench before lowering them down under control.",
+  "steps": [
+    "Lie flat on a bench with knees bent and feet secured or flat.",
+    "Cross your arms over your chest or place hands behind your head.",
+    "Engage your core and lift your shoulders towards your knees.",
+    "Squeeze at the top and hold briefly.",
+    "Lower your upper body back to bench in a controlled manner."
+  ],
+  "formCues": [
+    "Lift with your abs",
+    "Keep chin tucked",
+    "Don't arch back",
+    "Control the motion"
+  ],
+  "commonMistakes": [
+    "Pulling on neck",
+    "Rushing reps",
+    "Lifting too high"
+  ],
+  "breathing": "Exhale as you lift, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/crunch-on-bench.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/crunch-on-bench.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/crunch-on-bench.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/crunch-on-bench.jpg"
+  }
+}

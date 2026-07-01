@@ -1,0 +1,53 @@
+{
+  "id": "1379",
+  "name": "Dumbbell Seated Calf Raise",
+  "aliases": [
+    "seated dumbbell calf raise",
+    "DB seated calf raise",
+    "seated calf raise with dumbbell",
+    "seated heel raise",
+    "seated calf lift",
+    "dumbbell seated calf raise"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated calf exercise using a dumbbell on the thighs to train ankle plantarflexion through a full range of motion.",
+  "instructions": "Sit on a bench or chair with your feet flat on the ground and a dumbbell resting on your thighs. Place the balls of your feet on a raised surface such as a step or block, with your heels hanging off the edge. Hold onto the dumbbell for stability. Raise your heels as high as possible, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit on a bench or chair with your knees bent and place the balls of your feet on a small raised surface with your heels hanging off.",
+    "Set a dumbbell across the tops of your thighs just above your knees and hold it steady with both hands.",
+    "Let your heels drop down until you feel a stretch through your calves.",
+    "Press through the balls of your feet and raise your heels as high as you can.",
+    "Pause briefly at the top while keeping the dumbbell steady.",
+    "Lower your heels back down under control and repeat."
+  ],
+  "formCues": [
+    "Drive through big toe",
+    "Lift heels straight up",
+    "Use full ankle range",
+    "Control the lowering"
+  ],
+  "commonMistakes": [
+    "Bouncing the heels at the bottom instead of lowering under control.",
+    "Rolling the ankles inward or outward as the heels rise.",
+    "Placing the dumbbell too close to the knees so it slides during the set.",
+    "Using a very short range of motion and not dropping the heels below the step."
+  ],
+  "breathing": "Inhale as you lower your heels, and exhale as you press up onto the balls of your feet.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-calf-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-calf-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-calf-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-calf-raise.jpg"
+  }
+}

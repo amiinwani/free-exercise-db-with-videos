@@ -1,0 +1,54 @@
+{
+  "id": "0974",
+  "name": "Cable Close Grip Lat Pulldown",
+  "aliases": [
+    "Close Grip Lat Pulldown",
+    "V-Bar Pulldown",
+    "Cable Lat Pulldown Close Grip",
+    "Cable Close Grip Front Lat Pulldown",
+    "band close-grip pulldown"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps brachii",
+    "rhomboids",
+    "teres major",
+    "forearms"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A cable exercise using a close grip to target the latissimus dorsi and supporting back muscles.",
+  "instructions": "Sit at a lat pulldown machine with a close (V-bar) handle attached. Grasp the handles with palms facing in, keep your torso upright, and pull the handle down to your chest by squeezing your back and bringing elbows down and back, then return the handle under control.",
+  "steps": [
+    "Attach a V-bar or close grip handle to the cable machine.",
+    "Sit down and secure your thighs under the pads.",
+    "Grasp the handle with a neutral grip, hands parallel.",
+    "Pull the handle down to the top of your chest, keeping torso vertical.",
+    "Slowly return the handle to the top without locking elbows."
+  ],
+  "formCues": [
+    "Lead with the elbows",
+    "Keep chest up",
+    "Do not swing back",
+    "Squeeze lats at bottom"
+  ],
+  "commonMistakes": [
+    "Leaning back excessively",
+    "Using momentum",
+    "Not fully engaging lats",
+    "Rounding shoulders forward"
+  ],
+  "breathing": "Exhale as you pull down, inhale as you return up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-close-grip-front-lat-pulldown.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-close-grip-front-lat-pulldown.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-close-grip-front-lat-pulldown.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-close-grip-front-lat-pulldown.jpg"
+  }
+}

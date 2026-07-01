@@ -1,0 +1,55 @@
+{
+  "id": "1435",
+  "name": "Barbell Back Squat",
+  "aliases": [
+    "barbell squat",
+    "classic squat",
+    "back squat",
+    "squat with barbell",
+    "Classic Barbell Squat",
+    "barbell low bar squat"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "erector spinae",
+    "adductors",
+    "core"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "Classic compound lower body lift with barbell across traps, targeting quads and glutes.",
+  "instructions": "Stand with barbell placed across upper back, feet shoulder-width apart. Lower into a squat by hinging hips and bending knees until your thighs are parallel to the floor. Press through your heels to stand back up, keeping your chest up and back straight.",
+  "steps": [
+    "Position barbell on upper traps, unrack.",
+    "Stand with feet shoulder-width apart.",
+    "Descend into squat keeping back neutral.",
+    "Lower until thighs parallel or below.",
+    "Drive up through heels to standing."
+  ],
+  "formCues": [
+    "Chest up",
+    "Back straight",
+    "Drive through heels",
+    "Knees track over toes"
+  ],
+  "commonMistakes": [
+    "Knees caving in",
+    "Rounding lower back",
+    "Heels lifting off floor"
+  ],
+  "breathing": "Inhale lowering, exhale rising.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/classic-barbell-squat.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/classic-barbell-squat.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/classic-barbell-squat.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/classic-barbell-squat.jpg"
+  }
+}

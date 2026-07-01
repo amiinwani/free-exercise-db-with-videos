@@ -1,0 +1,50 @@
+{
+  "id": "0274",
+  "name": "Floor Crunch",
+  "aliases": [
+    "crunch",
+    "basic crunch",
+    "abdominal crunch",
+    "floor crunch for women",
+    "Crunch Floor (female)",
+    "crunch floor"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "obliques"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A basic abdominal crunch performed lying on the floor to strengthen the rectus abdominis.",
+  "instructions": "Lie flat on your back with knees bent and feet flat on the floor. Place your hands behind your head or across your chest, engage your core, and curl your shoulders up toward your knees.",
+  "steps": [
+    "Lie on your back with knees bent and feet hip-width apart.",
+    "Place hands lightly behind head or cross over chest.",
+    "Engage core and lift shoulders off the floor.",
+    "Pause briefly at the top of the movement.",
+    "Slowly return to the starting position."
+  ],
+  "formCues": [
+    "Keep chin off chest",
+    "Lower back pressed to floor",
+    "Controlled movement",
+    "Exhale on crunch"
+  ],
+  "commonMistakes": [
+    "Pulling on neck",
+    "Not engaging core",
+    "Using momentum",
+    "Not breathing properly"
+  ],
+  "breathing": "Exhale as you crunch up, inhale as you lower down.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/crunch-floor-female.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/crunch-floor-female.jpg"
+  }
+}

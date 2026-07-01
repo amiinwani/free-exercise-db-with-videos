@@ -1,0 +1,53 @@
+{
+  "id": "drv-ring-high-row",
+  "name": "Ring High Row",
+  "aliases": [
+    "gymnastics ring high row",
+    "ring row",
+    "TRX high row",
+    "bodyweight row"
+  ],
+  "bodyPart": "back",
+  "target": "rhomboids",
+  "secondaryMuscles": [
+    "latissimus dorsi",
+    "biceps brachii",
+    "rear deltoids",
+    "trapezius"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rhomboids",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A suspended horizontal pulling movement using rings set high to target upper back and rear shoulder muscles.",
+  "instructions": "Set up rings at an appropriate height and grip handles with palms facing in. Lean back with body rigid, arms extended, and feet forward. Pull your chest up to ring height, squeezing the shoulder blades together, then lower back under control.",
+  "steps": [
+    "Adjust rings to chest height and grip handles with neutral grip.",
+    "Lean back with feet forward and body straight.",
+    "Engage core, keep arms extended.",
+    "Row your chest toward the rings, retracting shoulder blades.",
+    "Lower body back to start under control."
+  ],
+  "formCues": [
+    "Squeeze shoulder blades",
+    "Keep body aligned",
+    "Control each rep",
+    "Pull elbows high"
+  ],
+  "commonMistakes": [
+    "Sagging hips",
+    "Shrugging shoulders",
+    "Elbows flaring excessively",
+    "Incomplete range"
+  ],
+  "breathing": "Exhale as you pull, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/ring-high-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/ring-high-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/ring-high-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/ring-high-row.jpg"
+  }
+}

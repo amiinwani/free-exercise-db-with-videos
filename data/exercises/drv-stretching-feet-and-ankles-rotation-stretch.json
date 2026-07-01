@@ -1,0 +1,50 @@
+{
+  "id": "drv-stretching-feet-and-ankles-rotation-stretch",
+  "name": "Feet and Ankles Rotation Stretch",
+  "aliases": [
+    "ankle rotation stretch",
+    "ankle rolls",
+    "foot mobility stretch"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "soleus",
+    "tibialis anterior",
+    "peroneals"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "gastrocnemius",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A mobility exercise involving circular ankle movements that target the calves and improve ankle flexibility.",
+  "instructions": "Sit or stand with one leg lifted and rotate your foot at the ankle in slow, controlled circles, first one direction and then the other. Focus on full range of motion to stretch and warm up lower leg muscles and joints.",
+  "steps": [
+    "Sit or stand and lift one foot off the ground.",
+    "Point your toes and slowly rotate your ankle in circles.",
+    "Make several circles clockwise, then reverse to counterclockwise.",
+    "Repeat for the other ankle.",
+    "Maintain steady breathing and controlled motion."
+  ],
+  "formCues": [
+    "Move slowly",
+    "Full range of motion",
+    "Relax foot",
+    "Rotate both directions"
+  ],
+  "commonMistakes": [
+    "Rushed movements",
+    "Small circles",
+    "Not changing direction"
+  ],
+  "breathing": "Breathe normally throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-feet-and-ankles-rotation-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-feet-and-ankles-rotation-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-feet-and-ankles-rotation-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-feet-and-ankles-rotation-stretch.jpg"
+  }
+}

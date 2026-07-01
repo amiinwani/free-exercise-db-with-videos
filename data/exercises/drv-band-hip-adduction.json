@@ -1,0 +1,48 @@
+{
+  "id": "drv-band-hip-adduction",
+  "name": "Band Hip Adduction",
+  "aliases": [
+    "resistance band hip adduction",
+    "band adductor exercise"
+  ],
+  "bodyPart": "hips",
+  "target": "adductors",
+  "secondaryMuscles": [
+    "gluteus medius",
+    "quadriceps"
+  ],
+  "equipment": "band",
+  "muscleGroup": "adductor group",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A resistance band exercise that strengthens the inner thigh muscles through hip adduction.",
+  "instructions": "Attach a resistance band to a stable anchor and loop it around your ankle. Stand side-on to the anchor and bring your working leg across your body against the band’s resistance, focusing on squeezing your inner thigh.",
+  "steps": [
+    "Secure a resistance band to a sturdy anchor at ankle height.",
+    "Loop the other end around your working ankle.",
+    "Stand tall and hold onto a support if needed.",
+    "Bring your working leg across your body, adducting at the hip.",
+    "Slowly return to the starting position and repeat."
+  ],
+  "formCues": [
+    "Keep core tight",
+    "Move with control",
+    "Avoid swinging",
+    "Maintain upright posture"
+  ],
+  "commonMistakes": [
+    "Using momentum",
+    "Rotating hips outward",
+    "Bending the standing leg excessively"
+  ],
+  "breathing": "Exhale as you pull leg inward, inhale as you return.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-hip-adduction.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-hip-adduction.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-hip-adduction.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-hip-adduction.jpg"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "0976",
+  "name": "Band Prone Leg Curl",
+  "aliases": [
+    "Resistance Band Leg Curl",
+    "Band Hamstring Curl",
+    "Lying Band Leg Curl",
+    "Band Leg Curl",
+    "band concentration curl"
+  ],
+  "bodyPart": "upper legs",
+  "target": "hamstrings",
+  "secondaryMuscles": [
+    "gastrocnemius",
+    "gluteus maximus"
+  ],
+  "equipment": "band",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A hamstring isolation exercise performed lying face down and flexing the knee using resistance from a band.",
+  "instructions": "Lie face down, anchor a resistance band at your feet, and loop the other end around your ankle. Curl your heel toward your glutes, contracting your hamstring, then slowly lower back to start and repeat.",
+  "steps": [
+    "Anchor the band securely at ground level.",
+    "Lie face down with legs extended.",
+    "Loop the band around your ankle.",
+    "Flex your knee, bringing your heel toward your glutes.",
+    "Slowly return to the start; repeat and switch legs if desired."
+  ],
+  "formCues": [
+    "Keep hips down",
+    "Point toes away",
+    "Squeeze hamstrings at top",
+    "Control lowering phase"
+  ],
+  "commonMistakes": [
+    "Lifting hips off ground",
+    "Using momentum",
+    "Letting band snap back"
+  ],
+  "breathing": "Exhale as you curl, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-leg-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-leg-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-leg-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-leg-curl.jpg"
+  }
+}

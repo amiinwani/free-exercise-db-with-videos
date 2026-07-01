@@ -1,0 +1,52 @@
+{
+  "id": "0038",
+  "name": "Barbell Drag Curl",
+  "aliases": [
+    "drag curl",
+    "barbell biceps drag curl",
+    "bar drag curl",
+    "drag bicep curl",
+    "close-body barbell curl",
+    "barbell drag curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "forearms",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A barbell biceps curl variation where the bar stays close to the torso and the elbows move back as you lift.",
+  "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip, palms facing up. Let the barbell hang at arm's length in front of your thighs. Keeping your upper arms stationary, curl the barbell up towards your chest by contracting your biceps. Pause for a moment at the top, then slowly lower the barbell back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with feet about hip-width apart and hold the barbell with an underhand grip at your thighs.",
+    "Pull your shoulders slightly back and keep your elbows behind your torso.",
+    "Curl the bar upward by sliding it close along the front of your body as your elbows travel back.",
+    "Lift until the bar reaches your upper stomach or lower chest without letting it drift away from you.",
+    "Lower the barbell slowly along the same path until your arms are straight again."
+  ],
+  "formCues": [
+    "Keep the bar close",
+    "Drive elbows back",
+    "Chest tall",
+    "Control the lowering"
+  ],
+  "commonMistakes": [
+    "Letting the bar swing forward away from the body",
+    "Bending the wrists back as the bar rises",
+    "Rocking the torso to start the curl",
+    "Flaring the elbows out to the sides"
+  ],
+  "breathing": "Inhale at the bottom, exhale as you drag-curl the bar up, and inhale as you lower it back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-drag-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-drag-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-drag-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-drag-curl.jpg"
+  }
+}

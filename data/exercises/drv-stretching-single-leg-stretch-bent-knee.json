@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-single-leg-stretch-bent-knee",
+  "name": "Single Leg Stretch (Bent Knee)",
+  "aliases": [
+    "single bent knee stretch",
+    "single leg bent knee stretch"
+  ],
+  "bodyPart": "cardio",
+  "target": "hip flexors",
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "glutes"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "iliopsoas",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A floor stretch to target hip flexors and hamstrings by pulling one bent leg towards the chest.",
+  "instructions": "Lie on your back with both knees bent. Grip one shin and gently pull that knee towards your chest, feeling the stretch in your hip and glutes. Maintain a neutral spine and hold before switching legs.",
+  "steps": [
+    "Lie on your back with both legs bent.",
+    "Grasp one knee with both hands.",
+    "Pull the knee toward your chest gently.",
+    "Hold the stretch, keeping your back flat.",
+    "Switch sides and repeat."
+  ],
+  "formCues": [
+    "Keep shoulders relaxed",
+    "Pull gently",
+    "Keep opposite foot on floor",
+    "Breathe steadily"
+  ],
+  "commonMistakes": [
+    "Overpulling knee",
+    "Arching lower back",
+    "Holding breath"
+  ],
+  "breathing": "Exhale as you pull the knee in, inhale as you release.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-single-leg-stretch-bent-knee.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-single-leg-stretch-bent-knee.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-single-leg-stretch-bent-knee.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-single-leg-stretch-bent-knee.jpg"
+  }
+}

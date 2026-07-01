@@ -1,0 +1,52 @@
+{
+  "id": "0620",
+  "name": "Flat Bench Cable Fly",
+  "aliases": [
+    "cable lying fly",
+    "lying cable fly",
+    "cable chest fly",
+    "flat cable fly",
+    "Cable Lying Fly, Flat Bench Cable Fly",
+    "lying leg raise flat bench"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "anterior deltoids",
+    "biceps"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "pectoralis major",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A chest isolation exercise using cables while lying on a flat bench for continuous tension.",
+  "instructions": "Lie on a flat bench positioned between two low cable pulleys. Grab the handles with arms extended and a slight bend in the elbows, then bring your hands together in a wide arc before returning to the start position.",
+  "steps": [
+    "Set a flat bench between two cable pulleys and attach handles.",
+    "Lie back and grip each handle with arms extended.",
+    "With elbows slightly bent, bring handles together above your chest.",
+    "Squeeze your chest at the top.",
+    "Slowly return to the starting position with control."
+  ],
+  "formCues": [
+    "Maintain slight elbow bend",
+    "Keep arms wide",
+    "Control both directions",
+    "Avoid overstretching"
+  ],
+  "commonMistakes": [
+    "Locking elbows",
+    "Letting the cables slam back",
+    "Using too much weight"
+  ],
+  "breathing": "Exhale as you bring hands together, inhale as you return.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-lying-fly-flat-bench-cable-fly.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-lying-fly-flat-bench-cable-fly.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-lying-fly-flat-bench-cable-fly.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-lying-fly-flat-bench-cable-fly.jpg"
+  }
+}

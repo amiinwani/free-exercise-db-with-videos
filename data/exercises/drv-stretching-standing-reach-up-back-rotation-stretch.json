@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-standing-reach-up-back-rotation-stretch",
+  "name": "Standing Reach Up Back Rotation Stretch",
+  "aliases": [
+    "standing reach back stretch",
+    "standing overhead torso twist"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "deltoids",
+    "latissimus dorsi",
+    "trapezius"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "pectoralis major",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A dynamic stretch involving reaching overhead and rotating to open up the chest and upper back.",
+  "instructions": "Stand with your feet shoulder-width apart. Reach both arms overhead and gently arch your upper back while rotating your torso to one side, focusing on stretching through your chest and shoulders. Hold for a moment, return to center, and repeat to the other side.",
+  "steps": [
+    "Stand tall with feet shoulder-width apart.",
+    "Raise both arms overhead.",
+    "Gently arch your upper back and chest.",
+    "Rotate your torso to one side while maintaining the stretch.",
+    "Return to center, then rotate to the other side."
+  ],
+  "formCues": [
+    "Keep core engaged",
+    "Avoid hyperextending lower back",
+    "Reach up and out",
+    "Move smoothly"
+  ],
+  "commonMistakes": [
+    "Overarching the lower back",
+    "Not fully extending arms",
+    "Twisting too abruptly"
+  ],
+  "breathing": "Inhale before reaching up; exhale as you rotate and stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-reach-up-back-rotation-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-standing-reach-up-back-rotation-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-reach-up-back-rotation-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-standing-reach-up-back-rotation-stretch.jpg"
+  }
+}

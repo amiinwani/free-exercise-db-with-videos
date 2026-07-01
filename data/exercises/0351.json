@@ -1,0 +1,54 @@
+{
+  "id": "0351",
+  "name": "Dumbbell Lying Triceps Extension",
+  "aliases": [
+    "lying triceps extension",
+    "dumbbell skull crusher",
+    "DB skull crusher",
+    "lying dumbbell triceps extension",
+    "lying triceps dumbbell press",
+    "triceps extension lying down",
+    "dumbbell lying triceps extension"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A lying dumbbell triceps exercise where you bend and straighten the elbows to lower the weights toward the forehead and press them back up.",
+  "instructions": "Lie flat on a bench with a dumbbell in each hand, palms facing each other. Extend your arms straight up over your chest, keeping your elbows close to your body. Lower the dumbbells down towards your forehead, bending your elbows. Pause for a moment, then extend your arms back up to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Lie flat on a bench holding a dumbbell in each hand, and press the dumbbells above your chest with your palms facing each other.",
+    "Pull your shoulders down into the bench and straighten your wrists so the dumbbells stay stacked over your elbows.",
+    "Bend your elbows and lower the dumbbells toward the sides of your forehead while keeping your upper arms mostly still.",
+    "Stop when your elbows are fully bent and the dumbbells are close to your head.",
+    "Straighten your elbows to drive the dumbbells back to the start position above your chest.",
+    "Repeat each rep without letting your elbows flare wide."
+  ],
+  "formCues": [
+    "Keep elbows tucked",
+    "Upper arms stay still",
+    "Bend only at elbows",
+    "Stack wrists over elbows"
+  ],
+  "commonMistakes": [
+    "Elbows flare out wide as the dumbbells lower.",
+    "Upper arms drift backward or forward during the rep.",
+    "Dumbbells drop too low behind the head instead of beside the forehead.",
+    "Wrists bend back instead of staying straight."
+  ],
+  "breathing": "Inhale as you lower the dumbbells toward your forehead, and exhale as you extend your elbows to raise them back up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lying-triceps-extension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lying-triceps-extension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lying-triceps-extension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lying-triceps-extension.jpg"
+  }
+}

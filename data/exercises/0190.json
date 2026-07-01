@@ -1,0 +1,54 @@
+{
+  "id": "0190",
+  "name": "Cable One Arm Curl",
+  "aliases": [
+    "single-arm cable curl",
+    "one-arm cable biceps curl",
+    "cable single arm curl",
+    "single hand cable curl",
+    "standing one-arm cable curl",
+    "one arm curl cable",
+    "cable one arm curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A single-arm cable biceps exercise where you curl a handle upward while keeping your elbow tucked at your side.",
+  "instructions": "Stand facing the cable machine with your feet shoulder-width apart. Grasp the cable handle with an underhand grip, palm facing up. Keep your elbow close to your side and slowly curl your forearm up towards your shoulder. Pause for a moment at the top, then slowly lower your forearm back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand beside the cable machine and hold the handle in one hand with your palm facing up.",
+    "Step out until the cable is taut, then stand tall with your elbow tucked against your side.",
+    "Curl the handle upward by bending your elbow without letting your upper arm drift forward.",
+    "Raise the handle until your forearm is close to your biceps, then briefly squeeze your arm.",
+    "Lower the handle slowly until your arm is straight again while keeping tension on the cable.",
+    "Complete all reps on one arm, then switch sides."
+  ],
+  "formCues": [
+    "Keep elbow pinned",
+    "Palm stays up",
+    "Stand tall",
+    "Lower with control"
+  ],
+  "commonMistakes": [
+    "Elbow swings forward during the curl",
+    "Shoulder shrugs up toward the ear",
+    "Torso leans back to move the weight",
+    "Handle drops quickly on the way down"
+  ],
+  "breathing": "Exhale as you curl the handle up, and inhale as you lower it back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-one-arm-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-one-arm-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-one-arm-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-one-arm-curl.jpg"
+  }
+}

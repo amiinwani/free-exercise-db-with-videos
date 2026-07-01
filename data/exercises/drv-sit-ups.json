@@ -1,0 +1,49 @@
+{
+  "id": "drv-sit-ups",
+  "name": "Sit-Up",
+  "aliases": [
+    "sit up",
+    "full sit-up",
+    "classic sit-up"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "hip flexors",
+    "obliques"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A classic ab exercise involving lifting the torso from the floor to a seated position to build core strength.",
+  "instructions": "Lie on your back with knees bent and feet flat on the ground. Place your hands behind your head or across your chest, engage your core, and lift your torso all the way up to your knees, then lower back down with control.",
+  "steps": [
+    "Lie flat on your back with knees bent and feet anchored.",
+    "Place hands behind your head or across your chest.",
+    "Engage your core to lift your torso to a seated position.",
+    "Pause at the top, then slowly lower back to the floor.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "formCues": [
+    "Avoid pulling on neck",
+    "Lift chest first",
+    "Engage abs throughout",
+    "Control the lower"
+  ],
+  "commonMistakes": [
+    "Jerking the neck",
+    "Using momentum",
+    "Feet lifting off the ground"
+  ],
+  "breathing": "Exhale as you rise, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/sit-ups.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/sit-ups.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/sit-ups.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/sit-ups.jpg"
+  }
+}

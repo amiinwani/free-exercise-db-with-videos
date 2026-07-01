@@ -1,0 +1,55 @@
+{
+  "id": "0409",
+  "name": "Dumbbell Single Leg Calf Raise",
+  "aliases": [
+    "single-leg dumbbell calf raise",
+    "one-leg calf raise",
+    "single leg calf raise",
+    "dumbbell calf raise",
+    "standing single-leg calf raise",
+    "one-leg heel raise",
+    "dumbbell single leg calf raise"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "ankles"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "ankles",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A single-leg calf exercise using a dumbbell and step to strengthen the calves through a full ankle range of motion.",
+  "instructions": "Stand on the edge of a step or platform with your heels hanging off and your toes on the step. Hold a dumbbell in one hand and place your other hand on a wall or railing for support. Raise your heel as high as possible, lifting your body up onto your toes. Pause for a moment at the top, then slowly lower your heel back down below the step. Repeat for the desired number of repetitions, then switch to the other leg.",
+  "steps": [
+    "Stand on the edge of a step with one foot, placing the ball of your foot on the step and letting your heel hang off.",
+    "Hold a dumbbell in one hand and lightly brace your other hand on a wall or rail.",
+    "Lift your nonworking foot off the step and straighten your standing leg.",
+    "Press through the ball of your foot to raise your heel as high as you can.",
+    "Pause briefly at the top while keeping your ankle stacked over your toes.",
+    "Lower your heel slowly below the step until you feel a stretch in your calf.",
+    "Complete all reps on one side, then switch legs."
+  ],
+  "formCues": [
+    "Push through your big toe",
+    "Rise straight up",
+    "Lower with control",
+    "Keep hips level"
+  ],
+  "commonMistakes": [
+    "Bouncing out of the bottom instead of lowering under control",
+    "Rolling the ankle inward or outward during the raise",
+    "Bending the standing knee to help drive up",
+    "Using the support hand to pull the body upward"
+  ],
+  "breathing": "Inhale as you lower your heel, and exhale as you press up onto your toes.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-single-leg-calf-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-single-leg-calf-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-single-leg-calf-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-single-leg-calf-raise.jpg"
+  }
+}

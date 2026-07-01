@@ -1,0 +1,55 @@
+{
+  "id": "0413",
+  "name": "Dumbbell Squat",
+  "aliases": [
+    "DB squat",
+    "dumbbell goblet-free squat",
+    "dumbbells-at-sides squat",
+    "dumbbell body squat",
+    "squat with dumbbells",
+    "dumbbell squat"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "quadriceps",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A squat holding a dumbbell in each hand at your sides to train the glutes, quads, and legs.",
+  "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides. Keeping your chest up and core engaged, lower your body down by bending at the knees and hips, as if sitting back into a chair. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with a dumbbell in each hand at your sides and place your feet about shoulder-width apart.",
+    "Brace your core, keep your chest up, and let your arms hang straight.",
+    "Bend your hips and knees together to sit down and slightly back.",
+    "Lower until your thighs are at least parallel to the floor or as low as you can while keeping your heels down.",
+    "Drive through your midfoot and heels to stand back up.",
+    "Finish tall with your hips and knees fully straight before the next rep."
+  ],
+  "formCues": [
+    "Chest up",
+    "Knees track over toes",
+    "Keep heels down",
+    "Stand tall at top"
+  ],
+  "commonMistakes": [
+    "Letting the knees cave inward on the way down or up.",
+    "Rising onto the toes and lifting the heels off the floor.",
+    "Rounding the upper or lower back at the bottom.",
+    "Dropping the chest forward so the dumbbells swing ahead of the legs."
+  ],
+  "breathing": "Inhale as you lower into the squat, then exhale as you stand back up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-squat.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-squat.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-squat.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-squat.jpg"
+  }
+}

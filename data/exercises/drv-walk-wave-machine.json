@@ -1,0 +1,52 @@
+{
+  "id": "drv-walk-wave-machine",
+  "name": "Walk Wave Machine",
+  "aliases": [
+    "wave trainer",
+    "cardio wave",
+    "side to side elliptical"
+  ],
+  "bodyPart": "cardio",
+  "target": "cardiovascular system",
+  "secondaryMuscles": [
+    "glutes",
+    "quadriceps",
+    "hamstrings",
+    "hip abductors",
+    "calves"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "cardiovascular system",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A low-impact cardio machine utilizing a unique lateral gliding motion to engage lower body muscles and improve endurance.",
+  "instructions": "Step onto the wave machine and grip the handles if available. Begin with a slow pace, moving feet in a side-to-side, skating motion. Gradually increase resistance and speed as you feel comfortable.",
+  "steps": [
+    "Step onto the machine and position feet on pedals.",
+    "Grip handles for stability.",
+    "Initiate movement by pushing one leg outward while the other follows.",
+    "Maintain a rhythmic, lateral gliding motion.",
+    "Continue for the desired time or intensity."
+  ],
+  "formCues": [
+    "Maintain upright posture",
+    "Engage glutes",
+    "Move laterally",
+    "Use smooth, controlled motion"
+  ],
+  "commonMistakes": [
+    "Leaning forward",
+    "Letting knees cave in",
+    "Jerky movements"
+  ],
+  "breathing": "Keep breath steady and controlled throughout.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/walk-wave-machine.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/walk-wave-machine.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/walk-wave-machine.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/walk-wave-machine.jpg"
+  }
+}

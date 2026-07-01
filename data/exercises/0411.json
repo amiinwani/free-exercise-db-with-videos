@@ -1,0 +1,56 @@
+{
+  "id": "0411",
+  "name": "Dumbbell Single Leg Squat",
+  "aliases": [
+    "single-leg dumbbell squat",
+    "dumbbell pistol squat",
+    "single leg squat with dumbbells",
+    "one-leg dumbbell squat",
+    "single-leg squat",
+    "one-leg squat",
+    "dumbbell single leg squat"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "quadriceps",
+  "difficulty": "advanced",
+  "compound": true,
+  "unilateral": true,
+  "shortDescription": "A one-leg squat holding dumbbells that challenges the glutes, quads, balance, and lower-body control.",
+  "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Extend one leg forward and keep it off the ground throughout the exercise. Bend your standing leg and lower your body down as if sitting back into a chair. Keep your chest up and your back straight. Pause for a moment at the bottom, then push through your heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs.",
+  "steps": [
+    "Stand tall holding a dumbbell in each hand at your sides.",
+    "Shift your weight onto one foot and lift the other leg straight in front of you.",
+    "Brace your torso and bend your standing knee and hip to lower under control.",
+    "Keep the lifted leg off the floor and lower as far as you can while staying balanced.",
+    "Drive through the standing foot to rise back to the starting position.",
+    "Complete all reps on one leg, then switch sides."
+  ],
+  "formCues": [
+    "Chest up",
+    "Sit back",
+    "Keep knee tracking forward",
+    "Control the descent"
+  ],
+  "commonMistakes": [
+    "Letting the lifted foot touch the floor between reps",
+    "Rounding the back at the bottom",
+    "Standing knee collapsing inward",
+    "Dropping too fast and losing balance"
+  ],
+  "breathing": "Inhale as you lower down, and exhale as you drive back up to standing.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-single-leg-squat.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-single-leg-squat.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-single-leg-squat.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-single-leg-squat.jpg"
+  }
+}

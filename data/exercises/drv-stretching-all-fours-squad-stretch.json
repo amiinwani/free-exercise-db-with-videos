@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-all-fours-squad-stretch",
+  "name": "All Fours Groin Stretch",
+  "aliases": [
+    "quadruped adductor stretch",
+    "all fours inner thigh stretch",
+    "all fours frog stretch"
+  ],
+  "bodyPart": "hips",
+  "target": "adductors",
+  "secondaryMuscles": [
+    "gluteus maximus",
+    "hamstrings"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "adductor group",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A floor stretch on hands and knees targeting the adductors and groin area.",
+  "instructions": "Begin on your hands and knees. Widen your knees apart as far as comfortable, keeping your feet in line with your knees. Sink your hips back slightly until a stretch is felt in the inner thighs and groin, holding with steady breathing.",
+  "steps": [
+    "Start on hands and knees (quadruped position).",
+    "Slide knees apart, keeping shins and feet in line with knees.",
+    "Lower hips toward the floor, maintaining a flat back.",
+    "Move hips back gently until you feel a stretch in the groin.",
+    "Hold the position and breathe deeply."
+  ],
+  "formCues": [
+    "Keep spine neutral",
+    "Move slowly",
+    "Avoid bouncing",
+    "Relax into stretch"
+  ],
+  "commonMistakes": [
+    "Arching lower back",
+    "Letting feet come together",
+    "Overstretching past comfort"
+  ],
+  "breathing": "Breathe slowly and deeply throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-all-fours-squad-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-all-fours-squad-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-all-fours-squad-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-all-fours-squad-stretch.jpg"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-boat-stretch",
+  "name": "Seated Boat Stretch",
+  "aliases": [
+    "seated groin stretch",
+    "butterfly stretch",
+    "boat pose stretch"
+  ],
+  "bodyPart": "hips",
+  "target": "adductors",
+  "secondaryMuscles": [
+    "lower back",
+    "gluteus maximus"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "adductor group",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated flexibility stretch focusing on the inner thighs and hips.",
+  "instructions": "Sit on the floor and bring the soles of your feet together, letting knees fall out to the sides. Hold your feet or ankles and gently pull them in, leaning forward slightly to deepen the stretch through the groin and hips.",
+  "steps": [
+    "Sit on the floor with back straight.",
+    "Bring soles of feet together and let knees drop out.",
+    "Hold ankles or feet for support.",
+    "Gently pull feet closer and lean forward slightly.",
+    "Hold position without bouncing."
+  ],
+  "formCues": [
+    "Keep chest up",
+    "Relax knees toward floor",
+    "Avoid rounding back",
+    "Go only as far as comfortable"
+  ],
+  "commonMistakes": [
+    "Forcing knees down",
+    "Hunching shoulders",
+    "Bouncing during stretch"
+  ],
+  "breathing": "Breathe deeply and regularly while holding the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-boat-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-boat-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-boat-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-boat-stretch.jpg"
+  }
+}

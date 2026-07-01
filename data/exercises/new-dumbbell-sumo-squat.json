@@ -1,0 +1,51 @@
+{
+  "id": "new-dumbbell-sumo-squat",
+  "name": "Dumbbell Sumo Squat",
+  "aliases": [
+    "dumbbell sumo squat",
+    "sumo squat dumbbell",
+    "bar grip sumo squat",
+    "Dumbbell Bar Grip Sumo Squat"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "quadriceps",
+    "adductors",
+    "hamstrings"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "gluteus maximus",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A lower body exercise using a dumbbell in a sumo stance to target the glutes, quads, and adductors.",
+  "instructions": "Stand with feet wider than shoulder-width, toes pointed out, holding a dumbbell vertically with both hands. Squat down by pushing hips back and knees out, then return to standing.",
+  "steps": [
+    "Stand with feet wide apart, toes angled outward.",
+    "Grip the dumbbell vertically between your legs.",
+    "Keep chest up and core braced.",
+    "Squat down, pushing knees outward.",
+    "Drive through heels to stand up."
+  ],
+  "formCues": [
+    "Knees out",
+    "Keep chest tall",
+    "Sit hips back",
+    "Drive through heels"
+  ],
+  "commonMistakes": [
+    "Letting knees cave in",
+    "Rounding the back",
+    "Shallow squats"
+  ],
+  "breathing": "Inhale as you lower down, exhale as you stand up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-bar-grip-sumo-squat.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-bar-grip-sumo-squat.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-bar-grip-sumo-squat.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-bar-grip-sumo-squat.jpg"
+  }
+}

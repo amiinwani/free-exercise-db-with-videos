@@ -1,0 +1,47 @@
+{
+  "id": "drv-stretching-quadriceps-stretch",
+  "name": "Standing Quadriceps Stretch",
+  "aliases": [
+    "quad stretch",
+    "standing quad stretch"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quadriceps",
+  "secondaryMuscles": [
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A standing stretch that targets the quadriceps for improved flexibility.",
+  "instructions": "While standing, bend one knee and reach back to grasp your foot or ankle. Pull your heel towards your glutes while keeping your knees close together and torso upright. Use support if needed for balance.",
+  "steps": [
+    "Stand upright, balancing on one foot.",
+    "Bend the opposite knee, reaching back for the foot.",
+    "Pull heel gently towards glute while keeping knees together.",
+    "Keep torso tall and hips level.",
+    "Hold the stretch, then switch legs."
+  ],
+  "formCues": [
+    "Knees side by side",
+    "Torso tall",
+    "Engage core",
+    "Breathe steadily"
+  ],
+  "commonMistakes": [
+    "Knees apart",
+    "Leaning forward",
+    "Pulling foot too aggressively"
+  ],
+  "breathing": "Exhale as you pull heel in, inhale as you release.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-quadriceps-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-quadriceps-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-quadriceps-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-quadriceps-stretch.jpg"
+  }
+}

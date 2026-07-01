@@ -1,0 +1,52 @@
+{
+  "id": "0865",
+  "name": "Lying Leg Raise",
+  "aliases": [
+    "floor leg raise",
+    "lying straight leg raise",
+    "supine leg raise",
+    "ab leg raise",
+    "Lying Floor Leg Raise",
+    "lying leg-hip raise"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "hip flexors",
+    "obliques"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A bodyweight exercise that targets the lower abdominal muscles by lifting the legs while lying flat.",
+  "instructions": "Lie flat on your back with your legs extended and arms at your sides or under your hips for support. Keeping legs straight, raise them toward the ceiling until your hips lift slightly off the floor, then lower them back down without touching the ground.",
+  "steps": [
+    "Lie flat on your back, legs straight.",
+    "Keep arms at your sides or under hips.",
+    "Lift legs upward, keeping knees straight.",
+    "Raise legs until hips come up slightly.",
+    "Lower legs slowly without touching the floor."
+  ],
+  "formCues": [
+    "Engage core",
+    "Keep lower back down",
+    "Control descent",
+    "Avoid swinging"
+  ],
+  "commonMistakes": [
+    "Arching lower back",
+    "Using momentum",
+    "Touching feet to ground between reps"
+  ],
+  "breathing": "Exhale as you raise legs, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lying-floor-leg-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lying-floor-leg-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lying-floor-leg-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lying-floor-leg-raise.jpg"
+  }
+}

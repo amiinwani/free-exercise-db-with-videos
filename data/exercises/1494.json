@@ -1,0 +1,51 @@
+{
+  "id": "1494",
+  "name": "Butterfly Yoga Pose",
+  "aliases": [
+    "butterfly stretch",
+    "bound angle pose",
+    "baddha konasana",
+    "Stretching - Butterfly Yoga Pose",
+    "butterfly yoga pose"
+  ],
+  "bodyPart": "upper arms",
+  "target": "adductors",
+  "secondaryMuscles": [
+    "groin",
+    "lower back"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "hip adductors",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated stretch that opens the hips and groin by bringing the feet together and letting the knees fall outward.",
+  "instructions": "Sit on the floor with your back straight, bring the soles of your feet together, and allow your knees to drop out to the sides. Hold your feet with your hands and gently press knees toward the ground for a deeper stretch.",
+  "steps": [
+    "Sit upright with feet together and knees bent out to sides.",
+    "Hold your feet with your hands.",
+    "Keep spine tall and shoulders relaxed.",
+    "Gently press knees toward the floor.",
+    "Hold the position, breathing deeply."
+  ],
+  "formCues": [
+    "Keep chest tall",
+    "Relax the hips",
+    "Don't force knees down",
+    "Engage core lightly"
+  ],
+  "commonMistakes": [
+    "Rounding the back",
+    "Bouncing knees",
+    "Forcing knees down"
+  ],
+  "breathing": "Breathe evenly throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-butterfly-yoga-pose.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-butterfly-yoga-pose.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-butterfly-yoga-pose.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-butterfly-yoga-pose.jpg"
+  }
+}

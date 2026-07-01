@@ -1,0 +1,54 @@
+{
+  "id": "0593",
+  "name": "Lever Reverse Hyperextension",
+  "aliases": [
+    "reverse hyperextension machine",
+    "lever reverse hyper",
+    "machine reverse hyperextension",
+    "reverse leg raise machine",
+    "glute raise on machine",
+    "lever reverse hyperextension"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A machine glute and hamstring exercise where you raise your legs behind you while lying face down on a pad.",
+  "instructions": "Adjust the leverage machine to fit your body and secure your feet in the foot pads. Lie face down on the machine with your upper body hanging off the edge and your hips resting on the pad. Cross your arms over your chest or place them behind your head. Engage your glutes and hamstrings to lift your legs upward until they are parallel to the ground. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Adjust the machine so your hips rest on the pad and your legs can hang freely.",
+    "Lie face down with your torso supported and grip the handles or sides for stability.",
+    "Place your feet against the foot pads and let your legs hang down under control.",
+    "Brace your midsection and squeeze your glutes to raise your legs behind you.",
+    "Lift until your legs are about in line with your torso without arching your lower back.",
+    "Lower your legs slowly to the start position and repeat."
+  ],
+  "formCues": [
+    "Lift with your glutes",
+    "Keep hips on the pad",
+    "Control the swing",
+    "Stop at torso level"
+  ],
+  "commonMistakes": [
+    "Swinging the legs up with momentum",
+    "Arching the lower back at the top",
+    "Letting the hips slide off the pad",
+    "Bending and straightening the knees during each rep"
+  ],
+  "breathing": "Inhale as you lower your legs, and exhale as you raise them behind you.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-reverse-hyperextension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-reverse-hyperextension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-reverse-hyperextension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-reverse-hyperextension.jpg"
+  }
+}

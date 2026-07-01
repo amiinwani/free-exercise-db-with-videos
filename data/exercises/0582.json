@@ -1,0 +1,53 @@
+{
+  "id": "0582",
+  "name": "Lever Kneeling Leg Curl",
+  "aliases": [
+    "kneeling leg curl",
+    "lever kneeling leg curl",
+    "machine kneeling leg curl",
+    "kneeling hamstring curl",
+    "hamstring curl machine",
+    "kneeling leg curl machine"
+  ],
+  "bodyPart": "upper legs",
+  "target": "hamstrings",
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "glutes",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A machine hamstring exercise done kneeling, curling the lower legs toward the glutes by bending the knees.",
+  "instructions": "Adjust the machine to fit your body and select the desired weight. Kneel on the machine facing downwards, with your knees resting on the pad and your feet secured under the footpads. Grasp the handles or the sides of the machine for stability. Keeping your upper body stationary, exhale and curl your legs up towards your glutes by flexing your knees. Pause for a moment at the top of the movement, squeezing your hamstrings. Inhale and slowly lower your legs back to the starting position, fully extending your knees. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Adjust the machine so your knees line up with the machine's pivot point and your ankles sit securely under the pads.",
+    "Kneel on the pad facing the machine, brace your torso against the support, and grip the handles.",
+    "Start with your legs extended behind you and keep your hips still.",
+    "Curl your heels up toward your glutes by bending your knees against the pads.",
+    "Pause briefly at the top and squeeze your hamstrings.",
+    "Lower the pads under control until your legs are straight again."
+  ],
+  "formCues": [
+    "Keep hips glued down",
+    "Curl through the knees",
+    "Move slowly on the way down",
+    "Squeeze hamstrings at the top"
+  ],
+  "commonMistakes": [
+    "Lifting the hips off the pad during the curl",
+    "Swinging the legs to start each rep",
+    "Stopping short and not straightening the knees at the bottom",
+    "Letting the ankles slip out of the pads"
+  ],
+  "breathing": "Exhale as you curl your heels up, and inhale as you lower back to the start.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-kneeling-leg-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-kneeling-leg-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-kneeling-leg-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-kneeling-leg-curl.jpg"
+  }
+}

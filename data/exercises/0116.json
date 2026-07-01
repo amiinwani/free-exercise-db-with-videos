@@ -1,0 +1,55 @@
+{
+  "id": "0116",
+  "name": "Barbell Straight Leg Deadlift",
+  "aliases": [
+    "straight leg deadlift",
+    "SLDL",
+    "barbell SLDL",
+    "stiff leg deadlift",
+    "stiff-legged barbell deadlift",
+    "barbell hamstring deadlift",
+    "barbell straight leg deadlift"
+  ],
+  "bodyPart": "upper legs",
+  "target": "hamstrings",
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "glutes",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A barbell hip hinge that trains the hamstrings and glutes by lowering the bar down the legs with minimal knee bend.",
+  "instructions": "Stand with your feet shoulder-width apart and your toes pointing forward. Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Bend at your hips and lower the barbell towards the ground, keeping your back straight and your knees slightly bent. Lower the barbell until you feel a stretch in your hamstrings. Engage your hamstrings and glutes to lift the barbell back up to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with your feet hip-width apart and hold the barbell in front of your thighs with straight arms.",
+    "Soften your knees slightly and brace your midsection.",
+    "Push your hips back and lower the bar down your legs while keeping your back flat and your legs nearly straight.",
+    "Lower until the bar reaches mid-shin or until you feel a strong hamstring stretch without losing your back position.",
+    "Drive your hips forward and stand tall, keeping the bar close to your legs the whole way up.",
+    "Finish with your hips locked out and shoulders stacked over your hips."
+  ],
+  "formCues": [
+    "Hips back, not down",
+    "Keep the bar close",
+    "Soft knees, flat back",
+    "Stand tall and squeeze glutes"
+  ],
+  "commonMistakes": [
+    "Bending the knees into a squat as the bar lowers",
+    "Letting the bar drift forward away from the legs",
+    "Rounding the lower back near the bottom",
+    "Jerking the bar off the bottom instead of lifting smoothly"
+  ],
+  "breathing": "Inhale and brace before hinging down, then exhale as you drive your hips forward to stand up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-straight-leg-deadlift.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-straight-leg-deadlift.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-straight-leg-deadlift.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-straight-leg-deadlift.jpg"
+  }
+}

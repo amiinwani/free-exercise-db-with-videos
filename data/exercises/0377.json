@@ -1,0 +1,52 @@
+{
+  "id": "0377",
+  "name": "Dumbbell Rear Delt Row",
+  "aliases": [
+    "dumbbell rear delt row",
+    "rear delt dumbbell row",
+    "bent-over rear delt row",
+    "rear shoulder dumbbell row",
+    "bent-over dumbbell rear fly row"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "trapezius",
+    "rhomboids"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "trapezius",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bent-over dumbbell row variation that targets the rear delts by pulling the elbows out wide to the sides.",
+  "instructions": "Stand with your feet shoulder-width apart and knees slightly bent. Hold a dumbbell in each hand with your palms facing your body. Bend forward at the waist, keeping your back straight and your core engaged. Extend your arms straight down towards the floor, with a slight bend in your elbows. Raise the dumbbells out to the sides, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand with your feet hip- to shoulder-width apart, holding a dumbbell in each hand at your sides.",
+    "Hinge at your hips until your torso is leaned forward, soften your knees, and let the dumbbells hang below your shoulders with your palms facing each other.",
+    "Brace your core and keep your back flat as you pull your elbows up and out to the sides.",
+    "Lift until your upper arms are roughly in line with your shoulders and squeeze your upper back.",
+    "Lower the dumbbells under control to the start position and repeat."
+  ],
+  "formCues": [
+    "Lead with your elbows.",
+    "Keep your back flat.",
+    "Raise arms out, not back.",
+    "Squeeze shoulder blades together."
+  ],
+  "commonMistakes": [
+    "Rounding the lower back as you hinge forward.",
+    "Shrugging the shoulders up toward the ears.",
+    "Pulling the dumbbells straight back close to the ribs.",
+    "Swinging the torso to start each rep."
+  ],
+  "breathing": "Inhale as you lower the dumbbells, and exhale as you row them up and out to the sides.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-rear-delt-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-rear-delt-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-rear-delt-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-rear-delt-row.jpg"
+  }
+}

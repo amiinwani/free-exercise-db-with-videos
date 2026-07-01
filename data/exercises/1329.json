@@ -1,0 +1,55 @@
+{
+  "id": "1329",
+  "name": "Dumbbell Palm Rotational Bent Over Row",
+  "aliases": [
+    "dumbbell palm rotational bent-over row",
+    "rotating dumbbell bent-over row",
+    "dumbbell twist row",
+    "pronating dumbbell row",
+    "bent-over dumbbell row with rotation",
+    "twisting bent-over row",
+    "dumbbell palm rotational bent over row"
+  ],
+  "bodyPart": "back",
+  "target": "upper back",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "biceps",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bent-over dumbbell row where you rotate your palms during the pull to train the upper back, biceps, and forearms.",
+  "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. Bend forward at the hips, keeping your back straight and your knees slightly bent. Let your arms hang straight down, palms facing your body. Engage your core and pull the dumbbells up towards your chest, keeping your elbows close to your body. As you pull the dumbbells up, rotate your palms so they face away from your body. Squeeze your shoulder blades together at the top of the movement. Slowly lower the dumbbells back down to the starting position, rotating your palms back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand with your feet hip-width apart, holding a dumbbell in each hand with your arms straight and palms facing each other.",
+    "Hinge at your hips until your torso is leaned forward, soften your knees, and keep your back flat.",
+    "Let the dumbbells hang below your shoulders and brace your core.",
+    "Row both dumbbells toward your lower ribs by driving your elbows back.",
+    "Rotate your palms as you lift until they face more backward or away from your body at the top.",
+    "Pause and squeeze your upper back, then lower the dumbbells with control as you rotate your palms back to neutral."
+  ],
+  "formCues": [
+    "Keep your back flat",
+    "Drive elbows back",
+    "Rotate through the pull",
+    "Squeeze shoulder blades together"
+  ],
+  "commonMistakes": [
+    "Rounding the lower back as you hinge forward",
+    "Standing up taller to swing the dumbbells",
+    "Shrugging the shoulders toward the ears",
+    "Letting the wrists curl instead of rotating the forearms"
+  ],
+  "breathing": "Inhale at the bottom, exhale as you row and rotate the dumbbells up, then inhale as you lower them back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-palm-rotational-bent-over-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-palm-rotational-bent-over-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-palm-rotational-bent-over-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-palm-rotational-bent-over-row.jpg"
+  }
+}

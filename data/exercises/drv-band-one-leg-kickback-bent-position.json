@@ -1,0 +1,49 @@
+{
+  "id": "drv-band-one-leg-kickback-bent-position",
+  "name": "Band One-Leg Kickback (Bent Position)",
+  "aliases": [
+    "band glute kickback",
+    "resistance band kickback",
+    "band donkey kick"
+  ],
+  "bodyPart": "back",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "equipment": "band",
+  "muscleGroup": "gluteus maximus",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A glute-focused kickback performed from a bent-over position using a resistance band for added intensity.",
+  "instructions": "Secure a resistance band around your working ankle and a sturdy anchor. Start on all fours with knees bent, kick one leg back against the band's resistance while keeping your core tight, then return and repeat for reps before switching sides.",
+  "steps": [
+    "Anchor the band and loop it around your working ankle.",
+    "Start on all fours with hands under shoulders and knees bent.",
+    "Engage your core and extend one leg backward against band resistance.",
+    "Pause and squeeze the glute at the top.",
+    "Return to starting position and repeat for desired reps, then switch legs."
+  ],
+  "formCues": [
+    "Keep back flat",
+    "Drive heel upward",
+    "Squeeze glutes",
+    "Avoid arching lower back"
+  ],
+  "commonMistakes": [
+    "Sagging the lower back",
+    "Rotating the hips",
+    "Using momentum"
+  ],
+  "breathing": "Exhale as you kick back, inhale as you bring the knee in.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-one-leg-kickback-bent-position.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-one-leg-kickback-bent-position.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-one-leg-kickback-bent-position.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-one-leg-kickback-bent-position.jpg"
+  }
+}

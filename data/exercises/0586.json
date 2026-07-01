@@ -1,0 +1,53 @@
+{
+  "id": "0586",
+  "name": "Lever Lying Leg Curl",
+  "aliases": [
+    "lying leg curl",
+    "machine lying leg curl",
+    "prone leg curl",
+    "hamstring curl machine",
+    "leg curl machine",
+    "lever lying leg curl"
+  ],
+  "bodyPart": "upper legs",
+  "target": "hamstrings",
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "calves",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A machine hamstring exercise done face down by bending the knees to curl a padded lever toward the glutes.",
+  "instructions": "Adjust the machine to fit your body and select the desired weight. Lie face down on the machine with your legs straight and your heels against the padded lever. Grasp the handles or the sides of the machine for stability. Keeping your upper body stationary, exhale and curl your legs up as far as possible without lifting your hips off the pad. Hold the contracted position for a brief pause as you squeeze your hamstrings. Inhale and slowly lower the lever back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Adjust the machine so your knees line up with the machine's pivot and the pad rests against the back of your lower legs above your heels.",
+    "Lie face down on the bench with your legs straight and grab the handles or bench edges for support.",
+    "Press your hips into the pad and point your toes forward to set your start position.",
+    "Curl the pad upward by bending your knees until your heels move toward your glutes.",
+    "Pause briefly at the top while keeping your hips down and thighs on the pad.",
+    "Lower the pad back down under control until your legs are straight again."
+  ],
+  "formCues": [
+    "Keep hips glued down",
+    "Curl through the hamstrings",
+    "Move slow on the way down",
+    "Knees stay in line"
+  ],
+  "commonMistakes": [
+    "Lifting the hips off the pad at the top",
+    "Using momentum to swing the pad upward",
+    "Stopping short and not fully lowering the pad",
+    "Feet turning sharply inward or outward during the curl"
+  ],
+  "breathing": "Exhale as you curl the pad up, and inhale as you lower it back down under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-lying-leg-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-lying-leg-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-lying-leg-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-lying-leg-curl.jpg"
+  }
+}

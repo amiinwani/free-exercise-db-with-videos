@@ -1,0 +1,48 @@
+{
+  "id": "1428",
+  "name": "Wrist Circles",
+  "aliases": [
+    "wrist mobility",
+    "wrist rotations",
+    "joint circles",
+    "Stretching - Wrist Circles",
+    "wrist circles"
+  ],
+  "bodyPart": "lower arms",
+  "target": "forearms",
+  "secondaryMuscles": [],
+  "equipment": "body weight",
+  "muscleGroup": "forearm flexors and extensors",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A warm-up and mobility exercise to increase wrist flexibility and circulation in the forearms.",
+  "instructions": "Extend your arms in front or to your sides. Make fists or keep hands open, then slowly rotate wrists in circular motions, both clockwise and counterclockwise.",
+  "steps": [
+    "Extend arms out in front or to sides.",
+    "Make fists or keep hands open.",
+    "Slowly rotate wrists in circular motions.",
+    "Perform several circles in one direction.",
+    "Switch direction and repeat."
+  ],
+  "formCues": [
+    "Move slowly",
+    "Full range of motion",
+    "Stay relaxed",
+    "Breathe steadily"
+  ],
+  "commonMistakes": [
+    "Moving arms instead of wrists",
+    "Rushing motions",
+    "Holding breath"
+  ],
+  "breathing": "Breathe evenly throughout the movement.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-wrist-circles.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-wrist-circles.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-wrist-circles.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-wrist-circles.jpg"
+  }
+}

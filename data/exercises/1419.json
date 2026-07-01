@@ -1,0 +1,54 @@
+{
+  "id": "1419",
+  "name": "Iron Cross Stretch",
+  "aliases": [
+    "supine iron cross",
+    "lying spinal twist stretch",
+    "cross-body spinal stretch",
+    "Stretching - Iron Cross Stretch",
+    "iron cross stretch"
+  ],
+  "bodyPart": "waist",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "erector spinae",
+    "gluteus medius",
+    "gluteus maximus",
+    "pectoralis major"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "obliquus externus abdominis",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A lying rotational stretch that improves spinal mobility and stretches the obliques and lower back.",
+  "instructions": "Lie on your back with arms spread out in a 'T' position. Lift one leg straight up and sweep it across your body to the opposite side, letting it fall toward the floor while keeping your shoulders flat. Hold the position, feeling a stretch through your torso and hip.",
+  "steps": [
+    "Lie on your back with arms extended out to the sides.",
+    "Lift one leg straight up towards the ceiling.",
+    "Sweep the raised leg across your body to the opposite side.",
+    "Allow your foot to touch or lower towards the floor.",
+    "Hold the stretch, then switch legs."
+  ],
+  "formCues": [
+    "Shoulders stay flat",
+    "Sweep leg slowly",
+    "Breathe deeply into stretch",
+    "Relax into the twist"
+  ],
+  "commonMistakes": [
+    "Lifting shoulders off the floor",
+    "Twisting too quickly",
+    "Holding breath",
+    "Allowing hips to pop up"
+  ],
+  "breathing": "Exhale as you move into the twist, inhale as you return to center.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-iron-cross-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-iron-cross-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-iron-cross-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-iron-cross-stretch.jpg"
+  }
+}

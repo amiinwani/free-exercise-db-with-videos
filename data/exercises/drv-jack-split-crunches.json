@@ -1,0 +1,49 @@
+{
+  "id": "drv-jack-split-crunches",
+  "name": "Jackknife Split Crunch",
+  "aliases": [
+    "jack split crunch",
+    "split jackknife crunch",
+    "jackknife crunch with split",
+    "split jack crunch"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "hip flexors",
+    "obliques",
+    "adductors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A crunch variation combining a V-up with a leg split to target the abs and hip flexors.",
+  "instructions": "Lie flat on your back with legs extended and arms overhead. Simultaneously lift your torso and legs while spreading your feet apart (splitting legs) and reaching your hands towards your feet. Lower back to the starting position with control.",
+  "steps": [
+    "Lie on your back with arms extended overhead and legs straight.",
+    "Engage your core and simultaneously lift your torso and legs off the ground.",
+    "As you rise, spread your legs into a split while reaching your hands toward your feet.",
+    "Pause at the top, squeezing your abs.",
+    "Lower your legs and torso back to the ground with control, bringing feet together."
+  ],
+  "formCues": [
+    "Keep core tight",
+    "Don't arch lower back",
+    "Lead with chest",
+    "Controlled split"
+  ],
+  "commonMistakes": [
+    "Swinging the legs",
+    "Using momentum",
+    "Arching the lower back"
+  ],
+  "breathing": "Exhale when crunching up, inhale when lowering down.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jack-split-crunches.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jack-split-crunches.jpg"
+  }
+}

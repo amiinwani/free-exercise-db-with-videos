@@ -1,0 +1,52 @@
+{
+  "id": "0484",
+  "name": "Standing Knee Raise Stretch",
+  "aliases": [
+    "knee hug stretch",
+    "standing hip flexor stretch",
+    "dynamic knee raise stretch",
+    "Stretching - Knee Raise",
+    "hip raise (bent knee)"
+  ],
+  "bodyPart": "upper legs",
+  "target": "hip flexors",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "iliopsoas",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A stretch that targets the hip flexors and glutes by pulling one knee toward the chest while standing.",
+  "instructions": "Stand upright and balance on one foot. Lift one knee up toward your chest, grasping it with both hands and pulling gently until you feel a stretch in the hip and glute. Hold briefly, lower, and repeat on the other leg.",
+  "steps": [
+    "Stand tall with feet together.",
+    "Lift one knee toward your chest.",
+    "Grasp your knee with both hands.",
+    "Pull the knee gently toward your chest, feeling the stretch.",
+    "Hold, then lower and repeat on the opposite leg."
+  ],
+  "formCues": [
+    "Keep torso upright",
+    "Engage core",
+    "Use arms to pull knee gently",
+    "Do not lean back"
+  ],
+  "commonMistakes": [
+    "Rounding shoulders",
+    "Pulling too forcefully",
+    "Losing balance"
+  ],
+  "breathing": "Exhale as you pull the knee up, inhale as you release.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-knee-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-knee-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-knee-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-knee-raise.jpg"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "drv-stretching-stairs-calf-stretch",
+  "name": "Stairs Calf Stretch",
+  "aliases": [
+    "calf stretch on step",
+    "step calf stretch",
+    "calf stair stretch"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "achilles tendon"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "gastrocnemius, soleus",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A stretch performed using stairs to lengthen and increase flexibility in the calf muscles.",
+  "instructions": "Stand on the edge of a step with your heels hanging off. Slowly lower your heels toward the ground, feeling the stretch in your calves. Hold, then return to starting position or alternate legs.",
+  "steps": [
+    "Stand with the balls of your feet on a step or stair.",
+    "Support yourself with a railing, wall, or sturdy object.",
+    "Lower your heels slowly below the step to feel a stretch in your calves.",
+    "Hold the stretch for 15-30 seconds.",
+    "Raise heels back up and repeat as desired."
+  ],
+  "formCues": [
+    "Keep knees straight but not locked",
+    "Lower heels gradually",
+    "Engage core for balance",
+    "Avoid bouncing"
+  ],
+  "commonMistakes": [
+    "Letting heels drop too fast",
+    "Rounding your back",
+    "Bouncing during stretch"
+  ],
+  "breathing": "Exhale as you lower into the stretch, inhale as you return.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-stairs-calf-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-stairs-calf-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-stairs-calf-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-stairs-calf-stretch.jpg"
+  }
+}

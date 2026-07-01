@@ -1,0 +1,53 @@
+{
+  "id": "0407",
+  "name": "Dumbbell Side Bend",
+  "aliases": [
+    "side bend",
+    "dumbbell oblique side bend",
+    "one-arm dumbbell side bend",
+    "standing dumbbell side bend",
+    "weighted side bend",
+    "dumbbell side bend"
+  ],
+  "bodyPart": "waist",
+  "target": "abs",
+  "secondaryMuscles": [
+    "obliques"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "obliques",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A standing oblique exercise where you hold one dumbbell and bend your torso sideways under control.",
+  "instructions": "Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand, letting it hang down by your side. Keeping your back straight and your core engaged, slowly bend sideways at the waist towards the opposite side of the dumbbell, lowering the weight as far as you comfortably can. Pause for a moment, then slowly return to the starting position. Repeat for the desired number of repetitions, then switch sides and repeat.",
+  "steps": [
+    "Stand tall with your feet about hip-width apart and hold a dumbbell in one hand at your side.",
+    "Place your other hand on your hip or behind your head and brace your stomach.",
+    "Keep your chest up and slowly bend your torso sideways away from the dumbbell.",
+    "Lower the dumbbell down the side of your leg as far as you can without twisting or leaning forward.",
+    "Squeeze your obliques and return to standing tall.",
+    "Complete all reps on one side, then switch hands and repeat."
+  ],
+  "formCues": [
+    "Bend only to the side",
+    "Keep chest tall",
+    "Brace your core",
+    "Move slowly and controlled"
+  ],
+  "commonMistakes": [
+    "Twisting the torso as you bend",
+    "Leaning forward instead of sideways",
+    "Shrugging the weighted shoulder up",
+    "Using momentum to swing back up"
+  ],
+  "breathing": "Inhale as you bend sideways, then exhale as you return to standing.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-side-bend.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-side-bend.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-side-bend.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-side-bend.jpg"
+  }
+}

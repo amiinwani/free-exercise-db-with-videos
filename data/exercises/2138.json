@@ -1,0 +1,55 @@
+{
+  "id": "2138",
+  "name": "Stationary Bike",
+  "aliases": [
+    "spin bike",
+    "exercise bike",
+    "upright bike",
+    "recumbent bike",
+    "Stationary Bike",
+    "stationary bike run"
+  ],
+  "bodyPart": "cardio",
+  "target": "cardiovascular system",
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "gluteus maximus",
+    "calves"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "cardiovascular system",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A cardio exercise performed while seated, pedaling a stationary machine to boost heart rate and endurance.",
+  "instructions": "Adjust the seat height and handlebar position for comfort and knee alignment. Pedal continuously at your desired intensity, maintaining good posture throughout the workout.",
+  "steps": [
+    "Set seat and handlebar to appropriate heights.",
+    "Sit upright and grip the handlebars lightly.",
+    "Place feet securely on the pedals.",
+    "Begin pedaling at a comfortable resistance and pace.",
+    "Continue for your intended duration, maintaining good form."
+  ],
+  "formCues": [
+    "Keep back straight",
+    "Drive through full pedal stroke",
+    "Relax shoulders",
+    "Maintain steady breathing"
+  ],
+  "commonMistakes": [
+    "Slouching forward",
+    "Bouncing in the seat",
+    "Pedaling with toes only",
+    "Setting seat too low/high"
+  ],
+  "breathing": "Breathe evenly and deeply throughout the session.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stationary-bike.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stationary-bike.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stationary-bike.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stationary-bike.jpg"
+  }
+}

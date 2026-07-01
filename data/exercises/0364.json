@@ -1,0 +1,51 @@
+{
+  "id": "0364",
+  "name": "Dumbbell Behind-the-Back Wrist Curl",
+  "aliases": [
+    "Behind-Back DB Wrist Curl",
+    "Reverse Wrist Curl",
+    "Standing Dumbbell Wrist Curl",
+    "Dumbbell Behind Back Wrist Curl",
+    "dumbbell one arm wrist curl"
+  ],
+  "bodyPart": "lower arms",
+  "target": "forearms",
+  "secondaryMuscles": [
+    "flexor carpi radialis",
+    "flexor carpi ulnaris"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearm flexors",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A forearm isolation exercise curling a dumbbell behind the back to emphasize forearm flexors.",
+  "instructions": "Stand holding a dumbbell behind your back with your palm facing back. Curl the dumbbell by flexing your wrist, then return to the starting position under control.",
+  "steps": [
+    "Stand with dumbbell held behind your back, arm straight, palm facing backward.",
+    "Allow the dumbbell to roll down your fingers slightly.",
+    "Flex your wrist to curl the dumbbell up.",
+    "Squeeze at the top of the movement.",
+    "Lower the weight back down slowly."
+  ],
+  "formCues": [
+    "Wrist only",
+    "Don’t swing arm",
+    "Full wrist flexion",
+    "Controlled lowering"
+  ],
+  "commonMistakes": [
+    "Using arm instead of wrist",
+    "Incomplete range",
+    "Jerking movement"
+  ],
+  "breathing": "Exhale during curl, inhale lowering down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-behind-back-wrist-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-behind-back-wrist-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-behind-back-wrist-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-behind-back-wrist-curl.jpg"
+  }
+}

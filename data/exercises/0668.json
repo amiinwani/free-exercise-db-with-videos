@@ -1,0 +1,54 @@
+{
+  "id": "0668",
+  "name": "Rear Decline Bridge",
+  "aliases": [
+    "rear decline bridge",
+    "glute bridge",
+    "bodyweight glute bridge",
+    "hip bridge",
+    "floor bridge",
+    "lying hip raise"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bodyweight floor bridge that lifts the hips to train the glutes and hamstrings while keeping the shoulders on the ground.",
+  "instructions": "Lie on your back with your feet flat on the ground and your knees bent. Place your arms by your sides with your palms facing down. Engage your glutes and hamstrings, and lift your hips off the ground until your body forms a straight line from your knees to your shoulders. Hold this position for a few seconds, then slowly lower your hips back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Lie on your back with your knees bent and feet flat on the floor, hip-width apart.",
+    "Place your arms by your sides and press your palms lightly into the floor.",
+    "Brace your midsection and squeeze your glutes.",
+    "Drive through your heels and lift your hips until your knees, hips, and shoulders line up.",
+    "Pause briefly at the top while keeping your ribs down.",
+    "Lower your hips to the floor with control and reset before the next rep."
+  ],
+  "formCues": [
+    "Drive through your heels",
+    "Squeeze glutes at the top",
+    "Keep ribs down",
+    "Don't arch your low back"
+  ],
+  "commonMistakes": [
+    "Pushing through the toes so the heels lift",
+    "Overarching the lower back at the top",
+    "Letting the knees cave inward",
+    "Dropping the hips quickly to the floor"
+  ],
+  "breathing": "Inhale at the bottom, exhale as you lift your hips, and inhale again as you lower with control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/rear-decline-bridge.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/rear-decline-bridge.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/rear-decline-bridge.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/rear-decline-bridge.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "1764",
+  "name": "Hanging Leg Hip Raise",
+  "aliases": [
+    "hanging leg raise",
+    "hanging knee raise",
+    "hanging hip raise",
+    "captain's chair leg raise",
+    "hang and raise your knees",
+    "hanging leg hip raise"
+  ],
+  "bodyPart": "waist",
+  "target": "abs",
+  "secondaryMuscles": [
+    "hip flexors",
+    "lower back"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "hip flexors",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A hanging core exercise where you raise your knees and curl your hips upward to train the abs and hip flexors.",
+  "instructions": "Hang from a pull-up bar with your arms fully extended and your palms facing away from you. Engage your core and lift your legs up by flexing your hips and knees until your thighs are parallel to the ground. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Hang from the bar with both hands and let your body settle into a dead hang.",
+    "Pull your ribs down and brace your midsection to stop excess swinging.",
+    "Bend your knees and lift them toward your chest by curling your hips upward.",
+    "Raise until your thighs are at least parallel to the floor or your knees reach hip height.",
+    "Pause briefly at the top while keeping your torso steady.",
+    "Lower your legs with control until you return to a full hang."
+  ],
+  "formCues": [
+    "Curl pelvis up",
+    "Control the swing",
+    "Ribs down",
+    "Lift knees, not shoulders"
+  ],
+  "commonMistakes": [
+    "Swinging the body to start each rep",
+    "Shrugging the shoulders up toward the ears",
+    "Dropping the legs quickly on the way down",
+    "Only lifting the knees halfway with no hip curl"
+  ],
+  "breathing": "Exhale as you raise your knees and curl your hips up; inhale as you lower back to the hang.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/hanging-leg-hip-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/hanging-leg-hip-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/hanging-leg-hip-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/hanging-leg-hip-raise.jpg"
+  }
+}

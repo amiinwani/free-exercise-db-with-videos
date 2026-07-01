@@ -1,0 +1,53 @@
+{
+  "id": "0186",
+  "name": "Cable Lying Triceps Extension",
+  "aliases": [
+    "lying cable triceps extension",
+    "cable skull crusher",
+    "rope lying triceps extension",
+    "lying rope triceps extension",
+    "triceps extension on bench with cable",
+    "cable lying triceps extension"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A lying cable triceps exercise where you bend and straighten the elbows to move a rope handle over your chest.",
+  "instructions": "Attach a rope handle to a low pulley cable machine. Lie down on a flat bench facing up, with your head towards the cable machine. Grasp the rope handle with both hands, palms facing each other, and extend your arms straight up over your chest. Keeping your upper arms stationary, slowly lower the rope handle towards your forehead by bending your elbows. Pause for a moment at the bottom, then extend your arms back up to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Attach a rope handle to a low cable and place a flat bench in line with the pulley.",
+    "Lie face up on the bench with your head closest to the cable and hold the rope with a neutral grip.",
+    "Press the rope straight above your chest with your arms fully extended.",
+    "Keep your upper arms mostly still and bend your elbows to lower the rope toward your forehead.",
+    "Pause briefly when your elbows are deeply bent.",
+    "Straighten your elbows to return the rope to the start position above your chest."
+  ],
+  "formCues": [
+    "Elbows stay tucked",
+    "Upper arms stay still",
+    "Move only at the elbows",
+    "Finish with straight arms"
+  ],
+  "commonMistakes": [
+    "Letting the elbows flare wide to the sides",
+    "Drifting the upper arms backward and turning it into a pullover",
+    "Lowering the rope behind the head instead of toward the forehead",
+    "Bouncing out of the bottom instead of controlling the cable"
+  ],
+  "breathing": "Inhale as you lower the rope toward your forehead, and exhale as you straighten your elbows back to the start.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-lying-triceps-extension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-lying-triceps-extension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-lying-triceps-extension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-lying-triceps-extension.jpg"
+  }
+}

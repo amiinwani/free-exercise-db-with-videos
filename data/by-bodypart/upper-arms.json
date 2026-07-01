@@ -1,0 +1,2558 @@
+[
+  {
+    "id": "new-band-overhead-triceps-extension",
+    "name": "Band Overhead Triceps Extension",
+    "aliases": [
+      "band overhead triceps extension",
+      "resistance band overhead triceps extension",
+      "overhead band triceps extension",
+      "band triceps extension",
+      "band overhead extension",
+      "overhead triceps with band"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "shoulders",
+      "core"
+    ],
+    "equipment": "band",
+    "muscleGroup": "upper arms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing band triceps exercise where you extend your elbows overhead while keeping your upper arms mostly fixed.",
+    "instructions": "Anchor a resistance band low behind you or hold it under your feet. Face away, grip the band with both hands and arms overhead, elbows bent. Extend your arms fully overhead while keeping elbows stationary, then return to the starting position with control.",
+    "steps": [
+      "Stand on the middle of the band with feet hip-width apart and hold one end in each hand.",
+      "Raise your hands overhead and bend your elbows so your hands move behind your head.",
+      "Keep your upper arms close to your ears and brace your midsection.",
+      "Straighten your elbows to press the band overhead until your arms are fully extended.",
+      "Pause briefly at the top, then bend your elbows slowly to return behind your head.",
+      "Repeat without letting your elbows flare wide."
+    ],
+    "formCues": [
+      "Elbows point forward",
+      "Upper arms stay still",
+      "Brace your ribs down",
+      "Fully straighten the elbows"
+    ],
+    "commonMistakes": [
+      "Elbows flare out to the sides",
+      "Lower back arches as the band goes overhead",
+      "Upper arms drift forward and backward",
+      "Only moving partway instead of fully extending"
+    ],
+    "breathing": "Inhale as you lower your hands behind your head, and exhale as you straighten your elbows overhead.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-overhead-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-overhead-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-overhead-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-overhead-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "new-band-triceps-pushdown",
+    "name": "Band Triceps Pushdown",
+    "aliases": [
+      "band triceps pushdown",
+      "resistance band triceps pushdown",
+      "band pushdown",
+      "triceps band pushdown",
+      "band pressdown",
+      "band triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "band",
+    "muscleGroup": "upper arms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "An isolation triceps exercise using an overhead-anchored band to straighten the elbows against resistance.",
+    "instructions": "Secure a resistance band to a high anchor. Stand facing the band, grasping it with both hands and elbows at your sides. Extend your arms downward, fully straightening the elbows, then return with control to the starting position.",
+    "steps": [
+      "Anchor the band overhead and stand facing it with a handle or end in each hand.",
+      "Bend your elbows to about 90 degrees and pin your upper arms close to your sides.",
+      "Brace your torso and press your hands straight down until your elbows fully extend.",
+      "Pause briefly at the bottom and squeeze your triceps.",
+      "Slowly let the band rise back up until your forearms return to the start position.",
+      "Repeat without letting your elbows drift forward or outward."
+    ],
+    "formCues": [
+      "Elbows pinned to sides",
+      "Only move the forearms",
+      "Stand tall",
+      "Squeeze at lockout"
+    ],
+    "commonMistakes": [
+      "Upper arms swinging forward and back",
+      "Elbows flaring away from the torso",
+      "Leaning body weight onto the band",
+      "Stopping short of full elbow extension"
+    ],
+    "breathing": "Exhale as you press the band down, and inhale as you return to the start.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-triceps-pushdown.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-triceps-pushdown.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-triceps-pushdown.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-triceps-pushdown.jpg"
+    }
+  },
+  {
+    "id": "0030",
+    "name": "Barbell Close Grip Bench Press",
+    "aliases": [
+      "close grip bench press",
+      "narrow grip bench press",
+      "triceps bench press",
+      "Barbell Close Grip Bench Press",
+      "barbell close-grip bench press"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "pectorals",
+      "anterior deltoid"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "Bench press variation with close grip targeting triceps along with chest and shoulders.",
+    "instructions": "Lie on a bench with feet flat, grip the barbell with hands about shoulder-width apart or slightly narrower. Lower the bar to your lower chest while keeping elbows tucked. Press the bar back up, focusing on extending through your triceps.",
+    "steps": [
+      "Lie on bench and grasp barbell with close grip.",
+      "Unrack and position bar above lower chest.",
+      "Lower bar slowly, elbows close to sides.",
+      "Touch chest briefly, then press bar to starting position.",
+      "Repeat for reps."
+    ],
+    "formCues": [
+      "Tuck elbows",
+      "Grip just inside shoulder width",
+      "Press through triceps",
+      "Control the descent"
+    ],
+    "commonMistakes": [
+      "Gripping too narrow or wide",
+      "Elbows flaring out",
+      "Bouncing bar on chest"
+    ],
+    "breathing": "Exhale pressing up, inhale lowering bar.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-close-grip-bench-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-close-grip-bench-press.jpg"
+    }
+  },
+  {
+    "id": "0031",
+    "name": "Barbell Curl",
+    "aliases": [
+      "barbell curl",
+      "barbell biceps curl",
+      "standing barbell curl",
+      "BB curl",
+      "straight bar curl",
+      "barbell arm curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing biceps exercise where you curl a barbell from your thighs to shoulder height with an underhand grip.",
+    "instructions": "Stand up straight with your feet shoulder-width apart and hold a barbell with an underhand grip, palms facing forward. Keep your elbows close to your torso and exhale as you curl the weights while contracting your biceps. Continue to raise the bar until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale as you slowly begin to lower the bar back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet hip-width apart and hold the barbell at your thighs with an underhand grip.",
+      "Set your shoulders back, brace your torso, and keep your elbows pinned by your sides.",
+      "Curl the bar upward by bending your elbows until the bar reaches about shoulder height.",
+      "Pause briefly at the top and squeeze your biceps without letting your elbows drift forward.",
+      "Lower the bar slowly back to your thighs until your arms are straight."
+    ],
+    "formCues": [
+      "Elbows stay by your sides",
+      "Lift with the biceps",
+      "Keep wrists straight",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Swinging the torso to start the bar moving",
+      "Letting the elbows drift forward as the bar rises",
+      "Bending the wrists back instead of keeping them neutral",
+      "Dropping the bar quickly on the way down"
+    ],
+    "breathing": "Exhale as you curl the bar up, and inhale as you lower it back down under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-curl.jpg"
+    }
+  },
+  {
+    "id": "0038",
+    "name": "Barbell Drag Curl",
+    "aliases": [
+      "drag curl",
+      "barbell biceps drag curl",
+      "bar drag curl",
+      "drag bicep curl",
+      "close-body barbell curl",
+      "barbell drag curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "forearms",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A barbell biceps curl variation where the bar stays close to the torso and the elbows move back as you lift.",
+    "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip, palms facing up. Let the barbell hang at arm's length in front of your thighs. Keeping your upper arms stationary, curl the barbell up towards your chest by contracting your biceps. Pause for a moment at the top, then slowly lower the barbell back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with feet about hip-width apart and hold the barbell with an underhand grip at your thighs.",
+      "Pull your shoulders slightly back and keep your elbows behind your torso.",
+      "Curl the bar upward by sliding it close along the front of your body as your elbows travel back.",
+      "Lift until the bar reaches your upper stomach or lower chest without letting it drift away from you.",
+      "Lower the barbell slowly along the same path until your arms are straight again."
+    ],
+    "formCues": [
+      "Keep the bar close",
+      "Drive elbows back",
+      "Chest tall",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Letting the bar swing forward away from the body",
+      "Bending the wrists back as the bar rises",
+      "Rocking the torso to start the curl",
+      "Flaring the elbows out to the sides"
+    ],
+    "breathing": "Inhale at the bottom, exhale as you drag-curl the bar up, and inhale as you lower it back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-drag-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-drag-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-drag-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-drag-curl.jpg"
+    }
+  },
+  {
+    "id": "0072",
+    "name": "Barbell Prone Incline Curl",
+    "aliases": [
+      "prone incline barbell curl",
+      "incline chest-supported barbell curl",
+      "face-down incline barbell curl",
+      "barbell spider curl",
+      "incline biceps curl with barbell",
+      "barbell prone incline curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A chest-supported biceps curl on an incline bench using a barbell to isolate elbow flexion with minimal body swing.",
+    "instructions": "Set up an incline bench at a 45-degree angle. Lie face down on the bench with your chest and stomach resting against it. Hold a barbell with an underhand grip, shoulder-width apart. Extend your arms fully, allowing the barbell to hang down towards the floor. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the barbell until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the barbell back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench and lie face down with your chest supported and your feet planted on the floor.",
+      "Hold the barbell with an underhand grip about shoulder-width apart and let your arms hang straight down.",
+      "Brace your torso against the bench and keep your upper arms still.",
+      "Curl the barbell upward by bending your elbows until the bar reaches near the front of your shoulders.",
+      "Squeeze your biceps briefly at the top without lifting your chest off the bench.",
+      "Lower the barbell under control until your elbows are fully extended again."
+    ],
+    "formCues": [
+      "Keep elbows pinned",
+      "Curl, don't swing",
+      "Chest stays on bench",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Lifting the chest off the bench to help the bar up",
+      "Letting the elbows drift forward during the curl",
+      "Using body swing or kicking the legs to create momentum",
+      "Dropping the bar quickly instead of lowering it under control"
+    ],
+    "breathing": "Inhale at the bottom, exhale as you curl the bar up, and inhale again as you lower it back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-prone-incline-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-prone-incline-curl.jpg"
+    }
+  },
+  {
+    "id": "drv-bench-dips",
+    "name": "Bench Dips",
+    "aliases": [
+      "triceps dips",
+      "bodyweight dips on bench",
+      "bench tricep dips"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "pectorals",
+      "anterior deltoids"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "Bench dips are a bodyweight exercise targeting the triceps by lowering and raising the body using a bench for support.",
+    "instructions": "Sit on the edge of a stable bench and place your hands next to your hips, fingers forward. Slide your hips off the edge, keeping your legs extended, and lower your body by bending your elbows until your upper arms are roughly parallel to the floor, then press back up to the starting position.",
+    "steps": [
+      "Sit on a bench and place your hands beside your hips, gripping the edge.",
+      "Extend your legs out in front with heels on the floor.",
+      "Slide your hips off the bench, supporting your weight with your arms.",
+      "Lower your body by bending your elbows to about 90 degrees.",
+      "Push through your palms to extend your elbows and return to the start."
+    ],
+    "formCues": [
+      "Keep elbows close to body",
+      "Lower slowly and with control",
+      "Keep chest tall",
+      "Avoid shrugging shoulders"
+    ],
+    "commonMistakes": [
+      "Allowing elbows to flare out",
+      "Shrugging shoulders upward",
+      "Dropping hips too low"
+    ],
+    "breathing": "Inhale as you lower down, exhale as you press upward.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/bench-dips.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/bench-dips.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/bench-dips.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/bench-dips.jpg"
+    }
+  },
+  {
+    "id": "1494",
+    "name": "Butterfly Yoga Pose",
+    "aliases": [
+      "butterfly stretch",
+      "bound angle pose",
+      "baddha konasana",
+      "Stretching - Butterfly Yoga Pose",
+      "butterfly yoga pose"
+    ],
+    "bodyPart": "upper arms",
+    "target": "adductors",
+    "secondaryMuscles": [
+      "groin",
+      "lower back"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "hip adductors",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated stretch that opens the hips and groin by bringing the feet together and letting the knees fall outward.",
+    "instructions": "Sit on the floor with your back straight, bring the soles of your feet together, and allow your knees to drop out to the sides. Hold your feet with your hands and gently press knees toward the ground for a deeper stretch.",
+    "steps": [
+      "Sit upright with feet together and knees bent out to sides.",
+      "Hold your feet with your hands.",
+      "Keep spine tall and shoulders relaxed.",
+      "Gently press knees toward the floor.",
+      "Hold the position, breathing deeply."
+    ],
+    "formCues": [
+      "Keep chest tall",
+      "Relax the hips",
+      "Don't force knees down",
+      "Engage core lightly"
+    ],
+    "commonMistakes": [
+      "Rounding the back",
+      "Bouncing knees",
+      "Forcing knees down"
+    ],
+    "breathing": "Breathe evenly throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-butterfly-yoga-pose.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-butterfly-yoga-pose.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-butterfly-yoga-pose.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-butterfly-yoga-pose.jpg"
+    }
+  },
+  {
+    "id": "0186",
+    "name": "Cable Lying Triceps Extension",
+    "aliases": [
+      "lying cable triceps extension",
+      "cable skull crusher",
+      "rope lying triceps extension",
+      "lying rope triceps extension",
+      "triceps extension on bench with cable",
+      "cable lying triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A lying cable triceps exercise where you bend and straighten the elbows to move a rope handle over your chest.",
+    "instructions": "Attach a rope handle to a low pulley cable machine. Lie down on a flat bench facing up, with your head towards the cable machine. Grasp the rope handle with both hands, palms facing each other, and extend your arms straight up over your chest. Keeping your upper arms stationary, slowly lower the rope handle towards your forehead by bending your elbows. Pause for a moment at the bottom, then extend your arms back up to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Attach a rope handle to a low cable and place a flat bench in line with the pulley.",
+      "Lie face up on the bench with your head closest to the cable and hold the rope with a neutral grip.",
+      "Press the rope straight above your chest with your arms fully extended.",
+      "Keep your upper arms mostly still and bend your elbows to lower the rope toward your forehead.",
+      "Pause briefly when your elbows are deeply bent.",
+      "Straighten your elbows to return the rope to the start position above your chest."
+    ],
+    "formCues": [
+      "Elbows stay tucked",
+      "Upper arms stay still",
+      "Move only at the elbows",
+      "Finish with straight arms"
+    ],
+    "commonMistakes": [
+      "Letting the elbows flare wide to the sides",
+      "Drifting the upper arms backward and turning it into a pullover",
+      "Lowering the rope behind the head instead of toward the forehead",
+      "Bouncing out of the bottom instead of controlling the cable"
+    ],
+    "breathing": "Inhale as you lower the rope toward your forehead, and exhale as you straighten your elbows back to the start.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-lying-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-lying-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-lying-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-lying-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "0190",
+    "name": "Cable One Arm Curl",
+    "aliases": [
+      "single-arm cable curl",
+      "one-arm cable biceps curl",
+      "cable single arm curl",
+      "single hand cable curl",
+      "standing one-arm cable curl",
+      "one arm curl cable",
+      "cable one arm curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A single-arm cable biceps exercise where you curl a handle upward while keeping your elbow tucked at your side.",
+    "instructions": "Stand facing the cable machine with your feet shoulder-width apart. Grasp the cable handle with an underhand grip, palm facing up. Keep your elbow close to your side and slowly curl your forearm up towards your shoulder. Pause for a moment at the top, then slowly lower your forearm back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand beside the cable machine and hold the handle in one hand with your palm facing up.",
+      "Step out until the cable is taut, then stand tall with your elbow tucked against your side.",
+      "Curl the handle upward by bending your elbow without letting your upper arm drift forward.",
+      "Raise the handle until your forearm is close to your biceps, then briefly squeeze your arm.",
+      "Lower the handle slowly until your arm is straight again while keeping tension on the cable.",
+      "Complete all reps on one arm, then switch sides."
+    ],
+    "formCues": [
+      "Keep elbow pinned",
+      "Palm stays up",
+      "Stand tall",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Elbow swings forward during the curl",
+      "Shoulder shrugs up toward the ear",
+      "Torso leans back to move the weight",
+      "Handle drops quickly on the way down"
+    ],
+    "breathing": "Exhale as you curl the handle up, and inhale as you lower it back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-one-arm-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-one-arm-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-one-arm-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-one-arm-curl.jpg"
+    }
+  },
+  {
+    "id": "0194",
+    "name": "Cable Rope Overhead Triceps Extension",
+    "aliases": [
+      "high pulley triceps extension",
+      "rope overhead extension",
+      "cable overhead triceps",
+      "Cable Rope High Pulley Overhead Triceps Extension",
+      "cable overhead triceps extension (rope attachment)"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "deltoids",
+      "forearms"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "An isolation exercise using a rope attachment on a high pulley to target the triceps overhead.",
+    "instructions": "Stand or kneel with your back to the high pulley, grasping the rope with both hands. Lean forward slightly, extend your elbows to press the rope forward/upward, then return to start under control.",
+    "steps": [
+      "Attach a rope to a high pulley.",
+      "Stand (or kneel) with back facing the machine.",
+      "Grasp rope, step forward, and lean slightly.",
+      "Keep upper arms still, extend elbows bringing rope forward/upward.",
+      "Return to starting position slowly."
+    ],
+    "formCues": [
+      "Keep upper arms stationary",
+      "Elbows close",
+      "Extend fully",
+      "Avoid arching back"
+    ],
+    "commonMistakes": [
+      "Moving upper arms",
+      "Flaring elbows",
+      "Arching or swinging back"
+    ],
+    "breathing": "Exhale as you extend, inhale as you bend elbows.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-rope-high-pulley-overhead-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-rope-high-pulley-overhead-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-rope-high-pulley-overhead-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-rope-high-pulley-overhead-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "0200",
+    "name": "Cable Rope Triceps Pushdown",
+    "aliases": [
+      "cable rope pushdown",
+      "rope triceps pushdown",
+      "triceps rope extension",
+      "cable triceps extension",
+      "Cable Pushdown (rope attachment)",
+      "cable pushdown (with rope attachment)"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "anconeus",
+      "forearms"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A cable isolation exercise targeting the triceps by pressing a rope attachment downward.",
+    "instructions": "Stand facing a cable stack with a rope attached to the high pulley. Grasp the rope with both hands, elbows at your sides, and push the rope downward by extending your arms. Control the movement back to the starting position for each rep.",
+    "steps": [
+      "Attach a rope to the high pulley and stand facing the machine.",
+      "Grab the rope with both hands, thumbs facing inward.",
+      "Keep elbows tucked at your sides and lean slightly forward.",
+      "Extend your arms down, splitting the rope at the bottom.",
+      "Slowly return to the start without letting elbows flare out."
+    ],
+    "formCues": [
+      "Keep elbows fixed",
+      "Split the rope at the bottom",
+      "Don’t use your shoulders",
+      "Full extension on each rep"
+    ],
+    "commonMistakes": [
+      "Flaring elbows",
+      "Using momentum",
+      "Not fully extending arms"
+    ],
+    "breathing": "Exhale as you push down, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-pushdown-rope-attachment.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-pushdown-rope-attachment.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-pushdown-rope-attachment.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-pushdown-rope-attachment.jpg"
+    }
+  },
+  {
+    "id": "0229",
+    "name": "Cable Standing Inner Curl",
+    "aliases": [
+      "cable standing inner curl",
+      "standing cable curl",
+      "single-arm cable curl",
+      "cable biceps curl",
+      "low cable curl",
+      "cable arm curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A single-arm cable biceps curl done standing with an underhand grip to train elbow flexion under constant tension.",
+    "instructions": "Stand facing a cable machine with your feet shoulder-width apart. Grasp the cable handle with an underhand grip, palms facing up. Keep your elbows close to your sides and your upper arms stationary. Exhale and curl the cable handle towards your shoulders, contracting your biceps. Pause for a moment at the top of the movement, squeezing your biceps. Inhale and slowly lower the cable handle back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set a cable handle to the lowest position and stand facing the machine.",
+      "Grab the handle with one hand using an underhand grip and let your arm hang straight by your side.",
+      "Step back until the cable is taut, then stand tall with your feet about hip-width apart.",
+      "Keep your elbow pinned near your side and curl the handle up toward your shoulder.",
+      "Squeeze your biceps at the top without letting your upper arm drift forward.",
+      "Lower the handle slowly until your arm is straight again, then repeat before switching sides."
+    ],
+    "formCues": [
+      "Keep elbow by your side",
+      "Curl, don't swing",
+      "Stand tall",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Elbow drifts forward during the curl",
+      "Torso rocks back to move the weight",
+      "Wrist bends excessively instead of staying neutral",
+      "Letting the handle drop quickly on the way down"
+    ],
+    "breathing": "Exhale as you curl the handle up, and inhale as you lower it back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-standing-inner-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-standing-inner-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-standing-inner-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-standing-inner-curl.jpg"
+    }
+  },
+  {
+    "id": "0231",
+    "name": "Cable Standing One Arm Triceps Extension",
+    "aliases": [
+      "single-arm cable triceps extension",
+      "one-arm cable triceps extension",
+      "standing single-arm triceps extension",
+      "single-arm triceps pushdown",
+      "one-arm cable arm extension",
+      "cable triceps extension",
+      "cable standing one arm triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A single-arm cable triceps isolation exercise done standing, extending the elbow while keeping the upper arm fixed.",
+    "instructions": "Stand with your feet shoulder-width apart, facing the cable machine. Hold the cable handle with your right hand, palm facing down, and position your arm so that it is fully extended and parallel to the ground. Keep your elbow stationary and close to your body. Slowly bend your elbow, lowering the cable handle towards the back of your head. Pause for a moment at the bottom of the movement, then extend your arm back to the starting position. Repeat for the desired number of repetitions, then switch sides and perform the exercise with your left arm.",
+    "steps": [
+      "Stand side-on to the cable machine and grasp the handle with one hand.",
+      "Step away until the cable is taut, then raise your upper arm so it stays roughly parallel to the floor.",
+      "Bend your elbow to bring the handle toward the side of your head while keeping your upper arm still.",
+      "Extend your elbow to press the handle away until your arm is straight.",
+      "Pause briefly with your triceps tight, then return under control.",
+      "Complete all reps on one side, then switch arms."
+    ],
+    "formCues": [
+      "Keep elbow still",
+      "Upper arm stays level",
+      "Straighten the arm fully",
+      "Move only at elbow"
+    ],
+    "commonMistakes": [
+      "Letting the elbow drift up and down during the rep",
+      "Turning the torso to help move the handle",
+      "Dropping the upper arm instead of keeping it level",
+      "Using momentum and snapping the cable back"
+    ],
+    "breathing": "Inhale as you bend your elbow and bring the handle in; exhale as you straighten your arm.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-standing-one-arm-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-standing-one-arm-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-standing-one-arm-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-standing-one-arm-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "1723",
+    "name": "Cable Triceps Pushdown",
+    "aliases": [
+      "cable pushdown",
+      "triceps rope pushdown",
+      "straight bar pushdown",
+      "Cable Triceps Pushdown",
+      "cable one arm tricep pushdown"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "anconeus",
+      "forearms"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "An isolation cable exercise targeting the triceps by extending the arm downward against resistance.",
+    "instructions": "Stand at a cable station with a rope or bar attached to a high pulley. Grasp the attachment with both hands, elbows at your sides, and push it downward, fully extending your arms before returning.",
+    "steps": [
+      "Stand facing the cable stack with attachment at high position.",
+      "Grip the bar or rope with both hands.",
+      "Keep elbows tight to your body.",
+      "Push the attachment down until arms are fully extended.",
+      "Return slowly to starting position."
+    ],
+    "formCues": [
+      "Lock elbows at sides",
+      "Control the movement",
+      "Don’t let elbows drift",
+      "Squeeze triceps at the bottom"
+    ],
+    "commonMistakes": [
+      "Using too much weight",
+      "Letting elbows flare out",
+      "Leaning over the bar"
+    ],
+    "breathing": "Exhale as you push down, inhale as you return up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-triceps-pushdown.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-triceps-pushdown.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-triceps-pushdown.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-triceps-pushdown.jpg"
+    }
+  },
+  {
+    "id": "0259",
+    "name": "Close-Grip Push-Up",
+    "aliases": [
+      "triceps push-up",
+      "diamond push-up (if hands are closer)",
+      "narrow push-up",
+      "close hand push-up",
+      "Close Grip Push-ups",
+      "close-grip push-up"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "pectoralis major",
+      "anterior deltoid",
+      "core stabilizers"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A push-up variation with hands close together to emphasize triceps involvement.",
+    "instructions": "Assume a plank position with hands placed close together under your chest. Lower your body, keeping elbows near your sides, and push back up to the top position.",
+    "steps": [
+      "Begin in a plank position with hands close together under your chest.",
+      "Keep your core tight and body in a straight line.",
+      "Lower your chest toward the hands, elbows tucked by your sides.",
+      "Pause briefly at the bottom without touching the floor.",
+      "Press up to the starting position."
+    ],
+    "formCues": [
+      "Tuck elbows",
+      "Keep hands under chest",
+      "Maintain straight body",
+      "Squeeze triceps at the top"
+    ],
+    "commonMistakes": [
+      "Letting elbows flare",
+      "Sagging hips",
+      "Hands too wide"
+    ],
+    "breathing": "Inhale as you lower down, exhale as you push up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/close-grip-push-ups.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/close-grip-push-ups.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/close-grip-push-ups.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/close-grip-push-ups.jpg"
+    }
+  },
+  {
+    "id": "0294",
+    "name": "Dumbbell Biceps Curl",
+    "aliases": [
+      "dumbbell biceps curl",
+      "DB curl",
+      "dumbbell curl",
+      "standing dumbbell curl",
+      "two-arm dumbbell curl",
+      "arm curl with dumbbells"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing arm exercise where you curl dumbbells from your sides to your shoulders to train the biceps.",
+    "instructions": "Stand up straight with a dumbbell in each hand, palms facing forward and arms fully extended. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with a dumbbell in each hand, arms at your sides, and palms facing forward.",
+      "Brace your torso and keep your elbows close to your ribs.",
+      "Curl both dumbbells up toward your shoulders without letting your upper arms swing forward.",
+      "Pause briefly at the top and squeeze your biceps.",
+      "Lower the dumbbells back down under control until your arms are straight."
+    ],
+    "formCues": [
+      "Elbows pinned to sides",
+      "Curl, don't swing",
+      "Squeeze at the top",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Swinging the torso to start the curl",
+      "Letting the elbows drift forward as the weights rise",
+      "Using partial range and not lowering fully",
+      "Bending the wrists back instead of keeping them neutral"
+    ],
+    "breathing": "Exhale as you curl the dumbbells up, and inhale as you lower them back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-biceps-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-biceps-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-biceps-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-biceps-curl.jpg"
+    }
+  },
+  {
+    "id": "0296",
+    "name": "Dumbbell Close-Grip Press",
+    "aliases": [
+      "close grip dumbbell press",
+      "dumbbell triceps press",
+      "DB close grip bench press",
+      "narrow grip dumbbell press",
+      "Dumbbell Close Grip Press",
+      "dumbbell close-grip press"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "pectoralis major",
+      "anterior deltoids"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A pressing movement with dumbbells held close together to emphasize triceps activation.",
+    "instructions": "Lie on a bench holding dumbbells together above your chest, palms facing each other. Lower the weights while keeping elbows close to your sides, then press back up by extending the arms.",
+    "steps": [
+      "Lie flat on a bench with a dumbbell in each hand.",
+      "Hold dumbbells together above chest, palms in.",
+      "Lower dumbbells toward sternum, elbows tight to torso.",
+      "Pause when elbows reach 90 degrees.",
+      "Press dumbbells back up by extending arms."
+    ],
+    "formCues": [
+      "Keep elbows close",
+      "Touch dumbbells together",
+      "Press through palms",
+      "Own the descent"
+    ],
+    "commonMistakes": [
+      "Flaring elbows out",
+      "Letting dumbbells drift apart",
+      "Arching back excessively",
+      "Lowering weights too far"
+    ],
+    "breathing": "Inhale as you lower the dumbbells, exhale as you press up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-close-grip-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-close-grip-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-close-grip-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-close-grip-press.jpg"
+    }
+  },
+  {
+    "id": "0297",
+    "name": "Dumbbell Concentration Curl",
+    "aliases": [
+      "concentration curl",
+      "dumbbell concentration curl",
+      "seated concentration curl",
+      "single-arm concentration curl",
+      "one-arm biceps curl",
+      "elbow-on-thigh curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A seated single-arm biceps curl with the upper arm braced against the inner thigh to isolate the biceps.",
+    "instructions": "Sit on a bench with your legs spread apart and a dumbbell in one hand, resting your elbow on the inside of your thigh. Fully extend your arm and hold the dumbbell with an underhand grip. Keeping your upper arm stationary, exhale and curl the weight up towards your shoulder while contracting your biceps. Continue to raise the dumbbell until your biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly lower the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "steps": [
+      "Sit on a bench with your feet flat and knees apart, holding a dumbbell in one hand.",
+      "Lean forward slightly and brace the back of your upper arm against the inside of your same-side thigh near the knee.",
+      "Let your arm hang straight down with your palm facing up and your wrist neutral.",
+      "Curl the dumbbell toward your same-side shoulder without moving your upper arm.",
+      "Squeeze your biceps at the top when your forearm is nearly vertical.",
+      "Lower the dumbbell slowly until your elbow is fully extended, then repeat and switch sides."
+    ],
+    "formCues": [
+      "Keep elbow glued to thigh",
+      "Curl only at the elbow",
+      "Palm stays facing up",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Lifting the elbow off the thigh during the curl",
+      "Swinging the torso to help raise the dumbbell",
+      "Cutting the rep short and not fully lowering",
+      "Bending the wrist back instead of keeping it neutral"
+    ],
+    "breathing": "Inhale as you lower the dumbbell and exhale as you curl it up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-concentration-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-concentration-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-concentration-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-concentration-curl.jpg"
+    }
+  },
+  {
+    "id": "0298",
+    "name": "Dumbbell Cross Body Hammer Curl",
+    "aliases": [
+      "cross body hammer curl",
+      "dumbbell cross-body hammer curl",
+      "alternating cross body hammer curl",
+      "cross-body DB hammer curl",
+      "across-the-body hammer curl",
+      "hammer curl to opposite shoulder",
+      "dumbbell cross body hammer curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A dumbbell curl variation where each hand travels across the body to the opposite shoulder with a neutral grip.",
+    "instructions": "Stand up straight with a dumbbell in each hand, palms facing your body. Keep your elbows close to your torso and your upper arms stationary. Exhale and curl the weights while contracting your biceps, bringing the dumbbells across your body towards your opposite shoulder. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall holding a dumbbell in each hand at your sides with your palms facing inward.",
+      "Brace your torso and keep your elbows pinned close to your ribs.",
+      "Curl one dumbbell diagonally across your body toward the opposite shoulder without swinging.",
+      "Pause briefly near shoulder height while keeping your wrist straight and palm facing inward.",
+      "Lower the dumbbell back to your side under control.",
+      "Repeat on the other arm, alternating sides."
+    ],
+    "formCues": [
+      "Elbows stay tucked",
+      "Curl across, not straight up",
+      "Keep wrists neutral",
+      "Don't swing the weight"
+    ],
+    "commonMistakes": [
+      "Swinging the torso or leaning back to lift the dumbbell",
+      "Letting the elbow drift forward away from the ribs",
+      "Twisting the wrist so the palm turns up at the top",
+      "Dropping the dumbbell quickly instead of lowering with control"
+    ],
+    "breathing": "Exhale as you curl the dumbbell across your body, and inhale as you lower it back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-cross-body-hammer-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-cross-body-hammer-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-cross-body-hammer-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-cross-body-hammer-curl.jpg"
+    }
+  },
+  {
+    "id": "0322",
+    "name": "Dumbbell Incline Biceps Curl",
+    "aliases": [
+      "Incline Dumbbell Curl",
+      "Incline Bicep Curl",
+      "Dumbbell Incline Biceps Curl",
+      "dumbbell incline inner biceps curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "brachialis",
+      "brachioradialis",
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "biceps brachii",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "An arm isolating curl performed seated on an incline bench to maximize stretch and activation of the biceps.",
+    "instructions": "Sit back against an incline bench, holding a dumbbell in each hand with arms hanging straight down. Keeping your upper arms stationary, curl the weights up while contracting your biceps, then lower back to the start.",
+    "steps": [
+      "Set the bench to a 45-60 degree incline and sit back with a dumbbell in each hand.",
+      "Let your arms hang fully extended at your sides, elbows near your body.",
+      "Curl the dumbbells up by flexing your elbows, keeping upper arms stationary.",
+      "Pause and squeeze your biceps at the top of the movement.",
+      "Lower the weights under control to the starting position."
+    ],
+    "formCues": [
+      "Keep elbows still",
+      "Let arms fully extend",
+      "Do not swing weights",
+      "Squeeze at the top"
+    ],
+    "commonMistakes": [
+      "Swinging arms for momentum",
+      "Elbows drifting forward",
+      "Partial range of motion"
+    ],
+    "breathing": "Exhale as you curl up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-biceps-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-biceps-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-biceps-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-biceps-curl.jpg"
+    }
+  },
+  {
+    "id": "0318",
+    "name": "Dumbbell Incline Curl",
+    "aliases": [
+      "incline dumbbell curl",
+      "DB incline curl",
+      "incline biceps curl",
+      "seated incline curl",
+      "lean-back dumbbell curl",
+      "dumbbell incline curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated biceps curl on an incline bench that trains the biceps through a long range with dumbbells.",
+    "instructions": "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, palms facing forward. Rest your upper arms on the incline bench and let your elbows hang down, fully extending your arms. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench and sit back with a dumbbell in each hand.",
+      "Let your arms hang straight down under your shoulders with your palms facing forward.",
+      "Keep your upper arms still and curl the dumbbells toward your shoulders.",
+      "Pause briefly at the top and squeeze your biceps.",
+      "Lower the dumbbells slowly until your elbows are fully straight again."
+    ],
+    "formCues": [
+      "Keep elbows still",
+      "Palms stay forward",
+      "Lift with the biceps",
+      "Lower under control"
+    ],
+    "commonMistakes": [
+      "Swinging the dumbbells to start the curl",
+      "Letting the elbows drift forward as the weights rise",
+      "Stopping short instead of fully lowering the dumbbells",
+      "Bending the wrists back while curling"
+    ],
+    "breathing": "Inhale as you lower the dumbbells and exhale as you curl them up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-curl.jpg"
+    }
+  },
+  {
+    "id": "0320",
+    "name": "Dumbbell Incline Hammer Curl",
+    "aliases": [
+      "incline hammer curl",
+      "dumbbell incline hammer curl",
+      "incline DB hammer curl",
+      "incline neutral-grip curl",
+      "seated incline hammer curl",
+      "lean-back hammer curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated incline curl with a neutral grip that targets the biceps and forearms while limiting body swing.",
+    "instructions": "Sit on an incline bench with a dumbbell in each hand, palms facing your torso and arms fully extended. Keep your back against the bench and your feet flat on the floor. While keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench and sit back with a dumbbell in each hand.",
+      "Let your arms hang straight down by your sides with your palms facing each other.",
+      "Keep your upper arms still and curl both dumbbells toward your shoulders.",
+      "Stop when your forearms are nearly vertical and squeeze your biceps.",
+      "Lower the dumbbells slowly until your elbows are fully straight again.",
+      "Repeat without swinging your torso or letting your shoulders roll forward."
+    ],
+    "formCues": [
+      "Palms face each other",
+      "Keep elbows pinned",
+      "Lift, don't swing",
+      "Lower under control"
+    ],
+    "commonMistakes": [
+      "Swinging the dumbbells up with the torso",
+      "Letting the elbows drift forward during the curl",
+      "Turning the palms up at the top",
+      "Cutting the lowering phase short"
+    ],
+    "breathing": "Exhale as you curl the dumbbells up, and inhale as you lower them back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-hammer-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-hammer-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-hammer-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-hammer-curl.jpg"
+    }
+  },
+  {
+    "id": "0330",
+    "name": "Dumbbell Incline Triceps Extension",
+    "aliases": [
+      "incline dumbbell triceps extension",
+      "incline DB triceps extension",
+      "seated incline overhead triceps extension",
+      "incline dumbbell overhead extension",
+      "incline skull crusher with dumbbells",
+      "lean-back dumbbell triceps extension",
+      "dumbbell incline triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated incline dumbbell triceps exercise where you bend and straighten the elbows to move the weights behind and above the head.",
+    "instructions": "Sit on an incline bench with a dumbbell in each hand, palms facing inwards. Extend your arms fully overhead, keeping your elbows close to your head. Lower the dumbbells behind your head by bending your elbows, keeping your upper arms stationary. Pause for a moment, then raise the dumbbells back to the starting position by extending your arms. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit back on an incline bench holding a dumbbell in each hand.",
+      "Press the dumbbells overhead with your palms facing each other.",
+      "Keep your elbows pointed up and close to your head.",
+      "Lower the dumbbells behind your head by bending only your elbows.",
+      "Pause briefly when your forearms are below parallel to the floor.",
+      "Straighten your elbows to raise the dumbbells back overhead."
+    ],
+    "formCues": [
+      "Elbows stay tucked",
+      "Upper arms stay still",
+      "Lower with control",
+      "Finish straight overhead"
+    ],
+    "commonMistakes": [
+      "Elbows flare wide out to the sides.",
+      "Upper arms drift backward and turn it into a press.",
+      "Lowering only a few inches behind the head.",
+      "Arching the low back off the bench."
+    ],
+    "breathing": "Inhale as you lower the dumbbells behind your head, and exhale as you extend your elbows to bring them overhead.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "0333",
+    "name": "Dumbbell Kickback",
+    "aliases": [
+      "triceps kickback",
+      "dumbbell triceps kickback",
+      "DB kickback",
+      "bent-over triceps extension",
+      "rear triceps kickback",
+      "dumbbell arm kickback",
+      "dumbbell kickback"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A bent-over triceps isolation exercise where you extend dumbbells behind you while keeping the upper arms still.",
+    "instructions": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Bring your upper arms close to your sides, with your elbows bent at a 90-degree angle. Extend your arms straight back, squeezing your triceps at the top of the movement. Pause for a moment, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand with a dumbbell in each hand and hinge forward at the hips with a flat back.",
+      "Bend your elbows to about 90 degrees and pin your upper arms alongside your torso.",
+      "Brace your torso and keep your elbows still.",
+      "Straighten your arms by driving the dumbbells back until your elbows are fully extended.",
+      "Squeeze your triceps at the back of the movement.",
+      "Bend your elbows under control to return to the start position."
+    ],
+    "formCues": [
+      "Keep elbows glued in",
+      "Only move the forearms",
+      "Squeeze at full extension",
+      "Keep your back flat"
+    ],
+    "commonMistakes": [
+      "Swinging the dumbbells with the shoulders or torso",
+      "Letting the elbows drift away from the ribs",
+      "Dropping the upper arms during the set",
+      "Snapping the weights down instead of lowering slowly"
+    ],
+    "breathing": "Inhale as you bend the elbows to the start position, and exhale as you straighten the arms back.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-kickback.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-kickback.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-kickback.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-kickback.jpg"
+    }
+  },
+  {
+    "id": "1729",
+    "name": "Dumbbell Lying Alternate Extension",
+    "aliases": [
+      "alternating dumbbell lying triceps extension",
+      "alternating dumbbell skull crusher",
+      "alternate DB triceps extension",
+      "lying alternating triceps extension",
+      "single-arm alternating skull crusher",
+      "lying dumbbell triceps extension",
+      "dumbbell lying alternate extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A lying triceps isolation exercise where you lower one dumbbell at a time toward your forehead and extend the elbow back to the top.",
+    "instructions": "Lie flat on a bench with a dumbbell in each hand, palms facing each other. Extend your arms straight up over your chest, keeping a slight bend in your elbows. Lower one dumbbell down towards your head, bending at the elbow, while keeping the other arm extended. Pause for a moment at the bottom, then raise the dumbbell back up to the starting position. Repeat with the other arm, alternating sides for the desired number of repetitions.",
+    "steps": [
+      "Lie flat on a bench holding a dumbbell in each hand, and press both arms straight up over your chest with palms facing each other.",
+      "Keep one arm still above your chest as you bend the other elbow and lower that dumbbell beside your forehead.",
+      "Stop when your forearm points down and your upper arm stays mostly vertical.",
+      "Straighten the bent arm to bring the dumbbell back above your chest.",
+      "Repeat on the other side while keeping the first arm locked out.",
+      "Continue alternating sides with both shoulders and head resting on the bench."
+    ],
+    "formCues": [
+      "Elbows point to the ceiling",
+      "Only move at the elbow",
+      "Keep one arm locked out",
+      "Lower beside your forehead"
+    ],
+    "commonMistakes": [
+      "Elbows flare wide as the dumbbell lowers",
+      "Upper arms drift backward instead of staying upright",
+      "The non-working arm drops or bends",
+      "Turning it into a press from the chest"
+    ],
+    "breathing": "Inhale as you lower each dumbbell and exhale as you straighten the elbow to bring it back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lying-alternate-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lying-alternate-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lying-alternate-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lying-alternate-extension.jpg"
+    }
+  },
+  {
+    "id": "0351",
+    "name": "Dumbbell Lying Triceps Extension",
+    "aliases": [
+      "lying triceps extension",
+      "dumbbell skull crusher",
+      "DB skull crusher",
+      "lying dumbbell triceps extension",
+      "lying triceps dumbbell press",
+      "triceps extension lying down",
+      "dumbbell lying triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A lying dumbbell triceps exercise where you bend and straighten the elbows to lower the weights toward the forehead and press them back up.",
+    "instructions": "Lie flat on a bench with a dumbbell in each hand, palms facing each other. Extend your arms straight up over your chest, keeping your elbows close to your body. Lower the dumbbells down towards your forehead, bending your elbows. Pause for a moment, then extend your arms back up to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Lie flat on a bench holding a dumbbell in each hand, and press the dumbbells above your chest with your palms facing each other.",
+      "Pull your shoulders down into the bench and straighten your wrists so the dumbbells stay stacked over your elbows.",
+      "Bend your elbows and lower the dumbbells toward the sides of your forehead while keeping your upper arms mostly still.",
+      "Stop when your elbows are fully bent and the dumbbells are close to your head.",
+      "Straighten your elbows to drive the dumbbells back to the start position above your chest.",
+      "Repeat each rep without letting your elbows flare wide."
+    ],
+    "formCues": [
+      "Keep elbows tucked",
+      "Upper arms stay still",
+      "Bend only at elbows",
+      "Stack wrists over elbows"
+    ],
+    "commonMistakes": [
+      "Elbows flare out wide as the dumbbells lower.",
+      "Upper arms drift backward or forward during the rep.",
+      "Dumbbells drop too low behind the head instead of beside the forehead.",
+      "Wrists bend back instead of staying straight."
+    ],
+    "breathing": "Inhale as you lower the dumbbells toward your forehead, and exhale as you extend your elbows to raise them back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lying-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lying-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lying-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lying-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "1672",
+    "name": "Dumbbell One Arm Zottman Preacher Curl",
+    "aliases": [
+      "one-arm Zottman preacher curl",
+      "single-arm dumbbell Zottman preacher curl",
+      "DB one arm preacher curl",
+      "single-arm preacher curl with rotation",
+      "one-arm biceps curl on preacher bench",
+      "dumbbell one arm zottman preacher curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A single-arm preacher curl variation that adds a wrist rotation to train the biceps and forearms through both the lift and lowering phase.",
+    "instructions": "Sit on a preacher curl bench and hold a dumbbell in one hand with an underhand grip. Rest your upper arm on the preacher bench pad, allowing your arm to fully extend. Curl the dumbbell up towards your shoulder, keeping your upper arm stationary. At the top of the curl, rotate your wrist so that your palm faces up. Slowly lower the dumbbell back down to the starting position, rotating your wrist back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "steps": [
+      "Sit at a preacher bench and plant your feet on the floor.",
+      "Hold a dumbbell in one hand and place the back of your upper arm flat against the pad with your arm nearly straight.",
+      "Start with your palm facing up and curl the dumbbell toward your shoulder without lifting your upper arm off the pad.",
+      "Pause near the top and rotate your wrist until your palm faces down.",
+      "Lower the dumbbell slowly until your arm is nearly straight while keeping your palm facing down.",
+      "Rotate your wrist back to palm-up at the bottom and repeat before switching arms."
+    ],
+    "formCues": [
+      "Keep arm glued to pad",
+      "Curl, then rotate",
+      "Lower slowly on the way down",
+      "Keep wrist movement controlled"
+    ],
+    "commonMistakes": [
+      "Upper arm lifting off the preacher pad",
+      "Swinging the dumbbell instead of curling it",
+      "Dropping the weight quickly on the lowering phase",
+      "Rotating the wrist too early before reaching the top"
+    ],
+    "breathing": "Exhale as you curl the dumbbell up, then inhale as you rotate and lower it back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-one-arm-zottman-preacher-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-one-arm-zottman-preacher-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-one-arm-zottman-preacher-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-one-arm-zottman-preacher-curl.jpg"
+    }
+  },
+  {
+    "id": "0306",
+    "name": "Dumbbell One-Arm Triceps Extension",
+    "aliases": [
+      "one arm DB triceps extension",
+      "single arm dumbbell overhead extension",
+      "one-arm overhead triceps",
+      "Dumbbell One Arm Triceps Extension",
+      "dumbbell decline triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "anconeus",
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "An isolation exercise for the triceps performed one arm at a time, with a dumbbell overhead.",
+    "instructions": "Stand or sit holding a dumbbell overhead with one arm fully extended. Lower the dumbbell by bending the elbow, then extend the arm back up to starting position, keeping upper arm still.",
+    "steps": [
+      "Hold dumbbell in one hand, arm extended overhead.",
+      "Support upper arm with free hand if needed.",
+      "Lower dumbbell behind head by bending the elbow.",
+      "Pause when forearm is parallel to ground.",
+      "Extend arm fully to return to starting position."
+    ],
+    "formCues": [
+      "Keep upper arm vertical",
+      "Only move forearm",
+      "No swinging",
+      "Full elbow extension"
+    ],
+    "commonMistakes": [
+      "Moving upper arm",
+      "Dropping weight too far",
+      "Allowing elbow to flare",
+      "Rushing movement"
+    ],
+    "breathing": "Inhale as you lower the dumbbell, exhale as you press up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-one-arm-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-one-arm-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-one-arm-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-one-arm-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "1673",
+    "name": "Dumbbell Preacher Curl Over Exercise Ball",
+    "aliases": [
+      "dumbbell preacher curl on ball",
+      "exercise ball preacher curl",
+      "single-arm dumbbell preacher curl",
+      "one-arm preacher curl",
+      "biceps curl with elbow on ball",
+      "dumbbell preacher curl over exercise ball"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A single-arm biceps curl done with the upper arm braced against an exercise ball to limit cheating and isolate the elbow flexors.",
+    "instructions": "Sit on an exercise ball with your feet flat on the ground and your back straight. Hold a dumbbell in one hand with an underhand grip, resting your elbow on the exercise ball. Keeping your upper arm stationary, exhale and curl the dumbbell up towards your shoulder. Pause for a moment at the top, then inhale and slowly lower the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "steps": [
+      "Sit tall on the exercise ball with both feet flat and spread for balance.",
+      "Hold a dumbbell in one hand with your palm facing up and brace the back of your upper arm against the ball.",
+      "Let the arm straighten almost fully so the dumbbell hangs below your elbow.",
+      "Curl the dumbbell toward your shoulder without lifting your elbow off the ball.",
+      "Squeeze your biceps at the top while keeping your wrist straight.",
+      "Lower the dumbbell slowly until your arm is almost straight, then repeat and switch sides."
+    ],
+    "formCues": [
+      "Keep elbow glued down",
+      "Curl only at the elbow",
+      "Keep wrist straight",
+      "Lower under control"
+    ],
+    "commonMistakes": [
+      "Elbow slides or lifts off the ball during the curl.",
+      "Shoulder rolls forward to help raise the dumbbell.",
+      "Wrist bends back or curls inward at the top.",
+      "Body rocks on the ball to create momentum."
+    ],
+    "breathing": "Inhale as you lower the dumbbell and exhale as you curl it up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-preacher-curl-over-exercise-ball.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-preacher-curl-over-exercise-ball.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-preacher-curl-over-exercise-ball.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-preacher-curl-over-exercise-ball.jpg"
+    }
+  },
+  {
+    "id": "0373",
+    "name": "Dumbbell Pronate-grip Triceps Extension",
+    "aliases": [
+      "overhead dumbbell triceps extension",
+      "two-hand overhead triceps extension",
+      "pronated-grip dumbbell triceps extension",
+      "seated overhead triceps extension",
+      "dumbbell triceps extension",
+      "overhead triceps press",
+      "dumbbell pronate-grip triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated overhead triceps exercise using one dumbbell held with both hands to bend and straighten the elbows.",
+    "instructions": "Sit on a bench or chair with your back straight and feet flat on the ground. Hold a dumbbell with both hands, palms facing down, and extend your arms straight up overhead. Keeping your upper arms close to your head and elbows pointing forward, slowly lower the dumbbell behind your head by bending your elbows. Pause for a moment, then extend your arms back up to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit tall on a bench or chair with both feet flat on the floor.",
+      "Hold one dumbbell with both hands by the handle using an overhand grip and press it straight overhead.",
+      "Bring your upper arms close to your ears and point your elbows forward.",
+      "Lower the dumbbell behind your head by bending only your elbows.",
+      "Stop when your forearms are below parallel and your upper arms stay mostly still.",
+      "Straighten your elbows to raise the dumbbell back to the overhead start position."
+    ],
+    "formCues": [
+      "Elbows stay close in",
+      "Upper arms stay still",
+      "Brace your ribs down",
+      "Lock out overhead"
+    ],
+    "commonMistakes": [
+      "Elbows flare wide out to the sides.",
+      "Upper arms drift backward and move during the rep.",
+      "Lower back arches as the weight goes overhead.",
+      "The dumbbell drops too low and bumps the upper back."
+    ],
+    "breathing": "Inhale as you lower the dumbbell behind your head, and exhale as you straighten your elbows to lift it overhead.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-pronate-grip-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-pronate-grip-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-pronate-grip-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-pronate-grip-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "0374",
+    "name": "Dumbbell Prone Incline Curl",
+    "aliases": [
+      "dumbbell prone incline curl",
+      "prone incline dumbbell curl",
+      "incline face-down dumbbell curl",
+      "chest-supported dumbbell curl",
+      "incline dumbbell biceps curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A chest-supported biceps curl on an incline bench that limits body swing and keeps tension on the arms.",
+    "instructions": "Adjust the bench to a 45-degree incline. Lie face down on the bench with your chest and stomach resting against it. Hold a dumbbell in each hand with your palms facing down and your arms fully extended. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench to about 45 degrees and lie face down with your chest supported.",
+      "Hold a dumbbell in each hand with your arms hanging straight down and palms facing forward.",
+      "Keep your upper arms still and curl both dumbbells up toward your shoulders.",
+      "Pause briefly at the top and squeeze your biceps.",
+      "Lower the dumbbells slowly until your arms are fully extended again."
+    ],
+    "formCues": [
+      "Keep chest on bench",
+      "Elbows stay still",
+      "Curl through full range",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Lifting the chest off the bench to swing the weights",
+      "Letting the elbows drift forward during the curl",
+      "Cutting the rep short and not fully lowering the dumbbells",
+      "Bending the wrists back instead of keeping them neutral"
+    ],
+    "breathing": "Inhale as you lower the dumbbells and exhale as you curl them up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-prone-incline-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-prone-incline-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-prone-incline-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-prone-incline-curl.jpg"
+    }
+  },
+  {
+    "id": "0394",
+    "name": "Dumbbell Seated Kickback",
+    "aliases": [
+      "seated dumbbell triceps kickback",
+      "DB seated kickback",
+      "seated triceps kickback",
+      "dumbbell kickback",
+      "seated arm kickback",
+      "dumbbell seated kickback"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated triceps isolation exercise where you hinge forward and extend dumbbells back by straightening the elbows.",
+    "instructions": "Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand. Bend your knees slightly and lean forward from your hips, keeping your back straight. Bring your upper arms close to your sides and keep your elbows bent at a 90-degree angle. Extend your arms straight back, squeezing your triceps at the top of the movement. Pause for a moment, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit on a bench holding a dumbbell in each hand with your feet flat on the floor.",
+      "Hinge forward from your hips and keep your back flat with your chest angled toward your thighs.",
+      "Pull your elbows up beside your torso and bend them to about 90 degrees.",
+      "Keep your upper arms still and straighten your elbows to kick the dumbbells back behind you.",
+      "Squeeze your triceps with your arms fully extended.",
+      "Bend your elbows slowly to return the dumbbells to the start position."
+    ],
+    "formCues": [
+      "Keep elbows glued in",
+      "Only move the forearms",
+      "Back flat, chest up",
+      "Squeeze at full extension"
+    ],
+    "commonMistakes": [
+      "Swinging the dumbbells with the shoulders",
+      "Letting the elbows drift away from the torso",
+      "Dropping the upper arms during the rep",
+      "Rounding the back while leaning forward"
+    ],
+    "breathing": "Inhale as you bend your elbows to lower the dumbbells, and exhale as you straighten your arms back.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-kickback.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-kickback.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-kickback.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-kickback.jpg"
+    }
+  },
+  {
+    "id": "0397",
+    "name": "Dumbbell Seated Neutral Wrist Curl",
+    "aliases": [
+      "seated neutral wrist curl",
+      "dumbbell neutral-grip wrist curl",
+      "hammer wrist curl",
+      "seated forearm curl",
+      "neutral dumbbell wrist curl",
+      "dumbbell seated neutral wrist curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated forearm isolation exercise where you curl dumbbells by bending at the wrists with a neutral grip.",
+    "instructions": "Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand, palms facing each other. Rest your forearms on your thighs, allowing the dumbbells to hang down. Keeping your wrists in a neutral position, curl the dumbbells up towards your shoulders. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit on a bench with your feet flat and hold a dumbbell in each hand with your palms facing each other.",
+      "Rest your forearms on your thighs near your knees and let your wrists hang just past your knees.",
+      "Start with your wrists straight and your hands hanging down under control.",
+      "Curl the dumbbells upward by bending only at your wrists while keeping your forearms pressed into your thighs.",
+      "Squeeze briefly at the top without turning your palms up or down.",
+      "Lower the dumbbells slowly back to the start until your wrists are fully extended."
+    ],
+    "formCues": [
+      "Move only your wrists",
+      "Keep palms facing in",
+      "Forearms stay glued down",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Lifting the forearms off the thighs to swing the dumbbells up",
+      "Turning the palms up or down during the curl",
+      "Bouncing the dumbbells at the bottom",
+      "Using the shoulders or elbows to help the movement"
+    ],
+    "breathing": "Exhale as you curl your wrists up, and inhale as you lower the dumbbells back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-neutral-wrist-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-neutral-wrist-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-neutral-wrist-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-neutral-wrist-curl.jpg"
+    }
+  },
+  {
+    "id": "0402",
+    "name": "Dumbbell Seated Preacher Curl",
+    "aliases": [
+      "single-arm preacher curl",
+      "seated preacher dumbbell curl",
+      "DB preacher curl",
+      "one-arm biceps curl on preacher bench",
+      "supported preacher curl",
+      "dumbbell seated preacher curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A seated single-arm biceps curl done against a preacher pad to isolate the elbow flexors and limit body momentum.",
+    "instructions": "Sit on a preacher curl bench with your feet flat on the floor. Hold a dumbbell in one hand with an underhand grip, resting your upper arm against the preacher pad. Keeping your upper arm stationary, exhale and curl the dumbbell up towards your shoulder. Pause for a moment at the top, then inhale and slowly lower the dumbbell back down to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+    "steps": [
+      "Sit on the preacher bench and plant your feet flat on the floor.",
+      "Hold a dumbbell with your palm facing up and place the back of your upper arm firmly against the pad.",
+      "Start with your arm nearly straight and let the dumbbell hang just above the bottom of the pad.",
+      "Curl the dumbbell upward by bending your elbow while keeping your upper arm pressed into the pad.",
+      "Lift until the dumbbell nears your shoulder and briefly squeeze your biceps.",
+      "Lower the dumbbell slowly until your arm is nearly straight again, then repeat before switching sides."
+    ],
+    "formCues": [
+      "Keep upper arm glued down",
+      "Curl only at the elbow",
+      "Lower with control",
+      "Squeeze at the top"
+    ],
+    "commonMistakes": [
+      "Upper arm lifting off the pad during the curl",
+      "Swinging the dumbbell instead of moving smoothly",
+      "Stopping short and not lowering near full extension",
+      "Bending the wrist back as the dumbbell rises"
+    ],
+    "breathing": "Exhale as you curl the dumbbell up, and inhale as you lower it back down under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-preacher-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-preacher-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-preacher-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-preacher-curl.jpg"
+    }
+  },
+  {
+    "id": "2188",
+    "name": "Dumbbell Seated Triceps Extension",
+    "aliases": [
+      "seated dumbbell triceps extension",
+      "overhead dumbbell triceps extension",
+      "seated overhead triceps extension",
+      "two-hand dumbbell triceps extension",
+      "seated overhead dumbbell extension",
+      "seated triceps press",
+      "dumbbell seated triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated overhead dumbbell triceps exercise where you lower the weight behind your head and extend your elbows to press it back up.",
+    "instructions": "Sit on a bench with your back straight and feet flat on the ground. Hold a dumbbell with both hands and extend your arms straight up overhead. Bend your elbows and lower the dumbbell behind your head, keeping your upper arms close to your ears. Pause for a moment, then straighten your arms and return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit tall on a bench with both feet flat on the floor.",
+      "Hold one dumbbell by the top end with both hands and press it straight overhead.",
+      "Keep your upper arms close to your head and brace your torso.",
+      "Bend your elbows to lower the dumbbell behind your head under control.",
+      "Stop when your forearms are below parallel and your elbows stay pointed up.",
+      "Straighten your elbows to raise the dumbbell back to the overhead start position."
+    ],
+    "formCues": [
+      "Elbows point up",
+      "Keep biceps by ears",
+      "Move only at elbows",
+      "Brace your ribs down"
+    ],
+    "commonMistakes": [
+      "Elbows flare wide out to the sides.",
+      "Lower back arches as the weight goes overhead.",
+      "Upper arms drift backward and forward during the rep.",
+      "The dumbbell drops too low with no control behind the head."
+    ],
+    "breathing": "Inhale as you lower the dumbbell behind your head, and exhale as you extend your elbows to raise it overhead.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "2407",
+    "name": "EZ Bar Biceps Curl",
+    "aliases": [
+      "ez bar curl",
+      "ez-curl bar curl",
+      "ez barbell curl",
+      "EZ Barbell Biceps Curl",
+      "barbell biceps curl (with arm blaster)"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "brachialis",
+      "brachioradialis",
+      "forearms"
+    ],
+    "equipment": "ez barbell",
+    "muscleGroup": "biceps brachii",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "Classic biceps curl using an EZ barbell to build arm mass with ergonomic grip.",
+    "instructions": "Stand upright holding an EZ bar with hands on the angled grips, arms fully extended. Curl the bar up toward your shoulders, keeping elbows close to your torso. Squeeze the biceps at the top, then slowly lower to the starting position.",
+    "steps": [
+      "Grip the EZ bar at angled sections, palms facing up.",
+      "Stand tall with arms fully extended and elbows anchored.",
+      "Curl the bar upward, contracting the biceps.",
+      "Pause and squeeze at the top.",
+      "Lower the bar down slowly."
+    ],
+    "formCues": [
+      "Keep elbows stationary",
+      "Use full range of motion",
+      "Don't swing the bar",
+      "Control tempo"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Letting elbows move forward",
+      "Partial reps"
+    ],
+    "breathing": "Exhale as you lift, inhale lowering the bar.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/ez-barbell-biceps-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/ez-barbell-biceps-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/ez-barbell-biceps-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/ez-barbell-biceps-curl.jpg"
+    }
+  },
+  {
+    "id": "0061",
+    "name": "EZ Bar Lying Triceps Extension",
+    "aliases": [
+      "skullcrusher",
+      "ez bar skull crusher",
+      "ez barbell triceps extension",
+      "EZ Barbell Lying Triceps Extension",
+      "barbell lying triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "anconeus",
+      "forearms"
+    ],
+    "equipment": "ez barbell",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "Lying triceps extension using EZ bar to target triceps with reduced wrist strain.",
+    "instructions": "Lie on a flat bench holding the EZ bar with arms extended above your chest. Bend elbows to lower the bar toward your forehead, upper arms stationary. Extend arms back up, focusing on triceps contraction, and repeat for desired reps.",
+    "steps": [
+      "Lie on bench, grip EZ bar with medium width.",
+      "Extend arms fully above chest.",
+      "Bend elbows, lowering bar toward forehead.",
+      "Keep upper arms stationary.",
+      "Extend to starting position, repeat."
+    ],
+    "formCues": [
+      "Lock upper arms",
+      "Lower with control",
+      "Don't move elbows",
+      "Full triceps extension"
+    ],
+    "commonMistakes": [
+      "Flaring elbows",
+      "Moving upper arms",
+      "Lowering bar too far past head"
+    ],
+    "breathing": "Inhale lowering bar, exhale extending arms.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/ez-barbell-lying-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/ez-barbell-lying-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/ez-barbell-lying-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/ez-barbell-lying-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "1771",
+    "name": "Kneeling Triceps Stretch",
+    "aliases": [
+      "kneeling triceps extension stretch",
+      "overhead triceps stretch",
+      "kneeling arm stretch",
+      "Stretching - Kneeling Triceps Extension",
+      "bodyweight kneeling triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "latissimus dorsi",
+      "deltoids"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A static stretch targeting the triceps and lats by flexing the elbow overhead while kneeling.",
+    "instructions": "Kneel on the floor and reach one arm overhead, bending the elbow to let your hand touch your upper back. With the opposite hand, gently press on the bent elbow to increase the stretch.",
+    "steps": [
+      "Kneel on the floor or mat.",
+      "Raise one arm overhead then bend the elbow so your hand touches your upper back.",
+      "Use your other hand to gently push on the bent elbow.",
+      "Hold the stretch.",
+      "Switch arms and repeat."
+    ],
+    "formCues": [
+      "Keep back straight",
+      "Elbow points up",
+      "Gently press, don’t force",
+      "Relax neck and shoulders"
+    ],
+    "commonMistakes": [
+      "Arching the back",
+      "Pushing too hard",
+      "Letting elbow flare out"
+    ],
+    "breathing": "Breathe deeply and steadily throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-kneeling-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-kneeling-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-kneeling-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-kneeling-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "0592",
+    "name": "Lever Preacher Curl",
+    "aliases": [
+      "preacher curl machine",
+      "machine preacher curl",
+      "lever biceps curl",
+      "preacher arm curl",
+      "biceps curl machine",
+      "lever preacher curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A machine biceps curl done with the upper arms braced on a preacher pad to isolate elbow flexion.",
+    "instructions": "Adjust the seat height and position yourself on the leverage machine. Place your upper arms on the pad and grip the handles with an underhand grip. Keep your back straight and your elbows positioned on the pad. Exhale and curl your forearms towards your upper arms, contracting your biceps. Pause for a moment at the top of the movement, squeezing your biceps. Inhale and slowly lower the handles back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat so your armpits sit close to the top of the preacher pad.",
+      "Sit down and place the backs of your upper arms flat on the pad.",
+      "Grip the machine handles with an underhand grip and straighten your arms to the start.",
+      "Keep your chest up and curl the handles toward your shoulders by bending your elbows.",
+      "Squeeze your biceps briefly at the top without lifting your upper arms off the pad.",
+      "Lower the handles under control until your arms are nearly straight again."
+    ],
+    "formCues": [
+      "Keep upper arms glued down",
+      "Curl only at the elbows",
+      "Lift smooth, lower slower",
+      "Keep wrists neutral"
+    ],
+    "commonMistakes": [
+      "Upper arms lifting off the pad as the handles rise",
+      "Using the shoulders or rocking the torso to start the curl",
+      "Letting the weight drop quickly on the way down",
+      "Bending the wrists back instead of keeping them straight"
+    ],
+    "breathing": "Exhale as you curl the handles up, and inhale as you lower them back down under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-preacher-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-preacher-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-preacher-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-preacher-curl.jpg"
+    }
+  },
+  {
+    "id": "1451",
+    "name": "Lever Seated Dip",
+    "aliases": [
+      "machine triceps dip",
+      "seated dip machine",
+      "leverage dip machine",
+      "triceps machine dips",
+      "Lever Seated Dips",
+      "lever seated dip"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "pectorals",
+      "anterior deltoids"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A machine-based dip that targets the triceps, chest, and shoulders in a seated position.",
+    "instructions": "Sit on the dip machine with your back against the pad, grip the handles, and position your feet flat on the platform. Press the handles downward by extending your arms, keeping your elbows close to your body, then return to the starting position in a controlled motion.",
+    "steps": [
+      "Adjust the seat and select appropriate weight.",
+      "Sit down and grip the handles firmly.",
+      "Press the handles downward by extending your arms fully.",
+      "Pause briefly at lockout.",
+      "Return to the start position slowly."
+    ],
+    "formCues": [
+      "Keep elbows close",
+      "Control the descent",
+      "Do not lock elbows",
+      "Sit upright"
+    ],
+    "commonMistakes": [
+      "Allowing elbows to flare out",
+      "Using excessive weight",
+      "Swinging or jerking movement"
+    ],
+    "breathing": "Exhale on pressing down, inhale on returning up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-seated-dips.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-seated-dips.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-seated-dips.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-seated-dips.jpg"
+    }
+  },
+  {
+    "id": "0607",
+    "name": "Lever Triceps Extension",
+    "aliases": [
+      "machine triceps extension",
+      "lever tricep extension",
+      "triceps extension machine",
+      "seated machine triceps extension",
+      "machine arm extension",
+      "lever triceps extension"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated leverage machine exercise where you bend and straighten the elbows to train the triceps.",
+    "instructions": "Adjust the seat height and position yourself on the machine with your back against the pad. Grasp the handles with an overhand grip and fully extend your arms in front of you. Keeping your upper arms stationary, slowly lower the handles towards your forehead by bending your elbows. Pause for a moment at the bottom, then push the handles back up to the starting position by extending your arms. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat so the handles line up with about eye or forehead level when you sit down.",
+      "Sit with your back against the pad and place your feet flat on the floor.",
+      "Grip the handles with your palms facing down and straighten your arms in front of you.",
+      "Keep your upper arms still and bend your elbows to lower the handles toward your forehead.",
+      "Pause briefly when your elbows are fully bent and the handles are close to your head.",
+      "Press the handles away by straightening your elbows until your arms are extended again."
+    ],
+    "formCues": [
+      "Keep elbows tucked",
+      "Upper arms stay still",
+      "Move only at elbows",
+      "Control both directions"
+    ],
+    "commonMistakes": [
+      "Elbows flare wide out to the sides.",
+      "Shoulders roll forward and the chest collapses.",
+      "Handles are dropped quickly toward the head.",
+      "Upper arms swing back and forth during the rep."
+    ],
+    "breathing": "Inhale as you bend your elbows to lower the handles, and exhale as you straighten your arms to press them away.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-triceps-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-triceps-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-triceps-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-triceps-extension.jpg"
+    }
+  },
+  {
+    "id": "drv-old-school-reverse-extensions",
+    "name": "Old School Reverse Extensions",
+    "aliases": [
+      "reverse triceps extensions",
+      "old school triceps kickbacks",
+      "prone triceps extensions"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "posterior deltoids",
+      "latissimus dorsi"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "This bodyweight movement isolates the triceps by extending the elbows while lying face down.",
+    "instructions": "Lie face down on the floor or bench with arms bent and hands under shoulders. Extend your arms straight back by pressing your palms into the ground or lifting them off the ground, fully straightening your elbows and contracting your triceps. Lower back down under control.",
+    "steps": [
+      "Lie face down on the floor or bench with elbows bent and hands at your sides.",
+      "Position elbows by your torso.",
+      "Straighten your arms fully behind you, contracting your triceps.",
+      "Pause and squeeze at full extension.",
+      "Return to the start in a controlled manner."
+    ],
+    "formCues": [
+      "Keep elbows tight to torso",
+      "Extend arms fully",
+      "Squeeze triceps at the top",
+      "Avoid swinging arms"
+    ],
+    "commonMistakes": [
+      "Using body momentum",
+      "Not achieving full extension",
+      "Letting elbows flare out"
+    ],
+    "breathing": "Exhale as you extend your arms, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/old-school-reverse-extensions.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/old-school-reverse-extensions.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/old-school-reverse-extensions.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/old-school-reverse-extensions.jpg"
+    }
+  },
+  {
+    "id": "0672",
+    "name": "Reverse Dip Stretch",
+    "aliases": [
+      "seated reverse dip stretch",
+      "shoulder dip stretch",
+      "Stretching - Reverse Dip",
+      "reverse dip"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "deltoids",
+      "pectorals"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A stretch targeting the triceps and shoulders by extending the arms behind the body and lowering the torso.",
+    "instructions": "Sit on the floor with your legs extended and place your hands behind you with fingers facing forward. Gently press through your palms to lift your chest and feel the stretch across your upper arms and shoulders, holding the position without hyperextending your elbows.",
+    "steps": [
+      "Sit with legs extended and arms behind your hips.",
+      "Place hands flat on the floor, fingers pointing forward.",
+      "Press through your palms to lift your chest up.",
+      "Keep your arms long without locking elbows.",
+      "Hold for the stretch, then slowly lower and relax."
+    ],
+    "formCues": [
+      "Lift chest tall",
+      "Keep elbows soft",
+      "Open shoulders",
+      "Avoid slumping"
+    ],
+    "commonMistakes": [
+      "Locking elbows tightly",
+      "Letting shoulders round forward",
+      "Overarching lower back"
+    ],
+    "breathing": "Breathe deeply and steadily throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-reverse-dip.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-reverse-dip.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-reverse-dip.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-reverse-dip.jpg"
+    }
+  },
+  {
+    "id": "0285",
+    "name": "Seated Alternating Dumbbell Curl",
+    "aliases": [
+      "alternating seated dumbbell curl",
+      "alternating biceps curl seated",
+      "seated dumbbell biceps curl",
+      "Dumbbell Alternate Seated Biceps Curl",
+      "dumbbell alternate biceps curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "brachialis",
+      "brachioradialis",
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "biceps brachii",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A seated exercise curling dumbbells alternately to build bicep size and strength.",
+    "instructions": "Sit on a bench with back support holding a dumbbell in each hand at your sides. Curl one dumbbell by flexing the elbow, then lower it and repeat with the opposite arm, keeping your torso stable.",
+    "steps": [
+      "Sit with back against support and feet flat.",
+      "Hold dumbbells at your sides, palms facing in.",
+      "Curl one dumbbell while rotating palm up.",
+      "Lower to starting position and alternate arms.",
+      "Repeat, keeping back straight and elbows close to sides."
+    ],
+    "formCues": [
+      "Keep elbows stationary",
+      "Rotate palm up during curl",
+      "Don't swing weights",
+      "Engage your core"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Elbows flaring",
+      "Rocking the torso",
+      "Moving both arms together"
+    ],
+    "breathing": "Exhale as you curl up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-alternate-seated-biceps-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-alternate-seated-biceps-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-alternate-seated-biceps-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-alternate-seated-biceps-curl.jpg"
+    }
+  },
+  {
+    "id": "0353",
+    "name": "Stability Ball Leg Curl",
+    "aliases": [
+      "Swiss Ball Hamstring Curl",
+      "Physio Ball Leg Curl",
+      "Stability Ball Hamstring",
+      "Leg Curl (on stability ball)",
+      "dumbbell one arm concentration curl (on stability ball)"
+    ],
+    "bodyPart": "upper arms",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "glutes",
+      "calves",
+      "erector spinae"
+    ],
+    "equipment": "stability ball",
+    "muscleGroup": "hamstrings",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A hamstring-focused curl using a stability ball for both resistance and core engagement.",
+    "instructions": "Lie on your back with your heels on a stability ball. Lift your hips, then curl the ball toward your glutes by flexing your knees, and extend legs back out while keeping hips elevated.",
+    "steps": [
+      "Lie face up on the floor, arms at your sides, heels on a stability ball.",
+      "Lift hips to form a straight line from shoulders to heels.",
+      "Bend knees to roll the ball toward your glutes.",
+      "Pause and squeeze your hamstrings.",
+      "Extend your legs to roll the ball back out."
+    ],
+    "formCues": [
+      "Hips up",
+      "Control movement",
+      "Don’t let hips sag",
+      "Engage core"
+    ],
+    "commonMistakes": [
+      "Letting hips drop",
+      "Rapid reps",
+      "Not extending legs fully"
+    ],
+    "breathing": "Exhale as you curl in, inhale as you extend out.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/leg-curl-on-stability-ball.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/leg-curl-on-stability-ball.jpg"
+    }
+  },
+  {
+    "id": "0350",
+    "name": "Supine Dumbbell Biceps Curl",
+    "aliases": [
+      "Lying Dumbbell Curl",
+      "Lying Biceps Curl",
+      "Supine Curl",
+      "Lying Supine Dumbbell Curl",
+      "dumbbell lying supine curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "brachialis",
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "biceps brachii",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A biceps isolation curl performed lying face up for strict form and minimal cheating.",
+    "instructions": "Lie supine (face up) on a flat bench with a dumbbell in each hand, arms extended. Keeping your upper arms still, curl the weights towards your shoulders, then lower under control.",
+    "steps": [
+      "Lie flat on your back holding dumbbells at your sides, arms fully extended.",
+      "Keep palms facing forward (supinated grip).",
+      "Curl the dumbbells up toward your shoulders, elbows stationary.",
+      "Squeeze your biceps at the top.",
+      "Lower the weights slowly to the start position."
+    ],
+    "formCues": [
+      "Upper arms still",
+      "Don’t arch back",
+      "Full stretch at bottom",
+      "Slow negative"
+    ],
+    "commonMistakes": [
+      "Lifting shoulders off bench",
+      "Swinging arms",
+      "Partial range"
+    ],
+    "breathing": "Exhale as you curl up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lying-supine-dumbbell-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lying-supine-dumbbell-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lying-supine-dumbbell-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lying-supine-dumbbell-curl.jpg"
+    }
+  },
+  {
+    "id": "drv-triceps-dips",
+    "name": "Triceps Dips",
+    "aliases": [
+      "bench dips",
+      "chair dips",
+      "bodyweight dips"
+    ],
+    "bodyPart": "upper arms",
+    "target": "triceps",
+    "secondaryMuscles": [
+      "anterior deltoids",
+      "pectoralis major"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "triceps brachii",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bodyweight exercise that targets the triceps through a pressing motion while lowering and raising the body.",
+    "instructions": "Sit on the edge of a bench or chair with hands next to your hips and legs extended forward. Slide your hips off the seat and lower your body by bending your elbows to about 90 degrees, then push yourself back up by straightening your arms.",
+    "steps": [
+      "Sit on a bench or chair with hands gripping the edge.",
+      "Extend legs forward and slide hips off the seat.",
+      "Lower body by bending elbows to 90 degrees.",
+      "Press through palms to straighten arms and lift body.",
+      "Repeat for reps."
+    ],
+    "formCues": [
+      "Keep elbows close to your body",
+      "Lower slowly",
+      "Press through your palms",
+      "Avoid shrugging shoulders"
+    ],
+    "commonMistakes": [
+      "Letting shoulders roll forward",
+      "Dropping hips too low",
+      "Elbows flaring out"
+    ],
+    "breathing": "Inhale as you lower down, exhale as you push up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/triceps-dips.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/triceps-dips.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/triceps-dips.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/triceps-dips.jpg"
+    }
+  },
+  {
+    "id": "0853",
+    "name": "Weighted Standing Curl",
+    "aliases": [
+      "standing dumbbell curl",
+      "dumbbell biceps curl",
+      "DB curl",
+      "standing arm curl",
+      "weighted bicep curl",
+      "weighted standing curl"
+    ],
+    "bodyPart": "upper arms",
+    "target": "biceps",
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "equipment": "weighted",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing biceps exercise where you curl weights from your sides up toward your shoulders with palms facing forward.",
+    "instructions": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing forward. Keep your elbows close to your torso and exhale as you curl the weights up to shoulder level. Pause for a moment at the top, then inhale as you slowly lower the weights back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with a weight in each hand at your sides and turn your palms forward.",
+      "Set your feet about hip-width apart and keep your elbows pinned near your ribs.",
+      "Curl the weights upward by bending your elbows until your hands reach shoulder height.",
+      "Pause briefly at the top without letting your elbows drift forward.",
+      "Lower the weights back down with control until your arms are fully straightened at your sides."
+    ],
+    "formCues": [
+      "Elbows stay by your sides",
+      "Curl, don't swing",
+      "Palms face forward",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Swinging the torso to lift the weights",
+      "Letting the elbows drift forward at the top",
+      "Dropping the weights quickly on the way down",
+      "Bending the wrists back instead of keeping them neutral"
+    ],
+    "breathing": "Exhale as you curl the weights up, and inhale as you lower them back down under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/weighted-standing-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/weighted-standing-curl.jpg"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "0983",
+  "name": "Band Kneeling One Arm Pulldown",
+  "aliases": [
+    "single-arm band pulldown",
+    "kneeling single-arm band lat pulldown",
+    "one-arm band pulldown",
+    "band lat pulldown",
+    "single-arm kneeling pulldown",
+    "single-arm band lat pull",
+    "band kneeling one arm pulldown"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps",
+    "rhomboids"
+  ],
+  "equipment": "band",
+  "muscleGroup": "biceps",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": true,
+  "shortDescription": "A kneeling single-arm band pulldown that trains the lats by pulling the elbow down from an overhead position.",
+  "instructions": "Attach the band to a sturdy anchor point above your head. Kneel down and hold the band with one hand, palm facing down. Extend your arm fully overhead, keeping your elbow slightly bent. Engage your lat muscles and pull the band down towards your side, bringing your elbow towards your ribcage. Pause for a moment at the bottom, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+  "steps": [
+    "Anchor the band overhead and kneel facing the anchor point.",
+    "Grab the band with one hand and extend that arm up and slightly forward.",
+    "Brace your torso and keep your chest tall without leaning back.",
+    "Pull your elbow down toward your side until your hand reaches about shoulder or rib level.",
+    "Squeeze your lat at the bottom while keeping your shoulder down.",
+    "Slowly straighten your arm back overhead under control.",
+    "Complete all reps on one side, then switch arms."
+  ],
+  "formCues": [
+    "Drive elbow to your side",
+    "Keep ribs down",
+    "Shoulder away from your ear",
+    "Move slowly on the return"
+  ],
+  "commonMistakes": [
+    "Leaning the torso back to finish the pull",
+    "Shrugging the shoulder up toward the ear",
+    "Bending and straightening the wrist during the pull",
+    "Letting the band snap the arm back overhead"
+  ],
+  "breathing": "Inhale as your arm returns overhead, and exhale as you pull the band down to your side.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-kneeling-one-arm-pulldown.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-kneeling-one-arm-pulldown.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-kneeling-one-arm-pulldown.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-kneeling-one-arm-pulldown.jpg"
+  }
+}

@@ -1,0 +1,721 @@
+[
+  {
+    "id": "1160",
+    "name": "Burpee",
+    "aliases": [
+      "bodyweight burpee",
+      "squat thrust",
+      "push-up burpee",
+      "burpee jump",
+      "drop to plank jump",
+      "burpee"
+    ],
+    "bodyPart": "cardio",
+    "target": "cardiovascular system",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "calves",
+      "shoulders",
+      "chest"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "quadriceps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A full-body bodyweight movement that combines a squat, plank, push-up, and jump for conditioning.",
+    "instructions": "Start in a standing position with your feet shoulder-width apart. Lower your body into a squat position by bending your knees and placing your hands on the floor in front of you. Kick your feet back into a push-up position. Perform a push-up, keeping your body in a straight line. Jump your feet back into the squat position. Jump up explosively, reaching your arms overhead. Land softly and immediately lower back into a squat position to begin the next repetition.",
+    "steps": [
+      "Stand tall with your feet about hip-width apart.",
+      "Bend your knees, hinge at your hips, and place your hands on the floor in front of your feet.",
+      "Jump both feet back to a high plank with your body in a straight line.",
+      "Lower your chest to the floor, then press back up to plank.",
+      "Jump both feet forward to the outside of your hands.",
+      "Drive through your feet and jump straight up, reaching your arms overhead as you leave the floor.",
+      "Land softly and go straight into the next rep."
+    ],
+    "formCues": [
+      "Keep your core braced.",
+      "Land softly under control.",
+      "Chest up on the jump.",
+      "Move as one straight line."
+    ],
+    "commonMistakes": [
+      "Hips sagging low in the plank or push-up.",
+      "Feet landing too narrow under the body.",
+      "Hands placed far in front of the shoulders.",
+      "Landing stiff-legged with no knee bend."
+    ],
+    "breathing": "Inhale as you drop down and move into plank, then exhale as you press up and jump.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/burpee.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/burpee.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/burpee.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/burpee.jpg"
+    }
+  },
+  {
+    "id": "drv-cardio-exercises",
+    "name": "Cardio Exercise",
+    "aliases": [
+      "aerobic exercise",
+      "endurance training",
+      "cardio workout"
+    ],
+    "bodyPart": "cardio",
+    "target": "cardiovascular system",
+    "secondaryMuscles": [
+      "varies by movement"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "heart and lungs",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "Any aerobic physical activity aimed at increasing heart rate and cardiovascular health.",
+    "instructions": "Choose a form of movement such as jogging, jumping jacks, or burpees. Perform continuously at a moderate to vigorous intensity for the desired time or repetitions, maintaining proper posture and consistent breathing.",
+    "steps": [
+      "Select a cardio activity (running, jumping jacks, etc).",
+      "Warm up for 3-5 minutes.",
+      "Perform the chosen activity at a sustainable pace.",
+      "Maintain movement for set time or rounds.",
+      "Cool down and stretch afterwards."
+    ],
+    "formCues": [
+      "Keep chest up",
+      "Engage core",
+      "Use full range of motion",
+      "Breathe steadily"
+    ],
+    "commonMistakes": [
+      "Overexerting too soon",
+      "Neglecting form",
+      "Ignoring proper warm-up or cool-down"
+    ],
+    "breathing": "Breathe rhythmically; exhale on exertion, inhale during lower intensity.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cardio-exercises.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cardio-exercises.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cardio-exercises.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cardio-exercises.jpg"
+    }
+  },
+  {
+    "id": "drv-cardio-exercises-machine",
+    "name": "Cardio Machine Exercise",
+    "aliases": [
+      "treadmill cardio",
+      "elliptical session",
+      "rower cardio",
+      "stationary bike cardio"
+    ],
+    "bodyPart": "cardio",
+    "target": "cardiovascular system",
+    "secondaryMuscles": [
+      "varies by machine"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "heart and lungs",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "Any sustained aerobic activity using a cardio machine to increase heart rate and endurance.",
+    "instructions": "Select an appropriate cardio machine, adjust resistance and settings for your fitness level, and perform steady-state or interval training maintaining proper form. Focus on continuous movement and controlled breathing for the session.",
+    "steps": [
+      "Choose your preferred cardio machine (treadmill, bike, etc).",
+      "Adjust resistance, incline, and settings as desired.",
+      "Begin with a brief warm-up.",
+      "Perform cardio at steady or variable intensity.",
+      "Cool down after session."
+    ],
+    "formCues": [
+      "Maintain upright posture",
+      "Relax shoulders",
+      "Use full range of motion",
+      "Control your breathing"
+    ],
+    "commonMistakes": [
+      "Slouching or poor posture",
+      "Using excessive resistance or speed",
+      "Neglecting warm-up or cool-down"
+    ],
+    "breathing": "Breathe rhythmically according to intensity; exhale during exertion, inhale during recovery.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cardio-exercises-machine.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cardio-exercises-machine.jpg"
+    }
+  },
+  {
+    "id": "drv-cardio-exercises-machines",
+    "name": "Cardio Machine Workouts",
+    "aliases": [
+      "cardio machine routines",
+      "gym cardio machines",
+      "aerobic machine exercises"
+    ],
+    "bodyPart": "cardio",
+    "target": "cardiovascular system",
+    "secondaryMuscles": [
+      "varies by machine (legs, glutes, arms)"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "heart and lungs",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "Cardio exercises on machines like treadmills, bikes, ellipticals, or rowers improve cardiovascular fitness and endurance.",
+    "instructions": "Choose a cardio machine such as a treadmill, stationary bike, elliptical, or rowing machine. Adjust the settings for your comfort and fitness level. Begin the workout, maintaining steady pace and form as you monitor your exertion and duration.",
+    "steps": [
+      "Select a cardio machine suitable for your fitness level.",
+      "Adjust settings such as resistance, speed, and incline as desired.",
+      "Begin movement, focusing on steady pace and good posture.",
+      "Continue for your planned duration, monitoring intensity.",
+      "Cool down gradually and safely exit the machine."
+    ],
+    "formCues": [
+      "Maintain upright posture",
+      "Use full range of motion",
+      "Monitor intensity",
+      "Keep steady pace"
+    ],
+    "commonMistakes": [
+      "Poor posture",
+      "Jumping on or off quickly",
+      "Overexerting too quickly"
+    ],
+    "breathing": "Breathe steadily throughout the workout.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cardio-exercises-machines.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cardio-exercises-machines.jpg"
+    }
+  },
+  {
+    "id": "2141",
+    "name": "Elliptical Trainer",
+    "aliases": [
+      "elliptical",
+      "cross trainer",
+      "elliptical machine",
+      "walk elliptical cross trainer"
+    ],
+    "bodyPart": "cardio",
+    "target": "cardiovascular system",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "gluteus maximus",
+      "calves",
+      "pectoralis major",
+      "deltoids"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "cardiovascular system",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A low-impact cardio exercise using a standing elliptical machine for total body endurance and aerobic gains.",
+    "instructions": "Step onto the elliptical machine and grasp the moving handles. Begin moving feet in an elliptical motion, engaging both the lower and upper body by pushing and pulling the handles as you stride.",
+    "steps": [
+      "Step onto the pedals and hold the handles.",
+      "Select desired resistance and incline.",
+      "Begin moving feet in a smooth, elliptical pattern.",
+      "Push and pull the handles with your arms in sync with your strides.",
+      "Maintain a steady cadence and upright posture."
+    ],
+    "formCues": [
+      "Keep chest up",
+      "Balance weight evenly",
+      "Smooth, controlled motion",
+      "Engage core lightly"
+    ],
+    "commonMistakes": [
+      "Leaning too far forward or backward",
+      "Relying only on legs or arms",
+      "Choppy, fast movements"
+    ],
+    "breathing": "Maintain rhythmic, deep breathing throughout the workout.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/elliptical.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/elliptical.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/elliptical.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/elliptical.jpg"
+    }
+  },
+  {
+    "id": "2612",
+    "name": "Jump Rope",
+    "aliases": [
+      "skipping rope",
+      "rope skipping",
+      "jumping rope",
+      "skip rope",
+      "basic rope jumps",
+      "jump rope"
+    ],
+    "bodyPart": "cardio",
+    "target": "cardiovascular system",
+    "secondaryMuscles": [
+      "calves",
+      "quadriceps",
+      "hamstrings",
+      "glutes"
+    ],
+    "equipment": "rope",
+    "muscleGroup": "calves",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A cardio exercise where you turn a rope with your hands and perform repeated small jumps as it passes under your feet.",
+    "instructions": "Hold the handles of the jump rope with your hands, palms facing inward. Stand with your feet shoulder-width apart and knees slightly bent. Swing the rope over your head and jump over it as it comes towards your feet. Land softly on the balls of your feet and repeat the jump as the rope comes around again. Continue jumping for the desired duration or number of repetitions.",
+    "steps": [
+      "Hold a handle in each hand with the rope behind your heels.",
+      "Stand tall with feet close together and elbows tucked by your sides.",
+      "Turn the rope with your wrists and swing it up overhead.",
+      "Hop just high enough to clear the rope as it passes under your feet.",
+      "Land softly on the balls of your feet with knees slightly bent.",
+      "Keep the rope moving in a smooth rhythm and repeat each jump."
+    ],
+    "formCues": [
+      "Turn with the wrists",
+      "Stay light on your feet",
+      "Jump only as needed",
+      "Keep elbows close"
+    ],
+    "commonMistakes": [
+      "Swinging the arms in big circles instead of using the wrists",
+      "Jumping too high off the floor on each rep",
+      "Landing flat-footed or with stiff knees",
+      "Letting the hands drift wide away from the hips"
+    ],
+    "breathing": "Breathe steadily and naturally, exhaling softly every few jumps while keeping a relaxed rhythm.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/jump-rope.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jump-rope.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/jump-rope.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jump-rope.jpg"
+    }
+  },
+  {
+    "id": "new-low-impact-jumping-jack",
+    "name": "Jumping Jack",
+    "aliases": [
+      "star jump",
+      "side straddle hop",
+      "Jumping Jack",
+      "low-impact jumping jack"
+    ],
+    "bodyPart": "cardio",
+    "target": "full body",
+    "secondaryMuscles": [
+      "deltoids",
+      "adductors",
+      "calves",
+      "gluteus medius"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "cardiovascular system",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A dynamic total-body movement for cardiovascular and muscular endurance.",
+    "instructions": "Begin standing with feet together and arms at sides. Jump feet outward while raising arms overhead, then reverse to starting position in a single fluid motion.",
+    "steps": [
+      "Start with feet together and arms relaxed at your sides.",
+      "Jump feet out to shoulder-width as you raise arms overhead.",
+      "Briefly touch hands or keep arms straight above head.",
+      "Jump feet back together and arms down to sides.",
+      "Repeat at a brisk pace."
+    ],
+    "formCues": [
+      "Land softly",
+      "Keep core engaged",
+      "Full arm extension",
+      "Stay light on feet"
+    ],
+    "commonMistakes": [
+      "Slapping feet",
+      "Incomplete arm raise",
+      "Landing hard on heels"
+    ],
+    "breathing": "Breathe evenly throughout the movement.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/jumping-jack.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jumping-jack.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/jumping-jack.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jumping-jack.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-plyo-side-lunge-stretch",
+    "name": "Plyometric Side Lunge Stretch",
+    "aliases": [
+      "plyo side lunge stretch",
+      "dynamic lateral lunge stretch"
+    ],
+    "bodyPart": "cardio",
+    "target": "adductors",
+    "secondaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "hamstrings"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "hip adductors",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": true,
+    "shortDescription": "A dynamic stretch to warm up and mobilize the hips, inner thighs, and legs.",
+    "instructions": "Begin standing with feet shoulder-width apart. Step to the side into a deep lunge, keeping the opposite leg straight, and quickly alternate sides in a rhythmic motion.",
+    "steps": [
+      "Stand with feet wider than hip-width apart.",
+      "Shift your weight to one side, bending the knee and keeping the opposite leg straight.",
+      "Drop into a deep lunge while maintaining upright posture.",
+      "Push off the bent leg and return to starting position.",
+      "Repeat to the opposite side in a dynamic, alternating fashion."
+    ],
+    "formCues": [
+      "Keep chest up",
+      "Push hips back",
+      "Knee in line with toes",
+      "Alternate sides smoothly"
+    ],
+    "commonMistakes": [
+      "Letting knee cave inward",
+      "Lifting heel off the ground",
+      "Rounding the back"
+    ],
+    "breathing": "Inhale as you prepare and exhale moving into each lunge.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-plyo-side-lunge-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-plyo-side-lunge-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-plyo-side-lunge-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-plyo-side-lunge-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-running",
+    "name": "Running",
+    "aliases": [
+      "jogging",
+      "outdoor run",
+      "road running",
+      "treadmill running"
+    ],
+    "bodyPart": "cardio",
+    "target": "cardiovascular system",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "glutes",
+      "calves"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "heart and lungs",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A repetitive aerobic movement that improves cardiovascular fitness and endurance.",
+    "instructions": "Begin at a comfortable pace, maintaining upright posture and relaxed shoulders. Land lightly on your feet and use a natural arm swing for balance, adjusting speed and distance as fitness improves.",
+    "steps": [
+      "Warm up with light walking or dynamic stretches.",
+      "Begin running at a moderate pace.",
+      "Maintain a steady breathing rhythm and upright posture.",
+      "Land lightly with a midfoot or forefoot strike.",
+      "Cool down with walking and stretching."
+    ],
+    "formCues": [
+      "Keep chest up",
+      "Relax shoulders",
+      "Lean slightly forward from ankles",
+      "Swing arms naturally"
+    ],
+    "commonMistakes": [
+      "Overstriding",
+      "Hunching shoulders",
+      "Landing heavily on heels"
+    ],
+    "breathing": "Exhale steadily as you push off, inhale as you recover.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/running.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/running.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/running.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/running.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-single-leg-stretch-bent-knee",
+    "name": "Single Leg Stretch (Bent Knee)",
+    "aliases": [
+      "single bent knee stretch",
+      "single leg bent knee stretch"
+    ],
+    "bodyPart": "cardio",
+    "target": "hip flexors",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "glutes"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "iliopsoas",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A floor stretch to target hip flexors and hamstrings by pulling one bent leg towards the chest.",
+    "instructions": "Lie on your back with both knees bent. Grip one shin and gently pull that knee towards your chest, feeling the stretch in your hip and glutes. Maintain a neutral spine and hold before switching legs.",
+    "steps": [
+      "Lie on your back with both legs bent.",
+      "Grasp one knee with both hands.",
+      "Pull the knee toward your chest gently.",
+      "Hold the stretch, keeping your back flat.",
+      "Switch sides and repeat."
+    ],
+    "formCues": [
+      "Keep shoulders relaxed",
+      "Pull gently",
+      "Keep opposite foot on floor",
+      "Breathe steadily"
+    ],
+    "commonMistakes": [
+      "Overpulling knee",
+      "Arching lower back",
+      "Holding breath"
+    ],
+    "breathing": "Exhale as you pull the knee in, inhale as you release.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-single-leg-stretch-bent-knee.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-single-leg-stretch-bent-knee.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-single-leg-stretch-bent-knee.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-single-leg-stretch-bent-knee.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-single-straight-leg-stretch",
+    "name": "Single Straight Leg Stretch",
+    "aliases": [
+      "straight leg hamstring stretch",
+      "single leg raise stretch"
+    ],
+    "bodyPart": "cardio",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "lower back"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A floor stretch focusing on the hamstrings by raising and holding one straight leg toward the body.",
+    "instructions": "Lie on your back, legs extended. Lift one leg straight up, keeping it as straight as possible, and hold the calf or thigh to gently pull it closer, feeling a stretch in the hamstrings and calves. Then switch legs.",
+    "steps": [
+      "Lie on your back with both legs straight.",
+      "Lift one leg up while keeping it straight.",
+      "Hold the back of your thigh or calf gently.",
+      "Pull the leg slightly toward your chest.",
+      "Hold and switch legs."
+    ],
+    "formCues": [
+      "Keep leg straight",
+      "Relax neck and shoulders",
+      "Point or flex foot for deeper stretch",
+      "Avoid pulling too hard"
+    ],
+    "commonMistakes": [
+      "Bending the raised knee",
+      "Lifting hips off mat",
+      "Straining neck or back"
+    ],
+    "breathing": "Exhale as you stretch the leg, inhale as you lower it.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-single-straight-leg-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-single-straight-leg-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-single-straight-leg-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-single-straight-leg-stretch.jpg"
+    }
+  },
+  {
+    "id": "2138",
+    "name": "Stationary Bike",
+    "aliases": [
+      "spin bike",
+      "exercise bike",
+      "upright bike",
+      "recumbent bike",
+      "Stationary Bike",
+      "stationary bike run"
+    ],
+    "bodyPart": "cardio",
+    "target": "cardiovascular system",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "gluteus maximus",
+      "calves"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "cardiovascular system",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A cardio exercise performed while seated, pedaling a stationary machine to boost heart rate and endurance.",
+    "instructions": "Adjust the seat height and handlebar position for comfort and knee alignment. Pedal continuously at your desired intensity, maintaining good posture throughout the workout.",
+    "steps": [
+      "Set seat and handlebar to appropriate heights.",
+      "Sit upright and grip the handlebars lightly.",
+      "Place feet securely on the pedals.",
+      "Begin pedaling at a comfortable resistance and pace.",
+      "Continue for your intended duration, maintaining good form."
+    ],
+    "formCues": [
+      "Keep back straight",
+      "Drive through full pedal stroke",
+      "Relax shoulders",
+      "Maintain steady breathing"
+    ],
+    "commonMistakes": [
+      "Slouching forward",
+      "Bouncing in the seat",
+      "Pedaling with toes only",
+      "Setting seat too low/high"
+    ],
+    "breathing": "Breathe evenly and deeply throughout the session.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stationary-bike.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stationary-bike.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stationary-bike.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stationary-bike.jpg"
+    }
+  },
+  {
+    "id": "drv-treadmill-running",
+    "name": "Treadmill Running",
+    "aliases": [
+      "treadmill cardio",
+      "treadmill jog",
+      "treadmill sprint"
+    ],
+    "bodyPart": "cardio",
+    "target": "cardiovascular system",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "calves",
+      "glutes"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "cardiovascular system",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A popular form of indoor cardiovascular exercise performed at varying intensities on a treadmill machine.",
+    "instructions": "Set your desired speed and incline on the treadmill. Start jogging or running, ensuring good posture with a natural stride. Adjust settings as needed for intensity and duration.",
+    "steps": [
+      "Step onto the treadmill and position feet on the sides.",
+      "Select preferred speed and incline.",
+      "Begin running, holding onto the handrails if necessary for balance.",
+      "Focus on smooth strides and upright posture.",
+      "Cool down by gradually reducing speed before stopping."
+    ],
+    "formCues": [
+      "Keep posture upright",
+      "Land softly",
+      "Don't overstride",
+      "Use arm swing for balance"
+    ],
+    "commonMistakes": [
+      "Holding handrails too long",
+      "Slouching",
+      "Overstriding",
+      "Staring down"
+    ],
+    "breathing": "Inhale through nose, exhale through mouth in rhythm with strides.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/treadmill-running.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/treadmill-running.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/treadmill-running.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/treadmill-running.jpg"
+    }
+  },
+  {
+    "id": "drv-walk-wave-machine",
+    "name": "Walk Wave Machine",
+    "aliases": [
+      "wave trainer",
+      "cardio wave",
+      "side to side elliptical"
+    ],
+    "bodyPart": "cardio",
+    "target": "cardiovascular system",
+    "secondaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "hamstrings",
+      "hip abductors",
+      "calves"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "cardiovascular system",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A low-impact cardio machine utilizing a unique lateral gliding motion to engage lower body muscles and improve endurance.",
+    "instructions": "Step onto the wave machine and grip the handles if available. Begin with a slow pace, moving feet in a side-to-side, skating motion. Gradually increase resistance and speed as you feel comfortable.",
+    "steps": [
+      "Step onto the machine and position feet on pedals.",
+      "Grip handles for stability.",
+      "Initiate movement by pushing one leg outward while the other follows.",
+      "Maintain a rhythmic, lateral gliding motion.",
+      "Continue for the desired time or intensity."
+    ],
+    "formCues": [
+      "Maintain upright posture",
+      "Engage glutes",
+      "Move laterally",
+      "Use smooth, controlled motion"
+    ],
+    "commonMistakes": [
+      "Leaning forward",
+      "Letting knees cave in",
+      "Jerky movements"
+    ],
+    "breathing": "Keep breath steady and controlled throughout.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/walk-wave-machine.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/walk-wave-machine.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/walk-wave-machine.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/walk-wave-machine.jpg"
+    }
+  }
+]

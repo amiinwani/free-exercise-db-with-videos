@@ -1,0 +1,53 @@
+{
+  "id": "0970",
+  "name": "Band Assisted Pull-up",
+  "aliases": [
+    "assisted pull-up",
+    "band pull-up",
+    "resistance band pull-up",
+    "banded pull-up",
+    "pull-up with band",
+    "band assisted pull-up"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "equipment": "band",
+  "muscleGroup": "biceps",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A vertical pulling exercise using a resistance band for assistance to build pull-up strength in the lats, biceps, and upper back.",
+  "instructions": "Attach the band to a pull-up bar or sturdy anchor point. Step onto the band and grip the bar with your palms facing away from you, hands slightly wider than shoulder-width apart. Hang with your arms fully extended, keeping your core engaged and your shoulders down and back. Pull your body up towards the bar by squeezing your shoulder blades together and driving your elbows down towards your hips. Continue pulling until your chin is above the bar, then slowly lower yourself back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Loop the band securely over a pull-up bar and place one foot or knee into the bottom of the band.",
+    "Grip the bar slightly wider than shoulder width with your palms facing away from you.",
+    "Hang with straight arms, tighten your midsection, and pull your shoulders down away from your ears.",
+    "Pull yourself up by driving your elbows down and back until your chin clears the bar.",
+    "Lower yourself with control until your arms are straight again, keeping tension through your torso."
+  ],
+  "formCues": [
+    "Drive elbows to hips",
+    "Keep ribs down",
+    "Shoulders away from ears",
+    "Control the descent"
+  ],
+  "commonMistakes": [
+    "Kicking or swinging to get up",
+    "Shrugging shoulders up toward the ears",
+    "Stopping short with the chin below the bar",
+    "Dropping quickly to the bottom without control"
+  ],
+  "breathing": "Inhale at the bottom before you pull, exhale as you pull up, and inhale again as you lower under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-assisted-pull-up.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-assisted-pull-up.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-assisted-pull-up.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-assisted-pull-up.jpg"
+  }
+}

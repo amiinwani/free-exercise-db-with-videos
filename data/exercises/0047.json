@@ -1,0 +1,54 @@
+{
+  "id": "0047",
+  "name": "Barbell Incline Bench Press",
+  "aliases": [
+    "incline barbell bench press",
+    "incline bench press",
+    "barbell incline press",
+    "incline chest press",
+    "upper chest barbell press",
+    "barbell incline bench press"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A pressing exercise on an incline bench using a barbell to train the upper chest, shoulders, and triceps.",
+  "instructions": "Set up an incline bench at a 45-degree angle. Lie down on the bench with your feet flat on the ground. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows at a 45-degree angle. Pause for a moment at the bottom, then push the barbell back up to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set an incline bench and lie back with your eyes under the bar and your feet flat on the floor.",
+    "Grip the bar slightly wider than shoulder width with straight wrists and pull your shoulder blades down and back.",
+    "Unrack the bar and hold it above your upper chest with your arms straight.",
+    "Lower the bar under control to your upper chest, keeping your elbows slightly tucked from straight out.",
+    "Press the bar upward until your arms are straight again, keeping the bar path over your shoulders.",
+    "Rack the bar back onto the supports with control after your final rep."
+  ],
+  "formCues": [
+    "Drive feet into floor",
+    "Keep chest up",
+    "Wrists stacked over elbows",
+    "Press straight up"
+  ],
+  "commonMistakes": [
+    "Flaring the elbows straight out to the sides",
+    "Bouncing the bar off the chest",
+    "Lifting the feet or shifting on the bench",
+    "Lowering the bar to the neck or stomach"
+  ],
+  "breathing": "Inhale as you lower the bar to your chest, and exhale as you press it back up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-incline-bench-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-incline-bench-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-incline-bench-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-incline-bench-press.jpg"
+  }
+}

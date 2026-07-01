@@ -1,0 +1,52 @@
+{
+  "id": "1587",
+  "name": "Seated Wide Angle Pose Sequence",
+  "aliases": [
+    "upavistha konasana",
+    "seated wide straddle stretch",
+    "wide angle sitting stretch",
+    "Stretching - Seated Wide Angle Pose Sequence",
+    "seated wide angle pose sequence"
+  ],
+  "bodyPart": "back",
+  "target": "adductors",
+  "secondaryMuscles": [
+    "hamstrings",
+    "erector spinae",
+    "gluteus maximus"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "adductor muscles",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A sequence of stretches performed in a wide-legged seated position to improve hip, hamstring, and lower back flexibility.",
+  "instructions": "Sit upright and spread your legs as wide as is comfortable. With a straight back, hinge forward at the hips and walk your hands out in front or toward each leg, deepening the stretch in the inner thighs and lower back. Carefully progress through variations to target various muscle groups.",
+  "steps": [
+    "Sit with legs extended wide apart.",
+    "Keep knees and toes pointing upward.",
+    "Sit tall and hinge forward at hips.",
+    "Walk hands forward, maintaining flat back.",
+    "Hold stretch or gently move side to side."
+  ],
+  "formCues": [
+    "Keep spine long",
+    "Point toes up",
+    "Lead with chest",
+    "Don't round lower back"
+  ],
+  "commonMistakes": [
+    "Letting knees roll inward",
+    "Rounding back excessively",
+    "Pushing too far"
+  ],
+  "breathing": "Inhale to prepare, exhale as you stretch forward.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-seated-wide-angle-pose-sequence.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-seated-wide-angle-pose-sequence.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-seated-wide-angle-pose-sequence.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-seated-wide-angle-pose-sequence.jpg"
+  }
+}

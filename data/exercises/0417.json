@@ -1,0 +1,52 @@
+{
+  "id": "0417",
+  "name": "Dumbbell Standing Calf Raise",
+  "aliases": [
+    "standing dumbbell calf raise",
+    "DB calf raise",
+    "dumbbell calf raises",
+    "standing calf raise",
+    "calf raises holding dumbbells",
+    "dumbbell standing calf raise"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "ankles"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "ankles",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A standing calf exercise where you hold dumbbells at your sides and raise your heels to train the calves and ankles.",
+  "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Raise your heels off the ground as high as possible, using your calves. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand upright with a dumbbell in each hand and place your feet about hip-width apart.",
+    "Let your arms hang by your sides and keep your knees softly bent.",
+    "Press through the balls of your feet and lift your heels as high as you can.",
+    "Pause briefly at the top while staying tall through your torso.",
+    "Lower your heels back to the floor with control and repeat."
+  ],
+  "formCues": [
+    "Rise straight up",
+    "Press through big toe",
+    "Control the lowering",
+    "Keep torso tall"
+  ],
+  "commonMistakes": [
+    "Bouncing at the bottom instead of lowering under control",
+    "Rolling the ankles outward or inward",
+    "Bending the knees to turn it into a squat",
+    "Leaning the torso forward as the heels lift"
+  ],
+  "breathing": "Inhale as you lower your heels, and exhale as you press up onto your toes.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-standing-calf-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-standing-calf-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-standing-calf-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-standing-calf-raise.jpg"
+  }
+}

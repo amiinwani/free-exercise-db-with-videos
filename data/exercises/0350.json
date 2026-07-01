@@ -1,0 +1,51 @@
+{
+  "id": "0350",
+  "name": "Supine Dumbbell Biceps Curl",
+  "aliases": [
+    "Lying Dumbbell Curl",
+    "Lying Biceps Curl",
+    "Supine Curl",
+    "Lying Supine Dumbbell Curl",
+    "dumbbell lying supine curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "brachialis",
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "biceps brachii",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A biceps isolation curl performed lying face up for strict form and minimal cheating.",
+  "instructions": "Lie supine (face up) on a flat bench with a dumbbell in each hand, arms extended. Keeping your upper arms still, curl the weights towards your shoulders, then lower under control.",
+  "steps": [
+    "Lie flat on your back holding dumbbells at your sides, arms fully extended.",
+    "Keep palms facing forward (supinated grip).",
+    "Curl the dumbbells up toward your shoulders, elbows stationary.",
+    "Squeeze your biceps at the top.",
+    "Lower the weights slowly to the start position."
+  ],
+  "formCues": [
+    "Upper arms still",
+    "Don’t arch back",
+    "Full stretch at bottom",
+    "Slow negative"
+  ],
+  "commonMistakes": [
+    "Lifting shoulders off bench",
+    "Swinging arms",
+    "Partial range"
+  ],
+  "breathing": "Exhale as you curl up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lying-supine-dumbbell-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lying-supine-dumbbell-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lying-supine-dumbbell-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lying-supine-dumbbell-curl.jpg"
+  }
+}

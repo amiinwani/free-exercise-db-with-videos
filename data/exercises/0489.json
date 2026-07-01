@@ -1,0 +1,52 @@
+{
+  "id": "0489",
+  "name": "45 Degree Hyperextension",
+  "aliases": [
+    "back extension",
+    "hyperextension bench",
+    "Roman chair extension",
+    "45 Degree Hyperextension",
+    "hyperextension"
+  ],
+  "bodyPart": "back",
+  "target": "erector spinae",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "erector spinae",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A lower back exercise on a 45-degree hyperextension bench that targets the spinal erectors and posterior chain.",
+  "instructions": "Set up on a 45-degree hyperextension bench with hips supported and ankles secured. Cross arms over the chest or place hands behind the head. Hinge at the hips, lower your torso toward the floor, then contract lower back and glutes to return to start.",
+  "steps": [
+    "Position yourself on the 45-degree hyperextension bench with ankles secured.",
+    "Cross arms over chest or place hands behind head.",
+    "Lower your upper body forward at the hips.",
+    "Stop when your upper body is just below parallel to the floor.",
+    "Lift your torso back up in line with your legs."
+  ],
+  "formCues": [
+    "Keep back straight",
+    "Hinge from hips",
+    "Engage glutes",
+    "Avoid hyperextending spine"
+  ],
+  "commonMistakes": [
+    "Rounding the back",
+    "Overextending at the top",
+    "Using momentum"
+  ],
+  "breathing": "Exhale as you rise, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/45-degree-hyperextension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/45-degree-hyperextension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/45-degree-hyperextension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/45-degree-hyperextension.jpg"
+  }
+}

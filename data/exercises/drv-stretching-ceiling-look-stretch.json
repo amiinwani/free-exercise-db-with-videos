@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-ceiling-look-stretch",
+  "name": "Standing Hip Flexor and Abdominal Stretch",
+  "aliases": [
+    "standing reach up stretch",
+    "standing hip flexor extension",
+    "ceiling look stretch"
+  ],
+  "bodyPart": "hips",
+  "target": "hip flexors",
+  "secondaryMuscles": [
+    "abdominals",
+    "quadriceps"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "iliopsoas",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A standing stretch focusing on opening the hips and lengthening the abdominal muscles by reaching overhead and leaning back.",
+  "instructions": "Stand tall with feet shoulder-width apart. Raise both arms overhead and gently arch your back, lifting your chest and looking up at the ceiling. Engage your glutes and extend hips forward to feel a stretch through the front of your hips and abdomen.",
+  "steps": [
+    "Stand upright with feet shoulder-width apart.",
+    "Lift arms overhead, palms facing forward.",
+    "Arch back gently, lifting chest and looking upward.",
+    "Shift hips forward slightly to increase hip flexor stretch.",
+    "Hold and breathe for desired duration."
+  ],
+  "formCues": [
+    "Engage glutes",
+    "Stretch upwards before leaning back",
+    "Don’t force neck back",
+    "Keep knees soft"
+  ],
+  "commonMistakes": [
+    "Overarching lower back",
+    "Locking knees",
+    "Failing to engage core"
+  ],
+  "breathing": "Inhale before arching; exhale as you hold the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-ceiling-look-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-ceiling-look-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-ceiling-look-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-ceiling-look-stretch.jpg"
+  }
+}

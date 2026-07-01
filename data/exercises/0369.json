@@ -1,0 +1,54 @@
+{
+  "id": "0369",
+  "name": "Dumbbell Over Bench Wrist Curl",
+  "aliases": [
+    "dumbbell wrist curl",
+    "over-bench wrist curl",
+    "bench wrist curl",
+    "seated dumbbell wrist curl",
+    "forearm curl with dumbbells",
+    "dumbbell over bench wrist curl"
+  ],
+  "bodyPart": "lower arms",
+  "target": "forearms",
+  "secondaryMuscles": [
+    "biceps",
+    "brachialis"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "biceps",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated forearm isolation exercise where the wrists curl dumbbells upward with the forearms supported on a bench.",
+  "instructions": "Sit on a bench with your forearms resting on the bench and your palms facing up, holding a dumbbell in each hand. Allow your wrists to hang over the edge of the bench. Slowly curl your wrists upward, squeezing your forearms at the top of the movement. Pause for a moment, then slowly lower your wrists back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit at a bench and place your forearms on top with your palms facing up.",
+    "Hold a dumbbell in each hand and slide forward until your wrists hang just past the bench edge.",
+    "Let your hands lower to gently stretch your wrists at the bottom.",
+    "Curl your wrists up by lifting your knuckles toward your forearms.",
+    "Squeeze your forearms briefly at the top.",
+    "Lower the dumbbells back down under control until your wrists extend again."
+  ],
+  "formCues": [
+    "Move only your wrists",
+    "Forearms stay glued down",
+    "Curl through full range",
+    "Lower slowly"
+  ],
+  "commonMistakes": [
+    "Lifting the forearms off the bench during the curl.",
+    "Swinging the dumbbells instead of moving only the wrists.",
+    "Using partial range and stopping before the wrists fully lower.",
+    "Bending the elbows to help raise the weight."
+  ],
+  "breathing": "Inhale as you lower your wrists and exhale as you curl them up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-over-bench-wrist-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-over-bench-wrist-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-over-bench-wrist-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-over-bench-wrist-curl.jpg"
+  }
+}

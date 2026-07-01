@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-seated-twist-straight-arm",
+  "name": "Seated Twist Stretch (Straight Arm)",
+  "aliases": [
+    "seated spinal twist",
+    "seated twist",
+    "straight arm seated twist"
+  ],
+  "bodyPart": "waist",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "erector spinae",
+    "gluteus maximus"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "external obliques",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A flexibility exercise involving seated trunk rotation to stretch the obliques and lower back.",
+  "instructions": "Sit on the floor with your legs extended and back straight. Extend your right arm behind you and twist your torso to the right, keeping your left arm straight across your knee for leverage, hold, and repeat on the other side.",
+  "steps": [
+    "Sit upright with legs extended forward.",
+    "Cross your left leg over your right if desired for more stretch.",
+    "Extend your right arm straight behind you for support.",
+    "Twist your torso toward your right, using the opposite arm for leverage.",
+    "Hold, then repeat to the other side."
+  ],
+  "formCues": [
+    "Keep back straight",
+    "Twist gently",
+    "Look over shoulder",
+    "Breathe deeply"
+  ],
+  "commonMistakes": [
+    "Slouching the back",
+    "Over-twisting",
+    "Holding breath"
+  ],
+  "breathing": "Breathe steadily while holding the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-seated-twist-straight-arm.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-seated-twist-straight-arm.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-seated-twist-straight-arm.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-seated-twist-straight-arm.jpg"
+  }
+}

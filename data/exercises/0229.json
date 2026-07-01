@@ -1,0 +1,53 @@
+{
+  "id": "0229",
+  "name": "Cable Standing Inner Curl",
+  "aliases": [
+    "cable standing inner curl",
+    "standing cable curl",
+    "single-arm cable curl",
+    "cable biceps curl",
+    "low cable curl",
+    "cable arm curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A single-arm cable biceps curl done standing with an underhand grip to train elbow flexion under constant tension.",
+  "instructions": "Stand facing a cable machine with your feet shoulder-width apart. Grasp the cable handle with an underhand grip, palms facing up. Keep your elbows close to your sides and your upper arms stationary. Exhale and curl the cable handle towards your shoulders, contracting your biceps. Pause for a moment at the top of the movement, squeezing your biceps. Inhale and slowly lower the cable handle back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set a cable handle to the lowest position and stand facing the machine.",
+    "Grab the handle with one hand using an underhand grip and let your arm hang straight by your side.",
+    "Step back until the cable is taut, then stand tall with your feet about hip-width apart.",
+    "Keep your elbow pinned near your side and curl the handle up toward your shoulder.",
+    "Squeeze your biceps at the top without letting your upper arm drift forward.",
+    "Lower the handle slowly until your arm is straight again, then repeat before switching sides."
+  ],
+  "formCues": [
+    "Keep elbow by your side",
+    "Curl, don't swing",
+    "Stand tall",
+    "Control the lowering"
+  ],
+  "commonMistakes": [
+    "Elbow drifts forward during the curl",
+    "Torso rocks back to move the weight",
+    "Wrist bends excessively instead of staying neutral",
+    "Letting the handle drop quickly on the way down"
+  ],
+  "breathing": "Exhale as you curl the handle up, and inhale as you lower it back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-standing-inner-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-standing-inner-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-standing-inner-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-standing-inner-curl.jpg"
+  }
+}

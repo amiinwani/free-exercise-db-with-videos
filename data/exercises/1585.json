@@ -1,0 +1,52 @@
+{
+  "id": "1585",
+  "name": "Runner's Stretch",
+  "aliases": [
+    "lunge stretch",
+    "hip flexor stretch",
+    "iliopsoas stretch",
+    "Stretching - Runners Stretch",
+    "runners stretch"
+  ],
+  "bodyPart": "upper legs",
+  "target": "hip flexors",
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps",
+    "gluteus maximus"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "iliopsoas",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A flexibility exercise targeting the hip flexors and hamstrings by stepping one leg forward into a deep lunge.",
+  "instructions": "Begin in a lunge position with one foot forward and the other leg extended back, keeping both hands on the floor. Sink your hips low toward the ground while keeping your chest lifted, feeling a stretch in the hip flexor of your rear leg and hamstring of your front leg.",
+  "steps": [
+    "Step one foot forward into a lunge, keeping the rear leg extended.",
+    "Place both hands on either side of the front foot.",
+    "Lower your hips gently, keeping back leg straight.",
+    "Lift your chest for deeper stretch.",
+    "Hold, then switch legs."
+  ],
+  "formCues": [
+    "Keep back leg long",
+    "Sink hips down",
+    "Lift chest",
+    "Square your hips"
+  ],
+  "commonMistakes": [
+    "Letting knee go over toes",
+    "Dropping hips too low",
+    "Arching the back excessively"
+  ],
+  "breathing": "Inhale as you get into position, exhale as you deepen the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-runners-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-runners-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-runners-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-runners-stretch.jpg"
+  }
+}

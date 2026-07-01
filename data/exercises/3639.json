@@ -1,0 +1,49 @@
+{
+  "id": "3639",
+  "name": "Bent Knee Lying Twist on Stability Ball",
+  "aliases": [
+    "lying knee twist",
+    "spinal twist ball",
+    "stability ball lying twist",
+    "Bent knee Lying  twist (On Stability Ball)",
+    "bent knee lying twist"
+  ],
+  "bodyPart": "upper legs",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "rectus abdominis",
+    "glutes"
+  ],
+  "equipment": "stability ball",
+  "muscleGroup": "obliques",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A rotational stretch on a stability ball that targets the obliques and hip flexors.",
+  "instructions": "Lie on your back with your calves resting on a stability ball, arms extended to sides. With knees bent, gently rotate your knees side to side, engaging your core to control the movement.",
+  "steps": [
+    "Lie on your back with calves on a stability ball.",
+    "Extend arms out at your sides for support.",
+    "Bend knees at 90 degrees over the ball.",
+    "Slowly drop knees to one side, keeping shoulders flat.",
+    "Return to center and repeat on the other side."
+  ],
+  "formCues": [
+    "Keep shoulders grounded",
+    "Control the twist",
+    "Engage core",
+    "Move slowly"
+  ],
+  "commonMistakes": [
+    "Letting shoulders lift off floor",
+    "Moving too quickly",
+    "Over-twisting hips"
+  ],
+  "breathing": "Exhale as you twist, inhale returning to center.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/bent-knee-lying-twist-on-stability-ball.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/bent-knee-lying-twist-on-stability-ball.jpg"
+  }
+}

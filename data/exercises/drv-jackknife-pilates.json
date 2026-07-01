@@ -1,0 +1,49 @@
+{
+  "id": "drv-jackknife-pilates",
+  "name": "Jackknife",
+  "aliases": [
+    "jackknife pilates",
+    "pilates jackknife",
+    "reverse rollover",
+    "jackknife exercise"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "hip flexors",
+    "lower back",
+    "glutes"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A Pilates core exercise involving lifting hips and legs up and overhead to strengthen the abdominals.",
+  "instructions": "Lie flat on your back with arms by your sides and legs together. Lift your legs towards the ceiling and roll your hips off the mat, supporting your back lightly with your hands if needed, then lower with control.",
+  "steps": [
+    "Lie on your back with arms at your sides and legs extended.",
+    "Engage your core and lift legs towards the ceiling.",
+    "Continue lifting hips off the mat, reaching feet upward.",
+    "Pause at the top with hips elevated.",
+    "Slowly roll back down vertebra by vertebra."
+  ],
+  "formCues": [
+    "Keep legs straight",
+    "Lift with core",
+    "Control the descent",
+    "Avoid swinging"
+  ],
+  "commonMistakes": [
+    "Letting legs fall too quickly",
+    "Arching the back excessively",
+    "Pushing with arms"
+  ],
+  "breathing": "Exhale while lifting up, inhale while lowering down.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jackknife-pilates.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jackknife-pilates.jpg"
+  }
+}

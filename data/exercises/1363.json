@@ -1,0 +1,51 @@
+{
+  "id": "1363",
+  "name": "Spine Stretch",
+  "aliases": [
+    "spinal stretch",
+    "seated spine stretch",
+    "spine flexion stretch",
+    "Stretching - Spine Stretch",
+    "spine stretch"
+  ],
+  "bodyPart": "back",
+  "target": "spinal erectors",
+  "secondaryMuscles": [
+    "latissimus dorsi",
+    "hamstrings"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "erector spinae",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A floor stretch focusing on lengthening the spine and improving flexibility in the lower back and hamstrings.",
+  "instructions": "Sit with legs extended and feet flexed, arms extended in front of you. Exhale as you reach forward, articulating the spine and stretching through your fingertips. Hold the stretch, then slowly return to start.",
+  "steps": [
+    "Sit on floor with legs extended and feet flexed.",
+    "Extend arms straight ahead at shoulder height.",
+    "Inhale, then as you exhale, reach forward, articulating your spine.",
+    "Stretch forward as far as comfortable, keeping legs straight.",
+    "Hold and return slowly to start."
+  ],
+  "formCues": [
+    "Lengthen spine",
+    "Reach with fingertips",
+    "Keep legs straight",
+    "Relax neck"
+  ],
+  "commonMistakes": [
+    "Rounding shoulders excessively",
+    "Forcing the stretch",
+    "Bending knees"
+  ],
+  "breathing": "Exhale as you stretch forward, inhale as you return to start.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-spine-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-spine-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-spine-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-spine-stretch.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0862",
+  "name": "Cable Twist (up-down)",
+  "aliases": [
+    "cable twist up-down",
+    "high-to-low cable twist",
+    "low-to-high cable twist",
+    "standing cable torso twist",
+    "cable oblique twist",
+    "cable core rotation",
+    "cable twist (up-down)"
+  ],
+  "bodyPart": "waist",
+  "target": "abs",
+  "secondaryMuscles": [
+    "obliques",
+    "lower back"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "obliques",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A standing cable rotation that trains the obliques by twisting the torso diagonally across the body.",
+  "instructions": "Stand with your feet shoulder-width apart, facing the cable machine. Hold the cable handle with both hands in front of your chest, keeping your arms slightly bent. Engage your core and slowly rotate your torso to one side, keeping your hips and legs stable. Pause for a moment at the end of the rotation, then slowly return to the starting position. Repeat the rotation to the opposite side. Continue alternating sides for the desired number of repetitions.",
+  "steps": [
+    "Set the cable handle at about shoulder height and stand sideways to the machine with feet hip-width apart.",
+    "Grab the handle with both hands and extend your arms in front of your chest with a soft bend in your elbows.",
+    "Brace your core and rotate your torso away from the machine while guiding the handle diagonally down across your body.",
+    "Keep your hips mostly still and finish with your hands near the outside of your opposite hip.",
+    "Control the handle back to the start, then repeat all reps before switching sides or reverse the path to move from low to high."
+  ],
+  "formCues": [
+    "Rotate through your ribs",
+    "Keep hips quiet",
+    "Move on a diagonal",
+    "Brace before you twist"
+  ],
+  "commonMistakes": [
+    "Turning the hips and feet with the cable",
+    "Bending and straightening the elbows to move the weight",
+    "Letting the cable yank the torso back",
+    "Shrugging the shoulders toward the ears"
+  ],
+  "breathing": "Exhale as you rotate and pull the handle across your body; inhale as you return under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-twist-up-down.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-twist-up-down.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-twist-up-down.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-twist-up-down.jpg"
+  }
+}

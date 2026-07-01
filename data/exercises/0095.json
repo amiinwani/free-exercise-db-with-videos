@@ -1,0 +1,52 @@
+{
+  "id": "0095",
+  "name": "Barbell Shrug",
+  "aliases": [
+    "barbell shrug",
+    "BB shrug",
+    "barbell shoulder shrug",
+    "standing barbell shrug",
+    "barbell trap shrug",
+    "shoulder raise with barbell"
+  ],
+  "bodyPart": "back",
+  "target": "traps",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A standing trap exercise where you hold a barbell at your thighs and lift your shoulders straight up and down.",
+  "instructions": "Stand with your feet shoulder-width apart and hold a barbell in front of you with an overhand grip. Keep your arms straight and your back straight throughout the exercise. Lift your shoulders up towards your ears as high as possible, squeezing your traps at the top. Hold for a moment, then slowly lower your shoulders back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with your feet hip- to shoulder-width apart and hold the barbell in front of your thighs with an overhand grip.",
+    "Let your arms hang straight, brace your torso, and keep your chest up.",
+    "Lift your shoulders straight up toward your ears without bending your elbows or leaning back.",
+    "Pause briefly at the top and squeeze your upper traps.",
+    "Lower your shoulders under control until they return to the starting position."
+  ],
+  "formCues": [
+    "Shoulders straight up",
+    "Arms stay long",
+    "Chest tall",
+    "No rolling"
+  ],
+  "commonMistakes": [
+    "Bending the elbows to curl the bar upward.",
+    "Rolling the shoulders forward or backward at the top.",
+    "Leaning back and swinging the torso to move the bar.",
+    "Letting the head jut forward as the shoulders rise."
+  ],
+  "breathing": "Inhale before each rep, exhale as you shrug your shoulders up, and inhale as you lower back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-shrug.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-shrug.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-shrug.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-shrug.jpg"
+  }
+}

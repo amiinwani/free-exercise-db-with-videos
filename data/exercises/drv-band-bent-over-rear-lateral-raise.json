@@ -1,0 +1,50 @@
+{
+  "id": "drv-band-bent-over-rear-lateral-raise",
+  "name": "Band Bent-Over Rear Lateral Raise",
+  "aliases": [
+    "band rear delt raise",
+    "band bent-over reverse fly",
+    "band rear lateral raise"
+  ],
+  "bodyPart": "shoulders",
+  "target": "rear deltoids",
+  "secondaryMuscles": [
+    "rhoboids",
+    "trapezius",
+    "infraspinatus"
+  ],
+  "equipment": "band",
+  "muscleGroup": "posterior deltoid",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A rear shoulder and upper back exercise using a resistance band in a bent-over position.",
+  "instructions": "Stand on a resistance band, hinge forward at the hips with a flat back. Grip the band ends and raise your arms laterally to shoulder level, keeping elbows slightly bent, then lower with control.",
+  "steps": [
+    "Stand on a resistance band, feet shoulder-width apart.",
+    "Hinge forward at hips, keeping back flat.",
+    "Hold band with both hands, arms hanging down.",
+    "Raise arms out to sides until parallel with shoulders.",
+    "Lower arms back down with control."
+  ],
+  "formCues": [
+    "Flat back",
+    "Slight elbow bend",
+    "Squeeze shoulders",
+    "Slow control"
+  ],
+  "commonMistakes": [
+    "Rounding back",
+    "Shrugging shoulders",
+    "Using momentum"
+  ],
+  "breathing": "Exhale during the raise, inhale during the lowering.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-bent-over-rear-lateral-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-bent-over-rear-lateral-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-bent-over-rear-lateral-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-bent-over-rear-lateral-raise.jpg"
+  }
+}

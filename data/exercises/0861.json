@@ -1,0 +1,53 @@
+{
+  "id": "0861",
+  "name": "Cable One-Arm Twisting Seated Row",
+  "aliases": [
+    "one-arm seated cable row with twist",
+    "single-arm rotational cable row",
+    "cable unilateral twisting row",
+    "Cable One Arm Twisting Seated Row",
+    "cable seated row"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "obliques",
+    "rhomboids",
+    "biceps brachii",
+    "posterior deltoid"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": true,
+  "shortDescription": "A unilateral cable row variation adding torso rotation to activate both the lats and core.",
+  "instructions": "Sit at a cable row station and grasp the handle with one hand. As you row the handle towards your torso, rotate your upper body toward the working side, then reverse the rotation as you extend your arm forward.",
+  "steps": [
+    "Sit on the cable row bench and grasp a single handle with one hand.",
+    "Keep back straight and feet planted on the platform.",
+    "Pull the handle toward your torso while rotating your shoulder and upper body toward the working side.",
+    "Pause and squeeze your back muscles at contraction.",
+    "Slowly return arm and torso to the starting position with control."
+  ],
+  "formCues": [
+    "Rotate torso with row",
+    "Keep chest up",
+    "Avoid jerking",
+    "Control the return"
+  ],
+  "commonMistakes": [
+    "Over-rotating",
+    "Using momentum",
+    "Shrugging the shoulder"
+  ],
+  "breathing": "Exhale as you row and rotate, inhale as you extend and return.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-one-arm-twisting-seated-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-one-arm-twisting-seated-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-one-arm-twisting-seated-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-one-arm-twisting-seated-row.jpg"
+  }
+}

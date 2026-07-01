@@ -1,0 +1,53 @@
+{
+  "id": "0075",
+  "name": "Barbell Rear Delt Raise",
+  "aliases": [
+    "rear delt raise",
+    "barbell rear delt raise",
+    "barbell bent-over reverse raise",
+    "bent-over barbell rear fly",
+    "bent-over shoulder raise"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "traps",
+    "rhomboids"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "traps",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bent-over barbell raise that targets the rear delts by lifting the arms out to the sides while holding a barbell.",
+  "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, palms facing down. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Raise the barbell out to the sides, keeping your arms straight, until they are parallel to the ground. Pause for a moment at the top, then slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall holding the barbell with a shoulder-width overhand grip.",
+    "Soften your knees and hinge at your hips until your torso is nearly parallel to the floor.",
+    "Let the bar hang below your chest with your arms straight and your neck neutral.",
+    "Raise the bar out and up by moving your upper arms to the sides until they reach shoulder height.",
+    "Pause briefly at the top while keeping your torso still.",
+    "Lower the bar under control to the starting position."
+  ],
+  "formCues": [
+    "Hinge, don't round",
+    "Lead with your elbows",
+    "Keep neck neutral",
+    "Control the lowering"
+  ],
+  "commonMistakes": [
+    "Rounding the lower back as you hinge forward",
+    "Swinging the torso to heave the bar upward",
+    "Shrugging the shoulders toward the ears",
+    "Turning it into a row by bending the elbows too much"
+  ],
+  "breathing": "Inhale as you lower the bar and set your hinge, then exhale as you raise the bar out to the sides.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-rear-delt-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-rear-delt-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-rear-delt-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-rear-delt-raise.jpg"
+  }
+}

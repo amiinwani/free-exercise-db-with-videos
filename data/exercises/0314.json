@@ -1,0 +1,54 @@
+{
+  "id": "0314",
+  "name": "Dumbbell Incline Bench Press",
+  "aliases": [
+    "incline dumbbell press",
+    "DB incline press",
+    "incline bench dumbbell press",
+    "dumbbell incline chest press",
+    "incline chest press with dumbbells",
+    "dumbbell incline bench press"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A pressing exercise on an incline bench using dumbbells to train the upper chest, shoulders, and triceps.",
+  "instructions": "Set up an incline bench at a 45-degree angle. Sit on the bench with your feet flat on the ground and your back pressed firmly against the bench. Hold a dumbbell in each hand, palms facing forward, and lift them to shoulder height. Slowly lower the dumbbells to the sides of your chest, keeping your elbows at a 90-degree angle. Push the dumbbells back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set an incline bench and sit back with a dumbbell in each hand resting on your thighs.",
+    "Lie back on the bench and bring the dumbbells to chest level with your palms facing forward.",
+    "Plant your feet on the floor and position your elbows slightly below shoulder height.",
+    "Press the dumbbells up over your upper chest until your arms are straight.",
+    "Lower the dumbbells under control to the sides of your upper chest.",
+    "Repeat by pressing back up along the same path."
+  ],
+  "formCues": [
+    "Keep wrists stacked",
+    "Drive feet into floor",
+    "Lower with control",
+    "Press over upper chest"
+  ],
+  "commonMistakes": [
+    "Flaring the elbows straight out to the sides",
+    "Letting the dumbbells drift toward the face",
+    "Bouncing the dumbbells off the chest position",
+    "Arching the lower back off the bench"
+  ],
+  "breathing": "Inhale as you lower the dumbbells, and exhale as you press them up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-bench-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-bench-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-bench-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-bench-press.jpg"
+  }
+}

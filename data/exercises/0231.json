@@ -1,0 +1,54 @@
+{
+  "id": "0231",
+  "name": "Cable Standing One Arm Triceps Extension",
+  "aliases": [
+    "single-arm cable triceps extension",
+    "one-arm cable triceps extension",
+    "standing single-arm triceps extension",
+    "single-arm triceps pushdown",
+    "one-arm cable arm extension",
+    "cable triceps extension",
+    "cable standing one arm triceps extension"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A single-arm cable triceps isolation exercise done standing, extending the elbow while keeping the upper arm fixed.",
+  "instructions": "Stand with your feet shoulder-width apart, facing the cable machine. Hold the cable handle with your right hand, palm facing down, and position your arm so that it is fully extended and parallel to the ground. Keep your elbow stationary and close to your body. Slowly bend your elbow, lowering the cable handle towards the back of your head. Pause for a moment at the bottom of the movement, then extend your arm back to the starting position. Repeat for the desired number of repetitions, then switch sides and perform the exercise with your left arm.",
+  "steps": [
+    "Stand side-on to the cable machine and grasp the handle with one hand.",
+    "Step away until the cable is taut, then raise your upper arm so it stays roughly parallel to the floor.",
+    "Bend your elbow to bring the handle toward the side of your head while keeping your upper arm still.",
+    "Extend your elbow to press the handle away until your arm is straight.",
+    "Pause briefly with your triceps tight, then return under control.",
+    "Complete all reps on one side, then switch arms."
+  ],
+  "formCues": [
+    "Keep elbow still",
+    "Upper arm stays level",
+    "Straighten the arm fully",
+    "Move only at elbow"
+  ],
+  "commonMistakes": [
+    "Letting the elbow drift up and down during the rep",
+    "Turning the torso to help move the handle",
+    "Dropping the upper arm instead of keeping it level",
+    "Using momentum and snapping the cable back"
+  ],
+  "breathing": "Inhale as you bend your elbow and bring the handle in; exhale as you straighten your arm.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-standing-one-arm-triceps-extension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-standing-one-arm-triceps-extension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-standing-one-arm-triceps-extension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-standing-one-arm-triceps-extension.jpg"
+  }
+}

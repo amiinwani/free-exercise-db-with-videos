@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-standing-side-bend-bent-arm",
+  "name": "Standing Side Bend Stretch (Bent Arm)",
+  "aliases": [
+    "standing side bend",
+    "bent arm side bend",
+    "lateral stretch standing"
+  ],
+  "bodyPart": "waist",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "latissimus dorsi",
+    "serratus anterior"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "external obliques",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A side bending stretch performed while standing to lengthen the obliques and lats.",
+  "instructions": "Stand tall with feet hip-width apart, raise one arm overhead and bend it, then lean to the side while keeping the torso in one plane, hold the stretch, and repeat on the other side.",
+  "steps": [
+    "Stand with feet shoulder-width apart.",
+    "Raise one arm overhead, bending the elbow comfortably.",
+    "Lean sideways away from the raised arm to stretch the side of your torso.",
+    "Hold the stretch for 15-30 seconds.",
+    "Switch sides and repeat."
+  ],
+  "formCues": [
+    "Keep hips square",
+    "Bend without twisting",
+    "Stretch through the side",
+    "Breathe steadily"
+  ],
+  "commonMistakes": [
+    "Rotating the torso",
+    "Overextending",
+    "Holding breath"
+  ],
+  "breathing": "Breathe deeply throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-side-bend-bent-arm.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-standing-side-bend-bent-arm.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-side-bend-bent-arm.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-standing-side-bend-bent-arm.jpg"
+  }
+}

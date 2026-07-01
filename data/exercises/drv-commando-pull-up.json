@@ -1,0 +1,53 @@
+{
+  "id": "drv-commando-pull-up",
+  "name": "Commando Pull-Up",
+  "aliases": [
+    "commando pullup",
+    "side-to-side pull-up",
+    "mixed grip pull-up"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps brachii",
+    "rhomboids",
+    "forearms",
+    "obliques",
+    "trapezius"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "advanced",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A challenging pull-up variation using a parallel grip over the bar, emphasizing back, biceps, and grip strength.",
+  "instructions": "Grasp a pull-up bar with hands facing each other and step sideways under the bar so your head faces parallel along the bar. Pull your chest toward one side of the bar, passing your head to one side, then lower and repeat on the opposite side. Maintain strict control and avoid swinging.",
+  "steps": [
+    "Stand under a pull-up bar and grip it with hands facing each other, one in front of the other.",
+    "Hang with your body turned so the bar is directly in front of your face.",
+    "Brace your core and pull up, bringing your head to one side of the bar.",
+    "Lower yourself under control back to the starting position.",
+    "Repeat, bringing your head to the opposite side on the next rep."
+  ],
+  "formCues": [
+    "Keep body tight",
+    "Alternate sides",
+    "Control descent",
+    "Avoid swinging"
+  ],
+  "commonMistakes": [
+    "Losing control at bottom",
+    "Letting body swing",
+    "Not clearing chin to side",
+    "Uneven pull strength"
+  ],
+  "breathing": "Exhale as you pull up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/commando-pull-up.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/commando-pull-up.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/commando-pull-up.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/commando-pull-up.jpg"
+  }
+}

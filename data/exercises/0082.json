@@ -1,0 +1,50 @@
+{
+  "id": "0082",
+  "name": "Barbell Reverse Wrist Curl",
+  "aliases": [
+    "over-grip wrist curl",
+    "reverse wrist curl",
+    "barbell pronated wrist curl",
+    "Barbell Reverse Wrist Curl (over-grip)",
+    "barbell reverse wrist curl"
+  ],
+  "bodyPart": "lower arms",
+  "target": "forearm extensors",
+  "secondaryMuscles": [
+    "brachioradialis"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "forearm extensors",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A wrist flexion exercise performed with a pronated grip to target the forearm extensors.",
+  "instructions": "Sit on a bench holding a barbell with an overhand grip, forearms resting on your thighs, and wrists hanging over the edge. Extend your wrists upward, lifting the bar, then lower under control.",
+  "steps": [
+    "Sit on a bench and grasp a barbell with an overhand (pronated) grip.",
+    "Rest your forearms on your thighs with wrists hanging just beyond your knees.",
+    "Begin with your wrists flexed downward.",
+    "Slowly curl your wrists upward, lifting the barbell.",
+    "Lower under control to the starting position."
+  ],
+  "formCues": [
+    "Keep forearms stationary",
+    "Use slow, controlled motion",
+    "Only wrists should move",
+    "Avoid swinging"
+  ],
+  "commonMistakes": [
+    "Using too much weight",
+    "Lifting with elbows or shoulders",
+    "Letting the barbell roll in hands"
+  ],
+  "breathing": "Exhale as you curl the bar up, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-reverse-wrist-curl-over-grip.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-reverse-wrist-curl-over-grip.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-reverse-wrist-curl-over-grip.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-reverse-wrist-curl-over-grip.jpg"
+  }
+}

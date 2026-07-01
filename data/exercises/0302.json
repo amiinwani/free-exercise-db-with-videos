@@ -1,0 +1,50 @@
+{
+  "id": "0302",
+  "name": "Decline Dumbbell Fly",
+  "aliases": [
+    "decline DB fly",
+    "dumbbell decline fly 45 degree",
+    "decline chest fly",
+    "Dumbbell Decline Fly (45 degree) (1)",
+    "dumbbell decline fly"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "anterior deltoids",
+    "biceps brachii"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "pectoralis major",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A fly movement on a 45-degree decline bench to isolate the lower chest with dumbbells.",
+  "instructions": "Lay back on a 45-degree decline bench holding a dumbbell in each hand above chest. Lower the weights in an arc to sides until a stretch is felt, then bring them back together, squeezing the chest.",
+  "steps": [
+    "Set bench to 45-degree decline, secure feet.",
+    "Lie back, arms extended above chest, slight bend in elbows.",
+    "Lower dumbbells in a wide arc to sides.",
+    "Pause at bottom for a stretch.",
+    "Return dumbbells to starting position, squeezing chest."
+  ],
+  "formCues": [
+    "Arms slightly bent",
+    "Big arc motion",
+    "Don't overstretch",
+    "Squeeze at top"
+  ],
+  "commonMistakes": [
+    "Straightening arms",
+    "Dropping dumbbells too low",
+    "Using too much weight",
+    "Rushing the rep"
+  ],
+  "breathing": "Inhale as you open arms, exhale as you bring weights together.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-decline-fly-45-degree-1.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-decline-fly-45-degree-1.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0248",
+  "name": "Cambered Bar Lying Row",
+  "aliases": [
+    "cambered bar lying row",
+    "lying barbell row",
+    "prone barbell row",
+    "chest-supported barbell row",
+    "seal row",
+    "barbell seal row"
+  ],
+  "bodyPart": "back",
+  "target": "upper back",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "biceps",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A chest-supported barbell row performed lying face down on a bench to train the upper back with minimal body English.",
+  "instructions": "Set up a barbell on the floor and lie face down on a bench with your chest just off the edge. Reach down and grab the barbell with an overhand grip, slightly wider than shoulder-width apart. With your legs straight and feet on the ground, lift the barbell off the floor by extending your arms. Pull the barbell towards your chest, squeezing your shoulder blades together. Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
+  "steps": [
+    "Place a barbell on the floor under the end of a flat bench and lie face down so your chest is supported with your arms hanging straight down.",
+    "Plant your feet on the floor, brace your midsection, and grab the bar with an overhand grip slightly wider than shoulder width.",
+    "Lift the bar clear of the floor and let it hang directly below your shoulders with your neck neutral.",
+    "Pull the bar up toward the underside of the bench or lower chest by driving your elbows back.",
+    "Pause briefly at the top and squeeze your shoulder blades together.",
+    "Lower the bar under control until your arms are straight and the bar returns just above the floor."
+  ],
+  "formCues": [
+    "Chest stays on bench",
+    "Pull elbows back",
+    "Squeeze shoulder blades",
+    "Keep neck neutral"
+  ],
+  "commonMistakes": [
+    "Lifting the chest off the bench to move the bar",
+    "Shrugging the shoulders up toward the ears",
+    "Yanking the bar off the floor with momentum",
+    "Flaring the elbows straight out to the sides"
+  ],
+  "breathing": "Inhale as you lower the bar and exhale as you pull it up toward your chest.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cambered-bar-lying-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cambered-bar-lying-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cambered-bar-lying-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cambered-bar-lying-row.jpg"
+  }
+}

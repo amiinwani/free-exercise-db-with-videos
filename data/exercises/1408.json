@@ -1,0 +1,52 @@
+{
+  "id": "1408",
+  "name": "Band Standing Lift",
+  "aliases": [
+    "Standing Band Woodchopper",
+    "Diagonal Lift with Band",
+    "Band Standing Diagonal Lift",
+    "Band Standing Lift",
+    "band hip lift"
+  ],
+  "bodyPart": "waist",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "rectus abdominis",
+    "shoulders",
+    "hip flexors"
+  ],
+  "equipment": "band",
+  "muscleGroup": "external obliques",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A diagonal band movement to train the obliques and core stabilizers.",
+  "instructions": "Anchor a resistance band low to the side. Stand sideways and grasp the free end with both hands. With arms extended, lift and rotate your torso diagonally upward across your body, then return in control.",
+  "steps": [
+    "Anchor the band low near the floor.",
+    "Stand side-on to the anchor, feet shoulder-width.",
+    "Hold the band handle with both hands at hip level.",
+    "Lift and rotate your torso diagonally to the opposite side and above shoulder.",
+    "Return to start; repeat, then switch sides."
+  ],
+  "formCues": [
+    "Keep arms mostly straight",
+    "Twist from the core",
+    "Pivot feet for rotation",
+    "Do not hyperextend back"
+  ],
+  "commonMistakes": [
+    "Using arms instead of core",
+    "Not rotating torso",
+    "Bending elbows excessively"
+  ],
+  "breathing": "Exhale as you lift/rotate, inhale as you return.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-standing-lift.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-standing-lift.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-standing-lift.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-standing-lift.jpg"
+  }
+}

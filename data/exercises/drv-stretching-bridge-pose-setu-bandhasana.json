@@ -1,0 +1,50 @@
+{
+  "id": "drv-stretching-bridge-pose-setu-bandhasana",
+  "name": "Bridge Pose (Setu Bandhasana)",
+  "aliases": [
+    "bridge stretch",
+    "setu bandha",
+    "yoga bridge"
+  ],
+  "bodyPart": "waist",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "spinal erectors",
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "gluteus maximus",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A yoga pose that stretches and activates the glutes, lower back, and hip flexors.",
+  "instructions": "Lie on your back with knees bent, feet flat on the floor. Push through your heels to lift your hips toward the ceiling while keeping your back straight. Hold, then lower back down slowly.",
+  "steps": [
+    "Lie on your back with your knees bent and feet hip-width apart.",
+    "Place your arms at your sides, palms down.",
+    "Press through your heels and lift your hips upward.",
+    "Hold the pose, engaging your glutes and core.",
+    "Lower your hips back to the starting position."
+  ],
+  "formCues": [
+    "Squeeze glutes at the top",
+    "Keep knees aligned with hips",
+    "Do not overarch lower back",
+    "Press evenly through feet"
+  ],
+  "commonMistakes": [
+    "Arching the back excessively",
+    "Letting knees fall outward or inward",
+    "Not engaging the core"
+  ],
+  "breathing": "Exhale as you lift hips, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-bridge-pose-setu-bandhasana.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-bridge-pose-setu-bandhasana.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-bridge-pose-setu-bandhasana.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-bridge-pose-setu-bandhasana.jpg"
+  }
+}

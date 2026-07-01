@@ -1,0 +1,56 @@
+{
+  "id": "0213",
+  "name": "Cable Seated High Row (V-bar)",
+  "aliases": [
+    "seated high cable row",
+    "v-bar seated cable row",
+    "close-grip high row",
+    "machine seated high row",
+    "cable high row with V handle",
+    "seated row to upper chest",
+    "cable seated high row (v-bar)"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps",
+    "rhomboids",
+    "rear deltoids"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "biceps",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A seated cable row using a V-bar handle, pulling toward the upper torso to train the lats, upper back, and biceps.",
+  "instructions": "Sit on the cable machine with your feet flat on the floor and your knees slightly bent. Grasp the v-bar attachment with an overhand grip, palms facing each other, and your hands shoulder-width apart. Keep your back straight and lean slightly forward from the hips. Pull the v-bar towards your torso by retracting your shoulder blades and squeezing your back muscles. Pause for a moment at the peak of the contraction, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit at the cable row station facing the stack and grasp the V-bar handle with a neutral grip.",
+    "Plant your feet, soften your knees, and sit tall with your chest up and arms extended.",
+    "Brace your torso and pull your shoulder blades back and down.",
+    "Drive your elbows back and out slightly as you row the handle toward your upper stomach or lower chest.",
+    "Pause briefly with the handle close to your torso and your shoulders pulled back.",
+    "Extend your arms forward under control until your shoulders are stretched, then repeat."
+  ],
+  "formCues": [
+    "Chest up",
+    "Lead with the elbows",
+    "Squeeze shoulder blades",
+    "Control the return"
+  ],
+  "commonMistakes": [
+    "Rounding the lower back as the handle moves forward",
+    "Leaning far back and using body swing to pull",
+    "Shrugging the shoulders up toward the ears",
+    "Pulling with the arms only and not moving the shoulder blades"
+  ],
+  "breathing": "Inhale as you extend your arms forward, and exhale as you row the handle toward your torso.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-seated-high-row-v-bar.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-seated-high-row-v-bar.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-seated-high-row-v-bar.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-seated-high-row-v-bar.jpg"
+  }
+}

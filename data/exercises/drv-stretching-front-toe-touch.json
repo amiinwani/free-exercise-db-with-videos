@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-front-toe-touch",
+  "name": "Front Toe Touch Stretch",
+  "aliases": [
+    "seated toe touch",
+    "standing toe touch",
+    "hamstring stretch"
+  ],
+  "bodyPart": "upper legs",
+  "target": "hamstrings",
+  "secondaryMuscles": [
+    "lower back",
+    "calves"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A classic stretch where you bend forward to touch your toes, lengthening the hamstrings and lower back.",
+  "instructions": "Stand or sit with legs straight. Hinge at the hips and reach forward toward your toes, keeping your spine long. Hold at your end range, feeling a stretch in the back of your legs.",
+  "steps": [
+    "Stand (or sit) with legs straight.",
+    "Bend slowly forward from the hips, keeping a flat back.",
+    "Reach towards or touch your toes with your hands.",
+    "Keep knees straight but not locked.",
+    "Hold stretch, then return to starting position."
+  ],
+  "formCues": [
+    "Hinge at hips",
+    "Keep head in line with spine",
+    "Reach gently, don’t bounce",
+    "Keep legs straight"
+  ],
+  "commonMistakes": [
+    "Rounding the back excessively",
+    "Bouncing or forcing the stretch",
+    "Locking the knees"
+  ],
+  "breathing": "Exhale as you bend forward, inhale as you return upright.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-front-toe-touch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-front-toe-touch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-front-toe-touch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-front-toe-touch.jpg"
+  }
+}

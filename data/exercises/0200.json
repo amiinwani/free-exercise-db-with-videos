@@ -1,0 +1,52 @@
+{
+  "id": "0200",
+  "name": "Cable Rope Triceps Pushdown",
+  "aliases": [
+    "cable rope pushdown",
+    "rope triceps pushdown",
+    "triceps rope extension",
+    "cable triceps extension",
+    "Cable Pushdown (rope attachment)",
+    "cable pushdown (with rope attachment)"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "anconeus",
+    "forearms"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "triceps brachii",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A cable isolation exercise targeting the triceps by pressing a rope attachment downward.",
+  "instructions": "Stand facing a cable stack with a rope attached to the high pulley. Grasp the rope with both hands, elbows at your sides, and push the rope downward by extending your arms. Control the movement back to the starting position for each rep.",
+  "steps": [
+    "Attach a rope to the high pulley and stand facing the machine.",
+    "Grab the rope with both hands, thumbs facing inward.",
+    "Keep elbows tucked at your sides and lean slightly forward.",
+    "Extend your arms down, splitting the rope at the bottom.",
+    "Slowly return to the start without letting elbows flare out."
+  ],
+  "formCues": [
+    "Keep elbows fixed",
+    "Split the rope at the bottom",
+    "Don’t use your shoulders",
+    "Full extension on each rep"
+  ],
+  "commonMistakes": [
+    "Flaring elbows",
+    "Using momentum",
+    "Not fully extending arms"
+  ],
+  "breathing": "Exhale as you push down, inhale as you return.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-pushdown-rope-attachment.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-pushdown-rope-attachment.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-pushdown-rope-attachment.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-pushdown-rope-attachment.jpg"
+  }
+}

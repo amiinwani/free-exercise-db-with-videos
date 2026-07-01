@@ -1,0 +1,50 @@
+{
+  "id": "0162",
+  "name": "Cable One Arm Front Raise",
+  "aliases": [
+    "cable front raise",
+    "single arm cable front raise",
+    "one arm anterior raise",
+    "Cable One Arm Forward Raise"
+  ],
+  "bodyPart": "shoulders",
+  "target": "anterior deltoid",
+  "secondaryMuscles": [
+    "trapezius",
+    "pectoralis major"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "anterior deltoid",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "An isolation exercise that raises the arm forward using a cable to target the front deltoid.",
+  "instructions": "Stand facing away from a low cable, grasping the handle with one hand. Keeping your arm straight, raise it in front of you up to shoulder height, pause, then lower under control.",
+  "steps": [
+    "Attach handle to low pulley and stand facing away from machine.",
+    "Grasp handle with one hand, arm by your side.",
+    "With a straight arm, raise it forward to shoulder height.",
+    "Pause briefly at the top.",
+    "Lower back to the start slowly and repeat."
+  ],
+  "formCues": [
+    "Keep core tight",
+    "Lift with shoulder, not hand",
+    "Don't swing",
+    "Control the descent"
+  ],
+  "commonMistakes": [
+    "Using momentum",
+    "Shrugging shoulder",
+    "Overextending at the top"
+  ],
+  "breathing": "Exhale as you lift, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-one-arm-forward-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-one-arm-forward-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-one-arm-forward-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-one-arm-forward-raise.jpg"
+  }
+}

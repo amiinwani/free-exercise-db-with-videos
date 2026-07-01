@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-plyo-side-lunge-stretch",
+  "name": "Plyometric Side Lunge Stretch",
+  "aliases": [
+    "plyo side lunge stretch",
+    "dynamic lateral lunge stretch"
+  ],
+  "bodyPart": "cardio",
+  "target": "adductors",
+  "secondaryMuscles": [
+    "glutes",
+    "quadriceps",
+    "hamstrings"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "hip adductors",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": true,
+  "shortDescription": "A dynamic stretch to warm up and mobilize the hips, inner thighs, and legs.",
+  "instructions": "Begin standing with feet shoulder-width apart. Step to the side into a deep lunge, keeping the opposite leg straight, and quickly alternate sides in a rhythmic motion.",
+  "steps": [
+    "Stand with feet wider than hip-width apart.",
+    "Shift your weight to one side, bending the knee and keeping the opposite leg straight.",
+    "Drop into a deep lunge while maintaining upright posture.",
+    "Push off the bent leg and return to starting position.",
+    "Repeat to the opposite side in a dynamic, alternating fashion."
+  ],
+  "formCues": [
+    "Keep chest up",
+    "Push hips back",
+    "Knee in line with toes",
+    "Alternate sides smoothly"
+  ],
+  "commonMistakes": [
+    "Letting knee cave inward",
+    "Lifting heel off the ground",
+    "Rounding the back"
+  ],
+  "breathing": "Inhale as you prepare and exhale moving into each lunge.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-plyo-side-lunge-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-plyo-side-lunge-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-plyo-side-lunge-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-plyo-side-lunge-stretch.jpg"
+  }
+}

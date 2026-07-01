@@ -1,0 +1,50 @@
+{
+  "id": "1390",
+  "name": "Seated Calf Stretch",
+  "aliases": [
+    "seated gastrocnemius stretch",
+    "seated calf muscle stretch",
+    "Stretching - Seated Calf Stretch",
+    "seated calf stretch"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "soleus",
+    "hamstrings"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "gastrocnemius",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A stretch performed while seated, focusing on lengthening the calf muscles.",
+  "instructions": "Sit on the floor with your legs extended. Loop a towel or band around the ball of one foot, keeping your knee straight, and gently pull your toes toward you, feeling a stretch in the calf. Hold and repeat on the other side.",
+  "steps": [
+    "Sit with legs extended straight in front.",
+    "Loop a towel or band around one foot's ball.",
+    "Keep knee straight and pull your toes toward you.",
+    "Hold position, feeling stretch in calf.",
+    "Repeat on the other leg."
+  ],
+  "formCues": [
+    "Keep knee straight",
+    "Flex ankle back",
+    "Sit up tall",
+    "Don't force the stretch"
+  ],
+  "commonMistakes": [
+    "Bending the knee",
+    "Rounding the back",
+    "Pulling toes too forcefully"
+  ],
+  "breathing": "Breathe steadily and deeply throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-seated-calf-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-seated-calf-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-seated-calf-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-seated-calf-stretch.jpg"
+  }
+}

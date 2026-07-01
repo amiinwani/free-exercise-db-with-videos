@@ -1,0 +1,53 @@
+{
+  "id": "0394",
+  "name": "Dumbbell Seated Kickback",
+  "aliases": [
+    "seated dumbbell triceps kickback",
+    "DB seated kickback",
+    "seated triceps kickback",
+    "dumbbell kickback",
+    "seated arm kickback",
+    "dumbbell seated kickback"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated triceps isolation exercise where you hinge forward and extend dumbbells back by straightening the elbows.",
+  "instructions": "Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand. Bend your knees slightly and lean forward from your hips, keeping your back straight. Bring your upper arms close to your sides and keep your elbows bent at a 90-degree angle. Extend your arms straight back, squeezing your triceps at the top of the movement. Pause for a moment, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit on a bench holding a dumbbell in each hand with your feet flat on the floor.",
+    "Hinge forward from your hips and keep your back flat with your chest angled toward your thighs.",
+    "Pull your elbows up beside your torso and bend them to about 90 degrees.",
+    "Keep your upper arms still and straighten your elbows to kick the dumbbells back behind you.",
+    "Squeeze your triceps with your arms fully extended.",
+    "Bend your elbows slowly to return the dumbbells to the start position."
+  ],
+  "formCues": [
+    "Keep elbows glued in",
+    "Only move the forearms",
+    "Back flat, chest up",
+    "Squeeze at full extension"
+  ],
+  "commonMistakes": [
+    "Swinging the dumbbells with the shoulders",
+    "Letting the elbows drift away from the torso",
+    "Dropping the upper arms during the rep",
+    "Rounding the back while leaning forward"
+  ],
+  "breathing": "Inhale as you bend your elbows to lower the dumbbells, and exhale as you straighten your arms back.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-kickback.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-kickback.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-kickback.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-kickback.jpg"
+  }
+}

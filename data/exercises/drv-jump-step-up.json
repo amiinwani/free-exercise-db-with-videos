@@ -1,0 +1,50 @@
+{
+  "id": "drv-jump-step-up",
+  "name": "Jump Step-Up",
+  "aliases": [
+    "plyometric step-up",
+    "explosive step-up",
+    "box jump step-up"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quadriceps",
+  "secondaryMuscles": [
+    "gluteus maximus",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": true,
+  "shortDescription": "A plyometric exercise involving stepping and jumping onto a raised surface to build leg power and coordination.",
+  "instructions": "Stand in front of a box or platform. Step onto the box with one foot, then explosively jump up, driving through the working leg. Land softly and return to the starting position, alternating legs if desired.",
+  "steps": [
+    "Stand facing a sturdy box or platform.",
+    "Place one foot firmly on top of the box.",
+    "Drive through the heel and explode upward, lifting your other knee high.",
+    "Land softly on the box with both feet.",
+    "Step or jump down with control and repeat."
+  ],
+  "formCues": [
+    "Drive explosively through the lead leg",
+    "Land softly",
+    "Keep chest lifted",
+    "Use arms for balance"
+  ],
+  "commonMistakes": [
+    "Letting the knee cave inward",
+    "Landing hard or flat-footed",
+    "Not using full range of motion"
+  ],
+  "breathing": "Exhale during the jump, inhale as you land and reset.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/jump-step-up.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jump-step-up.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/jump-step-up.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jump-step-up.jpg"
+  }
+}

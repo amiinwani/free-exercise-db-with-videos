@@ -1,0 +1,50 @@
+{
+  "id": "0849",
+  "name": "Seated Twist on Stability Ball",
+  "aliases": [
+    "stability ball seated twist",
+    "ball Russian twist",
+    "oblique twist ball",
+    "rotational seated twist",
+    "Seated Twist (on stability ball)",
+    "weighted seated twist (on stability ball)"
+  ],
+  "bodyPart": "waist",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "rectus abdominis",
+    "hip flexors"
+  ],
+  "equipment": "stability ball",
+  "muscleGroup": "external obliques",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A rotational core exercise performed while seated on a stability ball to target the obliques.",
+  "instructions": "Sit upright on a stability ball, feet flat and hip-width apart. Twist your torso to one side while keeping hips steady, then return to center and repeat on the other side.",
+  "steps": [
+    "Sit on a stability ball with feet flat, core engaged.",
+    "Hold arms in front or across chest.",
+    "Rotate your torso to the right, keeping hips stationary.",
+    "Pause, then twist to the left.",
+    "Return to center, repeat alternately."
+  ],
+  "formCues": [
+    "Sit tall",
+    "Keep hips steady",
+    "Rotate from the waist",
+    "Engage core"
+  ],
+  "commonMistakes": [
+    "Slouching",
+    "Over-rotating hips",
+    "Forgetting to brace core"
+  ],
+  "breathing": "Exhale during the twist, inhale as you return to center.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/seated-twist-on-stability-ball.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/seated-twist-on-stability-ball.jpg"
+  }
+}

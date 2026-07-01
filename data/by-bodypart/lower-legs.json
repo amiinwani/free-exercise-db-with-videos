@@ -1,0 +1,872 @@
+[
+  {
+    "id": "0999",
+    "name": "Band Standing Calf Raise",
+    "aliases": [
+      "resistance band calf raise",
+      "band-assisted calf raise",
+      "Band Standing Calf Raise",
+      "band single leg calf raise"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "soleus",
+      "tibialis posterior"
+    ],
+    "equipment": "band",
+    "muscleGroup": "gastrocnemius",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "Standing calf raise performed with a resistance band to strengthen the calves.",
+    "instructions": "Stand upright with both feet on the band and hold the handles by your sides or shoulders. Press through the balls of your feet to rise onto your toes, stretching the band, and slowly lower back down. Maintain balance and perform the movement with controlled tempo.",
+    "steps": [
+      "Stand with feet shoulder-width on the band.",
+      "Hold band handles by sides or at shoulders for resistance.",
+      "Keep torso upright and brace core.",
+      "Raise heels to stand on the balls of your feet, contracting calves.",
+      "Lower heels back to the floor slowly."
+    ],
+    "formCues": [
+      "Go all the way up",
+      "Pause at the top",
+      "Lower slowly",
+      "Keep core engaged"
+    ],
+    "commonMistakes": [
+      "Partial reps",
+      "Letting heels drop too quickly",
+      "Leaning forward or backward"
+    ],
+    "breathing": "Exhale as you rise, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-standing-calf-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-standing-calf-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-standing-calf-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-standing-calf-raise.jpg"
+    }
+  },
+  {
+    "id": "1378",
+    "name": "Calf Stretch with Rope",
+    "aliases": [
+      "rope calf stretch",
+      "band calf stretch",
+      "seated calf stretch with strap",
+      "calf muscle stretch with towel",
+      "Stretching - Calf Stretch with Rope",
+      "calf stretch with rope"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [],
+    "equipment": "band",
+    "muscleGroup": "gastrocnemius, soleus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A static stretch for the calf muscles using a rope or strap to pull the foot into dorsiflexion.",
+    "instructions": "Sit on the floor with your legs extended. Loop a rope or band around your foot, keep your knee straight, and gently pull your toes toward you to stretch your calf.",
+    "steps": [
+      "Sit on the floor with one leg extended.",
+      "Loop a rope or band around the ball of your foot.",
+      "Hold ends of rope and gently pull your foot toward you.",
+      "Keep knee straight for a deeper stretch.",
+      "Hold the stretch and then switch legs."
+    ],
+    "formCues": [
+      "Keep knee extended",
+      "Pull gently",
+      "Don’t bounce",
+      "Relax into stretch"
+    ],
+    "commonMistakes": [
+      "Bending the knee",
+      "Jerking the rope",
+      "Holding breath"
+    ],
+    "breathing": "Breathe deeply and relax throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-calf-stretch-with-rope.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-calf-stretch-with-rope.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-calf-stretch-with-rope.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-calf-stretch-with-rope.jpg"
+    }
+  },
+  {
+    "id": "1599",
+    "name": "Calf Stretch with Strap",
+    "aliases": [
+      "seated calf stretch",
+      "strap-assisted calf stretch",
+      "banded calf stretch",
+      "Stretching - Calf Stretch with Strap",
+      "standing hamstring and calf stretch with strap"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "soleus"
+    ],
+    "equipment": "band",
+    "muscleGroup": "gastrocnemius",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated stretch using a strap or resistance band to elongate the calf muscles.",
+    "instructions": "Sit on the floor with one leg extended and loop a strap around the ball of your foot. Gently pull the strap towards you while keeping your knee straight, feeling a stretch along the back of your lower leg.",
+    "steps": [
+      "Sit with legs extended on the floor.",
+      "Loop a strap around the ball of one foot.",
+      "Hold strap ends and gently pull foot towards you.",
+      "Keep the knee straight and hold for desired time.",
+      "Switch sides and repeat."
+    ],
+    "formCues": [
+      "Keep knee straight",
+      "Flex foot toward you",
+      "Gentle pull, avoid jerking",
+      "Sit tall"
+    ],
+    "commonMistakes": [
+      "Bending knee",
+      "Pulling too hard",
+      "Letting back round"
+    ],
+    "breathing": "Breathe deeply and steadily throughout stretch; exhale gently as you deepen the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-calf-stretch-with-strap.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-calf-stretch-with-strap.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-calf-stretch-with-strap.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-calf-stretch-with-strap.jpg"
+    }
+  },
+  {
+    "id": "0284",
+    "name": "Donkey Calf Raise",
+    "aliases": [
+      "bodyweight donkey calf raise",
+      "bent-over calf raise",
+      "donkey heel raise",
+      "raised-toe calf raise",
+      "calf raise on step",
+      "donkey calf raise"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A bent-over calf raise on a step that trains the calves through a full heel drop and strong lift.",
+    "instructions": "Stand with your toes on an elevated surface, such as a step or block. Place your hands on a stable support, such as a wall or railing, for balance. Raise your heels as high as possible, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand with the balls of your feet on the edge of a step or block and let your heels hang off.",
+      "Hinge forward at your hips and place your hands on a stable support for balance.",
+      "Keep your knees slightly bent and lower your heels until you feel a stretch in your calves.",
+      "Press through the balls of your feet and lift your heels as high as you can.",
+      "Pause briefly at the top while staying balanced.",
+      "Lower your heels back down with control and repeat."
+    ],
+    "formCues": [
+      "Lift heels straight up",
+      "Move through full range",
+      "Press through big toe",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Bouncing at the bottom instead of lowering under control",
+      "Rolling the ankles inward or outward",
+      "Using the hands to push the body up",
+      "Cutting the range short and not dropping the heels"
+    ],
+    "breathing": "Inhale as you lower your heels, and exhale as you press up onto the balls of your feet.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/donkey-calf-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/donkey-calf-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/donkey-calf-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/donkey-calf-raise.jpg"
+    }
+  },
+  {
+    "id": "1379",
+    "name": "Dumbbell Seated Calf Raise",
+    "aliases": [
+      "seated dumbbell calf raise",
+      "DB seated calf raise",
+      "seated calf raise with dumbbell",
+      "seated heel raise",
+      "seated calf lift",
+      "dumbbell seated calf raise"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated calf exercise using a dumbbell on the thighs to train ankle plantarflexion through a full range of motion.",
+    "instructions": "Sit on a bench or chair with your feet flat on the ground and a dumbbell resting on your thighs. Place the balls of your feet on a raised surface such as a step or block, with your heels hanging off the edge. Hold onto the dumbbell for stability. Raise your heels as high as possible, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit on a bench or chair with your knees bent and place the balls of your feet on a small raised surface with your heels hanging off.",
+      "Set a dumbbell across the tops of your thighs just above your knees and hold it steady with both hands.",
+      "Let your heels drop down until you feel a stretch through your calves.",
+      "Press through the balls of your feet and raise your heels as high as you can.",
+      "Pause briefly at the top while keeping the dumbbell steady.",
+      "Lower your heels back down under control and repeat."
+    ],
+    "formCues": [
+      "Drive through big toe",
+      "Lift heels straight up",
+      "Use full ankle range",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Bouncing the heels at the bottom instead of lowering under control.",
+      "Rolling the ankles inward or outward as the heels rise.",
+      "Placing the dumbbell too close to the knees so it slides during the set.",
+      "Using a very short range of motion and not dropping the heels below the step."
+    ],
+    "breathing": "Inhale as you lower your heels, and exhale as you press up onto the balls of your feet.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-calf-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-calf-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-calf-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-calf-raise.jpg"
+    }
+  },
+  {
+    "id": "0409",
+    "name": "Dumbbell Single Leg Calf Raise",
+    "aliases": [
+      "single-leg dumbbell calf raise",
+      "one-leg calf raise",
+      "single leg calf raise",
+      "dumbbell calf raise",
+      "standing single-leg calf raise",
+      "one-leg heel raise",
+      "dumbbell single leg calf raise"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "ankles"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "ankles",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A single-leg calf exercise using a dumbbell and step to strengthen the calves through a full ankle range of motion.",
+    "instructions": "Stand on the edge of a step or platform with your heels hanging off and your toes on the step. Hold a dumbbell in one hand and place your other hand on a wall or railing for support. Raise your heel as high as possible, lifting your body up onto your toes. Pause for a moment at the top, then slowly lower your heel back down below the step. Repeat for the desired number of repetitions, then switch to the other leg.",
+    "steps": [
+      "Stand on the edge of a step with one foot, placing the ball of your foot on the step and letting your heel hang off.",
+      "Hold a dumbbell in one hand and lightly brace your other hand on a wall or rail.",
+      "Lift your nonworking foot off the step and straighten your standing leg.",
+      "Press through the ball of your foot to raise your heel as high as you can.",
+      "Pause briefly at the top while keeping your ankle stacked over your toes.",
+      "Lower your heel slowly below the step until you feel a stretch in your calf.",
+      "Complete all reps on one side, then switch legs."
+    ],
+    "formCues": [
+      "Push through your big toe",
+      "Rise straight up",
+      "Lower with control",
+      "Keep hips level"
+    ],
+    "commonMistakes": [
+      "Bouncing out of the bottom instead of lowering under control",
+      "Rolling the ankle inward or outward during the raise",
+      "Bending the standing knee to help drive up",
+      "Using the support hand to pull the body upward"
+    ],
+    "breathing": "Inhale as you lower your heel, and exhale as you press up onto your toes.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-single-leg-calf-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-single-leg-calf-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-single-leg-calf-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-single-leg-calf-raise.jpg"
+    }
+  },
+  {
+    "id": "0417",
+    "name": "Dumbbell Standing Calf Raise",
+    "aliases": [
+      "standing dumbbell calf raise",
+      "DB calf raise",
+      "dumbbell calf raises",
+      "standing calf raise",
+      "calf raises holding dumbbells",
+      "dumbbell standing calf raise"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "ankles"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "ankles",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing calf exercise where you hold dumbbells at your sides and raise your heels to train the calves and ankles.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Raise your heels off the ground as high as possible, using your calves. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand upright with a dumbbell in each hand and place your feet about hip-width apart.",
+      "Let your arms hang by your sides and keep your knees softly bent.",
+      "Press through the balls of your feet and lift your heels as high as you can.",
+      "Pause briefly at the top while staying tall through your torso.",
+      "Lower your heels back to the floor with control and repeat."
+    ],
+    "formCues": [
+      "Rise straight up",
+      "Press through big toe",
+      "Control the lowering",
+      "Keep torso tall"
+    ],
+    "commonMistakes": [
+      "Bouncing at the bottom instead of lowering under control",
+      "Rolling the ankles outward or inward",
+      "Bending the knees to turn it into a squat",
+      "Leaning the torso forward as the heels lift"
+    ],
+    "breathing": "Inhale as you lower your heels, and exhale as you press up onto your toes.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-standing-calf-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-standing-calf-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-standing-calf-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-standing-calf-raise.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-feet-and-ankles-rotation-stretch",
+    "name": "Feet and Ankles Rotation Stretch",
+    "aliases": [
+      "ankle rotation stretch",
+      "ankle rolls",
+      "foot mobility stretch"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "soleus",
+      "tibialis anterior",
+      "peroneals"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "gastrocnemius",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A mobility exercise involving circular ankle movements that target the calves and improve ankle flexibility.",
+    "instructions": "Sit or stand with one leg lifted and rotate your foot at the ankle in slow, controlled circles, first one direction and then the other. Focus on full range of motion to stretch and warm up lower leg muscles and joints.",
+    "steps": [
+      "Sit or stand and lift one foot off the ground.",
+      "Point your toes and slowly rotate your ankle in circles.",
+      "Make several circles clockwise, then reverse to counterclockwise.",
+      "Repeat for the other ankle.",
+      "Maintain steady breathing and controlled motion."
+    ],
+    "formCues": [
+      "Move slowly",
+      "Full range of motion",
+      "Relax foot",
+      "Rotate both directions"
+    ],
+    "commonMistakes": [
+      "Rushed movements",
+      "Small circles",
+      "Not changing direction"
+    ],
+    "breathing": "Breathe normally throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-feet-and-ankles-rotation-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-feet-and-ankles-rotation-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-feet-and-ankles-rotation-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-feet-and-ankles-rotation-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-feet-and-ankles-stretch",
+    "name": "Feet and Ankles Stretch",
+    "aliases": [
+      "ankle stretch",
+      "foot stretch",
+      "ankle mobility stretch"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "tibialis anterior",
+      "peroneals"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "gastrocnemius, soleus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A stretch to increase flexibility and mobility in the feet and ankle muscles.",
+    "instructions": "Sit on the floor with your legs extended. Point and flex your toes to stretch the ankle and foot muscles. Hold the stretch for several seconds and repeat as needed.",
+    "steps": [
+      "Sit or stand with legs extended or positioned comfortably.",
+      "Point your toes downward to stretch the top of your feet and fronts of your ankles.",
+      "Flex your toes upward toward your shins to stretch the calves and back of the ankles.",
+      "Hold each position for 15-30 seconds.",
+      "Repeat the sequence for several reps."
+    ],
+    "formCues": [
+      "Move slowly through each phase",
+      "Hold gentle tension, do not force",
+      "Keep knees extended but soft",
+      "Breathe evenly"
+    ],
+    "commonMistakes": [
+      "Bouncing during the stretch",
+      "Overstretching or forcing range of motion",
+      "Holding breath"
+    ],
+    "breathing": "Breathe normally throughout, or exhale as you relax into each stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-feet-and-ankles-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-feet-and-ankles-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-feet-and-ankles-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-feet-and-ankles-stretch.jpg"
+    }
+  },
+  {
+    "id": "0594",
+    "name": "Lever Seated Calf Raise",
+    "aliases": [
+      "seated calf raise machine",
+      "machine seated calf raise",
+      "lever calf raise",
+      "seated calf raise",
+      "calf raise seated machine",
+      "seated heel raise",
+      "lever seated calf raise"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "soleus",
+      "ankle stabilizers"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "soleus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated machine calf exercise where you raise and lower your heels to train the soleus through ankle plantarflexion.",
+    "instructions": "Adjust the seat height so that your knees are slightly bent and your feet are flat on the footplate. Place your toes on the footplate with your heels hanging off the edge. Grasp the handles or the sides of the seat for stability. Push through the balls of your feet to raise your heels as high as possible. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat so the thigh pad rests securely on your thighs with your knees bent about 90 degrees.",
+      "Place the balls of your feet on the footplate with your heels hanging off the edge.",
+      "Grip the handles or seat and lift your heels to take the weight onto your calves.",
+      "Press through the balls of your feet to raise your heels as high as you can.",
+      "Pause briefly at the top while keeping your toes planted.",
+      "Lower your heels slowly until you feel a stretch in your calves, then repeat."
+    ],
+    "formCues": [
+      "Drive through big toe",
+      "Lift heels straight up",
+      "Control the lowering",
+      "Keep knees still"
+    ],
+    "commonMistakes": [
+      "Bouncing out of the bottom instead of lowering under control.",
+      "Letting the knees shift up and down during the rep.",
+      "Rolling the feet outward or inward on the platform.",
+      "Using only a short top-half range of motion."
+    ],
+    "breathing": "Inhale as you lower your heels, and exhale as you press up onto the balls of your feet.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-seated-calf-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-seated-calf-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-seated-calf-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-seated-calf-raise.jpg"
+    }
+  },
+  {
+    "id": "0605",
+    "name": "Lever Standing Calf Raise",
+    "aliases": [
+      "standing calf raise machine",
+      "machine standing calf raise",
+      "lever calf raise",
+      "calf raise machine",
+      "standing heel raise",
+      "lever standing calf raise"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "soleus",
+      "ankle stabilizers"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "soleus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A machine calf exercise where you raise and lower your heels under shoulder pads to train the calves through ankle movement.",
+    "instructions": "Adjust the machine to your height and stand with your feet shoulder-width apart. Place your shoulders under the pads and hold onto the handles for stability. Raise your heels as high as possible by extending your ankles. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the shoulder pads so they rest comfortably on your shoulders when you stand on the platform.",
+      "Place the balls of your feet on the edge of the platform with your heels hanging off and grip the handles.",
+      "Straighten your legs, brace your torso, and let your heels lower until you feel a stretch in your calves.",
+      "Press through the balls of your feet to raise your heels as high as you can.",
+      "Pause briefly at the top while staying balanced under the pads.",
+      "Lower your heels under control back to the stretched start position."
+    ],
+    "formCues": [
+      "Drive through big toe",
+      "Lift heels straight up",
+      "Use full ankle range",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Bouncing out of the bottom instead of lowering under control.",
+      "Bending the knees noticeably during the raise.",
+      "Rolling the ankles inward or outward as the heels lift.",
+      "Using a short range and stopping before the heels fully lower."
+    ],
+    "breathing": "Inhale as you lower your heels, and exhale as you press up onto the balls of your feet.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-standing-calf-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-standing-calf-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-standing-calf-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-standing-calf-raise.jpg"
+    }
+  },
+  {
+    "id": "1388",
+    "name": "Peroneals Stretch",
+    "aliases": [
+      "peroneal muscle stretch",
+      "fibularis stretch",
+      "lateral calf stretch",
+      "Stretching - Peroneals Stretch",
+      "peroneals stretch"
+    ],
+    "bodyPart": "lower legs",
+    "target": "peroneals",
+    "secondaryMuscles": [
+      "gastrocnemius",
+      "soleus"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "peroneus longus and brevis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A static stretch that targets the outside muscles of the lower leg.",
+    "instructions": "Sit or stand and cross one leg over the other, gently turning the sole of the foot inwards to feel a stretch along the outside of the lower leg. Hold the stretch, then repeat on the other side.",
+    "steps": [
+      "Sit with one leg crossed over the other.",
+      "Grasp the foot and gently pull it inward.",
+      "Turn the sole toward your midline.",
+      "Hold for 20-30 seconds.",
+      "Switch sides and repeat."
+    ],
+    "formCues": [
+      "Gentle stretch",
+      "Don't force movement",
+      "Keep knee straight",
+      "Hold steady"
+    ],
+    "commonMistakes": [
+      "Stretching too forcefully",
+      "Not holding long enough",
+      "Incorrect foot positioning"
+    ],
+    "breathing": "Breathe normally throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-peroneals-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-peroneals-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-peroneals-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-peroneals-stretch.jpg"
+    }
+  },
+  {
+    "id": "1390",
+    "name": "Seated Calf Stretch",
+    "aliases": [
+      "seated gastrocnemius stretch",
+      "seated calf muscle stretch",
+      "Stretching - Seated Calf Stretch",
+      "seated calf stretch"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "soleus",
+      "hamstrings"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "gastrocnemius",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A stretch performed while seated, focusing on lengthening the calf muscles.",
+    "instructions": "Sit on the floor with your legs extended. Loop a towel or band around the ball of one foot, keeping your knee straight, and gently pull your toes toward you, feeling a stretch in the calf. Hold and repeat on the other side.",
+    "steps": [
+      "Sit with legs extended straight in front.",
+      "Loop a towel or band around one foot's ball.",
+      "Keep knee straight and pull your toes toward you.",
+      "Hold position, feeling stretch in calf.",
+      "Repeat on the other leg."
+    ],
+    "formCues": [
+      "Keep knee straight",
+      "Flex ankle back",
+      "Sit up tall",
+      "Don't force the stretch"
+    ],
+    "commonMistakes": [
+      "Bending the knee",
+      "Rounding the back",
+      "Pulling toes too forcefully"
+    ],
+    "breathing": "Breathe steadily and deeply throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-seated-calf-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-seated-calf-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-seated-calf-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-seated-calf-stretch.jpg"
+    }
+  },
+  {
+    "id": "0738",
+    "name": "Sled 45 Degree Calf Press",
+    "aliases": [
+      "45 degree sled calf press",
+      "sled calf press",
+      "leg press calf raise",
+      "calf press on leg press",
+      "machine calf press",
+      "sled 45 degree calf press"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "equipment": "sled machine",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated calf exercise on a 45-degree sled where you press through the balls of your feet to raise and lower the heels.",
+    "instructions": "Adjust the sled machine to a 45-degree angle. Place your feet on the sled platform with your toes pointing forward. Push the sled platform away from you by extending your ankles and calves. Pause for a moment at the top, then slowly lower the sled platform back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit in the 45-degree sled machine and place the balls of both feet on the lower edge of the platform with your heels hanging off.",
+      "Straighten your legs enough to support the sled and keep a small bend in your knees.",
+      "Let your heels drop down by bending at the ankles until you feel a stretch in your calves.",
+      "Press through the balls of your feet and raise your heels as high as you can.",
+      "Pause briefly at the top while keeping your legs steady.",
+      "Lower your heels under control back to the stretched position and repeat."
+    ],
+    "formCues": [
+      "Drive through the balls of feet",
+      "Lift heels as high as possible",
+      "Control the heel drop",
+      "Keep knees softly bent"
+    ],
+    "commonMistakes": [
+      "Bending and straightening the knees instead of moving only at the ankles",
+      "Placing the whole foot flat on the platform so the heels cannot drop",
+      "Bouncing out of the bottom instead of lowering under control",
+      "Turning the toes excessively in or out during the rep"
+    ],
+    "breathing": "Inhale as you lower your heels, and exhale as you press through the balls of your feet to raise them.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/sled-45-degree-calf-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/sled-45-degree-calf-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/sled-45-degree-calf-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/sled-45-degree-calf-press.jpg"
+    }
+  },
+  {
+    "id": "1393",
+    "name": "Smith Machine Calf Raise",
+    "aliases": [
+      "smith calf raise",
+      "smith standing calf raise",
+      "smith machine standing calf press",
+      "smith one leg floor calf raise"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "soleus"
+    ],
+    "equipment": "smith machine",
+    "muscleGroup": "gastrocnemius",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing calf raise using a Smith machine to isolate and strengthen the calf muscles.",
+    "instructions": "Stand upright under the Smith machine bar, with the bar resting across your upper traps and feet shoulder-width apart. Raise your heels to stand on your toes, contract your calves, and slowly lower back to the ground.",
+    "steps": [
+      "Set up the Smith machine bar at shoulder height.",
+      "Step under the bar, position it across your upper traps, and unrack.",
+      "Stand upright with feet hip to shoulder-width apart.",
+      "Rise onto the balls of your feet by extending your ankles.",
+      "Pause at the top, then lower your heels in a controlled manner."
+    ],
+    "formCues": [
+      "Move only at ankles",
+      "Keep legs straight (but not locked)",
+      "Control the movement",
+      "Pause at top"
+    ],
+    "commonMistakes": [
+      "Bouncing for momentum",
+      "Partial range of motion",
+      "Allowing ankles to roll outward/inward"
+    ],
+    "breathing": "Exhale as you rise, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/smith-calf-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/smith-calf-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/smith-calf-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/smith-calf-raise.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-stairs-calf-stretch",
+    "name": "Stairs Calf Stretch",
+    "aliases": [
+      "calf stretch on step",
+      "step calf stretch",
+      "calf stair stretch"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "achilles tendon"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "gastrocnemius, soleus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A stretch performed using stairs to lengthen and increase flexibility in the calf muscles.",
+    "instructions": "Stand on the edge of a step with your heels hanging off. Slowly lower your heels toward the ground, feeling the stretch in your calves. Hold, then return to starting position or alternate legs.",
+    "steps": [
+      "Stand with the balls of your feet on a step or stair.",
+      "Support yourself with a railing, wall, or sturdy object.",
+      "Lower your heels slowly below the step to feel a stretch in your calves.",
+      "Hold the stretch for 15-30 seconds.",
+      "Raise heels back up and repeat as desired."
+    ],
+    "formCues": [
+      "Keep knees straight but not locked",
+      "Lower heels gradually",
+      "Engage core for balance",
+      "Avoid bouncing"
+    ],
+    "commonMistakes": [
+      "Letting heels drop too fast",
+      "Rounding your back",
+      "Bouncing during stretch"
+    ],
+    "breathing": "Exhale as you lower into the stretch, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-stairs-calf-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-stairs-calf-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-stairs-calf-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-stairs-calf-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-standing-bench-calf-stretch",
+    "name": "Standing Bench Calf Stretch",
+    "aliases": [
+      "standing calf stretch",
+      "bench calf stretch",
+      "standing gastroc stretch"
+    ],
+    "bodyPart": "lower legs",
+    "target": "calves",
+    "secondaryMuscles": [
+      "soleus"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "gastrocnemius",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A static stretch using a bench to lengthen the calf muscles.",
+    "instructions": "Stand facing a bench and place your toes up onto the edge with your heel on the ground. Lean forward slightly until you feel a stretch through your calf. Hold for the desired time and repeat with the other leg.",
+    "steps": [
+      "Stand in front of a bench or sturdy surface.",
+      "Place the ball of one foot onto the edge, keeping heel on the floor.",
+      "Lean your body forward while keeping your knee straight.",
+      "Hold the stretch for 15-30 seconds.",
+      "Switch legs and repeat."
+    ],
+    "formCues": [
+      "Keep knee straight",
+      "Lean from the hips",
+      "Maintain upright posture",
+      "Feel stretch in calf, not ankle"
+    ],
+    "commonMistakes": [
+      "Bending the knee too much",
+      "Letting the foot roll inward or outward",
+      "Forcing the stretch"
+    ],
+    "breathing": "Exhale as you relax into the stretch, inhale as you ease off.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-bench-calf-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-standing-bench-calf-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-bench-calf-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-standing-bench-calf-stretch.jpg"
+    }
+  }
+]

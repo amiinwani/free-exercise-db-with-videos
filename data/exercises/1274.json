@@ -1,0 +1,54 @@
+{
+  "id": "1274",
+  "name": "Deep Push-Up",
+  "aliases": [
+    "deep pushups",
+    "deficit push-up",
+    "deep range push-up",
+    "elevated hands push-up",
+    "Deep Push-ups",
+    "deep push up"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "triceps brachii",
+    "anterior deltoids",
+    "core"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "pectoralis major",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A push-up performed with hands elevated for a greater range of motion to emphasize lower chest activation.",
+  "instructions": "Assume a push-up position with hands on raised platforms or handles to allow your chest to go deeper than standard push-ups. Lower your chest below hand level, then press back up powerfully to full arm extension.",
+  "steps": [
+    "Place hands on elevated surfaces shoulder-width apart.",
+    "Assume a plank position with tight core and straight body.",
+    "Lower your chest between your hands, dipping below hand level.",
+    "Pause at the bottom, feeling a deep stretch in the chest.",
+    "Push up powerfully until arms are extended."
+  ],
+  "formCues": [
+    "Keep elbows at 45 degrees",
+    "Lower chest below hands",
+    "Maintain a straight line",
+    "Engage your core"
+  ],
+  "commonMistakes": [
+    "Sagging hips",
+    "Flaring elbows",
+    "Not going deep enough",
+    "Letting shoulders round"
+  ],
+  "breathing": "Inhale as you lower down, exhale as you push up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/deep-push-ups.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/deep-push-ups.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/deep-push-ups.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/deep-push-ups.jpg"
+  }
+}

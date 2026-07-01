@@ -1,0 +1,48 @@
+{
+  "id": "drv-stretching-flexion-leg-sit-up",
+  "name": "Flexion Leg Sit-Up Stretch",
+  "aliases": [
+    "sit-up stretch",
+    "leg flexion sit-up",
+    "sit-up with flexed legs"
+  ],
+  "bodyPart": "waist",
+  "target": "abdominals",
+  "secondaryMuscles": [
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A stretch that combines trunk flexion with leg movement to lengthen the abdominals and hip flexors.",
+  "instructions": "Start lying on your back with knees bent. Flex your spine as you perform a sit-up, reaching toward your knees. Pause in the top position for a stretch before lowering back down.",
+  "steps": [
+    "Lie on your back with knees bent and feet flat on the floor.",
+    "Cross arms over chest or reach toward knees.",
+    "Contract abdominal muscles to sit up, curling your spine.",
+    "Reach for your knees at the top to enhance the stretch.",
+    "Lower back to starting position with control."
+  ],
+  "formCues": [
+    "Curl up slowly",
+    "Avoid pulling on neck",
+    "Engage core throughout",
+    "Keep feet flat"
+  ],
+  "commonMistakes": [
+    "Jerking the movement",
+    "Using momentum instead of muscle",
+    "Straining the neck"
+  ],
+  "breathing": "Exhale as you sit up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-flexion-leg-sit-up.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-flexion-leg-sit-up.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-flexion-leg-sit-up.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-flexion-leg-sit-up.jpg"
+  }
+}

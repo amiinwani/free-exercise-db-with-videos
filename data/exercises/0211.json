@@ -1,0 +1,50 @@
+{
+  "id": "0211",
+  "name": "Russian Twist on Stability Ball (Arms Straight)",
+  "aliases": [
+    "stability ball russian twist",
+    "straight arm russian twist",
+    "ball-supported russian twist",
+    "Russian Twist (on stability ball arms straight)",
+    "cable russian twists (on stability ball)"
+  ],
+  "bodyPart": "waist",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "rectus abdominis",
+    "transverse abdominis",
+    "hip flexors"
+  ],
+  "equipment": "stability ball",
+  "muscleGroup": "external and internal obliques",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "An advanced core exercise targeting the obliques by rotating the torso while balanced on a stability ball with arms extended.",
+  "instructions": "Sit on a stability ball with feet flat on the ground, then walk feet forward to roll down until your upper back is supported. Extend your arms straight in front and rotate your torso side to side, keeping arms aligned and abs engaged throughout.",
+  "steps": [
+    "Sit on a stability ball and walk feet forward until shoulders rest on the ball.",
+    "Keep knees bent at 90 degrees, hips lifted in a bridge position.",
+    "Extend arms straight toward the ceiling with hands together.",
+    "Rotate torso and arms as one unit to the left.",
+    "Return to center, then rotate to the right, repeating for reps."
+  ],
+  "formCues": [
+    "Keep arms extended",
+    "Engage core",
+    "Move smoothly",
+    "Avoid sagging hips"
+  ],
+  "commonMistakes": [
+    "Letting hips drop",
+    "Bending arms",
+    "Rotating too quickly"
+  ],
+  "breathing": "Exhale during each rotation, inhale as you return to center.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/russian-twist-on-stability-ball-arms-straight.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/russian-twist-on-stability-ball-arms-straight.jpg"
+  }
+}

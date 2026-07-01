@@ -1,0 +1,49 @@
+{
+  "id": "drv-chest-dips",
+  "name": "Chest Dips",
+  "aliases": [
+    "parallel bar dips",
+    "dips (chest focus)",
+    "weighted dips"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "triceps",
+    "anterior deltoids"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "pectoralis major",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A compound bodyweight exercise performed on parallel bars to target the chest, shoulders, and triceps.",
+  "instructions": "Grasp parallel bars and lift yourself to starting position with arms locked. Lean the torso slightly forward and lower your body by bending the elbows until your upper arms are parallel to the floor. Push yourself back to the start, emphasizing the chest contraction.",
+  "steps": [
+    "Grip parallel bars and lift to start.",
+    "Lean torso forward and bend elbows.",
+    "Lower until upper arms are parallel to floor.",
+    "Pause at the bottom, feeling the stretch.",
+    "Push up through palms, returning to start."
+  ],
+  "formCues": [
+    "Lean forward",
+    "Keep elbows out to sides",
+    "Descend under control",
+    "Avoid locking elbows at top"
+  ],
+  "commonMistakes": [
+    "Staying too upright (triceps focus)",
+    "Going too deep",
+    "Flaring elbows excessively"
+  ],
+  "breathing": "Inhale as you lower, exhale as you press up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/chest-dips.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/chest-dips.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/chest-dips.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/chest-dips.jpg"
+  }
+}

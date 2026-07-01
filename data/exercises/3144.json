@@ -1,0 +1,52 @@
+{
+  "id": "3144",
+  "name": "Band Straight-Back Seated Row",
+  "aliases": [
+    "band seated row",
+    "resistance band row",
+    "band row seated",
+    "Band Straight Back Seated Row",
+    "resistance band seated straight back row"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "rhomboids",
+    "trapezius",
+    "biceps"
+  ],
+  "equipment": "band",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A banded rowing movement emphasizing the upper back and lats while seated with a straight torso.",
+  "instructions": "Sit on the floor with legs extended, loop a resistance band around your feet, and hold the handles with both hands. Keeping your back straight and core engaged, pull the band towards your torso, squeezing your shoulder blades together, then return to the starting position with control.",
+  "steps": [
+    "Sit on the floor and extend your legs forward.",
+    "Loop the band around your feet securely.",
+    "Grip the band handles with both hands, arms extended.",
+    "Keeping your back straight, pull the handles toward your waist, elbows close to your body.",
+    "Pause, squeeze your shoulder blades, then slowly return to the starting position."
+  ],
+  "formCues": [
+    "Keep chest up",
+    "Maintain neutral spine",
+    "Squeeze shoulder blades",
+    "Control the release"
+  ],
+  "commonMistakes": [
+    "Rounding your back",
+    "Letting arms flare out",
+    "Using momentum rather than back muscles"
+  ],
+  "breathing": "Exhale as you row, inhale as you return to start.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-straight-back-seated-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-straight-back-seated-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-straight-back-seated-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-straight-back-seated-row.jpg"
+  }
+}

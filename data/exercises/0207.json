@@ -1,0 +1,54 @@
+{
+  "id": "0207",
+  "name": "Reverse-Grip Cable Lat Pulldown",
+  "aliases": [
+    "reverse cable pulldown",
+    "supinated lat pulldown",
+    "underhand grip lat pulldown",
+    "reverse bar pulldown",
+    "Cable Bar Lateral Pulldown (reverse-grip)",
+    "cable reverse-grip pushdown"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps brachii",
+    "teres major",
+    "rhomboids",
+    "lower trapezius"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A cable pulldown variation using an underhand (supinated) grip to emphasize the lower lats and biceps.",
+  "instructions": "Sit at a lat pulldown station and grasp the bar with a reverse (underhand) grip, hands shoulder-width apart. Pull the bar down to your upper chest, squeezing the shoulder blades together, then slowly return to starting position.",
+  "steps": [
+    "Set the cable bar attachment and sit with knees secured under the pad.",
+    "Grasp the bar with a reverse (supinated) shoulder-width grip.",
+    "Lean back slightly, chest up, arms fully extended.",
+    "Pull the bar down to your upper chest by contracting your lats.",
+    "Slowly return the bar to the start position with control."
+  ],
+  "formCues": [
+    "Pull elbows down",
+    "Keep chest up",
+    "Don’t swing the torso",
+    "Grip the bar tightly"
+  ],
+  "commonMistakes": [
+    "Using too much momentum",
+    "Letting shoulders round",
+    "Leaning too far back"
+  ],
+  "breathing": "Exhale as you pull down, inhale as you return up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-bar-lateral-pulldown-reverse-grip.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-bar-lateral-pulldown-reverse-grip.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-bar-lateral-pulldown-reverse-grip.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-bar-lateral-pulldown-reverse-grip.jpg"
+  }
+}

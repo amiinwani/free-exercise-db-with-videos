@@ -1,0 +1,50 @@
+{
+  "id": "drv-band-high-fly",
+  "name": "Resistance Band High Fly",
+  "aliases": [
+    "band high fly",
+    "high band chest fly",
+    "standing high band fly"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "anterior deltoids",
+    "serratus anterior",
+    "biceps"
+  ],
+  "equipment": "band",
+  "muscleGroup": "pectoralis major",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A chest isolation movement where resistance bands are used to fly arms downward from above shoulder height.",
+  "instructions": "Attach bands above head height and hold one handle in each hand. Stand with arms overhead in a wide position, then pull hands down and together in an arc, squeezing the chest. Return slowly to the start.",
+  "steps": [
+    "Anchor resistance band above shoulder height.",
+    "Grasp handles and step forward for tension.",
+    "Start with arms raised wide, aligned with shoulders.",
+    "Pull arms downward and together in a wide arc.",
+    "Squeeze chest, then return slowly to start."
+  ],
+  "formCues": [
+    "Keep slight bend in elbows",
+    "Control movement",
+    "Squeeze chest at bottom",
+    "Don't let band snap back"
+  ],
+  "commonMistakes": [
+    "Overextending elbows",
+    "Letting shoulders shrug",
+    "Losing tension at top"
+  ],
+  "breathing": "Exhale as you bring arms together, inhale as you return.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-high-fly.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-high-fly.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-high-fly.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-high-fly.jpg"
+  }
+}

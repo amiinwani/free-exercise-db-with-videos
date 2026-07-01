@@ -1,0 +1,53 @@
+{
+  "id": "0562",
+  "name": "Landmine 180",
+  "aliases": [
+    "landmine 180",
+    "landmine rotation",
+    "barbell 180",
+    "landmine twists",
+    "barbell side-to-side rotation"
+  ],
+  "bodyPart": "waist",
+  "target": "abs",
+  "secondaryMuscles": [
+    "obliques",
+    "quadriceps"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "obliques",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A rotating landmine core exercise where you swing the barbell side to side using your hips, shoulders, and obliques.",
+  "instructions": "Stand with your feet shoulder-width apart and hold the barbell with both hands in front of your chest. Bend your knees slightly and rotate your torso to the right, swinging the barbell down towards your right hip. As you reach the bottom of the movement, quickly reverse the motion and rotate your torso to the left, swinging the barbell up and across your body towards your left shoulder. Continue this twisting motion, alternating sides, for the desired number of repetitions.",
+  "steps": [
+    "Stand facing the free end of the barbell with your feet about shoulder-width apart, and hold the barbell sleeve with both hands in front of your chest.",
+    "Bend your knees slightly, brace your midsection, and keep your arms long but not locked.",
+    "Rotate your shoulders and hips together to lower the barbell toward one hip.",
+    "Drive through your feet and rotate across your body to sweep the barbell in an arc toward the opposite side.",
+    "Control the barbell as it changes direction, and continue rotating side to side with your chest facing the barbell.",
+    "Keep the movement smooth and balanced on both sides until the set is complete."
+  ],
+  "formCues": [
+    "Rotate hips and shoulders together",
+    "Brace your core",
+    "Move the bar in an arc",
+    "Stay tall through the chest"
+  ],
+  "commonMistakes": [
+    "Twisting only the arms while the torso stays still",
+    "Letting the lower back arch as the bar moves",
+    "Locking the knees and staying flat-footed",
+    "Jerking the bar instead of controlling the arc"
+  ],
+  "breathing": "Inhale as the barbell moves to one side, and exhale as you rotate it across to the other side.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/landmine-180.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/landmine-180.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/landmine-180.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/landmine-180.jpg"
+  }
+}

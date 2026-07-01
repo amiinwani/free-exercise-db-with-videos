@@ -1,0 +1,395 @@
+[
+  {
+    "id": "drv-stretching-all-fours-squad-stretch",
+    "name": "All Fours Groin Stretch",
+    "aliases": [
+      "quadruped adductor stretch",
+      "all fours inner thigh stretch",
+      "all fours frog stretch"
+    ],
+    "bodyPart": "hips",
+    "target": "adductors",
+    "secondaryMuscles": [
+      "gluteus maximus",
+      "hamstrings"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "adductor group",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A floor stretch on hands and knees targeting the adductors and groin area.",
+    "instructions": "Begin on your hands and knees. Widen your knees apart as far as comfortable, keeping your feet in line with your knees. Sink your hips back slightly until a stretch is felt in the inner thighs and groin, holding with steady breathing.",
+    "steps": [
+      "Start on hands and knees (quadruped position).",
+      "Slide knees apart, keeping shins and feet in line with knees.",
+      "Lower hips toward the floor, maintaining a flat back.",
+      "Move hips back gently until you feel a stretch in the groin.",
+      "Hold the position and breathe deeply."
+    ],
+    "formCues": [
+      "Keep spine neutral",
+      "Move slowly",
+      "Avoid bouncing",
+      "Relax into stretch"
+    ],
+    "commonMistakes": [
+      "Arching lower back",
+      "Letting feet come together",
+      "Overstretching past comfort"
+    ],
+    "breathing": "Breathe slowly and deeply throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-all-fours-squad-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-all-fours-squad-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-all-fours-squad-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-all-fours-squad-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-band-hip-adduction",
+    "name": "Band Hip Adduction",
+    "aliases": [
+      "resistance band hip adduction",
+      "band adductor exercise"
+    ],
+    "bodyPart": "hips",
+    "target": "adductors",
+    "secondaryMuscles": [
+      "gluteus medius",
+      "quadriceps"
+    ],
+    "equipment": "band",
+    "muscleGroup": "adductor group",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A resistance band exercise that strengthens the inner thigh muscles through hip adduction.",
+    "instructions": "Attach a resistance band to a stable anchor and loop it around your ankle. Stand side-on to the anchor and bring your working leg across your body against the band’s resistance, focusing on squeezing your inner thigh.",
+    "steps": [
+      "Secure a resistance band to a sturdy anchor at ankle height.",
+      "Loop the other end around your working ankle.",
+      "Stand tall and hold onto a support if needed.",
+      "Bring your working leg across your body, adducting at the hip.",
+      "Slowly return to the starting position and repeat."
+    ],
+    "formCues": [
+      "Keep core tight",
+      "Move with control",
+      "Avoid swinging",
+      "Maintain upright posture"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Rotating hips outward",
+      "Bending the standing leg excessively"
+    ],
+    "breathing": "Exhale as you pull leg inward, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-hip-adduction.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-hip-adduction.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-hip-adduction.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-hip-adduction.jpg"
+    }
+  },
+  {
+    "id": "drv-close-feet-leg-press",
+    "name": "Close Feet Leg Press",
+    "aliases": [
+      "narrow stance leg press",
+      "platform narrow press"
+    ],
+    "bodyPart": "hips",
+    "target": "quadriceps",
+    "secondaryMuscles": [
+      "gluteus maximus",
+      "adductors",
+      "hamstrings"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A leg press using a narrow foot placement to emphasize the quadriceps.",
+    "instructions": "Sit in a leg press machine and place your feet hip-width or closer at the center of the platform. Press the platform away by extending your knees while keeping your back flat, then lower under control.",
+    "steps": [
+      "Sit in the leg press machine with feet close together on the platform.",
+      "Adjust seat and foot placement for comfort and safety.",
+      "Release safety handles and grip the handles for support.",
+      "Extend your knees to press the weight upward.",
+      "Lower platform slowly back to starting position."
+    ],
+    "formCues": [
+      "Keep knees aligned with toes",
+      "Do not lock out knees",
+      "Lower with control",
+      "Keep back and hips against pad"
+    ],
+    "commonMistakes": [
+      "Letting knees collapse inward",
+      "Allowing heels to lift",
+      "Shortening range of motion"
+    ],
+    "breathing": "Exhale as you press up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/close-feet-leg-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/close-feet-leg-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/close-feet-leg-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/close-feet-leg-press.jpg"
+    }
+  },
+  {
+    "id": "drv-lever-standing-rear-kick",
+    "name": "Lever Standing Rear Kick",
+    "aliases": [
+      "machine glute kickback",
+      "lever rear kick"
+    ],
+    "bodyPart": "hips",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "erector spinae"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "gluteus maximus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A leverage machine exercise that isolates the glutes with a hip extension rear kick motion.",
+    "instructions": "Set up at the rear kick lever machine with your working foot on the platform and your chest against the pad. Push the lever backward by extending your hip, squeezing your glutes at the top, then return to the starting position.",
+    "steps": [
+      "Adjust the lever machine pad to chest height and select weight.",
+      "Place working foot on the platform.",
+      "Hold handles and brace core.",
+      "Extend hip by pushing foot backward as far as comfortable.",
+      "Return slowly to starting position and repeat."
+    ],
+    "formCues": [
+      "Lead with heel",
+      "Keep core tight",
+      "Avoid arching the back",
+      "Squeeze glute at top"
+    ],
+    "commonMistakes": [
+      "Using lower back to lift",
+      "Swinging leg with momentum",
+      "Not controlling the negative"
+    ],
+    "breathing": "Exhale as you kick back, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-standing-rear-kick.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-standing-rear-kick.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-standing-rear-kick.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-standing-rear-kick.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-boat-stretch",
+    "name": "Seated Boat Stretch",
+    "aliases": [
+      "seated groin stretch",
+      "butterfly stretch",
+      "boat pose stretch"
+    ],
+    "bodyPart": "hips",
+    "target": "adductors",
+    "secondaryMuscles": [
+      "lower back",
+      "gluteus maximus"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "adductor group",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated flexibility stretch focusing on the inner thighs and hips.",
+    "instructions": "Sit on the floor and bring the soles of your feet together, letting knees fall out to the sides. Hold your feet or ankles and gently pull them in, leaning forward slightly to deepen the stretch through the groin and hips.",
+    "steps": [
+      "Sit on the floor with back straight.",
+      "Bring soles of feet together and let knees drop out.",
+      "Hold ankles or feet for support.",
+      "Gently pull feet closer and lean forward slightly.",
+      "Hold position without bouncing."
+    ],
+    "formCues": [
+      "Keep chest up",
+      "Relax knees toward floor",
+      "Avoid rounding back",
+      "Go only as far as comfortable"
+    ],
+    "commonMistakes": [
+      "Forcing knees down",
+      "Hunching shoulders",
+      "Bouncing during stretch"
+    ],
+    "breathing": "Breathe deeply and regularly while holding the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-boat-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-boat-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-boat-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-boat-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-squat",
+    "name": "Squat",
+    "aliases": [
+      "bodyweight squat",
+      "air squat",
+      "barbell squat",
+      "back squat"
+    ],
+    "bodyPart": "hips",
+    "target": "quadriceps",
+    "secondaryMuscles": [
+      "gluteus maximus",
+      "hamstrings",
+      "erector spinae",
+      "adductors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A foundational lower body movement that strengthens the quads, glutes, and hamstrings by bending and straightening the knees and hips.",
+    "instructions": "Stand with feet shoulder-width apart and toes slightly turned out. Lower your hips back and down as if sitting into a chair, keeping your chest upright, then drive through your heels to stand back up.",
+    "steps": [
+      "Stand with feet shoulder-width apart and toes slightly outward.",
+      "Brace core and keep chest up.",
+      "Initiate movement by pushing hips back and bending knees.",
+      "Descend until thighs are at least parallel to the floor.",
+      "Push through heels to return to standing."
+    ],
+    "formCues": [
+      "Keep knees tracking toes",
+      "Maintain neutral spine",
+      "Weight on midfoot/heels",
+      "Chest up"
+    ],
+    "commonMistakes": [
+      "Letting knees collapse inward",
+      "Rounding lower back",
+      "Not reaching parallel depth"
+    ],
+    "breathing": "Inhale as you lower down, exhale as you stand up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/squat.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/squat.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/squat.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/squat.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-adductor-stretch",
+    "name": "Standing Adductor Stretch",
+    "aliases": [
+      "side lunge stretch",
+      "inner thigh stretch",
+      "standing groin stretch"
+    ],
+    "bodyPart": "hips",
+    "target": "adductors",
+    "secondaryMuscles": [
+      "hamstrings",
+      "gluteus maximus"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "adductor group",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A static stretch targeting the inner thighs by lunging to the side and holding.",
+    "instructions": "Stand with feet wide apart and slowly bend one knee while keeping the other leg straight. Lean into the bent knee side, feeling the stretch along your inner thigh. Hold, then switch sides.",
+    "steps": [
+      "Stand wide with feet apart.",
+      "Shift weight to one leg, bending at the knee.",
+      "Keep the opposite leg straight and toes forward.",
+      "Lean gently toward the bent knee for a deep inner thigh stretch.",
+      "Hold, then switch to the other side."
+    ],
+    "formCues": [
+      "Keep both heels on floor",
+      "Maintain upright torso",
+      "Do not bounce",
+      "Stretch slowly"
+    ],
+    "commonMistakes": [
+      "Letting the heel lift",
+      "Twisting hips",
+      "Bending forward at the waist"
+    ],
+    "breathing": "Breathe deeply and steadily while holding the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-adductor-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-adductor-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-adductor-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-adductor-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-ceiling-look-stretch",
+    "name": "Standing Hip Flexor and Abdominal Stretch",
+    "aliases": [
+      "standing reach up stretch",
+      "standing hip flexor extension",
+      "ceiling look stretch"
+    ],
+    "bodyPart": "hips",
+    "target": "hip flexors",
+    "secondaryMuscles": [
+      "abdominals",
+      "quadriceps"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "iliopsoas",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing stretch focusing on opening the hips and lengthening the abdominal muscles by reaching overhead and leaning back.",
+    "instructions": "Stand tall with feet shoulder-width apart. Raise both arms overhead and gently arch your back, lifting your chest and looking up at the ceiling. Engage your glutes and extend hips forward to feel a stretch through the front of your hips and abdomen.",
+    "steps": [
+      "Stand upright with feet shoulder-width apart.",
+      "Lift arms overhead, palms facing forward.",
+      "Arch back gently, lifting chest and looking upward.",
+      "Shift hips forward slightly to increase hip flexor stretch.",
+      "Hold and breathe for desired duration."
+    ],
+    "formCues": [
+      "Engage glutes",
+      "Stretch upwards before leaning back",
+      "Don’t force neck back",
+      "Keep knees soft"
+    ],
+    "commonMistakes": [
+      "Overarching lower back",
+      "Locking knees",
+      "Failing to engage core"
+    ],
+    "breathing": "Inhale before arching; exhale as you hold the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-ceiling-look-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-ceiling-look-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-ceiling-look-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-ceiling-look-stretch.jpg"
+    }
+  }
+]

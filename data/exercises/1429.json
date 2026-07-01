@@ -1,0 +1,51 @@
+{
+  "id": "1429",
+  "name": "Pull-Up (Wide Grip)",
+  "aliases": [
+    "wide grip pull-up",
+    "wide front grip pullup",
+    "overhand wide pull-up",
+    "Pull-up (wide front grip)"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "trapezius",
+    "rhomboids",
+    "biceps brachii"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A pull-up variation performed with a wide, overhand grip to emphasize the upper lats and back.",
+  "instructions": "Hang from a pull-up bar with hands wider than shoulders using an overhand grip. Pull yourself up until your chin is over the bar, then lower slowly.",
+  "steps": [
+    "Grip pull-up bar with hands wider than shoulders, palms overhand.",
+    "Hang with arms fully extended and core tight.",
+    "Pull chest up to bar, driving elbows down and out.",
+    "Pause at the top, squeeze back muscles.",
+    "Lower down slowly to full extension."
+  ],
+  "formCues": [
+    "Keep elbows flared out",
+    "Lead with chest",
+    "Engage lats",
+    "Avoid swinging"
+  ],
+  "commonMistakes": [
+    "Partial reps",
+    "Using momentum",
+    "Shrugging shoulders"
+  ],
+  "breathing": "Exhale as you pull up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/pull-up-wide-front-grip.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/pull-up-wide-front-grip.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/pull-up-wide-front-grip.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/pull-up-wide-front-grip.jpg"
+  }
+}

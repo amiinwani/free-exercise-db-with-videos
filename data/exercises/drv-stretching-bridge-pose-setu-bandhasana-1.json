@@ -1,0 +1,48 @@
+{
+  "id": "drv-stretching-bridge-pose-setu-bandhasana-1",
+  "name": "Bridge Pose (Setu Bandhasana)",
+  "aliases": [
+    "yoga bridge",
+    "setu bandhasana",
+    "supine bridge stretch"
+  ],
+  "bodyPart": "waist",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back",
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "gluteus maximus",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "Bridge Pose is a yoga stretch that lifts the hips to activate the glutes and open the chest and hip flexors.",
+  "instructions": "Lie on your back with knees bent, feet flat on the floor, and arms at your sides. Press through your heels to lift your hips toward the ceiling, engaging the glutes and lower back, and hold at the top for a stretch. Lower slowly to the ground and repeat as needed.",
+  "steps": [
+    "Lie flat on your back with knees bent and feet hip-width apart.",
+    "Place arms alongside your body, palms down.",
+    "Press into your heels to lift your hips off the floor, creating a straight line from knees to shoulders.",
+    "Engage your glutes and hold the top position for several seconds.",
+    "Lower your hips back down in a controlled motion."
+  ],
+  "formCues": [
+    "Press through heels",
+    "Squeeze glutes at the top",
+    "Keep knees aligned",
+    "Avoid over-arching lower back"
+  ],
+  "commonMistakes": [
+    "Letting knees flare outward",
+    "Overarching lower back",
+    "Not engaging glutes"
+  ],
+  "breathing": "Exhale as you lift hips, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-bridge-pose-setu-bandhasana-1.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-bridge-pose-setu-bandhasana-1.jpg"
+  }
+}

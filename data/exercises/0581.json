@@ -1,0 +1,54 @@
+{
+  "id": "0581",
+  "name": "Lever High Row",
+  "aliases": [
+    "high row machine",
+    "lever row machine",
+    "plate-loaded high row",
+    "machine high row",
+    "upper back machine row",
+    "lever high row"
+  ],
+  "bodyPart": "back",
+  "target": "upper back",
+  "secondaryMuscles": [
+    "biceps",
+    "rear deltoids"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "biceps",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A chest-supported machine row that trains the upper back by pulling handles from in front of you toward your torso.",
+  "instructions": "Adjust the seat height and foot platform to a comfortable position. Sit on the machine with your chest against the pad and your feet flat on the foot platform. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart. Keep your back straight and engage your core. Pull the handles towards your body, squeezing your shoulder blades together. Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Adjust the seat so the handles start around upper-chest height when you sit down.",
+    "Sit with your chest firmly against the pad and place your feet flat on the platform.",
+    "Grab the handles with an overhand grip and straighten your arms without lifting your chest off the pad.",
+    "Pull the handles back toward your upper ribs by driving your elbows down and back.",
+    "Squeeze your shoulder blades together at the end of the pull.",
+    "Return the handles forward under control until your arms are straight again."
+  ],
+  "formCues": [
+    "Chest stays on pad",
+    "Drive elbows back",
+    "Squeeze shoulder blades",
+    "Control the return"
+  ],
+  "commonMistakes": [
+    "Shrugging the shoulders up toward the ears as you pull",
+    "Leaning off the chest pad to move the weight",
+    "Letting the handles slam forward between reps",
+    "Bending the wrists back instead of keeping them neutral"
+  ],
+  "breathing": "Exhale as you pull the handles toward you, and inhale as you return to the starting position.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-high-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-high-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-high-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-high-row.jpg"
+  }
+}

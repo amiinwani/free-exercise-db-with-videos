@@ -1,0 +1,48 @@
+{
+  "id": "drv-cardio-exercises",
+  "name": "Cardio Exercise",
+  "aliases": [
+    "aerobic exercise",
+    "endurance training",
+    "cardio workout"
+  ],
+  "bodyPart": "cardio",
+  "target": "cardiovascular system",
+  "secondaryMuscles": [
+    "varies by movement"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "heart and lungs",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "Any aerobic physical activity aimed at increasing heart rate and cardiovascular health.",
+  "instructions": "Choose a form of movement such as jogging, jumping jacks, or burpees. Perform continuously at a moderate to vigorous intensity for the desired time or repetitions, maintaining proper posture and consistent breathing.",
+  "steps": [
+    "Select a cardio activity (running, jumping jacks, etc).",
+    "Warm up for 3-5 minutes.",
+    "Perform the chosen activity at a sustainable pace.",
+    "Maintain movement for set time or rounds.",
+    "Cool down and stretch afterwards."
+  ],
+  "formCues": [
+    "Keep chest up",
+    "Engage core",
+    "Use full range of motion",
+    "Breathe steadily"
+  ],
+  "commonMistakes": [
+    "Overexerting too soon",
+    "Neglecting form",
+    "Ignoring proper warm-up or cool-down"
+  ],
+  "breathing": "Breathe rhythmically; exhale on exertion, inhale during lower intensity.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cardio-exercises.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cardio-exercises.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cardio-exercises.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cardio-exercises.jpg"
+  }
+}

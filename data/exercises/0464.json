@@ -1,0 +1,51 @@
+{
+  "id": "0464",
+  "name": "Front Plank",
+  "aliases": [
+    "plank",
+    "prone plank",
+    "forearm plank",
+    "Front Plank (female)",
+    "front plank with twist"
+  ],
+  "bodyPart": "waist",
+  "target": "abdominals",
+  "secondaryMuscles": [
+    "transverse abdominis",
+    "obliques",
+    "glutes",
+    "shoulders"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "An isometric core stability exercise performed in a prone position to strengthen the abdominals and stabilize the entire body.",
+  "instructions": "Start in a prone position with forearms and toes on the ground. Engage your core, keep your body in a straight line from head to heels, and hold the position for the desired amount of time without allowing hips to rise or sag.",
+  "steps": [
+    "Lie face down, placing forearms on the ground and elbows under shoulders.",
+    "Lift your body off the floor, supporting weight on forearms and toes.",
+    "Keep your body in a straight line from head to heels.",
+    "Engage your core and glutes for stability.",
+    "Hold the position for the prescribed time, then lower to the ground."
+  ],
+  "formCues": [
+    "Keep core tight",
+    "Neutral spine",
+    "Do not let hips drop",
+    "Look down"
+  ],
+  "commonMistakes": [
+    "Letting hips drop or rise",
+    "Arched back",
+    "Not engaging the core"
+  ],
+  "breathing": "Breathe slowly and steadily during the hold.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/front-plank-female.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/front-plank-female.jpg"
+  }
+}

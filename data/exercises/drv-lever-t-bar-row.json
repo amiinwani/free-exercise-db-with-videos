@@ -1,0 +1,53 @@
+{
+  "id": "drv-lever-t-bar-row",
+  "name": "Lever T-Bar Row",
+  "aliases": [
+    "t-bar row",
+    "machine t-bar row",
+    "seal row",
+    "landmine row"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "rhomboids",
+    "rear deltoids",
+    "trapezius",
+    "biceps brachii"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A machine row movement that maximizes mid-back and lat development through a horizontal pulling pattern.",
+  "instructions": "Position yourself on the lever T-bar row machine with chest supported and feet braced. Grip the handles, retract your shoulder blades, and pull the handles toward your torso, squeezing your back muscles. Lower the weight under control with full stretch.",
+  "steps": [
+    "Lie prone on the chest pad of the T-bar row machine and grasp the handles.",
+    "Brace your upper body and retract your shoulder blades.",
+    "Pull the handles toward your chest or lower ribs.",
+    "Pause and squeeze your back at the top.",
+    "Lower the weight under control to a full stretch."
+  ],
+  "formCues": [
+    "Pinch shoulder blades",
+    "Drive elbows back",
+    "Keep chest on pad",
+    "Full stretch at bottom"
+  ],
+  "commonMistakes": [
+    "Arching lower back",
+    "Not fully extending arms",
+    "Bouncing weights",
+    "Letting shoulders round forward"
+  ],
+  "breathing": "Exhale as you row up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-t-bar-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-t-bar-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-t-bar-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-t-bar-row.jpg"
+  }
+}

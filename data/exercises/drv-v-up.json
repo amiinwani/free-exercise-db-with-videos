@@ -1,0 +1,50 @@
+{
+  "id": "drv-v-up",
+  "name": "V-Up",
+  "aliases": [
+    "jackknife sit-up",
+    "v crunch",
+    "v sit-up",
+    "jackknife"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "hip flexors",
+    "obliques"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A dynamic core exercise where both legs and torso are lifted to meet in a 'V' position, activating the abdominals.",
+  "instructions": "Lie flat on your back with arms extended overhead and legs straight. Simultaneously raise your legs and upper body, reaching your hands towards your feet to form a 'V' shape, then lower back down in control.",
+  "steps": [
+    "Lie on your back with arms extended overhead and legs straight.",
+    "Engage your core to lift your legs and torso simultaneously.",
+    "Reach your hands toward your feet at the top, forming a 'V' shape.",
+    "Pause briefly, squeezing your abs.",
+    "Lower down slowly to starting position."
+  ],
+  "formCues": [
+    "Lift with abs",
+    "Keep legs straight",
+    "Reach toward toes",
+    "Control the descent"
+  ],
+  "commonMistakes": [
+    "Swinging legs",
+    "Arching lower back",
+    "Not fully engaging abs"
+  ],
+  "breathing": "Exhale when lifting up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/v-up.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/v-up.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/v-up.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/v-up.jpg"
+  }
+}

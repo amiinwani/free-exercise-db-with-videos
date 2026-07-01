@@ -1,0 +1,49 @@
+{
+  "id": "drv-close-feet-leg-press",
+  "name": "Close Feet Leg Press",
+  "aliases": [
+    "narrow stance leg press",
+    "platform narrow press"
+  ],
+  "bodyPart": "hips",
+  "target": "quadriceps",
+  "secondaryMuscles": [
+    "gluteus maximus",
+    "adductors",
+    "hamstrings"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A leg press using a narrow foot placement to emphasize the quadriceps.",
+  "instructions": "Sit in a leg press machine and place your feet hip-width or closer at the center of the platform. Press the platform away by extending your knees while keeping your back flat, then lower under control.",
+  "steps": [
+    "Sit in the leg press machine with feet close together on the platform.",
+    "Adjust seat and foot placement for comfort and safety.",
+    "Release safety handles and grip the handles for support.",
+    "Extend your knees to press the weight upward.",
+    "Lower platform slowly back to starting position."
+  ],
+  "formCues": [
+    "Keep knees aligned with toes",
+    "Do not lock out knees",
+    "Lower with control",
+    "Keep back and hips against pad"
+  ],
+  "commonMistakes": [
+    "Letting knees collapse inward",
+    "Allowing heels to lift",
+    "Shortening range of motion"
+  ],
+  "breathing": "Exhale as you press up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/close-feet-leg-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/close-feet-leg-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/close-feet-leg-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/close-feet-leg-press.jpg"
+  }
+}

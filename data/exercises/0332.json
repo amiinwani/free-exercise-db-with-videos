@@ -1,0 +1,53 @@
+{
+  "id": "0332",
+  "name": "Dumbbell Iron Cross",
+  "aliases": [
+    "dumbbell iron cross",
+    "dumbbell lateral raise",
+    "DB lateral raise",
+    "side raise with dumbbells",
+    "dumbbell arm raise to the side"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "triceps",
+    "chest"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "triceps",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A shoulder isolation exercise where you raise dumbbells out to the sides to train the delts.",
+  "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides. Raise your arms out to the sides until they are parallel to the ground, forming a T shape with your body. Pause for a moment, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with a dumbbell in each hand at your sides and your feet about hip-width apart.",
+    "Hold a slight bend in your elbows and turn your palms toward your sides.",
+    "Raise both arms out to the sides until your hands reach shoulder height.",
+    "Pause briefly with your shoulders level and your wrists in line with your elbows.",
+    "Lower the dumbbells back to your sides with control.",
+    "Repeat without swinging your torso or bouncing the weights."
+  ],
+  "formCues": [
+    "Lead with the elbows",
+    "Lift to shoulder height",
+    "Keep shoulders down",
+    "Move with control"
+  ],
+  "commonMistakes": [
+    "Swinging the torso to start each rep",
+    "Shrugging the shoulders toward the ears",
+    "Lifting the dumbbells higher than shoulder level",
+    "Straightening the elbows completely and locking the arms"
+  ],
+  "breathing": "Inhale as you lower the dumbbells and exhale as you raise them out to the sides.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-iron-cross.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-iron-cross.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-iron-cross.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-iron-cross.jpg"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "0437",
+  "name": "Dumbbell Upright Row",
+  "aliases": [
+    "upright row",
+    "dumbbell high pull",
+    "DB upright row",
+    "standing dumbbell upright row",
+    "dumbbell row to chin",
+    "dumbbell upright row"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "traps",
+    "biceps"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "traps",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A standing shoulder and upper-trap exercise where you pull dumbbells up the front of your body with elbows leading.",
+  "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. Let the dumbbells hang in front of your thighs, with your arms fully extended. Keeping your back straight and your core engaged, exhale and lift the dumbbells straight up towards your chin, leading with your elbows. Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with a dumbbell in each hand in front of your thighs, palms facing your body.",
+    "Brace your midsection and keep your chest lifted.",
+    "Pull the dumbbells straight up along the front of your body by driving your elbows up and out.",
+    "Raise until the dumbbells reach about upper-chest height and your elbows stay higher than your hands.",
+    "Pause briefly, then lower the dumbbells back to your thighs with control."
+  ],
+  "formCues": [
+    "Lead with your elbows",
+    "Keep dumbbells close",
+    "Shoulders down and back",
+    "Lift to upper chest"
+  ],
+  "commonMistakes": [
+    "Pulling the dumbbells all the way to the chin",
+    "Letting the wrists bend sharply at the top",
+    "Swinging the torso to start the lift",
+    "Hands rising higher than the elbows"
+  ],
+  "breathing": "Exhale as you pull the dumbbells up, and inhale as you lower them back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-upright-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-upright-row.jpg"
+  }
+}

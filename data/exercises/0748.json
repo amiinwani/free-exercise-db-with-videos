@@ -1,0 +1,53 @@
+{
+  "id": "0748",
+  "name": "Smith Machine Leg Press",
+  "aliases": [
+    "smith machine leg press",
+    "smith lying leg press",
+    "smith platform press",
+    "Smith Leg Press",
+    "smith bench press"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quadriceps",
+  "secondaryMuscles": [
+    "gluteus maximus",
+    "hamstrings",
+    "adductors"
+  ],
+  "equipment": "smith machine",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A machine-based variation of leg press performed with a Smith machine barbell in a supine or incline position.",
+  "instructions": "Lie on the floor or bench under a Smith machine with feet placed on the bar wider than shoulder-width. Unlock the bar and press upwards with your legs, lowering until your knees reach a 90-degree angle before pressing back to the start.",
+  "steps": [
+    "Set the safety stops and load the appropriate weight.",
+    "Lie under the Smith bar and position feet wider than shoulder-width on the bar.",
+    "Unrack the bar by rotating your feet upward.",
+    "Lower the bar slowly toward your torso until legs form roughly a 90-degree angle.",
+    "Press the bar up by extending your knees and hips."
+  ],
+  "formCues": [
+    "Keep core braced",
+    "Press evenly with both feet",
+    "Full range of motion",
+    "Maintain foot flatness"
+  ],
+  "commonMistakes": [
+    "Incorrect foot placement",
+    "Pressing with toes only",
+    "Shallow movement",
+    "Letting knees cave inward"
+  ],
+  "breathing": "Inhale as you lower the bar, exhale as you press upward.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/smith-leg-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/smith-leg-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/smith-leg-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/smith-leg-press.jpg"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "drv-cable-bar-lateral-pulldown-wide-shoulder-grip",
+  "name": "Wide Grip Cable Lat Pulldown",
+  "aliases": [
+    "lat pulldown",
+    "wide grip pulldown",
+    "cable pulldown",
+    "pulldown machine"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps brachii",
+    "trapezius",
+    "rhomboids",
+    "rear deltoids"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A cable exercise performed with a wide grip that primarily targets the latissimus dorsi to build back width and upper body strength.",
+  "instructions": "Sit at the cable pulldown machine and grip the wide bar with hands wider than shoulder width and palms facing forward. Engage your core, pull your shoulder blades down and back, and pull the bar down to your upper chest while keeping your back straight. Slowly return the bar to the starting position while controlling the resistance.",
+  "steps": [
+    "Adjust the thigh pad and sit at the cable pulldown machine.",
+    "Grip the wide bar overhead with a pronated (overhand) grip, hands wider than shoulders.",
+    "Lean back slightly, brace your core, and retract your shoulder blades.",
+    "Pull the bar down to your upper chest, driving elbows down and out.",
+    "Pause briefly, then slowly release the bar back to the starting position."
+  ],
+  "formCues": [
+    "Pull elbows down",
+    "Keep chest up",
+    "Don't swing",
+    "Control the weight"
+  ],
+  "commonMistakes": [
+    "Using momentum or body swing",
+    "Allowing shoulders to shrug up",
+    "Not fully extending arms",
+    "Pulling bar behind neck"
+  ],
+  "breathing": "Exhale as you pull the bar down, inhale as you return to start.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-bar-lateral-pulldown-wide-shoulder-grip.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-bar-lateral-pulldown-wide-shoulder-grip.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-bar-lateral-pulldown-wide-shoulder-grip.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-bar-lateral-pulldown-wide-shoulder-grip.jpg"
+  }
+}

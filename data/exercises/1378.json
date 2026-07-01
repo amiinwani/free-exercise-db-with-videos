@@ -1,0 +1,49 @@
+{
+  "id": "1378",
+  "name": "Calf Stretch with Rope",
+  "aliases": [
+    "rope calf stretch",
+    "band calf stretch",
+    "seated calf stretch with strap",
+    "calf muscle stretch with towel",
+    "Stretching - Calf Stretch with Rope",
+    "calf stretch with rope"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [],
+  "equipment": "band",
+  "muscleGroup": "gastrocnemius, soleus",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A static stretch for the calf muscles using a rope or strap to pull the foot into dorsiflexion.",
+  "instructions": "Sit on the floor with your legs extended. Loop a rope or band around your foot, keep your knee straight, and gently pull your toes toward you to stretch your calf.",
+  "steps": [
+    "Sit on the floor with one leg extended.",
+    "Loop a rope or band around the ball of your foot.",
+    "Hold ends of rope and gently pull your foot toward you.",
+    "Keep knee straight for a deeper stretch.",
+    "Hold the stretch and then switch legs."
+  ],
+  "formCues": [
+    "Keep knee extended",
+    "Pull gently",
+    "Don’t bounce",
+    "Relax into stretch"
+  ],
+  "commonMistakes": [
+    "Bending the knee",
+    "Jerking the rope",
+    "Holding breath"
+  ],
+  "breathing": "Breathe deeply and relax throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-calf-stretch-with-rope.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-calf-stretch-with-rope.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-calf-stretch-with-rope.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-calf-stretch-with-rope.jpg"
+  }
+}

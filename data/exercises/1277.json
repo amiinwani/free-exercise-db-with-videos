@@ -1,0 +1,55 @@
+{
+  "id": "1277",
+  "name": "Dumbbell Fly On Exercise Ball",
+  "aliases": [
+    "exercise ball dumbbell fly",
+    "stability ball dumbbell fly",
+    "Swiss ball chest fly",
+    "DB fly on ball",
+    "chest fly on exercise ball",
+    "dumbbell chest fly on ball",
+    "dumbbell fly on exercise ball"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A chest isolation move done on an exercise ball, lowering dumbbells in a wide arc and bringing them back together over the chest.",
+  "instructions": "Sit on an exercise ball and hold a dumbbell in each hand. Walk your feet forward and roll your body down until your head, neck, and upper back are supported by the ball. Extend your arms straight up above your chest, palms facing each other. Bend your elbows slightly and lower your arms out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then reverse the movement and squeeze your chest muscles as you bring the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit on the exercise ball holding a dumbbell in each hand at your thighs.",
+    "Walk your feet forward and roll down until your head, neck, and upper back rest on the ball, then lift your hips so your torso is level.",
+    "Press the dumbbells above your chest with your palms facing each other and your elbows slightly bent.",
+    "Lower your arms out to the sides in a wide arc while keeping the same small bend in your elbows.",
+    "Stop when your upper arms are roughly in line with your torso and your chest feels stretched.",
+    "Bring the dumbbells back together over your chest along the same arc and squeeze your chest at the top."
+  ],
+  "formCues": [
+    "Keep hips up",
+    "Soft bend in elbows",
+    "Open wide, not too low",
+    "Bring bells together smoothly"
+  ],
+  "commonMistakes": [
+    "Letting the hips sag below the torso",
+    "Turning the movement into a press by bending the elbows too much",
+    "Lowering the dumbbells far below chest level",
+    "Shrugging the shoulders up toward the ears"
+  ],
+  "breathing": "Inhale as you lower the dumbbells out to the sides, and exhale as you bring them back together over your chest.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-fly-on-exercise-ball.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-fly-on-exercise-ball.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-fly-on-exercise-ball.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-fly-on-exercise-ball.jpg"
+  }
+}

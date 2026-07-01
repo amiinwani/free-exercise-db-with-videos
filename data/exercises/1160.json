@@ -1,0 +1,58 @@
+{
+  "id": "1160",
+  "name": "Burpee",
+  "aliases": [
+    "bodyweight burpee",
+    "squat thrust",
+    "push-up burpee",
+    "burpee jump",
+    "drop to plank jump",
+    "burpee"
+  ],
+  "bodyPart": "cardio",
+  "target": "cardiovascular system",
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves",
+    "shoulders",
+    "chest"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "quadriceps",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A full-body bodyweight movement that combines a squat, plank, push-up, and jump for conditioning.",
+  "instructions": "Start in a standing position with your feet shoulder-width apart. Lower your body into a squat position by bending your knees and placing your hands on the floor in front of you. Kick your feet back into a push-up position. Perform a push-up, keeping your body in a straight line. Jump your feet back into the squat position. Jump up explosively, reaching your arms overhead. Land softly and immediately lower back into a squat position to begin the next repetition.",
+  "steps": [
+    "Stand tall with your feet about hip-width apart.",
+    "Bend your knees, hinge at your hips, and place your hands on the floor in front of your feet.",
+    "Jump both feet back to a high plank with your body in a straight line.",
+    "Lower your chest to the floor, then press back up to plank.",
+    "Jump both feet forward to the outside of your hands.",
+    "Drive through your feet and jump straight up, reaching your arms overhead as you leave the floor.",
+    "Land softly and go straight into the next rep."
+  ],
+  "formCues": [
+    "Keep your core braced.",
+    "Land softly under control.",
+    "Chest up on the jump.",
+    "Move as one straight line."
+  ],
+  "commonMistakes": [
+    "Hips sagging low in the plank or push-up.",
+    "Feet landing too narrow under the body.",
+    "Hands placed far in front of the shoulders.",
+    "Landing stiff-legged with no knee bend."
+  ],
+  "breathing": "Inhale as you drop down and move into plank, then exhale as you press up and jump.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/burpee.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/burpee.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/burpee.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/burpee.jpg"
+  }
+}

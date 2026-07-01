@@ -1,0 +1,51 @@
+{
+  "id": "0669",
+  "name": "Rear Deltoid Stretch",
+  "aliases": [
+    "posterior shoulder stretch",
+    "rear delt stretch",
+    "cross body shoulder stretch",
+    "Stretching - Rear Deltoid Stretch",
+    "rear deltoid stretch"
+  ],
+  "bodyPart": "shoulders",
+  "target": "posterior deltoid",
+  "secondaryMuscles": [
+    "rhomboids",
+    "trapezius"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "posterior deltoid",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A stretch that targets the rear shoulder to enhance flexibility and reduce tension.",
+  "instructions": "Stand or sit upright, extend one arm across your body at shoulder height and use the opposite hand to pull it closer, feeling a stretch across the back of the shoulder. Hold, then switch sides.",
+  "steps": [
+    "Extend one arm across your chest at shoulder height.",
+    "Use opposite hand to pull arm towards your body.",
+    "Hold the stretch for 20-30 seconds.",
+    "Release and return to start.",
+    "Repeat on the other side."
+  ],
+  "formCues": [
+    "Relax shoulder",
+    "Arm stays at shoulder height",
+    "Gentle pull",
+    "No twisting torso"
+  ],
+  "commonMistakes": [
+    "Lifting the shoulder",
+    "Twisting the upper body",
+    "Forcing the stretch"
+  ],
+  "breathing": "Breathe normally throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-rear-deltoid-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-rear-deltoid-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-rear-deltoid-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-rear-deltoid-stretch.jpg"
+  }
+}

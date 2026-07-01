@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-adductor-stretch",
+  "name": "Standing Adductor Stretch",
+  "aliases": [
+    "side lunge stretch",
+    "inner thigh stretch",
+    "standing groin stretch"
+  ],
+  "bodyPart": "hips",
+  "target": "adductors",
+  "secondaryMuscles": [
+    "hamstrings",
+    "gluteus maximus"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "adductor group",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A static stretch targeting the inner thighs by lunging to the side and holding.",
+  "instructions": "Stand with feet wide apart and slowly bend one knee while keeping the other leg straight. Lean into the bent knee side, feeling the stretch along your inner thigh. Hold, then switch sides.",
+  "steps": [
+    "Stand wide with feet apart.",
+    "Shift weight to one leg, bending at the knee.",
+    "Keep the opposite leg straight and toes forward.",
+    "Lean gently toward the bent knee for a deep inner thigh stretch.",
+    "Hold, then switch to the other side."
+  ],
+  "formCues": [
+    "Keep both heels on floor",
+    "Maintain upright torso",
+    "Do not bounce",
+    "Stretch slowly"
+  ],
+  "commonMistakes": [
+    "Letting the heel lift",
+    "Twisting hips",
+    "Bending forward at the waist"
+  ],
+  "breathing": "Breathe deeply and steadily while holding the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-adductor-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-adductor-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-adductor-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-adductor-stretch.jpg"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "0777",
+  "name": "Spell Caster",
+  "aliases": [
+    "spell caster",
+    "dumbbell spell caster",
+    "alternating dumbbell toe touch",
+    "cross-body dumbbell reach",
+    "standing oblique twist with dumbbell"
+  ],
+  "bodyPart": "waist",
+  "target": "abs",
+  "secondaryMuscles": [
+    "obliques",
+    "lower back"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "obliques",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A standing dumbbell core move where you hinge and rotate side to side, reaching the weight toward each foot to train the obliques.",
+  "instructions": "Stand with your feet shoulder-width apart and hold a dumbbell in one hand. Bend your knees slightly and hinge forward at the waist, keeping your back straight. Extend your arm with the dumbbell towards the opposite foot, rotating your torso as you do so. Return to the starting position and repeat on the other side. Continue alternating sides for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with your feet about shoulder-width apart, holding one dumbbell with both hands in front of your hips.",
+    "Soften your knees and hinge slightly at your hips while keeping your chest up and back flat.",
+    "Rotate your torso and lower the dumbbell toward the outside of one foot.",
+    "Drive through your hips and return to the center with the dumbbell back in front of your hips.",
+    "Rotate to the other side and lower the dumbbell toward the outside of the opposite foot.",
+    "Continue alternating sides with controlled movement."
+  ],
+  "formCues": [
+    "Rotate through your torso",
+    "Keep your back flat",
+    "Bend at the hips",
+    "Move with control"
+  ],
+  "commonMistakes": [
+    "Rounding the lower back as the dumbbell lowers",
+    "Bending mostly through the spine instead of hinging at the hips",
+    "Letting the knees cave inward during the reach",
+    "Swinging the dumbbell quickly instead of controlling each side"
+  ],
+  "breathing": "Inhale as you lower and rotate toward one foot, then exhale as you return to center and switch sides.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/spell-caster.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/spell-caster.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/spell-caster.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/spell-caster.jpg"
+  }
+}

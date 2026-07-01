@@ -1,0 +1,49 @@
+{
+  "id": "0846",
+  "name": "Weighted Lying Twist",
+  "aliases": [
+    "weighted windshield wiper",
+    "lying weighted hip twist",
+    "supine weighted twist",
+    "Weighted Lying Twist",
+    "weighted russian twist"
+  ],
+  "bodyPart": "waist",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "rectus abdominis",
+    "hip flexors"
+  ],
+  "equipment": "weighted",
+  "muscleGroup": "external obliques",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A core rotational movement that targets the obliques using added resistance.",
+  "instructions": "Lie flat on your back, arms extended to your sides and holding a weight between your feet or over chest. Rotate your lower body side-to-side while stabilizing your upper body.",
+  "steps": [
+    "Lie on your back with arms outstretched for support.",
+    "Hold a weight between your feet (or over chest).",
+    "Lift your legs up to a 90-degree angle.",
+    "Slowly rotate your legs to one side, keeping shoulders down.",
+    "Return to center and repeat on the other side."
+  ],
+  "formCues": [
+    "Keep shoulders grounded",
+    "Move slowly and controlled",
+    "Engage obliques",
+    "Don’t swing legs"
+  ],
+  "commonMistakes": [
+    "Letting shoulders lift",
+    "Using momentum",
+    "Dropping legs too low"
+  ],
+  "breathing": "Exhale as you twist, inhale as you return to center.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/weighted-lying-twist.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/weighted-lying-twist.jpg"
+  }
+}

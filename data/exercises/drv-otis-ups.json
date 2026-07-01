@@ -1,0 +1,50 @@
+{
+  "id": "drv-otis-ups",
+  "name": "Otis-Up",
+  "aliases": [
+    "otis up",
+    "otis-ups",
+    "weighted sit-up"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "obliques",
+    "hip flexors",
+    "shoulders"
+  ],
+  "equipment": "weighted",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "advanced",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A sit-up variation holding a weight at arm’s length overhead to increase abdominal engagement.",
+  "instructions": "Lie on your back with knees bent and feet flat, holding a weight plate or dumbbell above your chest with arms extended. Sit up while keeping the weight overhead at arm's length, then lower back down under control.",
+  "steps": [
+    "Lie on your back with knees bent and feet anchored.",
+    "Hold a weight with both hands, arms fully extended above your chest.",
+    "Engage your core and sit up, keeping arms straight and weight overhead.",
+    "Reach an upright seated position.",
+    "Lower yourself back down under control with arms extended."
+  ],
+  "formCues": [
+    "Keep arms locked out",
+    "Do not swing weight",
+    "Engage abs fully",
+    "Maintain slow control"
+  ],
+  "commonMistakes": [
+    "Bending arms",
+    "Dropping weight forward",
+    "Using momentum to sit up"
+  ],
+  "breathing": "Exhale as you sit up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/otis-ups.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/otis-ups.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/otis-ups.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/otis-ups.jpg"
+  }
+}

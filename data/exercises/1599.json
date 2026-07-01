@@ -1,0 +1,50 @@
+{
+  "id": "1599",
+  "name": "Calf Stretch with Strap",
+  "aliases": [
+    "seated calf stretch",
+    "strap-assisted calf stretch",
+    "banded calf stretch",
+    "Stretching - Calf Stretch with Strap",
+    "standing hamstring and calf stretch with strap"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "soleus"
+  ],
+  "equipment": "band",
+  "muscleGroup": "gastrocnemius",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated stretch using a strap or resistance band to elongate the calf muscles.",
+  "instructions": "Sit on the floor with one leg extended and loop a strap around the ball of your foot. Gently pull the strap towards you while keeping your knee straight, feeling a stretch along the back of your lower leg.",
+  "steps": [
+    "Sit with legs extended on the floor.",
+    "Loop a strap around the ball of one foot.",
+    "Hold strap ends and gently pull foot towards you.",
+    "Keep the knee straight and hold for desired time.",
+    "Switch sides and repeat."
+  ],
+  "formCues": [
+    "Keep knee straight",
+    "Flex foot toward you",
+    "Gentle pull, avoid jerking",
+    "Sit tall"
+  ],
+  "commonMistakes": [
+    "Bending knee",
+    "Pulling too hard",
+    "Letting back round"
+  ],
+  "breathing": "Breathe deeply and steadily throughout stretch; exhale gently as you deepen the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-calf-stretch-with-strap.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-calf-stretch-with-strap.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-calf-stretch-with-strap.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-calf-stretch-with-strap.jpg"
+  }
+}

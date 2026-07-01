@@ -1,0 +1,50 @@
+{
+  "id": "1405",
+  "name": "Middle Back Stretch",
+  "aliases": [
+    "Seated Middle Back Stretch",
+    "Seated Back Stretch",
+    "Thoracic Stretch",
+    "Stretching - Middle Back Stretch (1)",
+    "back pec stretch"
+  ],
+  "bodyPart": "back",
+  "target": "middle back",
+  "secondaryMuscles": [
+    "latissimus dorsi",
+    "rhomboids",
+    "erector spinae"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "thoracic spine muscles",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A static stretch to lengthen the muscles of the thoracic (middle) back region.",
+  "instructions": "Sit or stand with arms extended in front. Clasp your hands and round your upper back, reaching forward to feel a gentle stretch along your middle back. Hold the position without bouncing.",
+  "steps": [
+    "Sit or stand with feet hip-width apart.",
+    "Extend your arms straight in front and clasp your hands.",
+    "Round your upper back and push your hands forward.",
+    "Tuck your chin slightly toward your chest.",
+    "Hold the stretch for 20–30 seconds and release."
+  ],
+  "formCues": [
+    "Round your upper back",
+    "Keep arms extended",
+    "Relax your shoulders",
+    "Hold the position steady"
+  ],
+  "commonMistakes": [
+    "Arching the lower back instead of rounding the upper back",
+    "Holding breath",
+    "Bouncing during the stretch"
+  ],
+  "breathing": "Breathe slowly and evenly throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-middle-back-stretch-1.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-middle-back-stretch-1.jpg"
+  }
+}

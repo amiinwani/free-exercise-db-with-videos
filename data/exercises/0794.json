@@ -1,0 +1,49 @@
+{
+  "id": "0794",
+  "name": "Standing Lateral Stretch",
+  "aliases": [
+    "standing side stretch",
+    "standing overhead stretch",
+    "lateral bend stretch",
+    "Stretching - Standing Lateral Stretch (1)",
+    "standing lateral stretch"
+  ],
+  "bodyPart": "back",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "latissimus dorsi",
+    "intercostals"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "external obliques",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A standing side-bending stretch to target the obliques and lengthen the muscles along the side of the torso.",
+  "instructions": "Stand tall with feet hip-width apart; raise one arm overhead and gently lean to the opposite side. Feel a stretch along the side of your torso and hold, then switch sides.",
+  "steps": [
+    "Stand upright, feet hip-width apart.",
+    "Raise one arm overhead, keeping it straight.",
+    "Place other hand on hip or let it hang at side.",
+    "Gently lean to the opposite side, keeping hips square.",
+    "Hold, then return to center and repeat on the other side."
+  ],
+  "formCues": [
+    "Reach tall, then over",
+    "Keep both feet grounded",
+    "Hips facing forward",
+    "Breathe into stretch"
+  ],
+  "commonMistakes": [
+    "Rotating torso",
+    "Bending forward or backwards",
+    "Not keeping arm straight"
+  ],
+  "breathing": "Inhale to lengthen, exhale as you lean into the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-lateral-stretch-1.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-lateral-stretch-1.jpg"
+  }
+}

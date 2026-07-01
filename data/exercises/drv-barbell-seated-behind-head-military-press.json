@@ -1,0 +1,49 @@
+{
+  "id": "drv-barbell-seated-behind-head-military-press",
+  "name": "Barbell Seated Behind-The-Neck Press",
+  "aliases": [
+    "behind head military press",
+    "barbell behind neck press",
+    "seated behind neck shoulder press"
+  ],
+  "bodyPart": "shoulders",
+  "target": "deltoids",
+  "secondaryMuscles": [
+    "triceps",
+    "upper trapezius"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "deltoid",
+  "difficulty": "advanced",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A shoulder press variation performed seated with a barbell lowered behind the neck to target the deltoids.",
+  "instructions": "Sit on a bench with back support and grip the barbell with hands wider than shoulder-width. Lower the barbell slowly behind your head to just below ear level, then press upward until arms are fully extended. Use a spotter and maintain upright posture.",
+  "steps": [
+    "Sit on a bench with back support; grip barbell wider than shoulders.",
+    "Unrack barbell and hold above your head.",
+    "Lower barbell behind your head to just below ear level.",
+    "Press barbell back up to the starting position.",
+    "Repeat for desired reps, keeping core engaged."
+  ],
+  "formCues": [
+    "Keep back upright",
+    "Don't arch lower back",
+    "Lower bar with control",
+    "Use full range"
+  ],
+  "commonMistakes": [
+    "Flaring elbows excessively",
+    "Arching lower back",
+    "Lowering bar too far"
+  ],
+  "breathing": "Exhale when pressing up, inhale when lowering the bar.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-seated-behind-head-military-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-seated-behind-head-military-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-seated-behind-head-military-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-seated-behind-head-military-press.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0340",
+  "name": "Dumbbell Lying Hammer Press",
+  "aliases": [
+    "dumbbell lying hammer press",
+    "neutral grip dumbbell bench press",
+    "neutral-grip dumbbell press",
+    "hammer grip dumbbell press",
+    "palms-in dumbbell chest press",
+    "dumbbell chest press with palms facing"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "triceps",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A flat bench dumbbell press done with a neutral grip to train the chest, triceps, and shoulders.",
+  "instructions": "Lie flat on a bench with a dumbbell in each hand, palms facing each other and arms extended straight up. Lower the dumbbells to the sides of your chest, keeping your elbows at a 90-degree angle. Press the dumbbells back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Lie flat on a bench holding a dumbbell in each hand, and press the dumbbells above your chest with your palms facing each other.",
+    "Plant your feet on the floor and brace your torso while keeping your wrists stacked over your elbows.",
+    "Lower the dumbbells under control to either side of your chest, keeping your elbows slightly tucked from your shoulders.",
+    "Pause briefly when your upper arms reach bench level or the dumbbells lightly touch your chest line.",
+    "Press the dumbbells straight up until your arms are extended above your chest, keeping the palms facing each other throughout.",
+    "Bring the dumbbells back together over your chest and repeat."
+  ],
+  "formCues": [
+    "Keep palms facing in",
+    "Tuck elbows slightly",
+    "Press over mid-chest",
+    "Keep wrists straight"
+  ],
+  "commonMistakes": [
+    "Elbows flare straight out to the sides.",
+    "Dumbbells drift toward the face instead of staying over the chest.",
+    "Wrists bend back under the dumbbells.",
+    "Lowering too fast and bouncing at the bottom."
+  ],
+  "breathing": "Inhale as you lower the dumbbells to your chest and exhale as you press them back up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lying-hammer-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lying-hammer-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lying-hammer-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lying-hammer-press.jpg"
+  }
+}

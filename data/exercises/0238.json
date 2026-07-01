@@ -1,0 +1,55 @@
+{
+  "id": "0238",
+  "name": "Cable Straight Arm Pulldown",
+  "aliases": [
+    "straight-arm pulldown",
+    "cable straight-arm pulldown",
+    "straight arm cable pulldown",
+    "lat prayer pulldown",
+    "straight-arm lat pulldown",
+    "straight-arm cable lat pull",
+    "cable straight arm pulldown"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "shoulders",
+    "biceps"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A cable lat exercise where you pull a straight bar from shoulder height down to your thighs with mostly straight arms.",
+  "instructions": "Attach a straight bar to the high pulley of a cable machine. Stand facing the machine with your feet shoulder-width apart. Grasp the bar with an overhand grip, keeping your arms straight and your palms facing down. Engage your lats and pull the bar down towards your thighs, keeping your arms straight throughout the movement. Pause for a moment at the bottom, then slowly return the bar to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Attach a straight bar to a high cable pulley and face the machine.",
+    "Grab the bar with an overhand grip, step back slightly, and hinge forward a little at the hips.",
+    "Start with your arms straight in front of you at shoulder height and your torso braced.",
+    "Pull the bar down in a wide arc toward your thighs without bending your elbows.",
+    "Squeeze your lats at the bottom with the bar close to your hips.",
+    "Raise the bar back up slowly to shoulder height while keeping your arms long and your torso still."
+  ],
+  "formCues": [
+    "Arms long, elbows soft",
+    "Pull with your lats",
+    "Ribs down, core tight",
+    "Stop at your thighs"
+  ],
+  "commonMistakes": [
+    "Bending the elbows and turning it into a triceps pressdown",
+    "Leaning back and using body swing to move the bar",
+    "Shrugging the shoulders up toward the ears",
+    "Letting the bar drift away from the body at the bottom"
+  ],
+  "breathing": "Inhale as the bar rises to the start, and exhale as you pull it down toward your thighs.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-straight-arm-pulldown.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-straight-arm-pulldown.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-straight-arm-pulldown.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-straight-arm-pulldown.jpg"
+  }
+}

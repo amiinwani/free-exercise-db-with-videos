@@ -1,0 +1,55 @@
+{
+  "id": "1328",
+  "name": "Dumbbell Lying Rear Delt Row",
+  "aliases": [
+    "rear delt row",
+    "dumbbell rear delt row",
+    "prone rear delt row",
+    "chest-supported rear delt row",
+    "lying dumbbell rear row",
+    "face-down dumbbell row",
+    "dumbbell lying rear delt row"
+  ],
+  "bodyPart": "back",
+  "target": "upper back",
+  "secondaryMuscles": [
+    "shoulders",
+    "biceps"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A chest-supported dumbbell row variation that targets the rear delts and upper back by pulling the elbows out wide.",
+  "instructions": "Lie face down on a flat bench with a dumbbell in each hand, palms facing inwards. Extend your arms straight down towards the floor, keeping a slight bend in your elbows. Engaging your back muscles, lift the dumbbells up towards your chest, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Lie face down on a flat bench holding a dumbbell in each hand, with your chest supported and arms hanging straight down.",
+    "Set your feet firmly on the floor and turn your palms to face each other.",
+    "Pull your elbows out to the sides and row the dumbbells up toward your upper chest.",
+    "Squeeze your upper back at the top while keeping your chest on the bench.",
+    "Lower the dumbbells back down under control until your arms are straight again.",
+    "Repeat without swinging the weights or shrugging your shoulders."
+  ],
+  "formCues": [
+    "Lead with the elbows",
+    "Chest stays on the bench",
+    "Pull wide, not low",
+    "Squeeze shoulder blades together"
+  ],
+  "commonMistakes": [
+    "Pulling the elbows close to the ribs like a regular row",
+    "Shrugging the shoulders up toward the ears",
+    "Lifting the chest off the bench to move the weights",
+    "Swinging the dumbbells instead of lowering them with control"
+  ],
+  "breathing": "Inhale as you lower the dumbbells, and exhale as you row them up toward your upper chest.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lying-rear-delt-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lying-rear-delt-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lying-rear-delt-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lying-rear-delt-row.jpg"
+  }
+}

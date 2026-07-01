@@ -1,0 +1,52 @@
+{
+  "id": "0031",
+  "name": "Barbell Curl",
+  "aliases": [
+    "barbell curl",
+    "barbell biceps curl",
+    "standing barbell curl",
+    "BB curl",
+    "straight bar curl",
+    "barbell arm curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A standing biceps exercise where you curl a barbell from your thighs to shoulder height with an underhand grip.",
+  "instructions": "Stand up straight with your feet shoulder-width apart and hold a barbell with an underhand grip, palms facing forward. Keep your elbows close to your torso and exhale as you curl the weights while contracting your biceps. Continue to raise the bar until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale as you slowly begin to lower the bar back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with your feet hip-width apart and hold the barbell at your thighs with an underhand grip.",
+    "Set your shoulders back, brace your torso, and keep your elbows pinned by your sides.",
+    "Curl the bar upward by bending your elbows until the bar reaches about shoulder height.",
+    "Pause briefly at the top and squeeze your biceps without letting your elbows drift forward.",
+    "Lower the bar slowly back to your thighs until your arms are straight."
+  ],
+  "formCues": [
+    "Elbows stay by your sides",
+    "Lift with the biceps",
+    "Keep wrists straight",
+    "Control the lowering"
+  ],
+  "commonMistakes": [
+    "Swinging the torso to start the bar moving",
+    "Letting the elbows drift forward as the bar rises",
+    "Bending the wrists back instead of keeping them neutral",
+    "Dropping the bar quickly on the way down"
+  ],
+  "breathing": "Exhale as you curl the bar up, and inhale as you lower it back down under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-curl.jpg"
+  }
+}

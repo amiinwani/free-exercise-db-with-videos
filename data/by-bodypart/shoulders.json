@@ -1,0 +1,1746 @@
+[
+  {
+    "id": "drv-band-bent-over-rear-lateral-raise",
+    "name": "Band Bent-Over Rear Lateral Raise",
+    "aliases": [
+      "band rear delt raise",
+      "band bent-over reverse fly",
+      "band rear lateral raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "rear deltoids",
+    "secondaryMuscles": [
+      "rhoboids",
+      "trapezius",
+      "infraspinatus"
+    ],
+    "equipment": "band",
+    "muscleGroup": "posterior deltoid",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A rear shoulder and upper back exercise using a resistance band in a bent-over position.",
+    "instructions": "Stand on a resistance band, hinge forward at the hips with a flat back. Grip the band ends and raise your arms laterally to shoulder level, keeping elbows slightly bent, then lower with control.",
+    "steps": [
+      "Stand on a resistance band, feet shoulder-width apart.",
+      "Hinge forward at hips, keeping back flat.",
+      "Hold band with both hands, arms hanging down.",
+      "Raise arms out to sides until parallel with shoulders.",
+      "Lower arms back down with control."
+    ],
+    "formCues": [
+      "Flat back",
+      "Slight elbow bend",
+      "Squeeze shoulders",
+      "Slow control"
+    ],
+    "commonMistakes": [
+      "Rounding back",
+      "Shrugging shoulders",
+      "Using momentum"
+    ],
+    "breathing": "Exhale during the raise, inhale during the lowering.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-bent-over-rear-lateral-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-bent-over-rear-lateral-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-bent-over-rear-lateral-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-bent-over-rear-lateral-raise.jpg"
+    }
+  },
+  {
+    "id": "1017",
+    "name": "Band One Arm Front Raise",
+    "aliases": [
+      "band single arm front raise",
+      "one arm band front raise",
+      "resistance band front raise",
+      "Band One Arm Forward Raise",
+      "band y-raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "anterior deltoid",
+    "secondaryMuscles": [
+      "upper pectorals",
+      "serratus anterior"
+    ],
+    "equipment": "band",
+    "muscleGroup": "deltoid anterior",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "Isolation shoulder exercise raising one arm forward against band resistance to target the anterior deltoid.",
+    "instructions": "Stand on the band with feet shoulder-width apart and hold one handle with your working hand by your side. Keeping your arm straight but not locked, raise it in front of you to shoulder level. Pause, then slowly lower back down with control. Repeat on both sides.",
+    "steps": [
+      "Stand with one foot on the band for resistance.",
+      "Hold handle in one hand at thigh level, palm facing down.",
+      "Keep arm straight, raise it forward to shoulder height.",
+      "Pause briefly at the top.",
+      "Lower arm back down slowly and repeat."
+    ],
+    "formCues": [
+      "Raise to shoulder height",
+      "Keep elbow soft",
+      "Don't swing",
+      "Control the descent"
+    ],
+    "commonMistakes": [
+      "Swinging the arm",
+      "Bending at the elbow",
+      "Raising above shoulder"
+    ],
+    "breathing": "Exhale as you lift, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-one-arm-forward-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-one-arm-forward-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-one-arm-forward-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-one-arm-forward-raise.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-band-warm-up-shoulder-stretch",
+    "name": "Band Shoulder Warm-Up Stretch",
+    "aliases": [
+      "band shoulder stretch",
+      "resistance band shoulder mobility",
+      "band dislocates"
+    ],
+    "bodyPart": "shoulders",
+    "target": "deltoids",
+    "secondaryMuscles": [
+      "rotator cuff",
+      "upper trapezius",
+      "pectorals"
+    ],
+    "equipment": "band",
+    "muscleGroup": "deltoid",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A shoulder stretch and mobility drill using a resistance band to warm up the deltoids and rotator cuff.",
+    "instructions": "Grip a resistance band with both hands wider than shoulder-width. Keep arms straight and move the band from hips, overhead, and behind the back to stretch the shoulders, then reverse the motion. Maintain a steady, controlled movement.",
+    "steps": [
+      "Stand tall and grip band with hands wider than shoulders.",
+      "Hold arms straight, band in front of thighs.",
+      "Slowly raise band overhead while keeping arms straight.",
+      "Move band behind head and down to lower back.",
+      "Reverse the movement to bring band to starting position."
+    ],
+    "formCues": [
+      "Keep arms straight",
+      "Move slowly",
+      "Stay within pain-free range",
+      "Keep posture tall"
+    ],
+    "commonMistakes": [
+      "Bending arms",
+      "Rushing the movement",
+      "Arching lower back"
+    ],
+    "breathing": "Breathe naturally throughout stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-band-warm-up-shoulder-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-band-warm-up-shoulder-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-band-warm-up-shoulder-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-band-warm-up-shoulder-stretch.jpg"
+    }
+  },
+  {
+    "id": "1022",
+    "name": "Band Standing Rear Delt Row",
+    "aliases": [
+      "band standing rear delt row",
+      "standing band rear delt row",
+      "resistance band rear delt row",
+      "band bent-over rear delt row",
+      "band high row",
+      "rear shoulder band row"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "trapezius",
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": "band",
+    "muscleGroup": "trapezius",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bent-over band row with elbows flared out to target the rear delts and upper back.",
+    "instructions": "Stand with your feet shoulder-width apart and place the band under your feet. Hold the band handles with your palms facing each other and your arms extended in front of you. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Pull the band towards your chest, squeezing your shoulder blades together. Pause for a moment at the top, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand on the middle of the band with feet about hip-width apart and hold one end in each hand.",
+      "Hinge forward at the hips with a soft bend in your knees until your torso leans forward and your arms hang below your shoulders.",
+      "Set your shoulders down and keep your chest open with your palms facing each other or slightly inward.",
+      "Pull your elbows out and back until your hands reach around lower chest to upper rib level.",
+      "Squeeze your rear shoulders and upper back at the top without shrugging.",
+      "Lower your hands back down under control until your arms are straight again."
+    ],
+    "formCues": [
+      "Lead with the elbows",
+      "Keep neck long",
+      "Chest open, back flat",
+      "Don’t shrug up"
+    ],
+    "commonMistakes": [
+      "Standing too upright and turning it into a regular row",
+      "Shrugging the shoulders toward the ears at the top",
+      "Pulling the hands too low toward the waist",
+      "Rounding the upper or lower back while hinging"
+    ],
+    "breathing": "Inhale as you lower to the start, and exhale as you row the band up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-standing-rear-delt-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-standing-rear-delt-row.jpg"
+    }
+  },
+  {
+    "id": "0041",
+    "name": "Barbell Front Raise",
+    "aliases": [
+      "front raise",
+      "barbell front raise",
+      "barbell shoulder raise",
+      "straight-arm front raise",
+      "front delt raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "biceps",
+      "triceps"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A shoulder isolation exercise where you lift a barbell straight in front of your body to train the front delts.",
+    "instructions": "Stand with your feet shoulder-width apart and hold a barbell in front of your thighs with an overhand grip. Keep your arms straight and lift the barbell forward and upward until it reaches shoulder level. Pause for a moment at the top, then slowly lower the barbell back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet hip-width apart and hold the barbell against your thighs with an overhand grip.",
+      "Brace your core and keep a soft bend in your elbows.",
+      "Raise the barbell straight forward in front of you until it reaches shoulder height.",
+      "Pause briefly without shrugging your shoulders.",
+      "Lower the barbell back to your thighs with control.",
+      "Reset your posture and repeat the movement."
+    ],
+    "formCues": [
+      "Lift to shoulder height",
+      "Keep ribs down",
+      "Lead with your hands",
+      "Avoid swinging"
+    ],
+    "commonMistakes": [
+      "Leaning back to start the lift.",
+      "Swinging the barbell with the hips.",
+      "Raising the barbell above shoulder height.",
+      "Shrugging the shoulders toward the ears."
+    ],
+    "breathing": "Exhale as you raise the barbell, and inhale as you lower it back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-front-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-front-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-front-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-front-raise.jpg"
+    }
+  },
+  {
+    "id": "0075",
+    "name": "Barbell Rear Delt Raise",
+    "aliases": [
+      "rear delt raise",
+      "barbell rear delt raise",
+      "barbell bent-over reverse raise",
+      "bent-over barbell rear fly",
+      "bent-over shoulder raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "traps",
+      "rhomboids"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "traps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bent-over barbell raise that targets the rear delts by lifting the arms out to the sides while holding a barbell.",
+    "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, palms facing down. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Raise the barbell out to the sides, keeping your arms straight, until they are parallel to the ground. Pause for a moment at the top, then slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall holding the barbell with a shoulder-width overhand grip.",
+      "Soften your knees and hinge at your hips until your torso is nearly parallel to the floor.",
+      "Let the bar hang below your chest with your arms straight and your neck neutral.",
+      "Raise the bar out and up by moving your upper arms to the sides until they reach shoulder height.",
+      "Pause briefly at the top while keeping your torso still.",
+      "Lower the bar under control to the starting position."
+    ],
+    "formCues": [
+      "Hinge, don't round",
+      "Lead with your elbows",
+      "Keep neck neutral",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Rounding the lower back as you hinge forward",
+      "Swinging the torso to heave the bar upward",
+      "Shrugging the shoulders toward the ears",
+      "Turning it into a row by bending the elbows too much"
+    ],
+    "breathing": "Inhale as you lower the bar and set your hinge, then exhale as you raise the bar out to the sides.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-rear-delt-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-rear-delt-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-rear-delt-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-rear-delt-raise.jpg"
+    }
+  },
+  {
+    "id": "drv-barbell-seated-behind-head-military-press",
+    "name": "Barbell Seated Behind-The-Neck Press",
+    "aliases": [
+      "behind head military press",
+      "barbell behind neck press",
+      "seated behind neck shoulder press"
+    ],
+    "bodyPart": "shoulders",
+    "target": "deltoids",
+    "secondaryMuscles": [
+      "triceps",
+      "upper trapezius"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "deltoid",
+    "difficulty": "advanced",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A shoulder press variation performed seated with a barbell lowered behind the neck to target the deltoids.",
+    "instructions": "Sit on a bench with back support and grip the barbell with hands wider than shoulder-width. Lower the barbell slowly behind your head to just below ear level, then press upward until arms are fully extended. Use a spotter and maintain upright posture.",
+    "steps": [
+      "Sit on a bench with back support; grip barbell wider than shoulders.",
+      "Unrack barbell and hold above your head.",
+      "Lower barbell behind your head to just below ear level.",
+      "Press barbell back up to the starting position.",
+      "Repeat for desired reps, keeping core engaged."
+    ],
+    "formCues": [
+      "Keep back upright",
+      "Don't arch lower back",
+      "Lower bar with control",
+      "Use full range"
+    ],
+    "commonMistakes": [
+      "Flaring elbows excessively",
+      "Arching lower back",
+      "Lowering bar too far"
+    ],
+    "breathing": "Exhale when pressing up, inhale when lowering the bar.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-seated-behind-head-military-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-seated-behind-head-military-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-seated-behind-head-military-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-seated-behind-head-military-press.jpg"
+    }
+  },
+  {
+    "id": "0123",
+    "name": "Barbell Wide-Grip Upright Row",
+    "aliases": [
+      "wide-grip upright row",
+      "wide grip barbell upright row",
+      "Barbell Upright Row (wide-grip)",
+      "barbell wide-grip upright row"
+    ],
+    "bodyPart": "shoulders",
+    "target": "deltoids",
+    "secondaryMuscles": [
+      "trapezius",
+      "biceps"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "deltoids",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A compound barbell lift with a wide grip to target the shoulders and upper back.",
+    "instructions": "Stand with feet shoulder-width apart, holding a barbell with a wide grip resting in front of your thighs. Pull the bar straight up toward your chest, lifting elbows high, then lower slowly.",
+    "steps": [
+      "Stand upright with feet shoulder width apart.",
+      "Hold the barbell using a wide, overhand grip.",
+      "Let the bar rest in front of your thighs.",
+      "Lift the bar straight up toward your chest, elbows out to the sides.",
+      "Lower the bar slowly to the starting position."
+    ],
+    "formCues": [
+      "Lead with your elbows",
+      "Keep bar close to your body",
+      "Stop at upper chest",
+      "Maintain neutral spine"
+    ],
+    "commonMistakes": [
+      "Shrugging shoulders excessively",
+      "Using too much momentum",
+      "Hands too close"
+    ],
+    "breathing": "Exhale as you lift, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-upright-row-wide-grip.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-upright-row-wide-grip.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-upright-row-wide-grip.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-upright-row-wide-grip.jpg"
+    }
+  },
+  {
+    "id": "0128",
+    "name": "Battling Ropes",
+    "aliases": [
+      "battle ropes",
+      "battling rope waves",
+      "alternating battle rope waves",
+      "rope waves",
+      "battle rope exercise",
+      "battling ropes"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "forearms",
+      "core"
+    ],
+    "equipment": "rope",
+    "muscleGroup": "forearms",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A rope conditioning exercise using alternating arm waves to train the shoulders, forearms, and core.",
+    "instructions": "Stand with your feet shoulder-width apart and knees slightly bent. Hold one end of the rope in each hand, with your palms facing each other. Raise your arms to shoulder height, keeping your elbows slightly bent. Begin making alternating waves with the ropes by rapidly raising and lowering each arm. Continue for the desired duration or number of repetitions.",
+    "steps": [
+      "Anchor your stance with feet about shoulder-width apart and bend your knees slightly.",
+      "Hold one rope end in each hand with your palms facing each other and your arms in front of you.",
+      "Brace your core and lift one hand as you lower the other to start the waves.",
+      "Keep alternating your arms quickly to send continuous waves down the ropes.",
+      "Maintain the slight knee bend and steady torso as you keep the waves even."
+    ],
+    "formCues": [
+      "Move arms fast",
+      "Keep chest tall",
+      "Brace your core",
+      "Make even waves"
+    ],
+    "commonMistakes": [
+      "Standing upright with locked knees",
+      "Swinging the whole torso instead of the arms",
+      "Letting the waves become uneven or stop",
+      "Lifting the shoulders up toward the ears"
+    ],
+    "breathing": "Breathe steadily throughout, exhaling with the arm drive and inhaling as the arms switch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/battling-ropes.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/battling-ropes.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/battling-ropes.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/battling-ropes.jpg"
+    }
+  },
+  {
+    "id": "0154",
+    "name": "Cable Crossover Reverse Fly",
+    "aliases": [
+      "reverse cable fly",
+      "cable reverse fly",
+      "rear delt cable fly",
+      "cable rear delt fly",
+      "reverse fly machine cables",
+      "bent-over cable reverse fly",
+      "cable cross-over reverse fly",
+      "Cable Crossover Reverse Fly"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "rhomboids",
+      "trapezius"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "rhomboids",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A cable rear-delt fly where you pull crossed low handles out and back to train the back of the shoulders and upper back.",
+    "instructions": "Attach a D-handle to each low pulley cable and stand in the middle of the cable crossover machine. Grasp the handles with a pronated grip (palms facing down) and take a step forward, positioning your feet shoulder-width apart. Bend your knees slightly and lean forward at the waist, keeping your back straight and your abs engaged. With your arms extended out to the sides and slightly bent at the elbows, exhale and squeeze your shoulder blades together as you pull the cables back and upward in a reverse fly motion. Pause for a moment at the peak contraction, then inhale and slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set both cable handles to the low pulleys and stand centered between them.",
+      "Grab the left handle in your right hand and the right handle in your left hand, then step forward to create tension.",
+      "Hinge forward slightly with a soft bend in your knees and keep your chest up and back flat.",
+      "Start with your arms angled down and crossed in front of you, elbows slightly bent.",
+      "Pull both arms out and back in a wide arc until your hands reach about shoulder height.",
+      "Squeeze your rear shoulders and upper back at the end position.",
+      "Return the handles slowly to the start without shrugging or changing your torso position."
+    ],
+    "formCues": [
+      "Lead with your elbows",
+      "Keep a soft elbow bend",
+      "Chest up, back flat",
+      "Don't shrug your shoulders"
+    ],
+    "commonMistakes": [
+      "Standing fully upright and turning it into a row",
+      "Bending and straightening the elbows during the rep",
+      "Shrugging the shoulders up toward the ears",
+      "Swinging the torso to move the handles"
+    ],
+    "breathing": "Inhale as you return the handles to the start, and exhale as you pull your arms out and back.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-crossover-reverse-fly.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-crossover-reverse-fly.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-crossover-reverse-fly.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-crossover-reverse-fly.jpg"
+    }
+  },
+  {
+    "id": "0178",
+    "name": "Cable Lateral Raise",
+    "aliases": [
+      "cable lateral raise",
+      "cable side raise",
+      "single-arm cable lateral raise",
+      "cable delt raise",
+      "cable shoulder raise",
+      "side arm raise with cable"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "traps",
+      "triceps"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "traps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A single-arm cable shoulder isolation exercise that raises the arm out to the side to target the lateral delts.",
+    "instructions": "Stand with your feet shoulder-width apart and grasp the cable handles with an overhand grip. Keep your arms straight and your core engaged. Raise your arms out to the sides until they are parallel to the floor. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set the cable at the lowest position and stand side-on to it.",
+      "Grab the handle with the outside hand and let your arm hang by your thigh.",
+      "Stand tall with a slight bend in your elbow and brace your midline.",
+      "Raise your arm out to the side until your hand reaches shoulder height.",
+      "Pause briefly without shrugging your shoulder.",
+      "Lower the handle back down with control to the start position."
+    ],
+    "formCues": [
+      "Lead with your elbow",
+      "Stop at shoulder height",
+      "Keep neck relaxed",
+      "Raise with control"
+    ],
+    "commonMistakes": [
+      "Shrugging the shoulder up toward the ear",
+      "Swinging the torso to lift the handle",
+      "Turning the raise into a front lift",
+      "Lifting the hand far above shoulder height"
+    ],
+    "breathing": "Exhale as you raise the handle to the side, and inhale as you lower it back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-lateral-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-lateral-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-lateral-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-lateral-raise.jpg"
+    }
+  },
+  {
+    "id": "0162",
+    "name": "Cable One Arm Front Raise",
+    "aliases": [
+      "cable front raise",
+      "single arm cable front raise",
+      "one arm anterior raise",
+      "Cable One Arm Forward Raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "anterior deltoid",
+    "secondaryMuscles": [
+      "trapezius",
+      "pectoralis major"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "anterior deltoid",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "An isolation exercise that raises the arm forward using a cable to target the front deltoid.",
+    "instructions": "Stand facing away from a low cable, grasping the handle with one hand. Keeping your arm straight, raise it in front of you up to shoulder height, pause, then lower under control.",
+    "steps": [
+      "Attach handle to low pulley and stand facing away from machine.",
+      "Grasp handle with one hand, arm by your side.",
+      "With a straight arm, raise it forward to shoulder height.",
+      "Pause briefly at the top.",
+      "Lower back to the start slowly and repeat."
+    ],
+    "formCues": [
+      "Keep core tight",
+      "Lift with shoulder, not hand",
+      "Don't swing",
+      "Control the descent"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Shrugging shoulder",
+      "Overextending at the top"
+    ],
+    "breathing": "Exhale as you lift, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-one-arm-forward-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-one-arm-forward-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-one-arm-forward-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-one-arm-forward-raise.jpg"
+    }
+  },
+  {
+    "id": "0192",
+    "name": "Cable One Arm Lateral Raise",
+    "aliases": [
+      "single-arm cable lateral raise",
+      "one-arm cable side raise",
+      "cable side raise",
+      "single arm delt raise",
+      "cable shoulder raise",
+      "cable one arm lateral raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "traps",
+      "triceps"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "traps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A single-arm shoulder isolation exercise using a cable to lift the arm out to the side and target the lateral delts.",
+    "instructions": "Stand with your feet shoulder-width apart, facing the cable machine. Hold the cable handle with one hand, palm facing down, and stand far enough away from the machine so that there is tension on the cable. Keep your arm straight and slowly raise it out to the side until it is parallel to the ground. Pause for a moment at the top, then slowly lower your arm back down to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+    "steps": [
+      "Stand sideways to the cable machine and grasp the handle with the outside hand.",
+      "Step away until the cable is taut, with your arm down by your side and a slight bend in your elbow.",
+      "Brace your torso and keep your shoulders level.",
+      "Raise your arm out to the side until your hand reaches about shoulder height.",
+      "Pause briefly without shrugging your shoulder.",
+      "Lower the handle back down with control to the starting position.",
+      "Complete the reps on one side, then switch arms."
+    ],
+    "formCues": [
+      "Lead with the elbow",
+      "Keep shoulders level",
+      "Raise to shoulder height",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Shrugging the working shoulder toward the ear",
+      "Swinging the torso to start the rep",
+      "Turning the raise into a front raise",
+      "Lifting the hand far above shoulder height"
+    ],
+    "breathing": "Exhale as you raise your arm to the side, and inhale as you lower it back down under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-one-arm-lateral-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-one-arm-lateral-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-one-arm-lateral-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-one-arm-lateral-raise.jpg"
+    }
+  },
+  {
+    "id": "0203",
+    "name": "Cable Rear Delt Row (with rope)",
+    "aliases": [
+      "cable rear delt row",
+      "rope rear delt row",
+      "rear delt cable row",
+      "low cable rear delt row",
+      "rope face-away rear delt row",
+      "rear shoulder rope row",
+      "cable rear delt row (with rope)"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "trapezius",
+      "rhomboids",
+      "biceps"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "trapezius",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A cable rowing variation with a rope that targets the rear delts by pulling the elbows out and back.",
+    "instructions": "Attach a rope handle to a low pulley cable machine. Stand facing the machine with your feet shoulder-width apart. Grasp the rope handle with an overhand grip, palms facing each other. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Keep your elbows slightly bent and pull the rope towards your chest, squeezing your shoulder blades together. Pause for a moment at the top of the movement, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Attach a rope to a low cable pulley and stand facing the machine.",
+      "Grab the rope with both hands, step back to create tension, and set your feet about hip-width apart.",
+      "Soften your knees and hinge forward slightly with a flat back and arms extended in front of you.",
+      "Lead with your elbows and row the rope up toward your upper chest while letting the rope ends separate.",
+      "Pause briefly as your elbows travel out and back and your shoulder blades squeeze together.",
+      "Lower the rope under control until your arms are extended again without rounding your shoulders."
+    ],
+    "formCues": [
+      "Lead with the elbows",
+      "Chest up, back flat",
+      "Pull shoulders back",
+      "Control the return"
+    ],
+    "commonMistakes": [
+      "Standing fully upright and turning it into a regular cable row",
+      "Shrugging the shoulders up toward the ears during the pull",
+      "Pulling mostly with the hands and curling the rope in",
+      "Rounding the upper back as the rope returns forward"
+    ],
+    "breathing": "Inhale as you lower the rope forward, and exhale as you row the rope toward your upper chest.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-rear-delt-row-with-rope.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-rear-delt-row-with-rope.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-rear-delt-row-with-rope.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-rear-delt-row-with-rope.jpg"
+    }
+  },
+  {
+    "id": "0361",
+    "name": "Dumbbell Alternating Shoulder Press",
+    "aliases": [
+      "Alternating Dumbbell Shoulder Press",
+      "Alternating Overhead Press",
+      "Alt DB Shoulder Press",
+      "Dumbbell Alternate Shoulder Press",
+      "dumbbell one arm shoulder press"
+    ],
+    "bodyPart": "shoulders",
+    "target": "deltoids",
+    "secondaryMuscles": [
+      "triceps",
+      "upper chest",
+      "trapezius"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "deltoideus",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": true,
+    "shortDescription": "A shoulder press using dumbbells, pressing one arm at a time to target the deltoids and stabilizers.",
+    "instructions": "Sit or stand with a dumbbell in each hand at shoulder height. Press one dumbbell overhead while keeping the other stationary, then alternate arms for each repetition.",
+    "steps": [
+      "Hold dumbbells at shoulder level, palms facing forward.",
+      "Brace your core and press one dumbbell overhead until arm is fully extended.",
+      "Lower to shoulder height as you press the opposite dumbbell overhead.",
+      "Continue alternating arms with each rep.",
+      "Maintain upright posture and avoid arching back."
+    ],
+    "formCues": [
+      "No arching",
+      "Core tight",
+      "Elbow under wrist",
+      "Smooth transition"
+    ],
+    "commonMistakes": [
+      "Leaning to side",
+      "Pressing both at once",
+      "Shrugging shoulders"
+    ],
+    "breathing": "Exhale pressing up, inhale lowering down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-alternate-shoulder-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-alternate-shoulder-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-alternate-shoulder-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-alternate-shoulder-press.jpg"
+    }
+  },
+  {
+    "id": "2137",
+    "name": "Dumbbell Arnold Press",
+    "aliases": [
+      "Arnold press",
+      "dumbbell shoulder rotation press",
+      "rotating dumbbell shoulder press",
+      "seated Arnold press",
+      "twisting dumbbell press",
+      "dumbbell arnold press"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "triceps",
+      "upper chest"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "triceps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A seated dumbbell shoulder press that rotates from palms-in at the bottom to palms-forward overhead.",
+    "instructions": "Sit on a bench with back support and hold a dumbbell in each hand at shoulder level, palms facing your body and elbows bent. Press the dumbbells upward until your arms are fully extended and your palms are facing forward. Rotate your wrists as you lift, so that your palms are facing forward at the top of the movement. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit tall on a bench with back support and plant your feet on the floor.",
+      "Hold a dumbbell in each hand in front of your shoulders with palms facing you and elbows bent.",
+      "Brace your midline and press the dumbbells upward while rotating your palms outward.",
+      "Finish overhead with arms straight and palms facing forward.",
+      "Lower the dumbbells under control while rotating your palms back toward you.",
+      "Return to the start with dumbbells in front of your shoulders and repeat."
+    ],
+    "formCues": [
+      "Press and rotate smoothly",
+      "Keep ribs down",
+      "Wrists stacked over elbows",
+      "Finish biceps by ears"
+    ],
+    "commonMistakes": [
+      "Arching the lower back as the dumbbells go overhead",
+      "Letting the elbows flare straight out at the bottom",
+      "Pressing the dumbbells up without rotating the hands",
+      "Lowering the dumbbells too fast and losing control"
+    ],
+    "breathing": "Inhale at the bottom, exhale as you press and rotate overhead, then inhale as you lower back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-arnold-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-arnold-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-arnold-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-arnold-press.jpg"
+    }
+  },
+  {
+    "id": "0310",
+    "name": "Dumbbell Front Raise",
+    "aliases": [
+      "front raise",
+      "dumbbell front raise",
+      "DB front raise",
+      "two-arm front raise",
+      "front shoulder raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "biceps",
+      "trapezius"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A shoulder isolation exercise where you lift dumbbells straight forward from your thighs to shoulder height.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs. Keeping your arms straight, exhale and lift the dumbbells in front of you until they are at shoulder level. Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with a dumbbell in each hand at your thighs, palms facing your legs.",
+      "Brace your torso and keep a soft bend in your elbows.",
+      "Raise both dumbbells straight in front of you until your hands reach about shoulder height.",
+      "Pause briefly without shrugging your shoulders.",
+      "Lower the dumbbells back to your thighs with control.",
+      "Repeat from a still, upright stance."
+    ],
+    "formCues": [
+      "Lift to shoulder height",
+      "Keep ribs down",
+      "Lead with your hands",
+      "Don't shrug up"
+    ],
+    "commonMistakes": [
+      "Swinging the dumbbells up with the hips or torso.",
+      "Lifting the weights higher than shoulder level.",
+      "Shrugging the shoulders toward the ears.",
+      "Bending the elbows more as the weights rise."
+    ],
+    "breathing": "Exhale as you raise the dumbbells, and inhale as you lower them back down with control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-front-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-front-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-front-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-front-raise.jpg"
+    }
+  },
+  {
+    "id": "0326",
+    "name": "Dumbbell Incline Rear Lateral Raise",
+    "aliases": [
+      "incline rear delt raise",
+      "dumbbell incline reverse fly",
+      "incline reverse fly",
+      "rear lateral raise",
+      "chest-supported rear delt fly",
+      "bent-arm rear delt raise",
+      "dumbbell incline rear lateral raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "traps",
+      "rhomboids"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "traps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A chest-supported dumbbell raise that targets the rear delts by lifting the arms out to the sides on an incline bench.",
+    "instructions": "Set up an incline bench at a 45-degree angle. Sit on the bench with your chest against the backrest and hold a dumbbell in each hand. Extend your arms straight down with your palms facing each other. Keeping a slight bend in your elbows, raise your arms out to the sides until they are parallel to the ground. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench to about 45 degrees and hold a dumbbell in each hand.",
+      "Lie face down with your chest supported on the bench and let your arms hang straight below your shoulders.",
+      "Turn your palms to face each other and keep a soft bend in your elbows.",
+      "Raise both arms out and slightly back until they reach shoulder height.",
+      "Squeeze your rear shoulders and upper back at the top.",
+      "Lower the dumbbells with control back to the starting position."
+    ],
+    "formCues": [
+      "Lead with your elbows",
+      "Chest stays on the pad",
+      "Lift to shoulder height",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Swinging the dumbbells up with momentum",
+      "Shrugging the shoulders toward the ears",
+      "Straightening the elbows into a wide row",
+      "Lifting the arms far past shoulder height"
+    ],
+    "breathing": "Inhale as you lower the dumbbells, and exhale as you raise them out to the sides.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-rear-lateral-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-rear-lateral-raise.jpg"
+    }
+  },
+  {
+    "id": "0332",
+    "name": "Dumbbell Iron Cross",
+    "aliases": [
+      "dumbbell iron cross",
+      "dumbbell lateral raise",
+      "DB lateral raise",
+      "side raise with dumbbells",
+      "dumbbell arm raise to the side"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "triceps",
+      "chest"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "triceps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A shoulder isolation exercise where you raise dumbbells out to the sides to train the delts.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides. Raise your arms out to the sides until they are parallel to the ground, forming a T shape with your body. Pause for a moment, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with a dumbbell in each hand at your sides and your feet about hip-width apart.",
+      "Hold a slight bend in your elbows and turn your palms toward your sides.",
+      "Raise both arms out to the sides until your hands reach shoulder height.",
+      "Pause briefly with your shoulders level and your wrists in line with your elbows.",
+      "Lower the dumbbells back to your sides with control.",
+      "Repeat without swinging your torso or bouncing the weights."
+    ],
+    "formCues": [
+      "Lead with the elbows",
+      "Lift to shoulder height",
+      "Keep shoulders down",
+      "Move with control"
+    ],
+    "commonMistakes": [
+      "Swinging the torso to start each rep",
+      "Shrugging the shoulders toward the ears",
+      "Lifting the dumbbells higher than shoulder level",
+      "Straightening the elbows completely and locking the arms"
+    ],
+    "breathing": "Inhale as you lower the dumbbells and exhale as you raise them out to the sides.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-iron-cross.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-iron-cross.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-iron-cross.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-iron-cross.jpg"
+    }
+  },
+  {
+    "id": "0334",
+    "name": "Dumbbell Lateral Raise",
+    "aliases": [
+      "lateral raise",
+      "dumbbell side raise",
+      "side delt raise",
+      "DB lateral raise",
+      "standing lateral raise",
+      "dumbbell lateral raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "traps"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "traps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A shoulder isolation exercise where you lift dumbbells out to the sides to target the lateral delts.",
+    "instructions": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing your body. Keep your back straight and engage your core. Raise your arms out to the sides until they are parallel to the floor, keeping a slight bend in your elbows. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with a dumbbell in each hand at your sides, palms facing in.",
+      "Set your shoulders down and brace your midsection.",
+      "Raise both arms out to the sides until your hands reach about shoulder height, keeping a soft bend in your elbows.",
+      "Pause briefly at the top without shrugging your shoulders.",
+      "Lower the dumbbells back to your sides with control."
+    ],
+    "formCues": [
+      "Lead with your elbows",
+      "Stop at shoulder height",
+      "Keep shoulders down",
+      "Soft bend in elbows"
+    ],
+    "commonMistakes": [
+      "Shrugging the shoulders up toward the ears",
+      "Swinging the torso to heave the dumbbells upward",
+      "Lifting the hands well above shoulder height",
+      "Straightening the elbows and turning it into a front swing"
+    ],
+    "breathing": "Exhale as you raise the dumbbells to the sides, and inhale as you lower them back down under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lateral-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lateral-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lateral-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lateral-raise.jpg"
+    }
+  },
+  {
+    "id": "0355",
+    "name": "Dumbbell One Arm Lateral Raise",
+    "aliases": [
+      "one-arm lateral raise",
+      "single-arm dumbbell lateral raise",
+      "single arm side raise",
+      "dumbbell side raise",
+      "single-arm delt raise",
+      "dumbbell one arm lateral raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "trapezius",
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "trapezius",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A single-arm shoulder isolation exercise where you raise a dumbbell out to the side to train the lateral delts.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in one hand with your palm facing your body. Keep your back straight and your core engaged throughout the exercise. Raise the dumbbell to the side, keeping your arm straight and your palm facing down. Continue lifting until your arm is parallel to the ground. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch to the other arm.",
+    "steps": [
+      "Stand tall with feet about hip-width apart and hold a dumbbell at one side with a slight bend in your elbow.",
+      "Brace your core and keep your shoulders level as your free arm stays relaxed by your side or on your hip.",
+      "Lift the dumbbell out to the side until your hand reaches about shoulder height.",
+      "Pause briefly at the top without shrugging your shoulder toward your ear.",
+      "Lower the dumbbell back to your side with control.",
+      "Complete all reps on one arm, then switch sides."
+    ],
+    "formCues": [
+      "Lead with your elbow",
+      "Stop at shoulder height",
+      "Keep shoulders level",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Shrugging the working shoulder up toward the ear",
+      "Swinging the torso or leaning to start the lift",
+      "Raising the dumbbell higher than shoulder height",
+      "Locking the elbow completely straight"
+    ],
+    "breathing": "Inhale as you lower the dumbbell, and exhale as you lift it out to the side.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-one-arm-lateral-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-one-arm-lateral-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-one-arm-lateral-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-one-arm-lateral-raise.jpg"
+    }
+  },
+  {
+    "id": "0377",
+    "name": "Dumbbell Rear Delt Row",
+    "aliases": [
+      "dumbbell rear delt row",
+      "rear delt dumbbell row",
+      "bent-over rear delt row",
+      "rear shoulder dumbbell row",
+      "bent-over dumbbell rear fly row"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "trapezius",
+      "rhomboids"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "trapezius",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bent-over dumbbell row variation that targets the rear delts by pulling the elbows out wide to the sides.",
+    "instructions": "Stand with your feet shoulder-width apart and knees slightly bent. Hold a dumbbell in each hand with your palms facing your body. Bend forward at the waist, keeping your back straight and your core engaged. Extend your arms straight down towards the floor, with a slight bend in your elbows. Raise the dumbbells out to the sides, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand with your feet hip- to shoulder-width apart, holding a dumbbell in each hand at your sides.",
+      "Hinge at your hips until your torso is leaned forward, soften your knees, and let the dumbbells hang below your shoulders with your palms facing each other.",
+      "Brace your core and keep your back flat as you pull your elbows up and out to the sides.",
+      "Lift until your upper arms are roughly in line with your shoulders and squeeze your upper back.",
+      "Lower the dumbbells under control to the start position and repeat."
+    ],
+    "formCues": [
+      "Lead with your elbows.",
+      "Keep your back flat.",
+      "Raise arms out, not back.",
+      "Squeeze shoulder blades together."
+    ],
+    "commonMistakes": [
+      "Rounding the lower back as you hinge forward.",
+      "Shrugging the shoulders up toward the ears.",
+      "Pulling the dumbbells straight back close to the ribs.",
+      "Swinging the torso to start each rep."
+    ],
+    "breathing": "Inhale as you lower the dumbbells, and exhale as you row them up and out to the sides.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-rear-delt-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-rear-delt-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-rear-delt-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-rear-delt-row.jpg"
+    }
+  },
+  {
+    "id": "0392",
+    "name": "Dumbbell Seated Front Raise",
+    "aliases": [
+      "seated dumbbell front raise",
+      "DB seated front raise",
+      "dumbbell front raise seated",
+      "seated shoulder front raise",
+      "seated arm raise",
+      "dumbbell seated front raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "trapezius",
+      "biceps"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "trapezius",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated shoulder isolation exercise where you lift dumbbells straight in front to shoulder height to train the front delts.",
+    "instructions": "Sit on a bench with your feet flat on the ground and a dumbbell in each hand, resting on your thighs. Keep your back straight and core engaged. Raise the dumbbells in front of you, with your palms facing down, until they are at shoulder level. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit tall on a bench with your feet flat on the floor and a dumbbell in each hand at your sides.",
+      "Hold the dumbbells with your palms facing down or slightly toward each other, and brace your midsection.",
+      "Raise both arms straight forward until the dumbbells reach shoulder height.",
+      "Pause briefly at the top without leaning back or shrugging your shoulders.",
+      "Lower the dumbbells under control back to the starting position by your thighs.",
+      "Repeat each rep with the same seated posture and arm path."
+    ],
+    "formCues": [
+      "Lift to shoulder height",
+      "Keep torso still",
+      "Soft bend in elbows",
+      "Shoulders down and back"
+    ],
+    "commonMistakes": [
+      "Leaning the torso back to swing the dumbbells up",
+      "Raising the dumbbells above shoulder height",
+      "Shrugging the shoulders toward the ears",
+      "Dropping the weights quickly on the way down"
+    ],
+    "breathing": "Exhale as you raise the dumbbells, and inhale as you lower them back down under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-front-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-front-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-front-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-front-raise.jpg"
+    }
+  },
+  {
+    "id": "0396",
+    "name": "Dumbbell Seated Lateral Raise",
+    "aliases": [
+      "seated lateral raise",
+      "dumbbell lateral raise",
+      "seated dumbbell lateral raise",
+      "DB seated lateral raise",
+      "seated side raise",
+      "seated shoulder side raise",
+      "dumbbell seated lateral raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "traps",
+      "upper back"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "traps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated shoulder isolation exercise where you raise dumbbells out to the sides to target the delts.",
+    "instructions": "Sit on a bench with your feet flat on the ground and a dumbbell in each hand, resting on your thighs. Keep your back straight and core engaged. Raise the dumbbells to your sides with a slight bend in your elbows, until your arms are parallel to the ground. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit upright on a bench with your feet flat on the floor and a dumbbell in each hand at your sides.",
+      "Set your shoulders down and keep a soft bend in your elbows.",
+      "Raise both arms out to your sides until the dumbbells reach about shoulder height.",
+      "Pause briefly at the top without shrugging your shoulders.",
+      "Lower the dumbbells back to your sides with control and repeat."
+    ],
+    "formCues": [
+      "Lead with your elbows",
+      "Keep shoulders down",
+      "Lift to shoulder height",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Swinging the torso to start the lift",
+      "Shrugging the shoulders up toward the ears",
+      "Lifting the dumbbells higher than shoulder level",
+      "Straightening the elbows into a stiff arm"
+    ],
+    "breathing": "Exhale as you raise the dumbbells out to the sides, and inhale as you lower them back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-lateral-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-lateral-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-lateral-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-lateral-raise.jpg"
+    }
+  },
+  {
+    "id": "0437",
+    "name": "Dumbbell Upright Row",
+    "aliases": [
+      "upright row",
+      "dumbbell high pull",
+      "DB upright row",
+      "standing dumbbell upright row",
+      "dumbbell row to chin",
+      "dumbbell upright row"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "traps",
+      "biceps"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "traps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A standing shoulder and upper-trap exercise where you pull dumbbells up the front of your body with elbows leading.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. Let the dumbbells hang in front of your thighs, with your arms fully extended. Keeping your back straight and your core engaged, exhale and lift the dumbbells straight up towards your chin, leading with your elbows. Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with a dumbbell in each hand in front of your thighs, palms facing your body.",
+      "Brace your midsection and keep your chest lifted.",
+      "Pull the dumbbells straight up along the front of your body by driving your elbows up and out.",
+      "Raise until the dumbbells reach about upper-chest height and your elbows stay higher than your hands.",
+      "Pause briefly, then lower the dumbbells back to your thighs with control."
+    ],
+    "formCues": [
+      "Lead with your elbows",
+      "Keep dumbbells close",
+      "Shoulders down and back",
+      "Lift to upper chest"
+    ],
+    "commonMistakes": [
+      "Pulling the dumbbells all the way to the chin",
+      "Letting the wrists bend sharply at the top",
+      "Swinging the torso to start the lift",
+      "Hands rising higher than the elbows"
+    ],
+    "breathing": "Exhale as you pull the dumbbells up, and inhale as you lower them back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-upright-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-upright-row.jpg"
+    }
+  },
+  {
+    "id": "0445",
+    "name": "EZ Barbell Anti Gravity Press",
+    "aliases": [
+      "EZ bar overhead press",
+      "EZ-bar shoulder press",
+      "standing EZ bar press",
+      "EZ bar military press",
+      "overhead shoulder press with EZ bar",
+      "press bar overhead",
+      "ez barbell anti gravity press"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "triceps",
+      "chest"
+    ],
+    "equipment": "ez barbell",
+    "muscleGroup": "triceps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A standing overhead press using an EZ bar to train the delts, triceps, and upper chest through a full pressing range.",
+    "instructions": "Start by standing with your feet shoulder-width apart and holding the ez barbell with an overhand grip. Raise the barbell to shoulder height, keeping your elbows slightly bent and your palms facing forward. Press the barbell overhead, extending your arms fully. Lower the barbell back to shoulder height and repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet about hip- to shoulder-width apart and hold the EZ bar at shoulder height with an overhand grip.",
+      "Brace your core and keep your wrists stacked over your elbows.",
+      "Press the bar straight overhead until your arms are fully extended above your shoulders.",
+      "Move your head slightly back as the bar passes your face, then bring your head through under the bar at the top.",
+      "Lower the bar under control back to shoulder height.",
+      "Repeat each rep from a stable standing position."
+    ],
+    "formCues": [
+      "Press straight overhead",
+      "Ribs down, core tight",
+      "Wrists stacked over elbows",
+      "Head through at top"
+    ],
+    "commonMistakes": [
+      "Leaning back hard and turning it into an incline press",
+      "Pressing the bar out in front instead of overhead",
+      "Flaring the elbows too far out from the start",
+      "Lowering the bar too fast and bouncing at the shoulders"
+    ],
+    "breathing": "Inhale and brace at shoulder height, exhale as you press overhead, and inhale again as you lower the bar back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/ez-barbell-anti-gravity-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/ez-barbell-anti-gravity-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/ez-barbell-anti-gravity-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/ez-barbell-anti-gravity-press.jpg"
+    }
+  },
+  {
+    "id": "0584",
+    "name": "Lever Lateral Raise",
+    "aliases": [
+      "machine lateral raise",
+      "lever side raise",
+      "shoulder raise machine",
+      "deltoid raise machine",
+      "lateral delt machine",
+      "lever lateral raise"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "traps",
+      "upper back"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "traps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A machine shoulder isolation exercise where you lift your arms out to the sides to target the lateral delts.",
+    "instructions": "Adjust the seat height and position yourself on the machine with your back against the pad. Grasp the handles with an overhand grip and keep your arms straight. Exhale and raise your arms out to the sides until they are parallel to the floor. Pause for a moment at the top, then inhale and slowly lower your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat so the machine arms line up with your shoulders when you sit down.",
+      "Sit with your back against the pad and place your forearms or hands on the machine pads or handles.",
+      "Start with your arms down at your sides and keep a soft bend in your elbows.",
+      "Raise the machine arms out to your sides until your upper arms reach shoulder height.",
+      "Pause briefly at the top without shrugging your shoulders.",
+      "Lower the arms back down under control to the starting position."
+    ],
+    "formCues": [
+      "Lead with the elbows",
+      "Keep shoulders down",
+      "Lift to shoulder height",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Shrugging the shoulders up toward the ears",
+      "Swinging or bouncing the weight at the bottom",
+      "Lifting the arms far above shoulder height",
+      "Letting the back come off the pad"
+    ],
+    "breathing": "Exhale as you raise the arms out to the sides, and inhale as you lower them back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-lateral-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-lateral-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-lateral-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-lateral-raise.jpg"
+    }
+  },
+  {
+    "id": "0602",
+    "name": "Lever Seated Reverse Fly",
+    "aliases": [
+      "seated reverse fly machine",
+      "machine rear delt fly",
+      "rear delt machine fly",
+      "reverse pec deck",
+      "seated rear shoulder fly",
+      "lever seated reverse fly"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "trapezius",
+      "rhomboids"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "trapezius",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A machine rear-delt exercise where you pull the handles out and back while seated with your chest supported.",
+    "instructions": "Adjust the seat height and position yourself on the machine with your chest against the pad and your feet flat on the floor. Grasp the handles with an overhand grip and keep your arms slightly bent. Exhale and squeeze your shoulder blades together as you pull the handles back and outward, away from your body. Pause for a moment at the peak contraction, then inhale and slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat so the handles are about shoulder height when you sit down.",
+      "Sit with your chest against the pad, feet flat on the floor, and grasp the handles with an overhand grip.",
+      "Start with your arms in front of you and keep a soft bend in your elbows.",
+      "Pull the handles out and back in a wide arc until your upper arms line up with your shoulders.",
+      "Squeeze your rear shoulders and upper back at the end of the movement.",
+      "Return the handles slowly to the start without letting the weight slam down."
+    ],
+    "formCues": [
+      "Lead with your elbows",
+      "Keep chest on the pad",
+      "Soft bend in elbows",
+      "Squeeze shoulder blades together"
+    ],
+    "commonMistakes": [
+      "Shrugging the shoulders up toward the ears",
+      "Straightening the elbows and turning it into a press",
+      "Letting the chest come off the pad",
+      "Swinging the handles back with momentum"
+    ],
+    "breathing": "Exhale as you pull the handles back, and inhale as you return to the starting position.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-seated-reverse-fly.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-seated-reverse-fly.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-seated-reverse-fly.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-seated-reverse-fly.jpg"
+    }
+  },
+  {
+    "id": "0553",
+    "name": "Military Press",
+    "aliases": [
+      "overhead press",
+      "barbell military press",
+      "shoulder press",
+      "strict press",
+      "Military Press",
+      "kettlebell two arm military press"
+    ],
+    "bodyPart": "shoulders",
+    "target": "deltoids",
+    "secondaryMuscles": [
+      "triceps brachii",
+      "trapezius",
+      "upper pectorals"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "deltoideus",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A standing barbell press that builds overall shoulder strength and stability.",
+    "instructions": "Stand with feet hip-width apart, holding a barbell at shoulder height with an overhand grip. Press the bar overhead by extending your arms fully, keeping your core tight and avoiding excessive lower back arch. Lower the bar to the starting position under control.",
+    "steps": [
+      "Stand with feet hip-width apart and barbell at shoulder height.",
+      "Grip the bar with hands just outside shoulder-width.",
+      "Brace your core and squeeze your glutes.",
+      "Press the barbell overhead to full arm extension.",
+      "Lower the bar slowly back to shoulders."
+    ],
+    "formCues": [
+      "Keep core tight",
+      "Press in a straight line",
+      "Avoid arching lower back",
+      "Lock elbows at the top"
+    ],
+    "commonMistakes": [
+      "Leaning back excessively",
+      "Bouncing the bar off shoulders",
+      "Flaring elbows too wide",
+      "Not bringing bar below chin"
+    ],
+    "breathing": "Exhale as you press up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/military-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/military-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/military-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/military-press.jpg"
+    }
+  },
+  {
+    "id": "0669",
+    "name": "Rear Deltoid Stretch",
+    "aliases": [
+      "posterior shoulder stretch",
+      "rear delt stretch",
+      "cross body shoulder stretch",
+      "Stretching - Rear Deltoid Stretch",
+      "rear deltoid stretch"
+    ],
+    "bodyPart": "shoulders",
+    "target": "posterior deltoid",
+    "secondaryMuscles": [
+      "rhomboids",
+      "trapezius"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "posterior deltoid",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A stretch that targets the rear shoulder to enhance flexibility and reduce tension.",
+    "instructions": "Stand or sit upright, extend one arm across your body at shoulder height and use the opposite hand to pull it closer, feeling a stretch across the back of the shoulder. Hold, then switch sides.",
+    "steps": [
+      "Extend one arm across your chest at shoulder height.",
+      "Use opposite hand to pull arm towards your body.",
+      "Hold the stretch for 20-30 seconds.",
+      "Release and return to start.",
+      "Repeat on the other side."
+    ],
+    "formCues": [
+      "Relax shoulder",
+      "Arm stays at shoulder height",
+      "Gentle pull",
+      "No twisting torso"
+    ],
+    "commonMistakes": [
+      "Lifting the shoulder",
+      "Twisting the upper body",
+      "Forcing the stretch"
+    ],
+    "breathing": "Breathe normally throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-rear-deltoid-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-rear-deltoid-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-rear-deltoid-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-rear-deltoid-stretch.jpg"
+    }
+  },
+  {
+    "id": "0289",
+    "name": "Seated Dumbbell Shoulder Press",
+    "aliases": [
+      "dumbbell seated press",
+      "seated DB press",
+      "seated dumbbell overhead press",
+      "shoulder press seated",
+      "Dumbbell Bench Seated Press",
+      "dumbbell bench press"
+    ],
+    "bodyPart": "shoulders",
+    "target": "deltoids",
+    "secondaryMuscles": [
+      "triceps brachii",
+      "trapezius",
+      "upper chest"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "deltoideus",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A pressing movement targeting the shoulders, performed seated with dumbbells.",
+    "instructions": "Sit upright with back supported and hold dumbbells at shoulder height with palms facing forward. Press the weights up overhead until arms are extended, then lower back down under control.",
+    "steps": [
+      "Sit on a bench with back support and feet flat.",
+      "Hold dumbbells at shoulder height, elbows bent.",
+      "Press dumbbells overhead until arms are extended.",
+      "Pause briefly at the top.",
+      "Lower dumbbells to starting position."
+    ],
+    "formCues": [
+      "Keep back pressed to pad",
+      "Do not arch lower back",
+      "Press overhead",
+      "Elbows under wrists"
+    ],
+    "commonMistakes": [
+      "Arching back excessively",
+      "Lowering weights too fast",
+      "Letting elbows drop too low",
+      "Pressing weights out in front"
+    ],
+    "breathing": "Exhale as you press up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-bench-seated-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-bench-seated-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-bench-seated-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-bench-seated-press.jpg"
+    }
+  },
+  {
+    "id": "2203",
+    "name": "Seated Shoulder Flexor, Depressor, Retractor Stretch",
+    "aliases": [
+      "shoulder flexor stretch seated",
+      "seated shoulder mobility stretch",
+      "shoulder stretch combo",
+      "Stretching - Seated Shoulder Flexor Depresor Retractor",
+      "roller seated shoulder flexor depressor retractor"
+    ],
+    "bodyPart": "shoulders",
+    "target": "deltoids",
+    "secondaryMuscles": [
+      "trapezius",
+      "rhomboids",
+      "pectoralis major"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "deltoideus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated stretch focusing on improving flexibility and mobility in the front, lower, and rear shoulder muscles.",
+    "instructions": "Sit upright on the floor or a chair with feet flat. Reach one or both arms overhead, then gently pull the shoulders downward and backward to open the chest and lengthen the front and rear deltoids. Maintain a tall posture and breathe deeply.",
+    "steps": [
+      "Sit tall with feet flat.",
+      "Lift arms overhead, reaching upward.",
+      "Gently depress the shoulders away from your ears.",
+      "Retract shoulder blades by pulling them slightly together.",
+      "Hold for a stretch, breathing evenly."
+    ],
+    "formCues": [
+      "Reach up",
+      "Pull shoulders down",
+      "Retract shoulder blades",
+      "Keep chest open"
+    ],
+    "commonMistakes": [
+      "Shrugging shoulders",
+      "Hunching forward",
+      "Holding breath"
+    ],
+    "breathing": "Inhale to begin, exhale as you stretch deeper.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-seated-shoulder-flexor-depresor-retractor.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-seated-shoulder-flexor-depresor-retractor.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-seated-shoulder-flexor-depresor-retractor.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-seated-shoulder-flexor-depresor-retractor.jpg"
+    }
+  },
+  {
+    "id": "0765",
+    "name": "Smith Seated Shoulder Press",
+    "aliases": [
+      "smith seated shoulder press",
+      "seated smith machine shoulder press",
+      "smith machine overhead press",
+      "seated overhead press",
+      "machine shoulder press"
+    ],
+    "bodyPart": "shoulders",
+    "target": "delts",
+    "secondaryMuscles": [
+      "triceps",
+      "upper back"
+    ],
+    "equipment": "smith machine",
+    "muscleGroup": "triceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A seated overhead press on a Smith machine that trains the delts and triceps with a fixed bar path.",
+    "instructions": "Adjust the seat height so that the handles are at shoulder level. Sit on the machine with your back against the pad and your feet flat on the floor. Grasp the handles with an overhand grip and lift them off the supports, extending your arms fully. Lower the handles down to shoulder level, keeping your elbows slightly bent. Press the handles up overhead until your arms are fully extended. Pause for a moment at the top, then slowly lower the handles back down to shoulder level. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set a bench or seat under the Smith bar so the bar starts around shoulder height when you sit down.",
+      "Sit tall with your back supported, plant your feet flat, and grip the bar just wider than shoulder width with palms forward.",
+      "Unrack the bar and hold it above your upper chest with wrists stacked over elbows.",
+      "Lower the bar in a straight path until it reaches about chin to shoulder level.",
+      "Press the bar straight up until your arms are extended overhead.",
+      "Lower the bar with control to the start position and repeat.",
+      "Finish by locking out the top and rotating the bar to re-rack it on the hooks."
+    ],
+    "formCues": [
+      "Keep ribs down",
+      "Press straight up",
+      "Wrists stacked over elbows",
+      "Feet flat and braced"
+    ],
+    "commonMistakes": [
+      "Lowering the bar behind the head",
+      "Flaring the elbows straight out to the sides",
+      "Arching the lower back off the bench",
+      "Letting the wrists bend back excessively"
+    ],
+    "breathing": "Inhale as you lower the bar to shoulder level, and exhale as you press it overhead.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/smith-seated-shoulder-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/smith-seated-shoulder-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/smith-seated-shoulder-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/smith-seated-shoulder-press.jpg"
+    }
+  }
+]

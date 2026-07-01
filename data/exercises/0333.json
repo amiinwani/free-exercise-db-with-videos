@@ -1,0 +1,54 @@
+{
+  "id": "0333",
+  "name": "Dumbbell Kickback",
+  "aliases": [
+    "triceps kickback",
+    "dumbbell triceps kickback",
+    "DB kickback",
+    "bent-over triceps extension",
+    "rear triceps kickback",
+    "dumbbell arm kickback",
+    "dumbbell kickback"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A bent-over triceps isolation exercise where you extend dumbbells behind you while keeping the upper arms still.",
+  "instructions": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Bring your upper arms close to your sides, with your elbows bent at a 90-degree angle. Extend your arms straight back, squeezing your triceps at the top of the movement. Pause for a moment, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand with a dumbbell in each hand and hinge forward at the hips with a flat back.",
+    "Bend your elbows to about 90 degrees and pin your upper arms alongside your torso.",
+    "Brace your torso and keep your elbows still.",
+    "Straighten your arms by driving the dumbbells back until your elbows are fully extended.",
+    "Squeeze your triceps at the back of the movement.",
+    "Bend your elbows under control to return to the start position."
+  ],
+  "formCues": [
+    "Keep elbows glued in",
+    "Only move the forearms",
+    "Squeeze at full extension",
+    "Keep your back flat"
+  ],
+  "commonMistakes": [
+    "Swinging the dumbbells with the shoulders or torso",
+    "Letting the elbows drift away from the ribs",
+    "Dropping the upper arms during the set",
+    "Snapping the weights down instead of lowering slowly"
+  ],
+  "breathing": "Inhale as you bend the elbows to the start position, and exhale as you straighten the arms back.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-kickback.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-kickback.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-kickback.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-kickback.jpg"
+  }
+}

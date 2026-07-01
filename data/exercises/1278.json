@@ -1,0 +1,52 @@
+{
+  "id": "1278",
+  "name": "Dumbbell Incline Fly On Exercise Ball",
+  "aliases": [
+    "incline dumbbell fly",
+    "DB incline fly",
+    "incline chest fly",
+    "incline dumbbell chest fly",
+    "dumbbell chest fly on ball",
+    "dumbbell incline fly on exercise ball"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A chest isolation exercise done with dumbbells while supported on an exercise ball at an incline angle.",
+  "instructions": "Set up an incline bench at a 45-degree angle. Sit on an exercise ball and roll forward until your upper back is resting on the incline bench. Hold a dumbbell in each hand with your palms facing each other and your arms extended above your chest. Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then squeeze your chest muscles to bring the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Hold a dumbbell in each hand and position your upper back on the exercise ball so your torso is angled upward.",
+    "Plant your feet firmly on the floor and raise the dumbbells above your upper chest with your palms facing each other.",
+    "Keep a soft bend in your elbows and lower your arms out to the sides in a wide arc.",
+    "Stop when your elbows are roughly level with your chest and you feel your chest stretch.",
+    "Squeeze your chest and bring the dumbbells back up along the same arc until they meet above your chest."
+  ],
+  "formCues": [
+    "Keep elbows slightly bent",
+    "Open wide under control",
+    "Lift through your chest",
+    "Feet planted, hips steady"
+  ],
+  "commonMistakes": [
+    "Straightening the elbows and turning the move into a press",
+    "Lowering the dumbbells too far below chest level",
+    "Bouncing the hips or letting the ball roll around",
+    "Bringing the dumbbells up unevenly or clanking them together"
+  ],
+  "breathing": "Inhale as you lower the dumbbells out to the sides, and exhale as you bring them back together above your chest.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-fly-on-exercise-ball.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-fly-on-exercise-ball.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-fly-on-exercise-ball.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-fly-on-exercise-ball.jpg"
+  }
+}

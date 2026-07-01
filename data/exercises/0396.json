@@ -1,0 +1,54 @@
+{
+  "id": "0396",
+  "name": "Dumbbell Seated Lateral Raise",
+  "aliases": [
+    "seated lateral raise",
+    "dumbbell lateral raise",
+    "seated dumbbell lateral raise",
+    "DB seated lateral raise",
+    "seated side raise",
+    "seated shoulder side raise",
+    "dumbbell seated lateral raise"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "traps",
+    "upper back"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "traps",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated shoulder isolation exercise where you raise dumbbells out to the sides to target the delts.",
+  "instructions": "Sit on a bench with your feet flat on the ground and a dumbbell in each hand, resting on your thighs. Keep your back straight and core engaged. Raise the dumbbells to your sides with a slight bend in your elbows, until your arms are parallel to the ground. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit upright on a bench with your feet flat on the floor and a dumbbell in each hand at your sides.",
+    "Set your shoulders down and keep a soft bend in your elbows.",
+    "Raise both arms out to your sides until the dumbbells reach about shoulder height.",
+    "Pause briefly at the top without shrugging your shoulders.",
+    "Lower the dumbbells back to your sides with control and repeat."
+  ],
+  "formCues": [
+    "Lead with your elbows",
+    "Keep shoulders down",
+    "Lift to shoulder height",
+    "Control the lowering"
+  ],
+  "commonMistakes": [
+    "Swinging the torso to start the lift",
+    "Shrugging the shoulders up toward the ears",
+    "Lifting the dumbbells higher than shoulder level",
+    "Straightening the elbows into a stiff arm"
+  ],
+  "breathing": "Exhale as you raise the dumbbells out to the sides, and inhale as you lower them back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-lateral-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-lateral-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-lateral-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-lateral-raise.jpg"
+  }
+}

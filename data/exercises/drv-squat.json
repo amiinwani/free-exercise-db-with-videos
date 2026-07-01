@@ -1,0 +1,52 @@
+{
+  "id": "drv-squat",
+  "name": "Squat",
+  "aliases": [
+    "bodyweight squat",
+    "air squat",
+    "barbell squat",
+    "back squat"
+  ],
+  "bodyPart": "hips",
+  "target": "quadriceps",
+  "secondaryMuscles": [
+    "gluteus maximus",
+    "hamstrings",
+    "erector spinae",
+    "adductors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A foundational lower body movement that strengthens the quads, glutes, and hamstrings by bending and straightening the knees and hips.",
+  "instructions": "Stand with feet shoulder-width apart and toes slightly turned out. Lower your hips back and down as if sitting into a chair, keeping your chest upright, then drive through your heels to stand back up.",
+  "steps": [
+    "Stand with feet shoulder-width apart and toes slightly outward.",
+    "Brace core and keep chest up.",
+    "Initiate movement by pushing hips back and bending knees.",
+    "Descend until thighs are at least parallel to the floor.",
+    "Push through heels to return to standing."
+  ],
+  "formCues": [
+    "Keep knees tracking toes",
+    "Maintain neutral spine",
+    "Weight on midfoot/heels",
+    "Chest up"
+  ],
+  "commonMistakes": [
+    "Letting knees collapse inward",
+    "Rounding lower back",
+    "Not reaching parallel depth"
+  ],
+  "breathing": "Inhale as you lower down, exhale as you stand up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/squat.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/squat.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/squat.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/squat.jpg"
+  }
+}

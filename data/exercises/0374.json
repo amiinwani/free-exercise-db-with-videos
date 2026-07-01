@@ -1,0 +1,51 @@
+{
+  "id": "0374",
+  "name": "Dumbbell Prone Incline Curl",
+  "aliases": [
+    "dumbbell prone incline curl",
+    "prone incline dumbbell curl",
+    "incline face-down dumbbell curl",
+    "chest-supported dumbbell curl",
+    "incline dumbbell biceps curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A chest-supported biceps curl on an incline bench that limits body swing and keeps tension on the arms.",
+  "instructions": "Adjust the bench to a 45-degree incline. Lie face down on the bench with your chest and stomach resting against it. Hold a dumbbell in each hand with your palms facing down and your arms fully extended. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set an incline bench to about 45 degrees and lie face down with your chest supported.",
+    "Hold a dumbbell in each hand with your arms hanging straight down and palms facing forward.",
+    "Keep your upper arms still and curl both dumbbells up toward your shoulders.",
+    "Pause briefly at the top and squeeze your biceps.",
+    "Lower the dumbbells slowly until your arms are fully extended again."
+  ],
+  "formCues": [
+    "Keep chest on bench",
+    "Elbows stay still",
+    "Curl through full range",
+    "Lower with control"
+  ],
+  "commonMistakes": [
+    "Lifting the chest off the bench to swing the weights",
+    "Letting the elbows drift forward during the curl",
+    "Cutting the rep short and not fully lowering the dumbbells",
+    "Bending the wrists back instead of keeping them neutral"
+  ],
+  "breathing": "Inhale as you lower the dumbbells and exhale as you curl them up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-prone-incline-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-prone-incline-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-prone-incline-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-prone-incline-curl.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0355",
+  "name": "Dumbbell One Arm Lateral Raise",
+  "aliases": [
+    "one-arm lateral raise",
+    "single-arm dumbbell lateral raise",
+    "single arm side raise",
+    "dumbbell side raise",
+    "single-arm delt raise",
+    "dumbbell one arm lateral raise"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "trapezius",
+    "triceps"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "trapezius",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A single-arm shoulder isolation exercise where you raise a dumbbell out to the side to train the lateral delts.",
+  "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in one hand with your palm facing your body. Keep your back straight and your core engaged throughout the exercise. Raise the dumbbell to the side, keeping your arm straight and your palm facing down. Continue lifting until your arm is parallel to the ground. Pause for a moment at the top, then slowly lower the dumbbell back to the starting position. Repeat for the desired number of repetitions, then switch to the other arm.",
+  "steps": [
+    "Stand tall with feet about hip-width apart and hold a dumbbell at one side with a slight bend in your elbow.",
+    "Brace your core and keep your shoulders level as your free arm stays relaxed by your side or on your hip.",
+    "Lift the dumbbell out to the side until your hand reaches about shoulder height.",
+    "Pause briefly at the top without shrugging your shoulder toward your ear.",
+    "Lower the dumbbell back to your side with control.",
+    "Complete all reps on one arm, then switch sides."
+  ],
+  "formCues": [
+    "Lead with your elbow",
+    "Stop at shoulder height",
+    "Keep shoulders level",
+    "Lower with control"
+  ],
+  "commonMistakes": [
+    "Shrugging the working shoulder up toward the ear",
+    "Swinging the torso or leaning to start the lift",
+    "Raising the dumbbell higher than shoulder height",
+    "Locking the elbow completely straight"
+  ],
+  "breathing": "Inhale as you lower the dumbbell, and exhale as you lift it out to the side.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-one-arm-lateral-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-one-arm-lateral-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-one-arm-lateral-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-one-arm-lateral-raise.jpg"
+  }
+}

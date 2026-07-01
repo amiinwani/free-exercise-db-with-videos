@@ -1,0 +1,54 @@
+{
+  "id": "0175",
+  "name": "Cable Kneeling Crunch",
+  "aliases": [
+    "kneeling cable crunch",
+    "cable rope crunch",
+    "rope kneeling crunch",
+    "high cable kneeling crunch",
+    "kneeling ab crunch",
+    "cable abs crunch",
+    "cable kneeling crunch"
+  ],
+  "bodyPart": "waist",
+  "target": "abs",
+  "secondaryMuscles": [
+    "obliques"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "obliques",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A kneeling cable ab exercise where you curl your torso downward against a high pulley to train the abs and obliques.",
+  "instructions": "Attach a rope handle to a high pulley and kneel down facing away from the machine. Hold the rope handle with both hands and place it behind your head, keeping your elbows out to the sides. Keeping your hips stationary, flex your waist and crunch your torso down towards your thighs. Pause for a moment at the bottom, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Attach a rope handle to the high pulley and kneel facing the machine.",
+    "Grab the rope ends and bring your hands beside your head with your elbows slightly forward.",
+    "Brace your midsection and keep your hips stacked over your knees.",
+    "Curl your ribcage toward your pelvis and bring your elbows down toward your thighs.",
+    "Pause briefly in the bottom position while keeping tension on the rope.",
+    "Slowly uncurl your spine and return to the start without letting the weight stack slam."
+  ],
+  "formCues": [
+    "Ribs to hips",
+    "Hips stay still",
+    "Curl, don't hinge",
+    "Keep neck neutral"
+  ],
+  "commonMistakes": [
+    "Pulling the rope down with the arms instead of curling the torso",
+    "Sitting hips back and turning it into a hip hinge",
+    "Jerking up and letting the weight stack drop between reps",
+    "Lifting the chest too high and losing abdominal tension at the top"
+  ],
+  "breathing": "Exhale as you curl down into the crunch, and inhale as you slowly return to the starting position.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-kneeling-crunch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-kneeling-crunch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-kneeling-crunch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-kneeling-crunch.jpg"
+  }
+}

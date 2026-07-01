@@ -1,0 +1,53 @@
+{
+  "id": "1022",
+  "name": "Band Standing Rear Delt Row",
+  "aliases": [
+    "band standing rear delt row",
+    "standing band rear delt row",
+    "resistance band rear delt row",
+    "band bent-over rear delt row",
+    "band high row",
+    "rear shoulder band row"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "trapezius",
+    "rhomboids",
+    "biceps"
+  ],
+  "equipment": "band",
+  "muscleGroup": "trapezius",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bent-over band row with elbows flared out to target the rear delts and upper back.",
+  "instructions": "Stand with your feet shoulder-width apart and place the band under your feet. Hold the band handles with your palms facing each other and your arms extended in front of you. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Pull the band towards your chest, squeezing your shoulder blades together. Pause for a moment at the top, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand on the middle of the band with feet about hip-width apart and hold one end in each hand.",
+    "Hinge forward at the hips with a soft bend in your knees until your torso leans forward and your arms hang below your shoulders.",
+    "Set your shoulders down and keep your chest open with your palms facing each other or slightly inward.",
+    "Pull your elbows out and back until your hands reach around lower chest to upper rib level.",
+    "Squeeze your rear shoulders and upper back at the top without shrugging.",
+    "Lower your hands back down under control until your arms are straight again."
+  ],
+  "formCues": [
+    "Lead with the elbows",
+    "Keep neck long",
+    "Chest open, back flat",
+    "Don’t shrug up"
+  ],
+  "commonMistakes": [
+    "Standing too upright and turning it into a regular row",
+    "Shrugging the shoulders toward the ears at the top",
+    "Pulling the hands too low toward the waist",
+    "Rounding the upper or lower back while hinging"
+  ],
+  "breathing": "Inhale as you lower to the start, and exhale as you row the band up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-standing-rear-delt-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-standing-rear-delt-row.jpg"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "0721",
+  "name": "Side Wrist Pull Stretch",
+  "aliases": [
+    "side wrist stretch",
+    "standing wrist pull",
+    "lateral wrist stretch",
+    "Stretching - Side Wrist Pull Stretch",
+    "side wrist pull stretch"
+  ],
+  "bodyPart": "lower arms",
+  "target": "forearms",
+  "secondaryMuscles": [
+    "deltoids",
+    "latissimus dorsi"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "forearm flexors and extensors",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A standing or seated stretch for the wrist and forearm, involving lateral arm extension and gentle pulling.",
+  "instructions": "Stand or sit upright, extend one arm overhead or to the side, and grasp the wrist with your opposite hand. Gently pull the wrist to the side to stretch the forearm and wrist muscles, avoiding excessive force.",
+  "steps": [
+    "Stand or sit tall.",
+    "Extend one arm overhead or outward.",
+    "Hold your wrist with the opposite hand.",
+    "Pull gently toward one side.",
+    "Hold, then switch sides."
+  ],
+  "formCues": [
+    "Keep arm straight",
+    "Pull gently",
+    "Relax shoulder",
+    "Keep hips squared"
+  ],
+  "commonMistakes": [
+    "Pulling too hard",
+    "Locking elbow",
+    "Shrugging shoulder"
+  ],
+  "breathing": "Exhale as you stretch, inhale to reset or switch sides.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-side-wrist-pull-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-side-wrist-pull-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-side-wrist-pull-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-side-wrist-pull-stretch.jpg"
+  }
+}

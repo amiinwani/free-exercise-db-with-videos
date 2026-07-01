@@ -1,0 +1,53 @@
+{
+  "id": "0310",
+  "name": "Dumbbell Front Raise",
+  "aliases": [
+    "front raise",
+    "dumbbell front raise",
+    "DB front raise",
+    "two-arm front raise",
+    "front shoulder raise"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "biceps",
+    "trapezius"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "biceps",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A shoulder isolation exercise where you lift dumbbells straight forward from your thighs to shoulder height.",
+  "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs. Keeping your arms straight, exhale and lift the dumbbells in front of you until they are at shoulder level. Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with a dumbbell in each hand at your thighs, palms facing your legs.",
+    "Brace your torso and keep a soft bend in your elbows.",
+    "Raise both dumbbells straight in front of you until your hands reach about shoulder height.",
+    "Pause briefly without shrugging your shoulders.",
+    "Lower the dumbbells back to your thighs with control.",
+    "Repeat from a still, upright stance."
+  ],
+  "formCues": [
+    "Lift to shoulder height",
+    "Keep ribs down",
+    "Lead with your hands",
+    "Don't shrug up"
+  ],
+  "commonMistakes": [
+    "Swinging the dumbbells up with the hips or torso.",
+    "Lifting the weights higher than shoulder level.",
+    "Shrugging the shoulders toward the ears.",
+    "Bending the elbows more as the weights rise."
+  ],
+  "breathing": "Exhale as you raise the dumbbells, and inhale as you lower them back down with control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-front-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-front-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-front-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-front-raise.jpg"
+  }
+}

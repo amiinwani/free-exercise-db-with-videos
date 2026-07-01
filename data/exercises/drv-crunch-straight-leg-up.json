@@ -1,0 +1,47 @@
+{
+  "id": "drv-crunch-straight-leg-up",
+  "name": "Straight-Leg Up Crunch",
+  "aliases": [
+    "vertical leg crunch",
+    "straight leg crunch",
+    "leg-up crunch"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "obliques",
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A crunch variant with straight legs held vertically to challenge upper abdominals.",
+  "instructions": "Lie on your back with legs straight up in the air, arms at your sides or behind your head. Engage your core to lift your head, neck, and shoulders toward your feet, then lower back down with control.",
+  "steps": [
+    "Lie on back, legs straight up, feet flexed.",
+    "Place arms beside you or hands behind head.",
+    "Engage core, lift head and shoulders toward legs.",
+    "Pause at top, exhale.",
+    "Lower down with control."
+  ],
+  "formCues": [
+    "Chin tucked",
+    "Reach toward ceiling",
+    "Don't strain neck",
+    "Slow movement"
+  ],
+  "commonMistakes": [
+    "Jerking up",
+    "Using momentum",
+    "Flaring elbows"
+  ],
+  "breathing": "Exhale as you crunch up, inhale as you lower down.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/crunch-straight-leg-up.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/crunch-straight-leg-up.jpg"
+  }
+}

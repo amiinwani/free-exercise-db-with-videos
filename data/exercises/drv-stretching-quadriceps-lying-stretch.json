@@ -1,0 +1,47 @@
+{
+  "id": "drv-stretching-quadriceps-lying-stretch",
+  "name": "Lying Quadriceps Stretch",
+  "aliases": [
+    "prone quad stretch",
+    "lying quad stretch"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quadriceps",
+  "secondaryMuscles": [
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A stretch for the quadriceps performed lying on the stomach for maximal knee flexion.",
+  "instructions": "Lie face down and grasp one ankle behind you, gently pulling the heel toward your glutes while keeping hips down. Feel a stretch in the front thigh and hold without straining the knee.",
+  "steps": [
+    "Lie on your stomach with legs extended.",
+    "Bend one knee, bringing heel toward glute.",
+    "Reach back and grasp ankle with hand.",
+    "Gently pull heel closer to glute until a stretch is felt.",
+    "Hold, then switch sides."
+  ],
+  "formCues": [
+    "Knees together",
+    "Relax neck",
+    "Do not force",
+    "Hips flat"
+  ],
+  "commonMistakes": [
+    "Pulling too hard",
+    "Letting pelvis lift",
+    "Knee splaying out"
+  ],
+  "breathing": "Exhale as you pull, inhale to release.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-quadriceps-lying-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-quadriceps-lying-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-quadriceps-lying-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-quadriceps-lying-stretch.jpg"
+  }
+}

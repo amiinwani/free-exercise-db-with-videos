@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "3006",
+    "name": "Band Hip Abduction",
+    "aliases": [
+      "resistance band hip abduction",
+      "banded side leg raise",
+      "band hip abductions",
+      "mini band hip abduction",
+      "Band Hip Abduction",
+      "resistance band seated hip abduction"
+    ],
+    "bodyPart": "upper legs",
+    "target": "gluteus medius",
+    "secondaryMuscles": [
+      "gluteus minimus",
+      "tensor fasciae latae"
+    ],
+    "equipment": "band",
+    "muscleGroup": "gluteus medius",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A lateral leg movement with a resistance band to activate and strengthen the hip abductor muscles.",
+    "instructions": "Place a resistance band around your lower thighs or ankles. Stand tall, shift your weight to one leg, and move the other leg out to the side against the band, then return under control. Repeat for both sides.",
+    "steps": [
+      "Place a resistance band around your thighs or ankles.",
+      "Stand tall with feet hip-width apart.",
+      "Shift weight to one leg.",
+      "Lift the other leg laterally against band resistance.",
+      "Return leg to start; repeat on both sides."
+    ],
+    "formCues": [
+      "Keep chest up",
+      "Stable standing leg",
+      "Move slowly",
+      "Feel glute engagement"
+    ],
+    "commonMistakes": [
+      "Leaning torso",
+      "Poor balance",
+      "Letting band snap back"
+    ],
+    "breathing": "Exhale as you lift leg, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-hip-abduction.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-hip-abduction.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-hip-abduction.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-hip-abduction.jpg"
+    }
+  },
+  {
+    "id": "0976",
+    "name": "Band Prone Leg Curl",
+    "aliases": [
+      "Resistance Band Leg Curl",
+      "Band Hamstring Curl",
+      "Lying Band Leg Curl",
+      "Band Leg Curl",
+      "band concentration curl"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "gastrocnemius",
+      "gluteus maximus"
+    ],
+    "equipment": "band",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A hamstring isolation exercise performed lying face down and flexing the knee using resistance from a band.",
+    "instructions": "Lie face down, anchor a resistance band at your feet, and loop the other end around your ankle. Curl your heel toward your glutes, contracting your hamstring, then slowly lower back to start and repeat.",
+    "steps": [
+      "Anchor the band securely at ground level.",
+      "Lie face down with legs extended.",
+      "Loop the band around your ankle.",
+      "Flex your knee, bringing your heel toward your glutes.",
+      "Slowly return to the start; repeat and switch legs if desired."
+    ],
+    "formCues": [
+      "Keep hips down",
+      "Point toes away",
+      "Squeeze hamstrings at top",
+      "Control lowering phase"
+    ],
+    "commonMistakes": [
+      "Lifting hips off ground",
+      "Using momentum",
+      "Letting band snap back"
+    ],
+    "breathing": "Exhale as you curl, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-leg-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-leg-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-leg-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-leg-curl.jpg"
+    }
+  },
+  {
+    "id": "0991",
+    "name": "Band Pull Through",
+    "aliases": [
+      "band pull through",
+      "resistance band pull through",
+      "banded pull through",
+      "hip hinge with band",
+      "glute pull through"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": "band",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A banded hip hinge that trains the glutes and hamstrings by pulling the band through the legs as you stand tall.",
+    "instructions": "Attach a resistance band to a sturdy anchor point at ground level. Stand facing away from the anchor point with your feet shoulder-width apart. Step forward to create tension in the band, keeping your knees slightly bent. Hinge at the hips and push your glutes back, maintaining a slight bend in your knees. Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings. Drive your hips forward and squeeze your glutes to return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Anchor the band at floor level and loop it between your legs.",
+      "Face away from the anchor and walk forward until the band is taut.",
+      "Stand with feet about hip-width apart and soften your knees.",
+      "Push your hips back and hinge forward, letting the band travel behind you.",
+      "Lower until you feel your hamstrings stretch while keeping your back flat.",
+      "Drive your hips forward to stand tall and squeeze your glutes at the top."
+    ],
+    "formCues": [
+      "Push hips back",
+      "Keep ribs down",
+      "Stand tall at top",
+      "Squeeze glutes hard"
+    ],
+    "commonMistakes": [
+      "Squatting down instead of hinging back",
+      "Rounding the lower back as you fold forward",
+      "Letting the band pull the hips backward at lockout",
+      "Bending the knees too much and shifting into the quads"
+    ],
+    "breathing": "Inhale as you hinge back and exhale as you drive your hips forward to stand.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-pull-through.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-pull-through.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-pull-through.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-pull-through.jpg"
+    }
+  },
+  {
+    "id": "0980",
+    "name": "Band Seated Leg Extension",
+    "aliases": [
+      "Resistance Band Leg Extension",
+      "Seated Band Leg Extension",
+      "Band Quad Extension",
+      "Band Seated Leg Extension",
+      "band bent-over hip extension"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quadriceps",
+    "secondaryMuscles": [
+      "vastus medialis",
+      "rectus femoris"
+    ],
+    "equipment": "band",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated exercise using a resistance band to isolate and strengthen the quadriceps.",
+    "instructions": "Sit on a chair, anchor a resistance band behind you, and loop it around your ankle. Extend your knee to straighten your leg against the band's resistance, then lower back with control.",
+    "steps": [
+      "Sit upright on a sturdy chair with feet flat.",
+      "Anchor one end of a band behind the chair leg.",
+      "Loop the other end of the band around your ankle.",
+      "Raise your lower leg to extend the knee fully.",
+      "Lower the leg back down under control; repeat and switch legs."
+    ],
+    "formCues": [
+      "Sit tall",
+      "Keep upper leg stationary",
+      "Control extension",
+      "Do not lock knee at top"
+    ],
+    "commonMistakes": [
+      "Swinging the leg",
+      "Allowing the knee to drift or twist",
+      "Arching back"
+    ],
+    "breathing": "Exhale as you extend, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-seated-leg-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-seated-leg-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-seated-leg-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-seated-leg-extension.jpg"
+    }
+  },
+  {
+    "id": "0988",
+    "name": "Band Standing Leg Curl",
+    "aliases": [
+      "Standing Hamstring Curl with Band",
+      "Resistance Band Standing Leg Curl",
+      "Standing Band Leg Curl",
+      "Band Standing Leg Curl",
+      "band one arm standing low row"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "gastrocnemius",
+      "gluteus maximus"
+    ],
+    "equipment": "band",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing hamstring curl variation using resistance from a band for leg flexion.",
+    "instructions": "Anchor a resistance band at ankle height behind you, securing the loop around your ankle. Stand upright and curl your heel toward your glutes, keeping the upper leg stationary, then return to the starting position under control.",
+    "steps": [
+      "Anchor the resistance band behind you at ground level.",
+      "Loop the band around one ankle.",
+      "Stand on the opposite leg and balance.",
+      "Curl your heel toward your glutes by flexing your knee.",
+      "Lower leg slowly; repeat and switch sides."
+    ],
+    "formCues": [
+      "Keep thighs aligned",
+      "Stay tall",
+      "Squeeze hamstrings",
+      "Control descent"
+    ],
+    "commonMistakes": [
+      "Letting knees move forward",
+      "Using back to assist",
+      "Letting band snap"
+    ],
+    "breathing": "Exhale as you curl, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-standing-leg-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-standing-leg-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-standing-leg-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-standing-leg-curl.jpg"
+    }
+  },
+  {
+    "id": "1435",
+    "name": "Barbell Back Squat",
+    "aliases": [
+      "barbell squat",
+      "classic squat",
+      "back squat",
+      "squat with barbell",
+      "Classic Barbell Squat",
+      "barbell low bar squat"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "erector spinae",
+      "adductors",
+      "core"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "Classic compound lower body lift with barbell across traps, targeting quads and glutes.",
+    "instructions": "Stand with barbell placed across upper back, feet shoulder-width apart. Lower into a squat by hinging hips and bending knees until your thighs are parallel to the floor. Press through your heels to stand back up, keeping your chest up and back straight.",
+    "steps": [
+      "Position barbell on upper traps, unrack.",
+      "Stand with feet shoulder-width apart.",
+      "Descend into squat keeping back neutral.",
+      "Lower until thighs parallel or below.",
+      "Drive up through heels to standing."
+    ],
+    "formCues": [
+      "Chest up",
+      "Back straight",
+      "Drive through heels",
+      "Knees track over toes"
+    ],
+    "commonMistakes": [
+      "Knees caving in",
+      "Rounding lower back",
+      "Heels lifting off floor"
+    ],
+    "breathing": "Inhale lowering, exhale rising.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/classic-barbell-squat.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/classic-barbell-squat.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/classic-barbell-squat.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/classic-barbell-squat.jpg"
+    }
+  },
+  {
+    "id": "0028",
+    "name": "Barbell Clean And Press",
+    "aliases": [
+      "clean and press",
+      "barbell clean & press",
+      "clean to press",
+      "floor to overhead press",
+      "barbell ground-to-overhead",
+      "barbell clean and press"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quads",
+    "secondaryMuscles": [
+      "hamstrings",
+      "glutes",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "hamstrings",
+    "difficulty": "advanced",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A full-body barbell lift that moves the bar from the floor to the shoulders, then presses it overhead.",
+    "instructions": "Stand with your feet shoulder-width apart and the barbell on the floor in front of you. Bend your knees and hinge at the hips to lower down and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Drive through your heels and extend your hips and knees to lift the barbell off the floor, keeping it close to your body. As the barbell reaches your thighs, explosively extend your hips, shrug your shoulders, and pull the barbell up towards your chest. As the barbell reaches chest height, quickly drop under it and catch it at shoulder level, with your elbows pointing forward and your palms facing up. From the catch position, press the barbell overhead by extending your arms and pushing the barbell straight up. Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand with your feet hip- to shoulder-width apart and place the barbell over your midfoot.",
+      "Bend at your hips and knees, grip the bar just outside your legs, and set your back flat with your chest up.",
+      "Push the floor away and lift the bar, keeping it close to your shins and thighs as you stand.",
+      "Explosively extend your hips, knees, and ankles, then shrug and pull yourself under the bar.",
+      "Catch the bar on the fronts of your shoulders with elbows forward and stand tall.",
+      "Press the bar straight overhead until your arms are locked out and the bar is over your shoulders.",
+      "Lower the bar back to your shoulders, then guide it down to the floor under control."
+    ],
+    "formCues": [
+      "Keep the bar close",
+      "Drive through the floor",
+      "Elbows fast through",
+      "Press straight overhead"
+    ],
+    "commonMistakes": [
+      "Starting with the bar too far in front of the feet",
+      "Rounding the lower back when pulling from the floor",
+      "Catching the bar with elbows low and chest collapsed",
+      "Pressing the bar forward instead of overhead"
+    ],
+    "breathing": "Inhale and brace before pulling from the floor, then exhale as you press overhead and reset your breath before the next rep.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-clean-and-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-clean-and-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-clean-and-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-clean-and-press.jpg"
+    }
+  },
+  {
+    "id": "0042",
+    "name": "Barbell Front Squat",
+    "aliases": [
+      "front squat",
+      "barbell front squat",
+      "front chest squat",
+      "Barbell Front Chest Squat"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "erector spinae",
+      "core"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "Squat variation with barbell held at the front rack position, targeting the quadriceps.",
+    "instructions": "Stand upright, barbell resting across front shoulders, elbows high. Descend into a squat while keeping torso upright and elbows elevated. Push through your heels to return to standing, maintaining bar balance throughout.",
+    "steps": [
+      "Rack barbell at collarbone level, elbows up.",
+      "Stand with feet shoulder-width apart.",
+      "Descend into squat keeping torso upright.",
+      "Lower until thighs are parallel to floor.",
+      "Drive up through heels to stand."
+    ],
+    "formCues": [
+      "Elbows high",
+      "Torso upright",
+      "Heels down",
+      "Keep knees tracking over toes"
+    ],
+    "commonMistakes": [
+      "Letting elbows drop",
+      "Rounding back",
+      "Heels lifting off floor"
+    ],
+    "breathing": "Inhale when lowering, exhale standing up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-front-chest-squat.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-front-chest-squat.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-front-chest-squat.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-front-chest-squat.jpg"
+    }
+  },
+  {
+    "id": "0054",
+    "name": "Barbell Lunge",
+    "aliases": [
+      "barbell lunge",
+      "barbell forward lunge",
+      "barbell walking lunge in place",
+      "barbell alternating lunge",
+      "barbell split step lunge",
+      "lunges with barbell on back"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "quadriceps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": true,
+    "shortDescription": "A lower-body lunge with a barbell on your upper back that trains the glutes, quads, and hamstrings one leg at a time.",
+    "instructions": "Start by standing with your feet shoulder-width apart and a barbell resting on your upper back. Take a step forward with your right foot, keeping your torso upright. Lower your body by bending your right knee until your thigh is parallel to the ground. Push through your right heel to return to the starting position. Repeat with your left leg, alternating legs for the desired number of repetitions.",
+    "steps": [
+      "Set the barbell across your upper back and stand tall with feet hip-width apart.",
+      "Brace your core and take a controlled step forward with one foot.",
+      "Lower your body until both knees bend and your back knee moves toward the floor.",
+      "Keep your front foot flat and your torso upright at the bottom position.",
+      "Push through the front foot to stand back up and bring your feet together.",
+      "Repeat on the other side, alternating legs each rep."
+    ],
+    "formCues": [
+      "Stay tall",
+      "Front heel stays down",
+      "Track knees over toes",
+      "Control the descent"
+    ],
+    "commonMistakes": [
+      "Taking such a short step that the front knee shoots far past the toes.",
+      "Leaning the torso forward as you lower.",
+      "Letting the front knee cave inward.",
+      "Pushing off the back foot instead of driving through the front foot."
+    ],
+    "breathing": "Inhale as you step forward and lower down, then exhale as you push back to standing.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-lunge.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-lunge.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-lunge.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-lunge.jpg"
+    }
+  },
+  {
+    "id": "0116",
+    "name": "Barbell Straight Leg Deadlift",
+    "aliases": [
+      "straight leg deadlift",
+      "SLDL",
+      "barbell SLDL",
+      "stiff leg deadlift",
+      "stiff-legged barbell deadlift",
+      "barbell hamstring deadlift",
+      "barbell straight leg deadlift"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "glutes",
+      "lower back"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "glutes",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A barbell hip hinge that trains the hamstrings and glutes by lowering the bar down the legs with minimal knee bend.",
+    "instructions": "Stand with your feet shoulder-width apart and your toes pointing forward. Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Bend at your hips and lower the barbell towards the ground, keeping your back straight and your knees slightly bent. Lower the barbell until you feel a stretch in your hamstrings. Engage your hamstrings and glutes to lift the barbell back up to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet hip-width apart and hold the barbell in front of your thighs with straight arms.",
+      "Soften your knees slightly and brace your midsection.",
+      "Push your hips back and lower the bar down your legs while keeping your back flat and your legs nearly straight.",
+      "Lower until the bar reaches mid-shin or until you feel a strong hamstring stretch without losing your back position.",
+      "Drive your hips forward and stand tall, keeping the bar close to your legs the whole way up.",
+      "Finish with your hips locked out and shoulders stacked over your hips."
+    ],
+    "formCues": [
+      "Hips back, not down",
+      "Keep the bar close",
+      "Soft knees, flat back",
+      "Stand tall and squeeze glutes"
+    ],
+    "commonMistakes": [
+      "Bending the knees into a squat as the bar lowers",
+      "Letting the bar drift forward away from the legs",
+      "Rounding the lower back near the bottom",
+      "Jerking the bar off the bottom instead of lifting smoothly"
+    ],
+    "breathing": "Inhale and brace before hinging down, then exhale as you drive your hips forward to stand up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-straight-leg-deadlift.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-straight-leg-deadlift.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-straight-leg-deadlift.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-straight-leg-deadlift.jpg"
+    }
+  },
+  {
+    "id": "3639",
+    "name": "Bent Knee Lying Twist on Stability Ball",
+    "aliases": [
+      "lying knee twist",
+      "spinal twist ball",
+      "stability ball lying twist",
+      "Bent knee Lying  twist (On Stability Ball)",
+      "bent knee lying twist"
+    ],
+    "bodyPart": "upper legs",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "glutes"
+    ],
+    "equipment": "stability ball",
+    "muscleGroup": "obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A rotational stretch on a stability ball that targets the obliques and hip flexors.",
+    "instructions": "Lie on your back with your calves resting on a stability ball, arms extended to sides. With knees bent, gently rotate your knees side to side, engaging your core to control the movement.",
+    "steps": [
+      "Lie on your back with calves on a stability ball.",
+      "Extend arms out at your sides for support.",
+      "Bend knees at 90 degrees over the ball.",
+      "Slowly drop knees to one side, keeping shoulders flat.",
+      "Return to center and repeat on the other side."
+    ],
+    "formCues": [
+      "Keep shoulders grounded",
+      "Control the twist",
+      "Engage core",
+      "Move slowly"
+    ],
+    "commonMistakes": [
+      "Letting shoulders lift off floor",
+      "Moving too quickly",
+      "Over-twisting hips"
+    ],
+    "breathing": "Exhale as you twist, inhale returning to center.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/bent-knee-lying-twist-on-stability-ball.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/bent-knee-lying-twist-on-stability-ball.jpg"
+    }
+  },
+  {
+    "id": "0300",
+    "name": "Dumbbell Deadlift",
+    "aliases": [
+      "DB deadlift",
+      "dumbbell DL",
+      "dumbbell Romanian deadlift",
+      "two-dumbbell deadlift",
+      "dumbbell hip hinge",
+      "dumbbells from the floor",
+      "dumbbell deadlift"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A hip-hinge lift with two dumbbells that trains the glutes, hamstrings, and lower back while lifting from standing to lockout.",
+    "instructions": "Stand with your feet shoulder-width apart, toes pointing forward. Hold a dumbbell in each hand, palms facing your body, arms extended downwards. Bend at your hips and knees, lowering the dumbbells towards the ground while keeping your back straight. Push through your heels and extend your hips and knees, lifting the dumbbells back up to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet hip- to shoulder-width apart, holding a dumbbell in each hand in front of your thighs.",
+      "Brace your midsection, pull your shoulders back, and keep your arms straight.",
+      "Push your hips back and bend your knees slightly as you slide the dumbbells down close to your legs.",
+      "Lower until the dumbbells reach around mid-shin or just below your knees while keeping your back flat.",
+      "Drive through your feet and push your hips forward to stand back up with the dumbbells at your thighs.",
+      "Finish tall with your hips and knees straight, then repeat the hinge."
+    ],
+    "formCues": [
+      "Hips back first",
+      "Keep dumbbells close",
+      "Chest proud",
+      "Stand tall at top"
+    ],
+    "commonMistakes": [
+      "Rounding the lower back as the dumbbells lower",
+      "Letting the dumbbells drift far in front of the legs",
+      "Squatting straight down instead of hinging the hips back",
+      "Locking the knees rigid or overbending them"
+    ],
+    "breathing": "Inhale as you lower the dumbbells with control, and exhale as you drive through your feet to stand up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-deadlift.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-deadlift.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-deadlift.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-deadlift.jpg"
+    }
+  },
+  {
+    "id": "1760",
+    "name": "Dumbbell Goblet Squat",
+    "aliases": [
+      "goblet squat",
+      "DB goblet squat",
+      "dumbbell squat",
+      "front-loaded dumbbell squat",
+      "holding-a-dumbbell squat",
+      "dumbbell goblet squat"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "glutes",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A front-loaded squat holding one dumbbell at the chest to train the quads, glutes, and legs through a controlled deep squat.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell vertically against your chest with both hands. Keeping your chest up and core engaged, lower your body down into a squat position by pushing your hips back and bending your knees. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet about shoulder-width apart and hold one dumbbell vertically at your chest with both hands.",
+      "Brace your midsection and keep your elbows pointed down close to your body.",
+      "Sit your hips down and back while bending your knees, and lower until your thighs are parallel to the floor or slightly lower.",
+      "Keep the dumbbell tight to your chest and your feet flat as your knees track over your toes.",
+      "Drive through your whole foot to stand back up until your hips and knees are fully extended.",
+      "Reset your stance and repeat the next rep."
+    ],
+    "formCues": [
+      "Chest up",
+      "Keep heels down",
+      "Knees track over toes",
+      "Hold the bell close"
+    ],
+    "commonMistakes": [
+      "Letting the dumbbell drift away from the chest",
+      "Heels lifting off the floor at the bottom",
+      "Knees collapsing inward during the squat",
+      "Folding the chest forward instead of staying upright"
+    ],
+    "breathing": "Inhale as you lower into the squat, and exhale as you stand back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-goblet-squat.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-goblet-squat.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-goblet-squat.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-goblet-squat.jpg"
+    }
+  },
+  {
+    "id": "0336",
+    "name": "Dumbbell Lunge",
+    "aliases": [
+      "dumbbell lunge",
+      "DB lunge",
+      "walking-in-place lunge with dumbbells",
+      "alternating dumbbell lunge",
+      "forward dumbbell lunge",
+      "dumbbell split step"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "quadriceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": true,
+    "shortDescription": "A lower-body exercise where you hold dumbbells and step into alternating lunges to train the glutes, quads, and legs.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Take a step forward with your right foot, lowering your body into a lunge position. Keep your back straight and your chest up as you lower your body. Push through your right heel to return to the starting position. Repeat with your left leg. Alternate legs for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with a dumbbell in each hand at your sides and your feet hip-width apart.",
+      "Step one foot forward far enough that both knees can bend comfortably.",
+      "Lower your body until your front thigh is nearly parallel to the floor and your back knee drops toward the floor.",
+      "Keep your torso upright and your front foot flat as you pause briefly at the bottom.",
+      "Push through your front heel to return to standing.",
+      "Repeat on the other side, alternating legs each rep."
+    ],
+    "formCues": [
+      "Chest tall",
+      "Front heel stays down",
+      "Knees track over toes",
+      "Drop straight down"
+    ],
+    "commonMistakes": [
+      "Taking too short a step so the front knee shoots far past the toes.",
+      "Leaning the torso forward as you lower into the lunge.",
+      "Letting the front heel lift off the floor.",
+      "Pushing off the back foot instead of driving through the front leg."
+    ],
+    "breathing": "Inhale as you lower into the lunge, and exhale as you push back to standing.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lunge.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lunge.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lunge.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lunge.jpg"
+    }
+  },
+  {
+    "id": "0343",
+    "name": "Dumbbell Lying Leg Curl",
+    "aliases": [
+      "Lying Dumbbell Leg Curl",
+      "Dumbbell Hamstring Curl",
+      "Lying Femoral Curl",
+      "Dumbbell Lying Femoral",
+      "dumbbell lying one arm press"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "gastrocnemius",
+      "glutes"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "hamstrings",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A hamstring isolation exercise where a dumbbell is held between the feet during leg curls.",
+    "instructions": "Lie face down on a flat bench with a dumbbell held securely between your feet. Flex your knees to bring the dumbbell up toward your glutes, then lower with control.",
+    "steps": [
+      "Lie face down on a bench, legs straight, dumbbell held between your feet.",
+      "Hold onto the bench for stability.",
+      "Contract your hamstrings to curl the dumbbell upward toward your glutes.",
+      "Pause at the top of the movement.",
+      "Lower the dumbbell in a controlled motion to the starting position."
+    ],
+    "formCues": [
+      "Keep hips down",
+      "Squeeze at top",
+      "Control the descent",
+      "Engage hamstrings"
+    ],
+    "commonMistakes": [
+      "Allowing hips to lift",
+      "Letting dumbbell slip",
+      "Using momentum"
+    ],
+    "breathing": "Exhale as you curl up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lying-femoral.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lying-femoral.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lying-femoral.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lying-femoral.jpg"
+    }
+  },
+  {
+    "id": "0411",
+    "name": "Dumbbell Single Leg Squat",
+    "aliases": [
+      "single-leg dumbbell squat",
+      "dumbbell pistol squat",
+      "single leg squat with dumbbells",
+      "one-leg dumbbell squat",
+      "single-leg squat",
+      "one-leg squat",
+      "dumbbell single leg squat"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "quadriceps",
+    "difficulty": "advanced",
+    "compound": true,
+    "unilateral": true,
+    "shortDescription": "A one-leg squat holding dumbbells that challenges the glutes, quads, balance, and lower-body control.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Extend one leg forward and keep it off the ground throughout the exercise. Bend your standing leg and lower your body down as if sitting back into a chair. Keep your chest up and your back straight. Pause for a moment at the bottom, then push through your heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs.",
+    "steps": [
+      "Stand tall holding a dumbbell in each hand at your sides.",
+      "Shift your weight onto one foot and lift the other leg straight in front of you.",
+      "Brace your torso and bend your standing knee and hip to lower under control.",
+      "Keep the lifted leg off the floor and lower as far as you can while staying balanced.",
+      "Drive through the standing foot to rise back to the starting position.",
+      "Complete all reps on one leg, then switch sides."
+    ],
+    "formCues": [
+      "Chest up",
+      "Sit back",
+      "Keep knee tracking forward",
+      "Control the descent"
+    ],
+    "commonMistakes": [
+      "Letting the lifted foot touch the floor between reps",
+      "Rounding the back at the bottom",
+      "Standing knee collapsing inward",
+      "Dropping too fast and losing balance"
+    ],
+    "breathing": "Inhale as you lower down, and exhale as you drive back up to standing.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-single-leg-squat.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-single-leg-squat.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-single-leg-squat.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-single-leg-squat.jpg"
+    }
+  },
+  {
+    "id": "0413",
+    "name": "Dumbbell Squat",
+    "aliases": [
+      "DB squat",
+      "dumbbell goblet-free squat",
+      "dumbbells-at-sides squat",
+      "dumbbell body squat",
+      "squat with dumbbells",
+      "dumbbell squat"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "quadriceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A squat holding a dumbbell in each hand at your sides to train the glutes, quads, and legs.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides. Keeping your chest up and core engaged, lower your body down by bending at the knees and hips, as if sitting back into a chair. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with a dumbbell in each hand at your sides and place your feet about shoulder-width apart.",
+      "Brace your core, keep your chest up, and let your arms hang straight.",
+      "Bend your hips and knees together to sit down and slightly back.",
+      "Lower until your thighs are at least parallel to the floor or as low as you can while keeping your heels down.",
+      "Drive through your midfoot and heels to stand back up.",
+      "Finish tall with your hips and knees fully straight before the next rep."
+    ],
+    "formCues": [
+      "Chest up",
+      "Knees track over toes",
+      "Keep heels down",
+      "Stand tall at top"
+    ],
+    "commonMistakes": [
+      "Letting the knees cave inward on the way down or up.",
+      "Rising onto the toes and lifting the heels off the floor.",
+      "Rounding the upper or lower back at the bottom.",
+      "Dropping the chest forward so the dumbbells swing ahead of the legs."
+    ],
+    "breathing": "Inhale as you lower into the squat, then exhale as you stand back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-squat.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-squat.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-squat.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-squat.jpg"
+    }
+  },
+  {
+    "id": "0432",
+    "name": "Dumbbell Stiff Leg Deadlift",
+    "aliases": [
+      "stiff leg deadlift",
+      "dumbbell SLDL",
+      "dumbbell stiff-legged deadlift",
+      "straight-leg dumbbell deadlift",
+      "dumbbell hamstring deadlift",
+      "dumbbell stiff leg deadlift"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "hamstrings",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A hip-hinge deadlift with dumbbells that emphasizes the hamstrings and glutes while keeping only a slight knee bend.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. Keeping your back straight and your core engaged, hinge at the hips and lower the dumbbells towards the ground, allowing a slight bend in your knees. Lower the dumbbells until you feel a stretch in your hamstrings, then squeeze your glutes and push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet hip-width apart, holding a dumbbell in each hand in front of your thighs.",
+      "Soften your knees slightly and brace your midsection.",
+      "Push your hips straight back and slide the dumbbells down the front of your legs.",
+      "Lower until the dumbbells reach mid-shin or you feel a strong hamstring stretch while keeping your back flat.",
+      "Drive your feet into the floor and extend your hips to stand back up.",
+      "Finish tall with the dumbbells at your thighs and repeat."
+    ],
+    "formCues": [
+      "Hips back, not down",
+      "Keep dumbbells close",
+      "Back flat the whole time",
+      "Feel the hamstring stretch"
+    ],
+    "commonMistakes": [
+      "Bending the knees too much and turning it into a squat",
+      "Letting the dumbbells drift away from the legs",
+      "Rounding the lower back on the way down",
+      "Looking up and cranking the neck"
+    ],
+    "breathing": "Inhale as you hinge and lower the dumbbells, then exhale as you drive your hips forward to stand tall.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-stiff-leg-deadlift.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-stiff-leg-deadlift.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-stiff-leg-deadlift.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-stiff-leg-deadlift.jpg"
+    }
+  },
+  {
+    "id": "new-dumbbell-sumo-squat",
+    "name": "Dumbbell Sumo Squat",
+    "aliases": [
+      "dumbbell sumo squat",
+      "sumo squat dumbbell",
+      "bar grip sumo squat",
+      "Dumbbell Bar Grip Sumo Squat"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "quadriceps",
+      "adductors",
+      "hamstrings"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "gluteus maximus",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A lower body exercise using a dumbbell in a sumo stance to target the glutes, quads, and adductors.",
+    "instructions": "Stand with feet wider than shoulder-width, toes pointed out, holding a dumbbell vertically with both hands. Squat down by pushing hips back and knees out, then return to standing.",
+    "steps": [
+      "Stand with feet wide apart, toes angled outward.",
+      "Grip the dumbbell vertically between your legs.",
+      "Keep chest up and core braced.",
+      "Squat down, pushing knees outward.",
+      "Drive through heels to stand up."
+    ],
+    "formCues": [
+      "Knees out",
+      "Keep chest tall",
+      "Sit hips back",
+      "Drive through heels"
+    ],
+    "commonMistakes": [
+      "Letting knees cave in",
+      "Rounding the back",
+      "Shallow squats"
+    ],
+    "breathing": "Inhale as you lower down, exhale as you stand up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-bar-grip-sumo-squat.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-bar-grip-sumo-squat.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-bar-grip-sumo-squat.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-bar-grip-sumo-squat.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-front-toe-touch",
+    "name": "Front Toe Touch Stretch",
+    "aliases": [
+      "seated toe touch",
+      "standing toe touch",
+      "hamstring stretch"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "lower back",
+      "calves"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A classic stretch where you bend forward to touch your toes, lengthening the hamstrings and lower back.",
+    "instructions": "Stand or sit with legs straight. Hinge at the hips and reach forward toward your toes, keeping your spine long. Hold at your end range, feeling a stretch in the back of your legs.",
+    "steps": [
+      "Stand (or sit) with legs straight.",
+      "Bend slowly forward from the hips, keeping a flat back.",
+      "Reach towards or touch your toes with your hands.",
+      "Keep knees straight but not locked.",
+      "Hold stretch, then return to starting position."
+    ],
+    "formCues": [
+      "Hinge at hips",
+      "Keep head in line with spine",
+      "Reach gently, don’t bounce",
+      "Keep legs straight"
+    ],
+    "commonMistakes": [
+      "Rounding the back excessively",
+      "Bouncing or forcing the stretch",
+      "Locking the knees"
+    ],
+    "breathing": "Exhale as you bend forward, inhale as you return upright.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-front-toe-touch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-front-toe-touch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-front-toe-touch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-front-toe-touch.jpg"
+    }
+  },
+  {
+    "id": "drv-hip-raise-bridge",
+    "name": "Glute Bridge",
+    "aliases": [
+      "hip raise",
+      "bridging",
+      "hip thrust (bodyweight)",
+      "floor bridge"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "gluteus maximus",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A floor-based exercise that strengthens the glutes and hamstrings by lifting the hips.",
+    "instructions": "Lie on your back, knees bent and feet flat on the floor hip-width apart. Drive through your heels to lift hips off the ground, squeezing the glutes at the top, then lower back down with control.",
+    "steps": [
+      "Start lying on back with knees bent, feet hip-width apart.",
+      "Arms rest at sides, palms down.",
+      "Push through heels, lifting hips toward ceiling.",
+      "Pause and squeeze glutes at top.",
+      "Lower hips back to floor."
+    ],
+    "formCues": [
+      "Drive through heels",
+      "Squeeze glutes",
+      "Don't overarch back",
+      "Keep knees in line"
+    ],
+    "commonMistakes": [
+      "Pushing through toes",
+      "Flaring ribs",
+      "Rushing movement"
+    ],
+    "breathing": "Exhale as you lift hips, inhale as you lower down.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/hip-raise-bridge.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/hip-raise-bridge.jpg"
+    }
+  },
+  {
+    "id": "0257",
+    "name": "Hip Circles Stretch",
+    "aliases": [
+      "hip mobility circles",
+      "hip joint circles",
+      "dynamic hip stretch",
+      "hip rotations",
+      "Stretching - Hip Circles Stretch",
+      "circles knee stretch"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hip flexors",
+    "secondaryMuscles": [
+      "tensor fasciae latae",
+      "gluteus maximus",
+      "adductors",
+      "piriformis"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "iliopsoas, gluteus medius, gluteus minimus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A dynamic stretch to increase mobility in the hips by performing circular leg movements.",
+    "instructions": "Stand upright and place your hands on your hips. Lift one knee and move your leg in a controlled circular motion from the hip joint, reversing direction as needed; repeat with the other leg.",
+    "steps": [
+      "Stand tall with feet shoulder-width apart, hands on hips.",
+      "Lift one knee up in front of you.",
+      "Move your knee and thigh in a circular motion outward.",
+      "Reverse and perform circles inward after the set.",
+      "Switch legs and repeat."
+    ],
+    "formCues": [
+      "Move leg from the hip",
+      "Keep upper body stable",
+      "Smooth, controlled circles",
+      "Breathe steadily"
+    ],
+    "commonMistakes": [
+      "Rushing the circles",
+      "Swinging the whole body",
+      "Holding breath"
+    ],
+    "breathing": "Inhale and exhale naturally during the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-hip-circles-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-hip-circles-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-hip-circles-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-hip-circles-stretch.jpg"
+    }
+  },
+  {
+    "id": "1564",
+    "name": "Hip Flexor and Quadriceps Stretch",
+    "aliases": [
+      "lunge stretch",
+      "runner's stretch",
+      "quad hip stretch",
+      "Stretching - Hip Flexor and Quad Stretch",
+      "intermediate hip flexor and quad stretch"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quadriceps",
+    "secondaryMuscles": [
+      "hip flexors",
+      "iliopsoas",
+      "glutes"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A stretch that lengthens the hip flexors and quadriceps by using a kneeling or lunge position.",
+    "instructions": "Start in a half-kneeling (lunge) position with one knee on the floor and the other foot planted in front. Gently shift hips forward while keeping torso upright, feeling the stretch in the front of the rear leg and thigh. Hold, then switch sides.",
+    "steps": [
+      "Begin in a half-kneeling position, one knee down, one foot forward.",
+      "Keep torso upright with hands on hips or front knee.",
+      "Push hips forward slightly to increase the stretch.",
+      "Feel the stretch in the hip flexor and thigh of the back leg.",
+      "Hold for desired time, then switch legs."
+    ],
+    "formCues": [
+      "Keep core engaged",
+      "Torso upright",
+      "Push hips forward gently",
+      "Don't arch lower back"
+    ],
+    "commonMistakes": [
+      "Leaning forward",
+      "Arching lower back",
+      "Letting front knee go past toes"
+    ],
+    "breathing": "Breathe deeply and steadily throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-hip-flexor-and-quad-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-hip-flexor-and-quad-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-hip-flexor-and-quad-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-hip-flexor-and-quad-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-jump-step-up",
+    "name": "Jump Step-Up",
+    "aliases": [
+      "plyometric step-up",
+      "explosive step-up",
+      "box jump step-up"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quadriceps",
+    "secondaryMuscles": [
+      "gluteus maximus",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": true,
+    "shortDescription": "A plyometric exercise involving stepping and jumping onto a raised surface to build leg power and coordination.",
+    "instructions": "Stand in front of a box or platform. Step onto the box with one foot, then explosively jump up, driving through the working leg. Land softly and return to the starting position, alternating legs if desired.",
+    "steps": [
+      "Stand facing a sturdy box or platform.",
+      "Place one foot firmly on top of the box.",
+      "Drive through the heel and explode upward, lifting your other knee high.",
+      "Land softly on the box with both feet.",
+      "Step or jump down with control and repeat."
+    ],
+    "formCues": [
+      "Drive explosively through the lead leg",
+      "Land softly",
+      "Keep chest lifted",
+      "Use arms for balance"
+    ],
+    "commonMistakes": [
+      "Letting the knee cave inward",
+      "Landing hard or flat-footed",
+      "Not using full range of motion"
+    ],
+    "breathing": "Exhale during the jump, inhale as you land and reset.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/jump-step-up.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jump-step-up.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/jump-step-up.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jump-step-up.jpg"
+    }
+  },
+  {
+    "id": "2611",
+    "name": "Lever Horizontal Leg Press",
+    "aliases": [
+      "machine leg press",
+      "horizontal plate-loaded leg press",
+      "Lever Horizontal Leg Press",
+      "lever horizontal one leg press"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quadriceps",
+    "secondaryMuscles": [
+      "gluteus maximus",
+      "hamstrings",
+      "adductors"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A horizontal plate-loaded machine exercise targeting the entire thigh, especially the quadriceps.",
+    "instructions": "Sit on the leg press machine with your feet hip-width apart on the platform. Press the platform away by extending your legs, but avoid locking your knees, then lower slowly back to the starting position.",
+    "steps": [
+      "Sit on the leg press and adjust seat as needed.",
+      "Place feet shoulder-width apart on platform.",
+      "Push platform away by extending legs.",
+      "Do not lock knees at the top position.",
+      "Lower platform under control to start position."
+    ],
+    "formCues": [
+      "Keep lower back pressed into seat",
+      "Do not lock knees",
+      "Feet flat and even pressure",
+      "Control the descent"
+    ],
+    "commonMistakes": [
+      "Letting knees cave in/out",
+      "Lifting hips off seat",
+      "Locking out knees",
+      "Using too much weight"
+    ],
+    "breathing": "Exhale as you press up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-horizontal-leg-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-horizontal-leg-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-horizontal-leg-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-horizontal-leg-press.jpg"
+    }
+  },
+  {
+    "id": "0582",
+    "name": "Lever Kneeling Leg Curl",
+    "aliases": [
+      "kneeling leg curl",
+      "lever kneeling leg curl",
+      "machine kneeling leg curl",
+      "kneeling hamstring curl",
+      "hamstring curl machine",
+      "kneeling leg curl machine"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "glutes",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A machine hamstring exercise done kneeling, curling the lower legs toward the glutes by bending the knees.",
+    "instructions": "Adjust the machine to fit your body and select the desired weight. Kneel on the machine facing downwards, with your knees resting on the pad and your feet secured under the footpads. Grasp the handles or the sides of the machine for stability. Keeping your upper body stationary, exhale and curl your legs up towards your glutes by flexing your knees. Pause for a moment at the top of the movement, squeezing your hamstrings. Inhale and slowly lower your legs back to the starting position, fully extending your knees. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the machine so your knees line up with the machine's pivot point and your ankles sit securely under the pads.",
+      "Kneel on the pad facing the machine, brace your torso against the support, and grip the handles.",
+      "Start with your legs extended behind you and keep your hips still.",
+      "Curl your heels up toward your glutes by bending your knees against the pads.",
+      "Pause briefly at the top and squeeze your hamstrings.",
+      "Lower the pads under control until your legs are straight again."
+    ],
+    "formCues": [
+      "Keep hips glued down",
+      "Curl through the knees",
+      "Move slowly on the way down",
+      "Squeeze hamstrings at the top"
+    ],
+    "commonMistakes": [
+      "Lifting the hips off the pad during the curl",
+      "Swinging the legs to start each rep",
+      "Stopping short and not straightening the knees at the bottom",
+      "Letting the ankles slip out of the pads"
+    ],
+    "breathing": "Exhale as you curl your heels up, and inhale as you lower back to the start.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-kneeling-leg-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-kneeling-leg-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-kneeling-leg-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-kneeling-leg-curl.jpg"
+    }
+  },
+  {
+    "id": "0585",
+    "name": "Lever Leg Extension",
+    "aliases": [
+      "leg extension",
+      "machine leg extension",
+      "lever leg extension",
+      "quad extension",
+      "seated leg extension",
+      "leg straighten machine"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quads",
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated machine exercise that strengthens the quadriceps by extending the knees against a padded lever.",
+    "instructions": "Adjust the seat height and backrest of the machine to fit your body. Sit on the machine with your back against the backrest and your feet on the footpad. Grasp the handles or sidebars for stability. Extend your legs forward by straightening your knees, lifting the weight. Pause for a moment at the top, then slowly lower the weight back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat and backrest so your knees line up with the machine's pivot point.",
+      "Sit back against the pad and place your shins behind the lower roller pad.",
+      "Grip the handles and start with your knees bent and feet pointed forward.",
+      "Straighten your knees to lift the pad until your legs are nearly straight.",
+      "Pause briefly while keeping your thighs pressed into the seat.",
+      "Lower the pad with control until your knees are bent again."
+    ],
+    "formCues": [
+      "Line up knees with pivot",
+      "Lift with your quads",
+      "Keep hips on the seat",
+      "Lower under control"
+    ],
+    "commonMistakes": [
+      "Knees sit too far forward or behind the machine pivot.",
+      "Swinging the weight up with momentum.",
+      "Locking the knees hard at the top.",
+      "Lifting the hips or lower back off the seat."
+    ],
+    "breathing": "Exhale as you straighten your knees, and inhale as you lower the pad back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-leg-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-leg-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-leg-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-leg-extension.jpg"
+    }
+  },
+  {
+    "id": "0586",
+    "name": "Lever Lying Leg Curl",
+    "aliases": [
+      "lying leg curl",
+      "machine lying leg curl",
+      "prone leg curl",
+      "hamstring curl machine",
+      "leg curl machine",
+      "lever lying leg curl"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "calves"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "calves",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A machine hamstring exercise done face down by bending the knees to curl a padded lever toward the glutes.",
+    "instructions": "Adjust the machine to fit your body and select the desired weight. Lie face down on the machine with your legs straight and your heels against the padded lever. Grasp the handles or the sides of the machine for stability. Keeping your upper body stationary, exhale and curl your legs up as far as possible without lifting your hips off the pad. Hold the contracted position for a brief pause as you squeeze your hamstrings. Inhale and slowly lower the lever back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the machine so your knees line up with the machine's pivot and the pad rests against the back of your lower legs above your heels.",
+      "Lie face down on the bench with your legs straight and grab the handles or bench edges for support.",
+      "Press your hips into the pad and point your toes forward to set your start position.",
+      "Curl the pad upward by bending your knees until your heels move toward your glutes.",
+      "Pause briefly at the top while keeping your hips down and thighs on the pad.",
+      "Lower the pad back down under control until your legs are straight again."
+    ],
+    "formCues": [
+      "Keep hips glued down",
+      "Curl through the hamstrings",
+      "Move slow on the way down",
+      "Knees stay in line"
+    ],
+    "commonMistakes": [
+      "Lifting the hips off the pad at the top",
+      "Using momentum to swing the pad upward",
+      "Stopping short and not fully lowering the pad",
+      "Feet turning sharply inward or outward during the curl"
+    ],
+    "breathing": "Exhale as you curl the pad up, and inhale as you lower it back down under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-lying-leg-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-lying-leg-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-lying-leg-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-lying-leg-curl.jpg"
+    }
+  },
+  {
+    "id": "0593",
+    "name": "Lever Reverse Hyperextension",
+    "aliases": [
+      "reverse hyperextension machine",
+      "lever reverse hyper",
+      "machine reverse hyperextension",
+      "reverse leg raise machine",
+      "glute raise on machine",
+      "lever reverse hyperextension"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A machine glute and hamstring exercise where you raise your legs behind you while lying face down on a pad.",
+    "instructions": "Adjust the leverage machine to fit your body and secure your feet in the foot pads. Lie face down on the machine with your upper body hanging off the edge and your hips resting on the pad. Cross your arms over your chest or place them behind your head. Engage your glutes and hamstrings to lift your legs upward until they are parallel to the ground. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the machine so your hips rest on the pad and your legs can hang freely.",
+      "Lie face down with your torso supported and grip the handles or sides for stability.",
+      "Place your feet against the foot pads and let your legs hang down under control.",
+      "Brace your midsection and squeeze your glutes to raise your legs behind you.",
+      "Lift until your legs are about in line with your torso without arching your lower back.",
+      "Lower your legs slowly to the start position and repeat."
+    ],
+    "formCues": [
+      "Lift with your glutes",
+      "Keep hips on the pad",
+      "Control the swing",
+      "Stop at torso level"
+    ],
+    "commonMistakes": [
+      "Swinging the legs up with momentum",
+      "Arching the lower back at the top",
+      "Letting the hips slide off the pad",
+      "Bending and straightening the knees during each rep"
+    ],
+    "breathing": "Inhale as you lower your legs, and exhale as you raise them behind you.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-reverse-hyperextension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-reverse-hyperextension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-reverse-hyperextension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-reverse-hyperextension.jpg"
+    }
+  },
+  {
+    "id": "0597",
+    "name": "Lever Seated Hip Abduction",
+    "aliases": [
+      "seated hip abduction",
+      "hip abductor machine",
+      "abductor machine",
+      "machine hip abduction",
+      "outer thigh machine",
+      "lever seated hip abduction"
+    ],
+    "bodyPart": "upper legs",
+    "target": "abductors",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "glutes",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated machine exercise where you press your legs outward against pads to train the hip abductors and outer glutes.",
+    "instructions": "Adjust the seat height so that your knees are at a 90-degree angle. Sit on the machine with your back against the backrest and your feet on the footrests. Place your hands on the side handles for stability. Engage your abductors and slowly push your legs apart, away from the midline of your body. Pause for a moment at the end of the movement, then slowly bring your legs back together to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat so your knees bend about 90 degrees and the thigh pads rest against the outside of your legs.",
+      "Sit tall with your back against the pad, place your feet on the footrests, and grip the handles.",
+      "Start with your legs together and your knees aligned with the machine's pivot.",
+      "Drive your knees outward against the pads until your legs are as wide as your comfortable range allows.",
+      "Pause briefly with your hips still on the seat.",
+      "Bring your legs back together slowly until the pads nearly touch, then repeat."
+    ],
+    "formCues": [
+      "Sit tall",
+      "Drive knees out",
+      "Control the return",
+      "Keep hips on seat"
+    ],
+    "commonMistakes": [
+      "Leaning the torso forward or rocking back to move the weight.",
+      "Letting the legs snap back together on the return.",
+      "Lifting the hips off the seat at the widest point.",
+      "Turning the feet excessively to cheat the movement."
+    ],
+    "breathing": "Exhale as you press your knees outward, and inhale as you return to the starting position.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-seated-hip-abduction.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-seated-hip-abduction.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-seated-hip-abduction.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-seated-hip-abduction.jpg"
+    }
+  },
+  {
+    "id": "0598",
+    "name": "Lever Seated Hip Adduction",
+    "aliases": [
+      "seated hip adduction",
+      "hip adductor machine",
+      "inner thigh machine",
+      "seated inner thigh squeeze",
+      "machine hip adduction",
+      "lever seated hip adduction"
+    ],
+    "bodyPart": "upper legs",
+    "target": "adductors",
+    "secondaryMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated machine exercise that trains the inner thighs by bringing the legs together against resistance.",
+    "instructions": "Adjust the seat height and position yourself on the machine with your back against the backrest. Place your feet on the footrests and grasp the handles for stability. Engage your adductor muscles and slowly bring your legs together, squeezing your inner thighs. Pause for a moment at the peak contraction, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat and pads so your knees line up with the machine's pivot point.",
+      "Sit tall with your back against the pad, place your legs outside the thigh pads, and grab the handles.",
+      "Set your feet flat on the footrests and start with your legs comfortably apart.",
+      "Bring your legs together by pressing inward against the pads.",
+      "Squeeze your inner thighs briefly when the pads come together.",
+      "Return the pads outward slowly until you reach the start position without letting the weight slam."
+    ],
+    "formCues": [
+      "Sit tall",
+      "Control both directions",
+      "Squeeze inner thighs",
+      "Keep hips still"
+    ],
+    "commonMistakes": [
+      "Leaning forward or lifting the lower back off the pad.",
+      "Letting the pads fly open on the way back.",
+      "Using short, bouncing reps instead of controlled motion.",
+      "Turning the feet and knees excessively to force the movement."
+    ],
+    "breathing": "Exhale as you press your legs together, and inhale as you return to the starting position.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-seated-hip-adduction.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-seated-hip-adduction.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-seated-hip-adduction.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-seated-hip-adduction.jpg"
+    }
+  },
+  {
+    "id": "0599",
+    "name": "Lever Seated Leg Curl",
+    "aliases": [
+      "seated leg curl",
+      "machine seated leg curl",
+      "lever leg curl",
+      "seated hamstring curl",
+      "hamstring curl machine",
+      "leg curl machine",
+      "lever seated leg curl"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "calves"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "calves",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated machine hamstring exercise where you bend your knees to pull a padded lever downward.",
+    "instructions": "Adjust the machine to fit your body and sit on it with your back against the backrest. Place your lower legs under the padded lever, just above your ankles. Grasp the handles on the sides of the machine for support. Keeping your upper legs stationary, exhale and curl your legs up as far as possible. Hold the contracted position for a brief pause as you squeeze your hamstrings. Inhale and slowly lower the lever back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat and pad so your knees line up with the machine’s pivot point.",
+      "Sit back against the pad and place your lower legs under the roller just above your ankles.",
+      "Grip the handles and keep your thighs pressed into the seat.",
+      "Curl the pad down by bending your knees until your heels move toward the floor.",
+      "Pause briefly and squeeze your hamstrings at the bottom.",
+      "Lower the pad back up with control until your knees are nearly straight."
+    ],
+    "formCues": [
+      "Keep hips glued down",
+      "Curl through the heels",
+      "Move only at knees",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Lifting the hips off the seat during the curl.",
+      "Using momentum and swinging the pad through the rep.",
+      "Letting the knees fully lock out at the top.",
+      "Setting the pad too high on the calves instead of above the ankles."
+    ],
+    "breathing": "Exhale as you curl the pad down, and inhale as you return it to the starting position.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-seated-leg-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-seated-leg-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-seated-leg-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-seated-leg-curl.jpg"
+    }
+  },
+  {
+    "id": "2286",
+    "name": "Lever Standing Hip Extension",
+    "aliases": [
+      "machine standing hip extension",
+      "butt blaster",
+      "glute kickback machine",
+      "Lever Standing Hip Extension",
+      "lever hip extension"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "erector spinae"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "gluteus maximus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A machine-based hip extension to isolate and strengthen the glutes.",
+    "instructions": "Position yourself on the standing hip extension machine so one foot is on the lever platform. Brace your core and press the platform straight back using your heel, extending your hip fully. Lower under control and repeat for reps before switching legs.",
+    "steps": [
+      "Adjust the machine to your height.",
+      "Place one foot on platform, chest against pad.",
+      "Brace core and grasp handles for balance.",
+      "Extend hip, pressing lever back with heel.",
+      "Return to starting position and repeat."
+    ],
+    "formCues": [
+      "Drive through heel",
+      "Keep knee slightly bent",
+      "Don't arch lower back",
+      "Pause at top briefly"
+    ],
+    "commonMistakes": [
+      "Excessive lower back arch",
+      "Using momentum",
+      "Letting knee lock out",
+      "Not completing full extension"
+    ],
+    "breathing": "Exhale as you extend hip, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-standing-hip-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-standing-hip-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-standing-hip-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-standing-hip-extension.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-quadriceps-lying-stretch",
+    "name": "Lying Quadriceps Stretch",
+    "aliases": [
+      "prone quad stretch",
+      "lying quad stretch"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quadriceps",
+    "secondaryMuscles": [
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A stretch for the quadriceps performed lying on the stomach for maximal knee flexion.",
+    "instructions": "Lie face down and grasp one ankle behind you, gently pulling the heel toward your glutes while keeping hips down. Feel a stretch in the front thigh and hold without straining the knee.",
+    "steps": [
+      "Lie on your stomach with legs extended.",
+      "Bend one knee, bringing heel toward glute.",
+      "Reach back and grasp ankle with hand.",
+      "Gently pull heel closer to glute until a stretch is felt.",
+      "Hold, then switch sides."
+    ],
+    "formCues": [
+      "Knees together",
+      "Relax neck",
+      "Do not force",
+      "Hips flat"
+    ],
+    "commonMistakes": [
+      "Pulling too hard",
+      "Letting pelvis lift",
+      "Knee splaying out"
+    ],
+    "breathing": "Exhale as you pull, inhale to release.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-quadriceps-lying-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-quadriceps-lying-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-quadriceps-lying-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-quadriceps-lying-stretch.jpg"
+    }
+  },
+  {
+    "id": "0668",
+    "name": "Rear Decline Bridge",
+    "aliases": [
+      "rear decline bridge",
+      "glute bridge",
+      "bodyweight glute bridge",
+      "hip bridge",
+      "floor bridge",
+      "lying hip raise"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bodyweight floor bridge that lifts the hips to train the glutes and hamstrings while keeping the shoulders on the ground.",
+    "instructions": "Lie on your back with your feet flat on the ground and your knees bent. Place your arms by your sides with your palms facing down. Engage your glutes and hamstrings, and lift your hips off the ground until your body forms a straight line from your knees to your shoulders. Hold this position for a few seconds, then slowly lower your hips back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Lie on your back with your knees bent and feet flat on the floor, hip-width apart.",
+      "Place your arms by your sides and press your palms lightly into the floor.",
+      "Brace your midsection and squeeze your glutes.",
+      "Drive through your heels and lift your hips until your knees, hips, and shoulders line up.",
+      "Pause briefly at the top while keeping your ribs down.",
+      "Lower your hips to the floor with control and reset before the next rep."
+    ],
+    "formCues": [
+      "Drive through your heels",
+      "Squeeze glutes at the top",
+      "Keep ribs down",
+      "Don't arch your low back"
+    ],
+    "commonMistakes": [
+      "Pushing through the toes so the heels lift",
+      "Overarching the lower back at the top",
+      "Letting the knees cave inward",
+      "Dropping the hips quickly to the floor"
+    ],
+    "breathing": "Inhale at the bottom, exhale as you lift your hips, and inhale again as you lower with control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/rear-decline-bridge.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/rear-decline-bridge.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/rear-decline-bridge.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/rear-decline-bridge.jpg"
+    }
+  },
+  {
+    "id": "1585",
+    "name": "Runner's Stretch",
+    "aliases": [
+      "lunge stretch",
+      "hip flexor stretch",
+      "iliopsoas stretch",
+      "Stretching - Runners Stretch",
+      "runners stretch"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hip flexors",
+    "secondaryMuscles": [
+      "hamstrings",
+      "quadriceps",
+      "gluteus maximus"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "iliopsoas",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A flexibility exercise targeting the hip flexors and hamstrings by stepping one leg forward into a deep lunge.",
+    "instructions": "Begin in a lunge position with one foot forward and the other leg extended back, keeping both hands on the floor. Sink your hips low toward the ground while keeping your chest lifted, feeling a stretch in the hip flexor of your rear leg and hamstring of your front leg.",
+    "steps": [
+      "Step one foot forward into a lunge, keeping the rear leg extended.",
+      "Place both hands on either side of the front foot.",
+      "Lower your hips gently, keeping back leg straight.",
+      "Lift your chest for deeper stretch.",
+      "Hold, then switch legs."
+    ],
+    "formCues": [
+      "Keep back leg long",
+      "Sink hips down",
+      "Lift chest",
+      "Square your hips"
+    ],
+    "commonMistakes": [
+      "Letting knee go over toes",
+      "Dropping hips too low",
+      "Arching the back excessively"
+    ],
+    "breathing": "Inhale as you get into position, exhale as you deepen the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-runners-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-runners-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-runners-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-runners-stretch.jpg"
+    }
+  },
+  {
+    "id": "0740",
+    "name": "Sled 45 Degree Wide Leg Press",
+    "aliases": [
+      "leg press machine",
+      "hack squat press",
+      "plate-loaded leg press",
+      "wide stance leg press",
+      "Sled 45 Degree Leg Wide Press",
+      "sled 45° leg wide press"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quadriceps",
+    "secondaryMuscles": [
+      "gluteus maximus",
+      "adductors",
+      "hamstrings"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A compound lower body movement targeting the quadriceps with emphasis on glutes and adductors due to a wide foot stance.",
+    "instructions": "Sit on a 45-degree leg press machine with feet placed wider than hip-width on the platform. Push the platform up to release the safety handles and slowly lower it toward your chest, then drive through your heels to press the weight back up.",
+    "steps": [
+      "Adjust the seat and load desired weight.",
+      "Sit with your back and head against the pad, feet flat and wide on the platform.",
+      "Release the safety handles and grasp the side handles.",
+      "Bend your knees to lower the platform until your thighs reach 90 degrees or just past.",
+      "Press through your heels to extend your legs fully, but avoid locking out the knees."
+    ],
+    "formCues": [
+      "Push through heels",
+      "Keep knees in line with toes",
+      "Do not lock knees at top",
+      "Maintain flat lower back"
+    ],
+    "commonMistakes": [
+      "Allowing knees to collapse inward",
+      "Rounding lower back",
+      "Half reps or short range",
+      "Locking knees at extension"
+    ],
+    "breathing": "Inhale as you lower the platform, exhale as you press it back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/sled-45-degree-leg-wide-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/sled-45-degree-leg-wide-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/sled-45-degree-leg-wide-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/sled-45-degree-leg-wide-press.jpg"
+    }
+  },
+  {
+    "id": "0743",
+    "name": "Sled Hack Squat",
+    "aliases": [
+      "hack squat",
+      "sled hack squat machine",
+      "machine hack squat",
+      "hack squat machine",
+      "angled sled squat",
+      "supported sled squat",
+      "sled hack squat"
+    ],
+    "bodyPart": "upper legs",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "quadriceps",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": "sled machine",
+    "muscleGroup": "quadriceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A machine squat on an angled sled with your back supported to train the quads, glutes, and legs through a controlled range.",
+    "instructions": "Adjust the sled machine to a comfortable position for your height. Stand with your feet shoulder-width apart on the platform, toes slightly pointed outwards. Hold onto the handles or bars for stability. Lower your body by bending your knees and hips, keeping your back straight and chest up. Continue lowering until your thighs are parallel to the ground or slightly below. Pause for a moment, then push through your heels to raise your body back up to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand on the sled platform with your back against the pad and your shoulders under the pads.",
+      "Place your feet about shoulder-width apart on the platform with toes turned slightly out, then grip the handles.",
+      "Unlock the sled and lower yourself by bending your knees and hips until your thighs reach parallel or your deepest controlled position.",
+      "Keep your full foot planted against the platform as your knees track in line with your toes.",
+      "Drive through your heels and midfoot to extend your knees and hips and return the sled upward.",
+      "Stop just short of locking your knees, then continue into the next repetition."
+    ],
+    "formCues": [
+      "Keep your back on pad",
+      "Knees track over toes",
+      "Push through whole foot",
+      "Control the descent"
+    ],
+    "commonMistakes": [
+      "Feet placed too low so the heels lift off the platform",
+      "Knees collapsing inward during the lowering phase",
+      "Lower back rounding or hips peeling off the pad",
+      "Bouncing out of the bottom instead of pausing briefly"
+    ],
+    "breathing": "Inhale as you lower the sled, then exhale as you press it back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/sled-hack-squat.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/sled-hack-squat.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/sled-hack-squat.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/sled-hack-squat.jpg"
+    }
+  },
+  {
+    "id": "0750",
+    "name": "Smith Chair Squat",
+    "aliases": [
+      "smith chair squat",
+      "smith machine squat",
+      "smith squat",
+      "machine back squat",
+      "guided bar squat"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": "smith machine",
+    "muscleGroup": "glutes",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A Smith machine squat variation that targets the quads while training the glutes and hamstrings through a controlled bar path.",
+    "instructions": "Adjust the height of the smith machine bar to a comfortable position. Stand with your feet shoulder-width apart, toes slightly turned out. Place the barbell across your upper back, resting it on your traps. Engage your core and keep your chest up as you slowly lower your body by bending your knees and hips. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set the Smith bar across your upper back and stand with your feet about shoulder-width apart, slightly in front of the bar path.",
+      "Unrack the bar and brace your core with your chest up and eyes forward.",
+      "Bend your knees and hips together to sit straight down under control.",
+      "Lower until your thighs are about parallel to the floor or slightly below while keeping your heels down.",
+      "Drive through your midfoot and heels to stand back up until your knees and hips are fully extended.",
+      "Lock out tall, then repeat for the next rep."
+    ],
+    "formCues": [
+      "Chest up",
+      "Knees track over toes",
+      "Drive through heels",
+      "Brace your core"
+    ],
+    "commonMistakes": [
+      "Feet set directly under the bar so the knees travel too far forward.",
+      "Heels lift off the floor at the bottom.",
+      "Knees cave inward during the ascent.",
+      "Lower back rounds as the hips drop."
+    ],
+    "breathing": "Inhale and brace before you lower, then exhale as you drive back up to standing.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/smith-chair-squat.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/smith-chair-squat.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/smith-chair-squat.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/smith-chair-squat.jpg"
+    }
+  },
+  {
+    "id": "0748",
+    "name": "Smith Machine Leg Press",
+    "aliases": [
+      "smith machine leg press",
+      "smith lying leg press",
+      "smith platform press",
+      "Smith Leg Press",
+      "smith bench press"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quadriceps",
+    "secondaryMuscles": [
+      "gluteus maximus",
+      "hamstrings",
+      "adductors"
+    ],
+    "equipment": "smith machine",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A machine-based variation of leg press performed with a Smith machine barbell in a supine or incline position.",
+    "instructions": "Lie on the floor or bench under a Smith machine with feet placed on the bar wider than shoulder-width. Unlock the bar and press upwards with your legs, lowering until your knees reach a 90-degree angle before pressing back to the start.",
+    "steps": [
+      "Set the safety stops and load the appropriate weight.",
+      "Lie under the Smith bar and position feet wider than shoulder-width on the bar.",
+      "Unrack the bar by rotating your feet upward.",
+      "Lower the bar slowly toward your torso until legs form roughly a 90-degree angle.",
+      "Press the bar up by extending your knees and hips."
+    ],
+    "formCues": [
+      "Keep core braced",
+      "Press evenly with both feet",
+      "Full range of motion",
+      "Maintain foot flatness"
+    ],
+    "commonMistakes": [
+      "Incorrect foot placement",
+      "Pressing with toes only",
+      "Shallow movement",
+      "Letting knees cave inward"
+    ],
+    "breathing": "Inhale as you lower the bar, exhale as you press upward.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/smith-leg-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/smith-leg-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/smith-leg-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/smith-leg-press.jpg"
+    }
+  },
+  {
+    "id": "1511",
+    "name": "Standing Hamstring Stretch",
+    "aliases": [
+      "hamstring stretch",
+      "toe touch stretch",
+      "static hamstring stretch",
+      "Stretching - Hamstring Stretch"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "glutes",
+      "calves"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A static stretch targeting the hamstring muscles along the back of the upper leg.",
+    "instructions": "Stand tall and keep knees slightly bent. Hinge forward at the hips, lowering your torso while reaching towards your toes to feel a gentle stretch in your hamstrings. Hold the stretch without bouncing.",
+    "steps": [
+      "Stand up straight with feet hip-width apart.",
+      "Keep knees soft, and hinge forward at the hips.",
+      "Lower your torso toward your legs while reaching for your toes.",
+      "Stop when you feel a gentle stretch in your hamstrings.",
+      "Hold for the desired duration, then return to standing."
+    ],
+    "formCues": [
+      "Keep back straight",
+      "Hinge from hips",
+      "Avoid locking knees",
+      "Don't bounce"
+    ],
+    "commonMistakes": [
+      "Rounding the back",
+      "Locking out the knees",
+      "Forcing the stretch"
+    ],
+    "breathing": "Exhale as you hinge forward, inhale as you return upright.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-hamstring-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-hamstring-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-hamstring-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-hamstring-stretch.jpg"
+    }
+  },
+  {
+    "id": "0484",
+    "name": "Standing Knee Raise Stretch",
+    "aliases": [
+      "knee hug stretch",
+      "standing hip flexor stretch",
+      "dynamic knee raise stretch",
+      "Stretching - Knee Raise",
+      "hip raise (bent knee)"
+    ],
+    "bodyPart": "upper legs",
+    "target": "hip flexors",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "quadriceps"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "iliopsoas",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A stretch that targets the hip flexors and glutes by pulling one knee toward the chest while standing.",
+    "instructions": "Stand upright and balance on one foot. Lift one knee up toward your chest, grasping it with both hands and pulling gently until you feel a stretch in the hip and glute. Hold briefly, lower, and repeat on the other leg.",
+    "steps": [
+      "Stand tall with feet together.",
+      "Lift one knee toward your chest.",
+      "Grasp your knee with both hands.",
+      "Pull the knee gently toward your chest, feeling the stretch.",
+      "Hold, then lower and repeat on the opposite leg."
+    ],
+    "formCues": [
+      "Keep torso upright",
+      "Engage core",
+      "Use arms to pull knee gently",
+      "Do not lean back"
+    ],
+    "commonMistakes": [
+      "Rounding shoulders",
+      "Pulling too forcefully",
+      "Losing balance"
+    ],
+    "breathing": "Exhale as you pull the knee up, inhale as you release.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-knee-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-knee-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-knee-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-knee-raise.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-quadriceps-stretch",
+    "name": "Standing Quadriceps Stretch",
+    "aliases": [
+      "quad stretch",
+      "standing quad stretch"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quadriceps",
+    "secondaryMuscles": [
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "quadriceps femoris",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A standing stretch that targets the quadriceps for improved flexibility.",
+    "instructions": "While standing, bend one knee and reach back to grasp your foot or ankle. Pull your heel towards your glutes while keeping your knees close together and torso upright. Use support if needed for balance.",
+    "steps": [
+      "Stand upright, balancing on one foot.",
+      "Bend the opposite knee, reaching back for the foot.",
+      "Pull heel gently towards glute while keeping knees together.",
+      "Keep torso tall and hips level.",
+      "Hold the stretch, then switch legs."
+    ],
+    "formCues": [
+      "Knees side by side",
+      "Torso tall",
+      "Engage core",
+      "Breathe steadily"
+    ],
+    "commonMistakes": [
+      "Knees apart",
+      "Leaning forward",
+      "Pulling foot too aggressively"
+    ],
+    "breathing": "Exhale as you pull heel in, inhale as you release.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-quadriceps-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-quadriceps-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-quadriceps-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-quadriceps-stretch.jpg"
+    }
+  },
+  {
+    "id": "0851",
+    "name": "Weighted Sissy Squat",
+    "aliases": [
+      "sissy squat with weight",
+      "weighted quad squat",
+      "plate sissy squat",
+      "dumbbell sissy squat",
+      "barbell sissy squat",
+      "lean-back squat",
+      "weighted sissy squat"
+    ],
+    "bodyPart": "upper legs",
+    "target": "quads",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": "weighted",
+    "muscleGroup": "glutes",
+    "difficulty": "advanced",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A quad-focused squat variation done on the balls of the feet with a backward torso lean while holding added weight.",
+    "instructions": "Stand with your feet shoulder-width apart and your toes pointing slightly outward. Hold a weight in front of your chest with both hands, or place a barbell across your upper back. Keeping your chest up and your core engaged, slowly lower your body down by bending at the knees and hips. Continue lowering until your thighs are parallel to the ground or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet about hip-width apart and hold the weight securely in front of your chest or across your upper back.",
+      "Rise onto the balls of your feet and brace your midsection.",
+      "Lean your torso back in one straight line from knees to shoulders as your knees travel forward.",
+      "Lower under control by bending your knees until you feel a strong stretch through the front of your thighs.",
+      "Drive through the balls of your feet and straighten your knees to return to the start.",
+      "Finish tall and reset your balance before the next repetition."
+    ],
+    "formCues": [
+      "Lean back as one piece",
+      "Keep hips extended",
+      "Drive knees forward",
+      "Stay on your toes"
+    ],
+    "commonMistakes": [
+      "Bending forward at the hips during the descent",
+      "Dropping the heels and shifting weight backward",
+      "Letting the knees cave inward",
+      "Lowering too fast and bouncing out of the bottom"
+    ],
+    "breathing": "Inhale as you lower under control, then exhale as you drive back up to the starting position.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/weighted-sissy-squat.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/weighted-sissy-squat.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/weighted-sissy-squat.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/weighted-sissy-squat.jpg"
+    }
+  }
+]

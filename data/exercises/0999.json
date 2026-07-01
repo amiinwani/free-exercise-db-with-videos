@@ -1,0 +1,50 @@
+{
+  "id": "0999",
+  "name": "Band Standing Calf Raise",
+  "aliases": [
+    "resistance band calf raise",
+    "band-assisted calf raise",
+    "Band Standing Calf Raise",
+    "band single leg calf raise"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "soleus",
+    "tibialis posterior"
+  ],
+  "equipment": "band",
+  "muscleGroup": "gastrocnemius",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "Standing calf raise performed with a resistance band to strengthen the calves.",
+  "instructions": "Stand upright with both feet on the band and hold the handles by your sides or shoulders. Press through the balls of your feet to rise onto your toes, stretching the band, and slowly lower back down. Maintain balance and perform the movement with controlled tempo.",
+  "steps": [
+    "Stand with feet shoulder-width on the band.",
+    "Hold band handles by sides or at shoulders for resistance.",
+    "Keep torso upright and brace core.",
+    "Raise heels to stand on the balls of your feet, contracting calves.",
+    "Lower heels back to the floor slowly."
+  ],
+  "formCues": [
+    "Go all the way up",
+    "Pause at the top",
+    "Lower slowly",
+    "Keep core engaged"
+  ],
+  "commonMistakes": [
+    "Partial reps",
+    "Letting heels drop too quickly",
+    "Leaning forward or backward"
+  ],
+  "breathing": "Exhale as you rise, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-standing-calf-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-standing-calf-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-standing-calf-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-standing-calf-raise.jpg"
+  }
+}

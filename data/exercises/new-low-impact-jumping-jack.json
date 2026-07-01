@@ -1,0 +1,52 @@
+{
+  "id": "new-low-impact-jumping-jack",
+  "name": "Jumping Jack",
+  "aliases": [
+    "star jump",
+    "side straddle hop",
+    "Jumping Jack",
+    "low-impact jumping jack"
+  ],
+  "bodyPart": "cardio",
+  "target": "full body",
+  "secondaryMuscles": [
+    "deltoids",
+    "adductors",
+    "calves",
+    "gluteus medius"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "cardiovascular system",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A dynamic total-body movement for cardiovascular and muscular endurance.",
+  "instructions": "Begin standing with feet together and arms at sides. Jump feet outward while raising arms overhead, then reverse to starting position in a single fluid motion.",
+  "steps": [
+    "Start with feet together and arms relaxed at your sides.",
+    "Jump feet out to shoulder-width as you raise arms overhead.",
+    "Briefly touch hands or keep arms straight above head.",
+    "Jump feet back together and arms down to sides.",
+    "Repeat at a brisk pace."
+  ],
+  "formCues": [
+    "Land softly",
+    "Keep core engaged",
+    "Full arm extension",
+    "Stay light on feet"
+  ],
+  "commonMistakes": [
+    "Slapping feet",
+    "Incomplete arm raise",
+    "Landing hard on heels"
+  ],
+  "breathing": "Breathe evenly throughout the movement.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/jumping-jack.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jumping-jack.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/jumping-jack.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jumping-jack.jpg"
+  }
+}

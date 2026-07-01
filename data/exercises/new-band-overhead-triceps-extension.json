@@ -1,0 +1,54 @@
+{
+  "id": "new-band-overhead-triceps-extension",
+  "name": "Band Overhead Triceps Extension",
+  "aliases": [
+    "band overhead triceps extension",
+    "resistance band overhead triceps extension",
+    "overhead band triceps extension",
+    "band triceps extension",
+    "band overhead extension",
+    "overhead triceps with band"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "shoulders",
+    "core"
+  ],
+  "equipment": "band",
+  "muscleGroup": "upper arms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A standing band triceps exercise where you extend your elbows overhead while keeping your upper arms mostly fixed.",
+  "instructions": "Anchor a resistance band low behind you or hold it under your feet. Face away, grip the band with both hands and arms overhead, elbows bent. Extend your arms fully overhead while keeping elbows stationary, then return to the starting position with control.",
+  "steps": [
+    "Stand on the middle of the band with feet hip-width apart and hold one end in each hand.",
+    "Raise your hands overhead and bend your elbows so your hands move behind your head.",
+    "Keep your upper arms close to your ears and brace your midsection.",
+    "Straighten your elbows to press the band overhead until your arms are fully extended.",
+    "Pause briefly at the top, then bend your elbows slowly to return behind your head.",
+    "Repeat without letting your elbows flare wide."
+  ],
+  "formCues": [
+    "Elbows point forward",
+    "Upper arms stay still",
+    "Brace your ribs down",
+    "Fully straighten the elbows"
+  ],
+  "commonMistakes": [
+    "Elbows flare out to the sides",
+    "Lower back arches as the band goes overhead",
+    "Upper arms drift forward and backward",
+    "Only moving partway instead of fully extending"
+  ],
+  "breathing": "Inhale as you lower your hands behind your head, and exhale as you straighten your elbows overhead.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-overhead-triceps-extension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-overhead-triceps-extension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-overhead-triceps-extension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-overhead-triceps-extension.jpg"
+  }
+}

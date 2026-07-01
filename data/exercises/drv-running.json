@@ -1,0 +1,52 @@
+{
+  "id": "drv-running",
+  "name": "Running",
+  "aliases": [
+    "jogging",
+    "outdoor run",
+    "road running",
+    "treadmill running"
+  ],
+  "bodyPart": "cardio",
+  "target": "cardiovascular system",
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "glutes",
+    "calves"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "heart and lungs",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A repetitive aerobic movement that improves cardiovascular fitness and endurance.",
+  "instructions": "Begin at a comfortable pace, maintaining upright posture and relaxed shoulders. Land lightly on your feet and use a natural arm swing for balance, adjusting speed and distance as fitness improves.",
+  "steps": [
+    "Warm up with light walking or dynamic stretches.",
+    "Begin running at a moderate pace.",
+    "Maintain a steady breathing rhythm and upright posture.",
+    "Land lightly with a midfoot or forefoot strike.",
+    "Cool down with walking and stretching."
+  ],
+  "formCues": [
+    "Keep chest up",
+    "Relax shoulders",
+    "Lean slightly forward from ankles",
+    "Swing arms naturally"
+  ],
+  "commonMistakes": [
+    "Overstriding",
+    "Hunching shoulders",
+    "Landing heavily on heels"
+  ],
+  "breathing": "Exhale steadily as you push off, inhale as you recover.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/running.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/running.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/running.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/running.jpg"
+  }
+}

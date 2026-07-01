@@ -1,0 +1,53 @@
+{
+  "id": "0573",
+  "name": "Lever Back Extension",
+  "aliases": [
+    "machine back extension",
+    "lever back extension",
+    "back extension machine",
+    "seated back extension",
+    "lower back machine extension"
+  ],
+  "bodyPart": "back",
+  "target": "spine",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "glutes",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A machine-based trunk extension that trains the lower back, glutes, and hamstrings by moving your torso against resistance.",
+  "instructions": "Adjust the machine to fit your body size and range of motion. Sit on the machine with your back against the pad and your feet secured. Place your hands on the handles or grip bars. Engage your core and slowly lean forward, allowing your back to round slightly. Pause for a moment at the bottom position, feeling a stretch in your lower back. Using your back muscles, slowly raise your torso back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Adjust the machine so the back pad sits comfortably against your upper back and your feet are secured on the platform.",
+    "Sit tall against the pad and grip the handles or side bars.",
+    "Brace your core and lean your torso forward under control through the machine's range.",
+    "Stop at the bottom when you feel a comfortable stretch and keep your feet pressed into the platform.",
+    "Drive your torso back against the pad until you return to an upright position.",
+    "Repeat smoothly without bouncing or jerking the pad."
+  ],
+  "formCues": [
+    "Brace before you move",
+    "Move through a smooth arc",
+    "Keep feet firmly planted",
+    "Return to tall posture"
+  ],
+  "commonMistakes": [
+    "Using momentum and bouncing out of the bottom position",
+    "Pushing through a short, rushed range of motion",
+    "Letting the feet lift or shift on the platform",
+    "Hyperextending far past upright at the top"
+  ],
+  "breathing": "Inhale as you lean forward, then exhale as you extend back to an upright position.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-back-extension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-back-extension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-back-extension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-back-extension.jpg"
+  }
+}

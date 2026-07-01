@@ -1,0 +1,54 @@
+{
+  "id": "0321",
+  "name": "Dumbbell Incline Hammer Press",
+  "aliases": [
+    "incline hammer press",
+    "dumbbell incline hammer press",
+    "neutral-grip incline dumbbell press",
+    "incline DB hammer press",
+    "incline dumbbell chest press",
+    "incline press with palms facing in"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "An incline dumbbell press with a neutral grip that trains the upper chest, shoulders, and triceps.",
+  "instructions": "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, resting on your thighs. Lie back on the bench and position the dumbbells at shoulder level with your palms facing each other. Press the dumbbells up and away from your body until your arms are fully extended. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set an incline bench and sit with a dumbbell in each hand on your thighs.",
+    "Lie back on the bench and bring the dumbbells to chest height with your palms facing each other.",
+    "Plant your feet, pull your shoulder blades back into the bench, and keep your wrists stacked over your elbows.",
+    "Press the dumbbells upward until your arms are straight above your upper chest.",
+    "Lower the dumbbells under control until they return to chest level with your palms still facing in.",
+    "Repeat the press without bouncing the dumbbells off your chest or shoulders."
+  ],
+  "formCues": [
+    "Drive up over upper chest",
+    "Keep palms facing in",
+    "Pin shoulders to bench",
+    "Wrists stacked over elbows"
+  ],
+  "commonMistakes": [
+    "Flaring the elbows straight out to the sides",
+    "Letting the dumbbells drift back over the face",
+    "Banging the dumbbells together at the top",
+    "Arching the lower back and lifting the hips"
+  ],
+  "breathing": "Inhale as you lower the dumbbells to chest level, and exhale as you press them up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-hammer-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-hammer-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-hammer-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-hammer-press.jpg"
+  }
+}

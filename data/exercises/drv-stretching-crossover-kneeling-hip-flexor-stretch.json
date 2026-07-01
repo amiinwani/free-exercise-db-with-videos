@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-crossover-kneeling-hip-flexor-stretch",
+  "name": "Crossover Kneeling Hip Flexor Stretch",
+  "aliases": [
+    "kneeling hip flexor stretch",
+    "crossover lunge stretch",
+    "hip flexor crossover"
+  ],
+  "bodyPart": "waist",
+  "target": "hip flexors",
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "iliopsoas",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A kneeling stretch targeting hip flexors with the trunk rotated across the body.",
+  "instructions": "Begin in a lunge position with your back knee on the ground and front foot forward. Gently shift your hips forward and rotate your torso away from the back leg to deepen the stretch. Hold the position and switch sides.",
+  "steps": [
+    "Start in a kneeling lunge with one knee on the ground and the opposite foot forward.",
+    "Tuck the pelvis under and shift your weight forward, feeling a stretch in the hip flexor of the rear leg.",
+    "Rotate your torso across the body, away from the back leg.",
+    "Hold for 20-30 seconds, breathing steadily.",
+    "Release and repeat on the other side."
+  ],
+  "formCues": [
+    "Keep torso upright",
+    "Engage glutes",
+    "Rotate gently",
+    "Hips square"
+  ],
+  "commonMistakes": [
+    "Arching the back",
+    "Letting front knee collapse inward",
+    "Leaning forward excessively"
+  ],
+  "breathing": "Inhale to prepare, exhale as you rotate and deepen stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-crossover-kneeling-hip-flexor-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-crossover-kneeling-hip-flexor-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-crossover-kneeling-hip-flexor-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-crossover-kneeling-hip-flexor-stretch.jpg"
+  }
+}

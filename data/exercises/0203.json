@@ -1,0 +1,56 @@
+{
+  "id": "0203",
+  "name": "Cable Rear Delt Row (with rope)",
+  "aliases": [
+    "cable rear delt row",
+    "rope rear delt row",
+    "rear delt cable row",
+    "low cable rear delt row",
+    "rope face-away rear delt row",
+    "rear shoulder rope row",
+    "cable rear delt row (with rope)"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "trapezius",
+    "rhomboids",
+    "biceps"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "trapezius",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A cable rowing variation with a rope that targets the rear delts by pulling the elbows out and back.",
+  "instructions": "Attach a rope handle to a low pulley cable machine. Stand facing the machine with your feet shoulder-width apart. Grasp the rope handle with an overhand grip, palms facing each other. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Keep your elbows slightly bent and pull the rope towards your chest, squeezing your shoulder blades together. Pause for a moment at the top of the movement, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Attach a rope to a low cable pulley and stand facing the machine.",
+    "Grab the rope with both hands, step back to create tension, and set your feet about hip-width apart.",
+    "Soften your knees and hinge forward slightly with a flat back and arms extended in front of you.",
+    "Lead with your elbows and row the rope up toward your upper chest while letting the rope ends separate.",
+    "Pause briefly as your elbows travel out and back and your shoulder blades squeeze together.",
+    "Lower the rope under control until your arms are extended again without rounding your shoulders."
+  ],
+  "formCues": [
+    "Lead with the elbows",
+    "Chest up, back flat",
+    "Pull shoulders back",
+    "Control the return"
+  ],
+  "commonMistakes": [
+    "Standing fully upright and turning it into a regular cable row",
+    "Shrugging the shoulders up toward the ears during the pull",
+    "Pulling mostly with the hands and curling the rope in",
+    "Rounding the upper back as the rope returns forward"
+  ],
+  "breathing": "Inhale as you lower the rope forward, and exhale as you row the rope toward your upper chest.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-rear-delt-row-with-rope.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-rear-delt-row-with-rope.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-rear-delt-row-with-rope.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-rear-delt-row-with-rope.jpg"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "drv-kettlebell-deadlift",
+  "name": "Kettlebell Deadlift",
+  "aliases": [
+    "kb deadlift",
+    "kettlebell hip hinge",
+    "kettlebell conventional deadlift"
+  ],
+  "bodyPart": "back",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "erector spinae",
+    "quadriceps",
+    "forearms"
+  ],
+  "equipment": "kettlebell",
+  "muscleGroup": "gluteus maximus",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A hip hinge movement using a kettlebell from the floor to standing, building posterior chain and grip strength.",
+  "instructions": "Stand with feet hip-width apart, kettlebell between your feet. Hinge at the hips, bend knees and keep your back flat as you grip the kettlebell handle with both hands. Drive through your heels, extend hips and stand tall with the kettlebell, then reverse the movement to return to start.",
+  "steps": [
+    "Place kettlebell between your feet; stand with feet hip-width apart.",
+    "Hinge at hips and bend knees, keeping back flat and chest up.",
+    "Grip the kettlebell handle with both hands.",
+    "Drive through your heels to stand up, fully extending hips and knees.",
+    "Lower the kettlebell to the floor under control by hinging at the hips."
+  ],
+  "formCues": [
+    "Flat back",
+    "Push through heels",
+    "Engage glutes",
+    "Keep kettlebell close"
+  ],
+  "commonMistakes": [
+    "Rounding the lower back",
+    "Letting kettlebell drift from body",
+    "Locking knees early",
+    "Shrugging shoulders"
+  ],
+  "breathing": "Exhale as you stand up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/kettlebell-deadlift.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/kettlebell-deadlift.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/kettlebell-deadlift.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/kettlebell-deadlift.jpg"
+  }
+}

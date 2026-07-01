@@ -1,0 +1,52 @@
+{
+  "id": "2286",
+  "name": "Lever Standing Hip Extension",
+  "aliases": [
+    "machine standing hip extension",
+    "butt blaster",
+    "glute kickback machine",
+    "Lever Standing Hip Extension",
+    "lever hip extension"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "erector spinae"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "gluteus maximus",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A machine-based hip extension to isolate and strengthen the glutes.",
+  "instructions": "Position yourself on the standing hip extension machine so one foot is on the lever platform. Brace your core and press the platform straight back using your heel, extending your hip fully. Lower under control and repeat for reps before switching legs.",
+  "steps": [
+    "Adjust the machine to your height.",
+    "Place one foot on platform, chest against pad.",
+    "Brace core and grasp handles for balance.",
+    "Extend hip, pressing lever back with heel.",
+    "Return to starting position and repeat."
+  ],
+  "formCues": [
+    "Drive through heel",
+    "Keep knee slightly bent",
+    "Don't arch lower back",
+    "Pause at top briefly"
+  ],
+  "commonMistakes": [
+    "Excessive lower back arch",
+    "Using momentum",
+    "Letting knee lock out",
+    "Not completing full extension"
+  ],
+  "breathing": "Exhale as you extend hip, inhale as you return.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-standing-hip-extension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-standing-hip-extension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-standing-hip-extension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-standing-hip-extension.jpg"
+  }
+}

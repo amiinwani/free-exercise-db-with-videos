@@ -1,0 +1,48 @@
+{
+  "id": "drv-chest-lift-with-rotation",
+  "name": "Chest Lift with Rotation",
+  "aliases": [
+    "rotational crunch",
+    "oblique crunch twist",
+    "pilates chest lift with twist"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "obliques",
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "An abdominal exercise that combines a chest lift with torso rotation to target the obliques.",
+  "instructions": "Lie on your back with knees bent and feet flat. Engage your core, lift your chest off the mat while simultaneously rotating your torso to one side, then return to start. Alternate rotations with each rep.",
+  "steps": [
+    "Lie on your back, knees bent, feet flat on floor.",
+    "Place hands behind head, elbows wide.",
+    "Engage core and lift head, neck, and shoulders off mat.",
+    "Rotate torso to one side while lifting.",
+    "Return to center and lower down; repeat on alternate side."
+  ],
+  "formCues": [
+    "Twist from core",
+    "Don't pull on neck",
+    "Elbows wide",
+    "Exhale on lift"
+  ],
+  "commonMistakes": [
+    "Pulling on neck",
+    "Using arms to assist",
+    "Lifting too high",
+    "Not engaging core"
+  ],
+  "breathing": "Exhale as you lift and rotate, inhale as you lower.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/chest-lift-with-rotation.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/chest-lift-with-rotation.jpg"
+  }
+}

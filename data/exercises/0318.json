@@ -1,0 +1,52 @@
+{
+  "id": "0318",
+  "name": "Dumbbell Incline Curl",
+  "aliases": [
+    "incline dumbbell curl",
+    "DB incline curl",
+    "incline biceps curl",
+    "seated incline curl",
+    "lean-back dumbbell curl",
+    "dumbbell incline curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated biceps curl on an incline bench that trains the biceps through a long range with dumbbells.",
+  "instructions": "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, palms facing forward. Rest your upper arms on the incline bench and let your elbows hang down, fully extending your arms. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set an incline bench and sit back with a dumbbell in each hand.",
+    "Let your arms hang straight down under your shoulders with your palms facing forward.",
+    "Keep your upper arms still and curl the dumbbells toward your shoulders.",
+    "Pause briefly at the top and squeeze your biceps.",
+    "Lower the dumbbells slowly until your elbows are fully straight again."
+  ],
+  "formCues": [
+    "Keep elbows still",
+    "Palms stay forward",
+    "Lift with the biceps",
+    "Lower under control"
+  ],
+  "commonMistakes": [
+    "Swinging the dumbbells to start the curl",
+    "Letting the elbows drift forward as the weights rise",
+    "Stopping short instead of fully lowering the dumbbells",
+    "Bending the wrists back while curling"
+  ],
+  "breathing": "Inhale as you lower the dumbbells and exhale as you curl them up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-curl.jpg"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "2612",
+  "name": "Jump Rope",
+  "aliases": [
+    "skipping rope",
+    "rope skipping",
+    "jumping rope",
+    "skip rope",
+    "basic rope jumps",
+    "jump rope"
+  ],
+  "bodyPart": "cardio",
+  "target": "cardiovascular system",
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps",
+    "hamstrings",
+    "glutes"
+  ],
+  "equipment": "rope",
+  "muscleGroup": "calves",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A cardio exercise where you turn a rope with your hands and perform repeated small jumps as it passes under your feet.",
+  "instructions": "Hold the handles of the jump rope with your hands, palms facing inward. Stand with your feet shoulder-width apart and knees slightly bent. Swing the rope over your head and jump over it as it comes towards your feet. Land softly on the balls of your feet and repeat the jump as the rope comes around again. Continue jumping for the desired duration or number of repetitions.",
+  "steps": [
+    "Hold a handle in each hand with the rope behind your heels.",
+    "Stand tall with feet close together and elbows tucked by your sides.",
+    "Turn the rope with your wrists and swing it up overhead.",
+    "Hop just high enough to clear the rope as it passes under your feet.",
+    "Land softly on the balls of your feet with knees slightly bent.",
+    "Keep the rope moving in a smooth rhythm and repeat each jump."
+  ],
+  "formCues": [
+    "Turn with the wrists",
+    "Stay light on your feet",
+    "Jump only as needed",
+    "Keep elbows close"
+  ],
+  "commonMistakes": [
+    "Swinging the arms in big circles instead of using the wrists",
+    "Jumping too high off the floor on each rep",
+    "Landing flat-footed or with stiff knees",
+    "Letting the hands drift wide away from the hips"
+  ],
+  "breathing": "Breathe steadily and naturally, exhaling softly every few jumps while keeping a relaxed rhythm.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/jump-rope.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jump-rope.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/jump-rope.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jump-rope.jpg"
+  }
+}

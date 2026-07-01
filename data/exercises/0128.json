@@ -1,0 +1,53 @@
+{
+  "id": "0128",
+  "name": "Battling Ropes",
+  "aliases": [
+    "battle ropes",
+    "battling rope waves",
+    "alternating battle rope waves",
+    "rope waves",
+    "battle rope exercise",
+    "battling ropes"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "forearms",
+    "core"
+  ],
+  "equipment": "rope",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A rope conditioning exercise using alternating arm waves to train the shoulders, forearms, and core.",
+  "instructions": "Stand with your feet shoulder-width apart and knees slightly bent. Hold one end of the rope in each hand, with your palms facing each other. Raise your arms to shoulder height, keeping your elbows slightly bent. Begin making alternating waves with the ropes by rapidly raising and lowering each arm. Continue for the desired duration or number of repetitions.",
+  "steps": [
+    "Anchor your stance with feet about shoulder-width apart and bend your knees slightly.",
+    "Hold one rope end in each hand with your palms facing each other and your arms in front of you.",
+    "Brace your core and lift one hand as you lower the other to start the waves.",
+    "Keep alternating your arms quickly to send continuous waves down the ropes.",
+    "Maintain the slight knee bend and steady torso as you keep the waves even."
+  ],
+  "formCues": [
+    "Move arms fast",
+    "Keep chest tall",
+    "Brace your core",
+    "Make even waves"
+  ],
+  "commonMistakes": [
+    "Standing upright with locked knees",
+    "Swinging the whole torso instead of the arms",
+    "Letting the waves become uneven or stop",
+    "Lifting the shoulders up toward the ears"
+  ],
+  "breathing": "Breathe steadily throughout, exhaling with the arm drive and inhaling as the arms switch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/battling-ropes.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/battling-ropes.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/battling-ropes.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/battling-ropes.jpg"
+  }
+}

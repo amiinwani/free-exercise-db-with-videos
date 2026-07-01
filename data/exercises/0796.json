@@ -1,0 +1,52 @@
+{
+  "id": "0796",
+  "name": "Standing Wheel Rollout",
+  "aliases": [
+    "standing ab wheel rollout",
+    "ab wheel stretch",
+    "wheel rollout stretch",
+    "Stretching - Standing Wheel Rollout",
+    "standing wheel rollout"
+  ],
+  "bodyPart": "chest",
+  "target": "abdominals",
+  "secondaryMuscles": [
+    "latissimus dorsi",
+    "pectoralis major",
+    "deltoids"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "advanced",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "An advanced rollout exercise that stretches and strengthens the abdominals, chest, shoulders, and back.",
+  "instructions": "Begin standing with an ab wheel on the floor in front of you. Holding the handles, slowly roll the wheel forward as you lower your torso, keeping your arms straight, until your body is almost parallel to the ground. Use your core and lats to pull yourself back up.",
+  "steps": [
+    "Stand with feet shoulder-width apart and hold the ab wheel.",
+    "Bend forward and place the wheel on the floor in front of your feet.",
+    "Roll the wheel forward, extending your arms and torso while keeping your core tight.",
+    "Lower your body until you're just above the floor, maintaining a straight line from head to heels.",
+    "Reverse the motion by pulling the wheel back toward your feet, returning to the start."
+  ],
+  "formCues": [
+    "Engage core strongly",
+    "Do not let hips sag",
+    "Keep arms straight",
+    "Move slowly and with control"
+  ],
+  "commonMistakes": [
+    "Letting lower back arch excessively",
+    "Collapsing hips",
+    "Bending elbows during rollout"
+  ],
+  "breathing": "Inhale as you roll out, exhale as you pull back in.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-wheel-rollout.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-standing-wheel-rollout.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-wheel-rollout.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-standing-wheel-rollout.jpg"
+  }
+}

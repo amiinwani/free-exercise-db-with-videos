@@ -1,0 +1,54 @@
+{
+  "id": "2188",
+  "name": "Dumbbell Seated Triceps Extension",
+  "aliases": [
+    "seated dumbbell triceps extension",
+    "overhead dumbbell triceps extension",
+    "seated overhead triceps extension",
+    "two-hand dumbbell triceps extension",
+    "seated overhead dumbbell extension",
+    "seated triceps press",
+    "dumbbell seated triceps extension"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated overhead dumbbell triceps exercise where you lower the weight behind your head and extend your elbows to press it back up.",
+  "instructions": "Sit on a bench with your back straight and feet flat on the ground. Hold a dumbbell with both hands and extend your arms straight up overhead. Bend your elbows and lower the dumbbell behind your head, keeping your upper arms close to your ears. Pause for a moment, then straighten your arms and return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit tall on a bench with both feet flat on the floor.",
+    "Hold one dumbbell by the top end with both hands and press it straight overhead.",
+    "Keep your upper arms close to your head and brace your torso.",
+    "Bend your elbows to lower the dumbbell behind your head under control.",
+    "Stop when your forearms are below parallel and your elbows stay pointed up.",
+    "Straighten your elbows to raise the dumbbell back to the overhead start position."
+  ],
+  "formCues": [
+    "Elbows point up",
+    "Keep biceps by ears",
+    "Move only at elbows",
+    "Brace your ribs down"
+  ],
+  "commonMistakes": [
+    "Elbows flare wide out to the sides.",
+    "Lower back arches as the weight goes overhead.",
+    "Upper arms drift backward and forward during the rep.",
+    "The dumbbell drops too low with no control behind the head."
+  ],
+  "breathing": "Inhale as you lower the dumbbell behind your head, and exhale as you extend your elbows to raise it overhead.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-triceps-extension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-triceps-extension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-triceps-extension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-triceps-extension.jpg"
+  }
+}

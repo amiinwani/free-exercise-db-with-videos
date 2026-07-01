@@ -1,0 +1,55 @@
+{
+  "id": "0300",
+  "name": "Dumbbell Deadlift",
+  "aliases": [
+    "DB deadlift",
+    "dumbbell DL",
+    "dumbbell Romanian deadlift",
+    "two-dumbbell deadlift",
+    "dumbbell hip hinge",
+    "dumbbells from the floor",
+    "dumbbell deadlift"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A hip-hinge lift with two dumbbells that trains the glutes, hamstrings, and lower back while lifting from standing to lockout.",
+  "instructions": "Stand with your feet shoulder-width apart, toes pointing forward. Hold a dumbbell in each hand, palms facing your body, arms extended downwards. Bend at your hips and knees, lowering the dumbbells towards the ground while keeping your back straight. Push through your heels and extend your hips and knees, lifting the dumbbells back up to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with your feet hip- to shoulder-width apart, holding a dumbbell in each hand in front of your thighs.",
+    "Brace your midsection, pull your shoulders back, and keep your arms straight.",
+    "Push your hips back and bend your knees slightly as you slide the dumbbells down close to your legs.",
+    "Lower until the dumbbells reach around mid-shin or just below your knees while keeping your back flat.",
+    "Drive through your feet and push your hips forward to stand back up with the dumbbells at your thighs.",
+    "Finish tall with your hips and knees straight, then repeat the hinge."
+  ],
+  "formCues": [
+    "Hips back first",
+    "Keep dumbbells close",
+    "Chest proud",
+    "Stand tall at top"
+  ],
+  "commonMistakes": [
+    "Rounding the lower back as the dumbbells lower",
+    "Letting the dumbbells drift far in front of the legs",
+    "Squatting straight down instead of hinging the hips back",
+    "Locking the knees rigid or overbending them"
+  ],
+  "breathing": "Inhale as you lower the dumbbells with control, and exhale as you drive through your feet to stand up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-deadlift.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-deadlift.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-deadlift.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-deadlift.jpg"
+  }
+}

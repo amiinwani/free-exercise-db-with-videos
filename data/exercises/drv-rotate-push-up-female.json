@@ -1,0 +1,50 @@
+{
+  "id": "drv-rotate-push-up-female",
+  "name": "Rotational Push-Up",
+  "aliases": [
+    "rotate push up",
+    "T push-up",
+    "rotation push-up",
+    "push-up with rotation"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "deltoids",
+    "triceps",
+    "obliques",
+    "serratus anterior"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "pectoralis major",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A push-up variation involving a torso rotation to challenge the chest, shoulders, triceps, and core.",
+  "instructions": "From a push-up position, lower down as normal. As you press up, rotate your torso and extend one arm toward the ceiling, forming a T with your arms. Return to push-up position and repeat to the other side.",
+  "steps": [
+    "Begin in a standard push-up position.",
+    "Lower your chest toward the floor.",
+    "As you press up, rotate your torso and lift one arm toward the ceiling.",
+    "Hold briefly, keeping hips square.",
+    "Return to start, repeat on the other side."
+  ],
+  "formCues": [
+    "Rotate from torso",
+    "Stack shoulders",
+    "Keep core tight",
+    "Breathe evenly"
+  ],
+  "commonMistakes": [
+    "Letting hips sag",
+    "Twisting too fast",
+    "Losing shoulder alignment"
+  ],
+  "breathing": "Exhale when pushing up and rotating, inhale when lowering.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/rotate-push-up-female.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/rotate-push-up-female.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0284",
+  "name": "Donkey Calf Raise",
+  "aliases": [
+    "bodyweight donkey calf raise",
+    "bent-over calf raise",
+    "donkey heel raise",
+    "raised-toe calf raise",
+    "calf raise on step",
+    "donkey calf raise"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A bent-over calf raise on a step that trains the calves through a full heel drop and strong lift.",
+  "instructions": "Stand with your toes on an elevated surface, such as a step or block. Place your hands on a stable support, such as a wall or railing, for balance. Raise your heels as high as possible, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand with the balls of your feet on the edge of a step or block and let your heels hang off.",
+    "Hinge forward at your hips and place your hands on a stable support for balance.",
+    "Keep your knees slightly bent and lower your heels until you feel a stretch in your calves.",
+    "Press through the balls of your feet and lift your heels as high as you can.",
+    "Pause briefly at the top while staying balanced.",
+    "Lower your heels back down with control and repeat."
+  ],
+  "formCues": [
+    "Lift heels straight up",
+    "Move through full range",
+    "Press through big toe",
+    "Lower with control"
+  ],
+  "commonMistakes": [
+    "Bouncing at the bottom instead of lowering under control",
+    "Rolling the ankles inward or outward",
+    "Using the hands to push the body up",
+    "Cutting the range short and not dropping the heels"
+  ],
+  "breathing": "Inhale as you lower your heels, and exhale as you press up onto the balls of your feet.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/donkey-calf-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/donkey-calf-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/donkey-calf-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/donkey-calf-raise.jpg"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "drv-band-decline-sit-ups",
+  "name": "Band Resisted Decline Sit-Up",
+  "aliases": [
+    "band decline sit-up",
+    "decline sit-up with band",
+    "resisted decline sit-up"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "hip flexors",
+    "obliques"
+  ],
+  "equipment": "band",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A decline sit-up performed with band resistance to increase tension on the abdominals.",
+  "instructions": "Secure a resistance band behind your head or at chest level and lie on a decline bench. Perform a sit-up against the resistance, focusing on contracting your abs to lift your torso.",
+  "steps": [
+    "Attach a resistance band securely behind the decline bench.",
+    "Lie on the bench with your feet anchored, holding the band at the chest or behind the neck.",
+    "Engage your core and perform a sit-up, raising your torso towards your knees.",
+    "Control the movement back down to starting position.",
+    "Repeat for the desired repetitions."
+  ],
+  "formCues": [
+    "Keep tension in band",
+    "Crunch up slowly",
+    "Avoid swinging",
+    "Exhale on exertion"
+  ],
+  "commonMistakes": [
+    "Using momentum",
+    "Letting band go slack",
+    "Improper anchoring of feet"
+  ],
+  "breathing": "Exhale as you sit up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-decline-sit-ups.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-decline-sit-ups.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-decline-sit-ups.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-decline-sit-ups.jpg"
+  }
+}

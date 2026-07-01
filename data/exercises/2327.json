@@ -1,0 +1,52 @@
+{
+  "id": "2327",
+  "name": "Reverse Grip Pull-Up",
+  "aliases": [
+    "Chin-Up",
+    "Supinated Grip Pull-Up",
+    "Underhand Pull-Up",
+    "Reverse Grip Pull-up",
+    "dumbbell reverse grip row"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps",
+    "rhomboids",
+    "forearms"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A vertical bodyweight pulling exercise with palms facing you, emphasizing the lats and biceps.",
+  "instructions": "Hang from a pull-up bar with a shoulder-width, underhand (supinated) grip. Pull your chin above the bar by flexing your elbows and squeezing your lats, then lower under control.",
+  "steps": [
+    "Grab the bar with palms facing you (supinated grip), hands shoulder-width apart.",
+    "Hang with arms fully extended and scapula engaged.",
+    "Pull your chest up towards the bar, leading with your elbows.",
+    "Clear your chin above the bar, squeezing at the top.",
+    "Lower yourself back to the starting position with control."
+  ],
+  "formCues": [
+    "Chest to bar",
+    "Elbows drive down",
+    "No swinging",
+    "Full arm extension"
+  ],
+  "commonMistakes": [
+    "Not extending arms",
+    "Using momentum",
+    "Craning neck over bar"
+  ],
+  "breathing": "Exhale pulling up, inhale lowering down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/reverse-grip-pull-up.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/reverse-grip-pull-up.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/reverse-grip-pull-up.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/reverse-grip-pull-up.jpg"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "1299",
+  "name": "Lever Incline Hammer Chest Press",
+  "aliases": [
+    "machine incline chest press",
+    "hammer strength incline press",
+    "incline plate-loaded chest press",
+    "Lever Incline Hammer Chest Press",
+    "lever incline chest press"
+  ],
+  "bodyPart": "chest",
+  "target": "upper pectorals",
+  "secondaryMuscles": [
+    "anterior deltoids",
+    "triceps brachii"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "pectoralis major, clavicular head",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A machine-based incline chest press emphasizing the upper chest and shoulders.",
+  "instructions": "Adjust the seat so the handles are level with your upper chest when seated. Grip the handles firmly and press them up and slightly forward, focusing on squeezing your upper chest. Return to the starting position under control after a brief pause.",
+  "steps": [
+    "Adjust seat height for optimal handle position.",
+    "Sit and grip handles with elbows bent.",
+    "Press handles up and forward above chest.",
+    "Avoid locking elbows completely.",
+    "Lower handles slowly to starting position."
+  ],
+  "formCues": [
+    "Press upward and slightly forward",
+    "Keep feet flat on floor",
+    "Don't shrug shoulders",
+    "Pause at top"
+  ],
+  "commonMistakes": [
+    "Letting elbows flare too wide",
+    "Locking out elbows",
+    "Arching back off seat",
+    "Gripping handles unevenly"
+  ],
+  "breathing": "Exhale as you press up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-incline-hammer-chest-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-incline-hammer-chest-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-incline-hammer-chest-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-incline-hammer-chest-press.jpg"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0042",
+  "name": "Barbell Front Squat",
+  "aliases": [
+    "front squat",
+    "barbell front squat",
+    "front chest squat",
+    "Barbell Front Chest Squat"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "erector spinae",
+    "core"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "quadriceps femoris",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "Squat variation with barbell held at the front rack position, targeting the quadriceps.",
+  "instructions": "Stand upright, barbell resting across front shoulders, elbows high. Descend into a squat while keeping torso upright and elbows elevated. Push through your heels to return to standing, maintaining bar balance throughout.",
+  "steps": [
+    "Rack barbell at collarbone level, elbows up.",
+    "Stand with feet shoulder-width apart.",
+    "Descend into squat keeping torso upright.",
+    "Lower until thighs are parallel to floor.",
+    "Drive up through heels to stand."
+  ],
+  "formCues": [
+    "Elbows high",
+    "Torso upright",
+    "Heels down",
+    "Keep knees tracking over toes"
+  ],
+  "commonMistakes": [
+    "Letting elbows drop",
+    "Rounding back",
+    "Heels lifting off floor"
+  ],
+  "breathing": "Inhale when lowering, exhale standing up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-front-chest-squat.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-front-chest-squat.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-front-chest-squat.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-front-chest-squat.jpg"
+  }
+}

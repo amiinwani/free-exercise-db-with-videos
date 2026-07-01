@@ -1,0 +1,53 @@
+{
+  "id": "1672",
+  "name": "Dumbbell One Arm Zottman Preacher Curl",
+  "aliases": [
+    "one-arm Zottman preacher curl",
+    "single-arm dumbbell Zottman preacher curl",
+    "DB one arm preacher curl",
+    "single-arm preacher curl with rotation",
+    "one-arm biceps curl on preacher bench",
+    "dumbbell one arm zottman preacher curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A single-arm preacher curl variation that adds a wrist rotation to train the biceps and forearms through both the lift and lowering phase.",
+  "instructions": "Sit on a preacher curl bench and hold a dumbbell in one hand with an underhand grip. Rest your upper arm on the preacher bench pad, allowing your arm to fully extend. Curl the dumbbell up towards your shoulder, keeping your upper arm stationary. At the top of the curl, rotate your wrist so that your palm faces up. Slowly lower the dumbbell back down to the starting position, rotating your wrist back to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+  "steps": [
+    "Sit at a preacher bench and plant your feet on the floor.",
+    "Hold a dumbbell in one hand and place the back of your upper arm flat against the pad with your arm nearly straight.",
+    "Start with your palm facing up and curl the dumbbell toward your shoulder without lifting your upper arm off the pad.",
+    "Pause near the top and rotate your wrist until your palm faces down.",
+    "Lower the dumbbell slowly until your arm is nearly straight while keeping your palm facing down.",
+    "Rotate your wrist back to palm-up at the bottom and repeat before switching arms."
+  ],
+  "formCues": [
+    "Keep arm glued to pad",
+    "Curl, then rotate",
+    "Lower slowly on the way down",
+    "Keep wrist movement controlled"
+  ],
+  "commonMistakes": [
+    "Upper arm lifting off the preacher pad",
+    "Swinging the dumbbell instead of curling it",
+    "Dropping the weight quickly on the lowering phase",
+    "Rotating the wrist too early before reaching the top"
+  ],
+  "breathing": "Exhale as you curl the dumbbell up, then inhale as you rotate and lower it back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-one-arm-zottman-preacher-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-one-arm-zottman-preacher-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-one-arm-zottman-preacher-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-one-arm-zottman-preacher-curl.jpg"
+  }
+}

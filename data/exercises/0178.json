@@ -1,0 +1,54 @@
+{
+  "id": "0178",
+  "name": "Cable Lateral Raise",
+  "aliases": [
+    "cable lateral raise",
+    "cable side raise",
+    "single-arm cable lateral raise",
+    "cable delt raise",
+    "cable shoulder raise",
+    "side arm raise with cable"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "traps",
+    "triceps"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "traps",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A single-arm cable shoulder isolation exercise that raises the arm out to the side to target the lateral delts.",
+  "instructions": "Stand with your feet shoulder-width apart and grasp the cable handles with an overhand grip. Keep your arms straight and your core engaged. Raise your arms out to the sides until they are parallel to the floor. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set the cable at the lowest position and stand side-on to it.",
+    "Grab the handle with the outside hand and let your arm hang by your thigh.",
+    "Stand tall with a slight bend in your elbow and brace your midline.",
+    "Raise your arm out to the side until your hand reaches shoulder height.",
+    "Pause briefly without shrugging your shoulder.",
+    "Lower the handle back down with control to the start position."
+  ],
+  "formCues": [
+    "Lead with your elbow",
+    "Stop at shoulder height",
+    "Keep neck relaxed",
+    "Raise with control"
+  ],
+  "commonMistakes": [
+    "Shrugging the shoulder up toward the ear",
+    "Swinging the torso to lift the handle",
+    "Turning the raise into a front lift",
+    "Lifting the hand far above shoulder height"
+  ],
+  "breathing": "Exhale as you raise the handle to the side, and inhale as you lower it back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-lateral-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-lateral-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-lateral-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-lateral-raise.jpg"
+  }
+}

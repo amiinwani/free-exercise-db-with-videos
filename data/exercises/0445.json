@@ -1,0 +1,55 @@
+{
+  "id": "0445",
+  "name": "EZ Barbell Anti Gravity Press",
+  "aliases": [
+    "EZ bar overhead press",
+    "EZ-bar shoulder press",
+    "standing EZ bar press",
+    "EZ bar military press",
+    "overhead shoulder press with EZ bar",
+    "press bar overhead",
+    "ez barbell anti gravity press"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "triceps",
+    "chest"
+  ],
+  "equipment": "ez barbell",
+  "muscleGroup": "triceps",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A standing overhead press using an EZ bar to train the delts, triceps, and upper chest through a full pressing range.",
+  "instructions": "Start by standing with your feet shoulder-width apart and holding the ez barbell with an overhand grip. Raise the barbell to shoulder height, keeping your elbows slightly bent and your palms facing forward. Press the barbell overhead, extending your arms fully. Lower the barbell back to shoulder height and repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with your feet about hip- to shoulder-width apart and hold the EZ bar at shoulder height with an overhand grip.",
+    "Brace your core and keep your wrists stacked over your elbows.",
+    "Press the bar straight overhead until your arms are fully extended above your shoulders.",
+    "Move your head slightly back as the bar passes your face, then bring your head through under the bar at the top.",
+    "Lower the bar under control back to shoulder height.",
+    "Repeat each rep from a stable standing position."
+  ],
+  "formCues": [
+    "Press straight overhead",
+    "Ribs down, core tight",
+    "Wrists stacked over elbows",
+    "Head through at top"
+  ],
+  "commonMistakes": [
+    "Leaning back hard and turning it into an incline press",
+    "Pressing the bar out in front instead of overhead",
+    "Flaring the elbows too far out from the start",
+    "Lowering the bar too fast and bouncing at the shoulders"
+  ],
+  "breathing": "Inhale and brace at shoulder height, exhale as you press overhead, and inhale again as you lower the bar back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/ez-barbell-anti-gravity-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/ez-barbell-anti-gravity-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/ez-barbell-anti-gravity-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/ez-barbell-anti-gravity-press.jpg"
+  }
+}

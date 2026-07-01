@@ -1,0 +1,55 @@
+{
+  "id": "0230",
+  "name": "Cable Standing Lift",
+  "aliases": [
+    "cable standing lift",
+    "standing cable lift",
+    "high-to-low cable lift",
+    "cable diagonal lift",
+    "cable wood chop lift",
+    "standing cable core lift"
+  ],
+  "bodyPart": "waist",
+  "target": "abs",
+  "secondaryMuscles": [
+    "obliques",
+    "lower back"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "obliques",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A standing cable core exercise that lifts the handle diagonally across the body to train the abs and obliques.",
+  "instructions": "Stand facing the cable machine with your feet shoulder-width apart. Hold the cable handle with both hands and position it at waist height. Engage your core and maintain a straight back throughout the exercise. Keeping your arms straight, exhale and lift the cable handle up towards your opposite shoulder, rotating your torso. Pause for a moment at the top, then inhale and slowly lower the cable handle back to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+  "steps": [
+    "Set the cable handle to a low position and stand side-on to the machine with your feet about shoulder-width apart.",
+    "Hold the handle with both hands near the hip closest to the machine and straighten your arms with a soft bend in the elbows.",
+    "Brace your core and turn your chest slightly toward the handle without rounding your back.",
+    "Pull the handle diagonally up and across your body toward the opposite shoulder by rotating your torso and lifting your arms together.",
+    "Pause briefly at the top with your hips mostly facing forward and your arms extended.",
+    "Lower the handle back along the same diagonal path to the starting hip under control.",
+    "Complete all reps on one side, then turn around and repeat on the other side."
+  ],
+  "formCues": [
+    "Brace your core",
+    "Rotate through your torso",
+    "Keep arms long",
+    "Control the return"
+  ],
+  "commonMistakes": [
+    "Bending the elbows and turning it into an arm pull",
+    "Twisting the knees inward instead of rotating the torso",
+    "Leaning back or arching the lower back at the top",
+    "Letting the weight snap back down without control"
+  ],
+  "breathing": "Inhale at the start, exhale as you lift and rotate across the body, then inhale as you return under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-standing-lift.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-standing-lift.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-standing-lift.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-standing-lift.jpg"
+  }
+}

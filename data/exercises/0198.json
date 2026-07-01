@@ -1,0 +1,54 @@
+{
+  "id": "0198",
+  "name": "Cable Pulldown",
+  "aliases": [
+    "lat pulldown",
+    "cable lat pulldown",
+    "wide-grip pulldown",
+    "pulldown machine",
+    "lat pull down",
+    "cable pulldown"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "biceps",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A seated cable back exercise where you pull a bar from overhead to your upper chest to train the lats and upper arms.",
+  "instructions": "Adjust the cable pulldown machine so that the seat is at a comfortable height and the knee pad is secured. Sit on the seat with your back straight and your feet flat on the ground. Grasp the cable bar with an overhand grip, slightly wider than shoulder-width apart. Lean back slightly and engage your core. Pull the cable bar down towards your chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the bar back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Adjust the seat and knee pad so your thighs are held down and you can reach the bar overhead.",
+    "Sit tall with your feet flat, grab the bar with an overhand grip just outside shoulder width, and straighten your arms.",
+    "Lean back slightly and pull your shoulders down away from your ears.",
+    "Drive your elbows down and pull the bar to the top of your chest.",
+    "Pause briefly while keeping your chest lifted and your torso still.",
+    "Slowly straighten your arms and let the bar rise under control to the start position."
+  ],
+  "formCues": [
+    "Pull elbows to your ribs",
+    "Keep chest tall",
+    "Shoulders down, not shrugged",
+    "Control the way up"
+  ],
+  "commonMistakes": [
+    "Pulling the bar behind the neck",
+    "Swinging the torso backward to start the rep",
+    "Letting the shoulders shrug up at the top",
+    "Stopping short and not fully straightening the arms"
+  ],
+  "breathing": "Inhale as the bar rises, and exhale as you pull the bar down to your upper chest.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-pulldown.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-pulldown.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-pulldown.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-pulldown.jpg"
+  }
+}

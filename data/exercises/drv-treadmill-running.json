@@ -1,0 +1,52 @@
+{
+  "id": "drv-treadmill-running",
+  "name": "Treadmill Running",
+  "aliases": [
+    "treadmill cardio",
+    "treadmill jog",
+    "treadmill sprint"
+  ],
+  "bodyPart": "cardio",
+  "target": "cardiovascular system",
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves",
+    "glutes"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "cardiovascular system",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A popular form of indoor cardiovascular exercise performed at varying intensities on a treadmill machine.",
+  "instructions": "Set your desired speed and incline on the treadmill. Start jogging or running, ensuring good posture with a natural stride. Adjust settings as needed for intensity and duration.",
+  "steps": [
+    "Step onto the treadmill and position feet on the sides.",
+    "Select preferred speed and incline.",
+    "Begin running, holding onto the handrails if necessary for balance.",
+    "Focus on smooth strides and upright posture.",
+    "Cool down by gradually reducing speed before stopping."
+  ],
+  "formCues": [
+    "Keep posture upright",
+    "Land softly",
+    "Don't overstride",
+    "Use arm swing for balance"
+  ],
+  "commonMistakes": [
+    "Holding handrails too long",
+    "Slouching",
+    "Overstriding",
+    "Staring down"
+  ],
+  "breathing": "Inhale through nose, exhale through mouth in rhythm with strides.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/treadmill-running.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/treadmill-running.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/treadmill-running.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/treadmill-running.jpg"
+  }
+}

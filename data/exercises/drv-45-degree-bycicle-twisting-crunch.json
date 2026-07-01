@@ -1,0 +1,49 @@
+{
+  "id": "drv-45-degree-bycicle-twisting-crunch",
+  "name": "45-Degree Bicycle Twisting Crunch",
+  "aliases": [
+    "bicycle crunch",
+    "twisting bicycle crunch",
+    "diagonal bicycle crunch"
+  ],
+  "bodyPart": "waist",
+  "target": "obliques",
+  "secondaryMuscles": [
+    "rectus abdominis",
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "external obliques",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A twisting crunch performed at a 45-degree angle to target the obliques and rectus abdominis.",
+  "instructions": "Lie flat on your back with hands behind your head and legs raised at a 45-degree angle. Bring your right elbow toward your left knee while extending the opposite leg, then alternate sides in a pedaling motion.",
+  "steps": [
+    "Lie down with your hands behind your head and legs extended upwards at about a 45-degree angle.",
+    "Engage your core and lift your shoulders off the ground.",
+    "Twist your upper body, bringing your right elbow toward your left knee as you extend your right leg.",
+    "Return to the starting position and repeat to the opposite side.",
+    "Continue alternating sides in a controlled, twisting motion."
+  ],
+  "formCues": [
+    "Keep elbows wide",
+    "Twist through the torso",
+    "Do not pull on neck",
+    "Control each rep"
+  ],
+  "commonMistakes": [
+    "Pulling on the neck",
+    "Using momentum instead of abs",
+    "Allowing hips to sag"
+  ],
+  "breathing": "Exhale during the twist, inhale as you return to center.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/45-degree-bycicle-twisting-crunch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/45-degree-bycicle-twisting-crunch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/45-degree-bycicle-twisting-crunch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/45-degree-bycicle-twisting-crunch.jpg"
+  }
+}

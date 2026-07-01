@@ -1,0 +1,49 @@
+{
+  "id": "drv-lever-pec-deck-fly",
+  "name": "Pec Deck Fly",
+  "aliases": [
+    "pec deck",
+    "machine chest fly",
+    "lever chest fly"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "anterior deltoids",
+    "biceps"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "pectoralis major",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A machine-based isolation exercise focusing on squeezing the chest muscles through a fly motion.",
+  "instructions": "Sit on the pec deck machine with forearms against the pads and elbows slightly bent. Bring the arms together by contracting the chest, then slowly return to the starting position while maintaining control.",
+  "steps": [
+    "Adjust seat and sit with back against pad.",
+    "Place forearms on pads with elbows slightly bent.",
+    "Bring arms together in a wide arc.",
+    "Squeeze chest at the end of movement.",
+    "Return slowly to starting position."
+  ],
+  "formCues": [
+    "Keep elbows soft",
+    "Squeeze chest at peak",
+    "Maintain back on pad",
+    "Control return phase"
+  ],
+  "commonMistakes": [
+    "Locking elbows",
+    "Arching lower back",
+    "Using too much weight"
+  ],
+  "breathing": "Exhale as you bring arms together, inhale as you open.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-pec-deck-fly.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-pec-deck-fly.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-pec-deck-fly.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-pec-deck-fly.jpg"
+  }
+}

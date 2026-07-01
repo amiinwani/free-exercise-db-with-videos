@@ -1,0 +1,310 @@
+[
+  {
+    "id": "0082",
+    "name": "Barbell Reverse Wrist Curl",
+    "aliases": [
+      "over-grip wrist curl",
+      "reverse wrist curl",
+      "barbell pronated wrist curl",
+      "Barbell Reverse Wrist Curl (over-grip)",
+      "barbell reverse wrist curl"
+    ],
+    "bodyPart": "lower arms",
+    "target": "forearm extensors",
+    "secondaryMuscles": [
+      "brachioradialis"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "forearm extensors",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A wrist flexion exercise performed with a pronated grip to target the forearm extensors.",
+    "instructions": "Sit on a bench holding a barbell with an overhand grip, forearms resting on your thighs, and wrists hanging over the edge. Extend your wrists upward, lifting the bar, then lower under control.",
+    "steps": [
+      "Sit on a bench and grasp a barbell with an overhand (pronated) grip.",
+      "Rest your forearms on your thighs with wrists hanging just beyond your knees.",
+      "Begin with your wrists flexed downward.",
+      "Slowly curl your wrists upward, lifting the barbell.",
+      "Lower under control to the starting position."
+    ],
+    "formCues": [
+      "Keep forearms stationary",
+      "Use slow, controlled motion",
+      "Only wrists should move",
+      "Avoid swinging"
+    ],
+    "commonMistakes": [
+      "Using too much weight",
+      "Lifting with elbows or shoulders",
+      "Letting the barbell roll in hands"
+    ],
+    "breathing": "Exhale as you curl the bar up, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-reverse-wrist-curl-over-grip.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-reverse-wrist-curl-over-grip.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-reverse-wrist-curl-over-grip.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-reverse-wrist-curl-over-grip.jpg"
+    }
+  },
+  {
+    "id": "0104",
+    "name": "Barbell Standing Back Wrist Curl",
+    "aliases": [
+      "behind-the-back wrist curl",
+      "barbell behind-the-back wrist curl",
+      "reverse wrist curl behind back",
+      "standing back wrist curl",
+      "barbell wrist curl behind body",
+      "forearm wrist curl behind back",
+      "barbell standing back wrist curl"
+    ],
+    "bodyPart": "lower arms",
+    "target": "forearms",
+    "secondaryMuscles": [
+      "biceps",
+      "shoulders"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing forearm exercise where you hold a barbell behind your body and lift it by curling only your wrists.",
+    "instructions": "Stand up straight with your feet shoulder-width apart and hold a barbell with an overhand grip. Rest the barbell on the back of your hands with your palms facing down and your fingers pointing towards your body. Keeping your upper arms stationary, exhale and curl your wrists upwards as far as possible. Hold the contracted position for a brief pause, then inhale and slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet about hip-width apart and hold a barbell behind your hips with an overhand grip.",
+      "Let the bar rest across your fingers so your knuckles face the floor and your palms face behind you.",
+      "Keep your elbows close to your sides and straighten your wrists to lower the bar toward your fingertips.",
+      "Curl your wrists upward to roll the bar back into your hands and lift it as high as you can.",
+      "Pause briefly at the top, then lower the bar with control back to the starting position."
+    ],
+    "formCues": [
+      "Move only your wrists",
+      "Keep elbows pinned back",
+      "Use full wrist range",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Swinging the bar with the shoulders or torso",
+      "Bending the elbows to lift the bar",
+      "Letting the bar slip too far out of the hands",
+      "Using short, jerky wrist motions"
+    ],
+    "breathing": "Inhale as you lower the bar toward your fingertips, and exhale as you curl your wrists up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-standing-back-wrist-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-standing-back-wrist-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-standing-back-wrist-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-standing-back-wrist-curl.jpg"
+    }
+  },
+  {
+    "id": "0364",
+    "name": "Dumbbell Behind-the-Back Wrist Curl",
+    "aliases": [
+      "Behind-Back DB Wrist Curl",
+      "Reverse Wrist Curl",
+      "Standing Dumbbell Wrist Curl",
+      "Dumbbell Behind Back Wrist Curl",
+      "dumbbell one arm wrist curl"
+    ],
+    "bodyPart": "lower arms",
+    "target": "forearms",
+    "secondaryMuscles": [
+      "flexor carpi radialis",
+      "flexor carpi ulnaris"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "forearm flexors",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A forearm isolation exercise curling a dumbbell behind the back to emphasize forearm flexors.",
+    "instructions": "Stand holding a dumbbell behind your back with your palm facing back. Curl the dumbbell by flexing your wrist, then return to the starting position under control.",
+    "steps": [
+      "Stand with dumbbell held behind your back, arm straight, palm facing backward.",
+      "Allow the dumbbell to roll down your fingers slightly.",
+      "Flex your wrist to curl the dumbbell up.",
+      "Squeeze at the top of the movement.",
+      "Lower the weight back down slowly."
+    ],
+    "formCues": [
+      "Wrist only",
+      "Don’t swing arm",
+      "Full wrist flexion",
+      "Controlled lowering"
+    ],
+    "commonMistakes": [
+      "Using arm instead of wrist",
+      "Incomplete range",
+      "Jerking movement"
+    ],
+    "breathing": "Exhale during curl, inhale lowering down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-behind-back-wrist-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-behind-back-wrist-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-behind-back-wrist-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-behind-back-wrist-curl.jpg"
+    }
+  },
+  {
+    "id": "0369",
+    "name": "Dumbbell Over Bench Wrist Curl",
+    "aliases": [
+      "dumbbell wrist curl",
+      "over-bench wrist curl",
+      "bench wrist curl",
+      "seated dumbbell wrist curl",
+      "forearm curl with dumbbells",
+      "dumbbell over bench wrist curl"
+    ],
+    "bodyPart": "lower arms",
+    "target": "forearms",
+    "secondaryMuscles": [
+      "biceps",
+      "brachialis"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A seated forearm isolation exercise where the wrists curl dumbbells upward with the forearms supported on a bench.",
+    "instructions": "Sit on a bench with your forearms resting on the bench and your palms facing up, holding a dumbbell in each hand. Allow your wrists to hang over the edge of the bench. Slowly curl your wrists upward, squeezing your forearms at the top of the movement. Pause for a moment, then slowly lower your wrists back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit at a bench and place your forearms on top with your palms facing up.",
+      "Hold a dumbbell in each hand and slide forward until your wrists hang just past the bench edge.",
+      "Let your hands lower to gently stretch your wrists at the bottom.",
+      "Curl your wrists up by lifting your knuckles toward your forearms.",
+      "Squeeze your forearms briefly at the top.",
+      "Lower the dumbbells back down under control until your wrists extend again."
+    ],
+    "formCues": [
+      "Move only your wrists",
+      "Forearms stay glued down",
+      "Curl through full range",
+      "Lower slowly"
+    ],
+    "commonMistakes": [
+      "Lifting the forearms off the bench during the curl.",
+      "Swinging the dumbbells instead of moving only the wrists.",
+      "Using partial range and stopping before the wrists fully lower.",
+      "Bending the elbows to help raise the weight."
+    ],
+    "breathing": "Inhale as you lower your wrists and exhale as you curl them up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-over-bench-wrist-curl.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-over-bench-wrist-curl.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-over-bench-wrist-curl.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-over-bench-wrist-curl.jpg"
+    }
+  },
+  {
+    "id": "0721",
+    "name": "Side Wrist Pull Stretch",
+    "aliases": [
+      "side wrist stretch",
+      "standing wrist pull",
+      "lateral wrist stretch",
+      "Stretching - Side Wrist Pull Stretch",
+      "side wrist pull stretch"
+    ],
+    "bodyPart": "lower arms",
+    "target": "forearms",
+    "secondaryMuscles": [
+      "deltoids",
+      "latissimus dorsi"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "forearm flexors and extensors",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A standing or seated stretch for the wrist and forearm, involving lateral arm extension and gentle pulling.",
+    "instructions": "Stand or sit upright, extend one arm overhead or to the side, and grasp the wrist with your opposite hand. Gently pull the wrist to the side to stretch the forearm and wrist muscles, avoiding excessive force.",
+    "steps": [
+      "Stand or sit tall.",
+      "Extend one arm overhead or outward.",
+      "Hold your wrist with the opposite hand.",
+      "Pull gently toward one side.",
+      "Hold, then switch sides."
+    ],
+    "formCues": [
+      "Keep arm straight",
+      "Pull gently",
+      "Relax shoulder",
+      "Keep hips squared"
+    ],
+    "commonMistakes": [
+      "Pulling too hard",
+      "Locking elbow",
+      "Shrugging shoulder"
+    ],
+    "breathing": "Exhale as you stretch, inhale to reset or switch sides.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-side-wrist-pull-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-side-wrist-pull-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-side-wrist-pull-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-side-wrist-pull-stretch.jpg"
+    }
+  },
+  {
+    "id": "1428",
+    "name": "Wrist Circles",
+    "aliases": [
+      "wrist mobility",
+      "wrist rotations",
+      "joint circles",
+      "Stretching - Wrist Circles",
+      "wrist circles"
+    ],
+    "bodyPart": "lower arms",
+    "target": "forearms",
+    "secondaryMuscles": [],
+    "equipment": "body weight",
+    "muscleGroup": "forearm flexors and extensors",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A warm-up and mobility exercise to increase wrist flexibility and circulation in the forearms.",
+    "instructions": "Extend your arms in front or to your sides. Make fists or keep hands open, then slowly rotate wrists in circular motions, both clockwise and counterclockwise.",
+    "steps": [
+      "Extend arms out in front or to sides.",
+      "Make fists or keep hands open.",
+      "Slowly rotate wrists in circular motions.",
+      "Perform several circles in one direction.",
+      "Switch direction and repeat."
+    ],
+    "formCues": [
+      "Move slowly",
+      "Full range of motion",
+      "Stay relaxed",
+      "Breathe steadily"
+    ],
+    "commonMistakes": [
+      "Moving arms instead of wrists",
+      "Rushing motions",
+      "Holding breath"
+    ],
+    "breathing": "Breathe evenly throughout the movement.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-wrist-circles.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-wrist-circles.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-wrist-circles.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-wrist-circles.jpg"
+    }
+  }
+]

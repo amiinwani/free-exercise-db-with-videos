@@ -1,0 +1,31 @@
+{
+  "name": "free-exercise-db-with-videos",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "description": "Free open-source exercise API with 590+ male & female demo videos, form cues & instructions.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "node --test \"lib/**/*.test.ts\"",
+    "export:data": "node scripts/export-from-source.mjs",
+    "qa:posters": "node scripts/qa-posters.mjs"
+  },
+  "dependencies": {
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "mongodb": "^6.12.0",
+    "typescript": "^5.7.0"
+  }
+}

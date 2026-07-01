@@ -1,0 +1,54 @@
+{
+  "id": "0104",
+  "name": "Barbell Standing Back Wrist Curl",
+  "aliases": [
+    "behind-the-back wrist curl",
+    "barbell behind-the-back wrist curl",
+    "reverse wrist curl behind back",
+    "standing back wrist curl",
+    "barbell wrist curl behind body",
+    "forearm wrist curl behind back",
+    "barbell standing back wrist curl"
+  ],
+  "bodyPart": "lower arms",
+  "target": "forearms",
+  "secondaryMuscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "biceps",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A standing forearm exercise where you hold a barbell behind your body and lift it by curling only your wrists.",
+  "instructions": "Stand up straight with your feet shoulder-width apart and hold a barbell with an overhand grip. Rest the barbell on the back of your hands with your palms facing down and your fingers pointing towards your body. Keeping your upper arms stationary, exhale and curl your wrists upwards as far as possible. Hold the contracted position for a brief pause, then inhale and slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with your feet about hip-width apart and hold a barbell behind your hips with an overhand grip.",
+    "Let the bar rest across your fingers so your knuckles face the floor and your palms face behind you.",
+    "Keep your elbows close to your sides and straighten your wrists to lower the bar toward your fingertips.",
+    "Curl your wrists upward to roll the bar back into your hands and lift it as high as you can.",
+    "Pause briefly at the top, then lower the bar with control back to the starting position."
+  ],
+  "formCues": [
+    "Move only your wrists",
+    "Keep elbows pinned back",
+    "Use full wrist range",
+    "Control the lowering"
+  ],
+  "commonMistakes": [
+    "Swinging the bar with the shoulders or torso",
+    "Bending the elbows to lift the bar",
+    "Letting the bar slip too far out of the hands",
+    "Using short, jerky wrist motions"
+  ],
+  "breathing": "Inhale as you lower the bar toward your fingertips, and exhale as you curl your wrists up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-standing-back-wrist-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-standing-back-wrist-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-standing-back-wrist-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-standing-back-wrist-curl.jpg"
+  }
+}

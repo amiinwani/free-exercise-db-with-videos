@@ -1,0 +1,47 @@
+{
+  "id": "drv-leg-raise-hip-lift",
+  "name": "Leg Raise with Hip Lift",
+  "aliases": [
+    "leg raise hip thrust",
+    "lying leg raise with hip lift",
+    "hip lift leg raise"
+  ],
+  "bodyPart": "waist",
+  "target": "rectus abdominis",
+  "secondaryMuscles": [
+    "hip flexors",
+    "lower back"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A core exercise combining a leg raise with a hip lift to target the lower abdominals.",
+  "instructions": "Lie on your back with your arms by your sides. Raise your legs until they are perpendicular to the floor, then lift your hips off the ground by contracting your lower abs. Lower back slowly with control.",
+  "steps": [
+    "Lie flat with arms at your sides and legs straight.",
+    "Raise your legs up together towards the ceiling.",
+    "At the top of the movement, press your legs up by lifting your hips off the ground.",
+    "Pause, squeezing your abs.",
+    "Lower your hips and legs back to the starting position slowly."
+  ],
+  "formCues": [
+    "Keep legs together",
+    "Don’t swing",
+    "Lift hips with control",
+    "Keep back flat"
+  ],
+  "commonMistakes": [
+    "Using momentum",
+    "Arching lower back",
+    "Not controlling the descent"
+  ],
+  "breathing": "Exhale during hip lift, inhale during the descent.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/leg-raise-hip-lift.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/leg-raise-hip-lift.jpg"
+  }
+}

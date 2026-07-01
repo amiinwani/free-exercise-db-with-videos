@@ -1,0 +1,52 @@
+{
+  "id": "0301",
+  "name": "Decline Dumbbell Bench Press",
+  "aliases": [
+    "decline DB bench press",
+    "dumbbell decline press 45 degree",
+    "decline dumbbell chest press",
+    "Decline Dumbbell Bench Press (45 degree)",
+    "dumbbell decline bench press"
+  ],
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "secondaryMuscles": [
+    "triceps brachii",
+    "anterior deltoids"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "pectoralis major",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A chest pressing exercise performed on a 45-degree decline bench using dumbbells.",
+  "instructions": "Secure your feet in the decline bench and lie back holding a dumbbell in each hand at chest level. Press the weights up until arms are extended, then lower them until elbows are at about 90 degrees.",
+  "steps": [
+    "Set a bench to a 45-degree decline angle.",
+    "Secure feet, lie back holding dumbbells over chest.",
+    "Lower dumbbells to the sides of your chest.",
+    "Pause at the bottom.",
+    "Press weights back to starting position."
+  ],
+  "formCues": [
+    "Control lowering phase",
+    "Do not let elbows flare",
+    "Keep wrists straight",
+    "Press through the heels"
+  ],
+  "commonMistakes": [
+    "Dropping elbows too low",
+    "Using uneven range",
+    "Arching lower back",
+    "Rushed reps"
+  ],
+  "breathing": "Inhale as you lower the dumbbells, exhale as you press up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/decline-dumbbell-bench-press-45-degree.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/decline-dumbbell-bench-press-45-degree.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/decline-dumbbell-bench-press-45-degree.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/decline-dumbbell-bench-press-45-degree.jpg"
+  }
+}

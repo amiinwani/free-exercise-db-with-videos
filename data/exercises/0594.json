@@ -1,0 +1,55 @@
+{
+  "id": "0594",
+  "name": "Lever Seated Calf Raise",
+  "aliases": [
+    "seated calf raise machine",
+    "machine seated calf raise",
+    "lever calf raise",
+    "seated calf raise",
+    "calf raise seated machine",
+    "seated heel raise",
+    "lever seated calf raise"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "soleus",
+    "ankle stabilizers"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "soleus",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated machine calf exercise where you raise and lower your heels to train the soleus through ankle plantarflexion.",
+  "instructions": "Adjust the seat height so that your knees are slightly bent and your feet are flat on the footplate. Place your toes on the footplate with your heels hanging off the edge. Grasp the handles or the sides of the seat for stability. Push through the balls of your feet to raise your heels as high as possible. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Adjust the seat so the thigh pad rests securely on your thighs with your knees bent about 90 degrees.",
+    "Place the balls of your feet on the footplate with your heels hanging off the edge.",
+    "Grip the handles or seat and lift your heels to take the weight onto your calves.",
+    "Press through the balls of your feet to raise your heels as high as you can.",
+    "Pause briefly at the top while keeping your toes planted.",
+    "Lower your heels slowly until you feel a stretch in your calves, then repeat."
+  ],
+  "formCues": [
+    "Drive through big toe",
+    "Lift heels straight up",
+    "Control the lowering",
+    "Keep knees still"
+  ],
+  "commonMistakes": [
+    "Bouncing out of the bottom instead of lowering under control.",
+    "Letting the knees shift up and down during the rep.",
+    "Rolling the feet outward or inward on the platform.",
+    "Using only a short top-half range of motion."
+  ],
+  "breathing": "Inhale as you lower your heels, and exhale as you press up onto the balls of your feet.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-seated-calf-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-seated-calf-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-seated-calf-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-seated-calf-raise.jpg"
+  }
+}

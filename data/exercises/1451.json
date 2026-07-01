@@ -1,0 +1,52 @@
+{
+  "id": "1451",
+  "name": "Lever Seated Dip",
+  "aliases": [
+    "machine triceps dip",
+    "seated dip machine",
+    "leverage dip machine",
+    "triceps machine dips",
+    "Lever Seated Dips",
+    "lever seated dip"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "pectorals",
+    "anterior deltoids"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "triceps brachii",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A machine-based dip that targets the triceps, chest, and shoulders in a seated position.",
+  "instructions": "Sit on the dip machine with your back against the pad, grip the handles, and position your feet flat on the platform. Press the handles downward by extending your arms, keeping your elbows close to your body, then return to the starting position in a controlled motion.",
+  "steps": [
+    "Adjust the seat and select appropriate weight.",
+    "Sit down and grip the handles firmly.",
+    "Press the handles downward by extending your arms fully.",
+    "Pause briefly at lockout.",
+    "Return to the start position slowly."
+  ],
+  "formCues": [
+    "Keep elbows close",
+    "Control the descent",
+    "Do not lock elbows",
+    "Sit upright"
+  ],
+  "commonMistakes": [
+    "Allowing elbows to flare out",
+    "Using excessive weight",
+    "Swinging or jerking movement"
+  ],
+  "breathing": "Exhale on pressing down, inhale on returning up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-seated-dips.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-seated-dips.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-seated-dips.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-seated-dips.jpg"
+  }
+}

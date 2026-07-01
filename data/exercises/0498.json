@@ -1,0 +1,54 @@
+{
+  "id": "0498",
+  "name": "Inverted Row With Straps",
+  "aliases": [
+    "suspension row",
+    "TRX row",
+    "bodyweight row with straps",
+    "strap inverted row",
+    "lean-back row",
+    "inverted row with straps"
+  ],
+  "bodyPart": "back",
+  "target": "upper back",
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "biceps",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bodyweight upper-back row using suspension straps, pulling your chest toward the handles while keeping your body straight.",
+  "instructions": "Set up a suspension trainer or straps at chest height. Stand facing the anchor point and grab the handles with an overhand grip. Walk your feet forward, leaning back until your body is at an angle. Keep your body straight and engage your core. Pull your chest towards the handles, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower yourself back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set the straps to about chest height and stand facing the anchor point.",
+    "Grab the handles with an overhand grip and walk your feet forward until your body leans back in a straight line.",
+    "Brace your core and keep your heels planted with your arms fully extended.",
+    "Pull your chest toward the handles by driving your elbows back and squeezing your shoulder blades together.",
+    "Pause briefly when your hands reach your ribs or chest.",
+    "Lower yourself with control until your arms are straight again."
+  ],
+  "formCues": [
+    "Keep body in one line",
+    "Drive elbows back",
+    "Squeeze shoulder blades",
+    "Keep shoulders down"
+  ],
+  "commonMistakes": [
+    "Hips sag or pike instead of staying straight",
+    "Shrugging the shoulders up toward the ears",
+    "Pulling with bent wrists and loose handles",
+    "Letting the body drop quickly on the way down"
+  ],
+  "breathing": "Inhale as you lower yourself away from the handles, and exhale as you pull your chest toward them.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/inverted-row-with-straps.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/inverted-row-with-straps.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/inverted-row-with-straps.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/inverted-row-with-straps.jpg"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0474",
+  "name": "Hanging Straight Leg Raise",
+  "aliases": [
+    "hanging leg raise",
+    "straight leg raise",
+    "pull-up bar leg raise",
+    "Hanging Straight Leg Raise",
+    "hanging straight leg hip raise"
+  ],
+  "bodyPart": "waist",
+  "target": "abdominals",
+  "secondaryMuscles": [
+    "hip flexors",
+    "obliques",
+    "forearms"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A core exercise performed while hanging, lifting straight legs to target the abdominals and hip flexors.",
+  "instructions": "Hang from a pull-up bar with an overhand grip, keeping your body steady. Contract your core and raise your legs, keeping them straight, until they're parallel to the ground or higher. Lower your legs with control and repeat.",
+  "steps": [
+    "Hang from a pull-up bar with arms fully extended.",
+    "Keep legs together and straight.",
+    "Engage core and lift legs up to parallel or higher.",
+    "Pause briefly at the top.",
+    "Lower legs under control to starting position."
+  ],
+  "formCues": [
+    "Avoid swinging",
+    "Lift with core, not momentum",
+    "Keep legs straight",
+    "Control leg descent"
+  ],
+  "commonMistakes": [
+    "Swinging the body",
+    "Using momentum",
+    "Bending knees or arching back"
+  ],
+  "breathing": "Exhale as you lift legs, inhale as you lower.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/hanging-straight-leg-raise.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/hanging-straight-leg-raise.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/hanging-straight-leg-raise.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/hanging-straight-leg-raise.jpg"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "0194",
+  "name": "Cable Rope Overhead Triceps Extension",
+  "aliases": [
+    "high pulley triceps extension",
+    "rope overhead extension",
+    "cable overhead triceps",
+    "Cable Rope High Pulley Overhead Triceps Extension",
+    "cable overhead triceps extension (rope attachment)"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "deltoids",
+    "forearms"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "triceps brachii",
+  "difficulty": "intermediate",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "An isolation exercise using a rope attachment on a high pulley to target the triceps overhead.",
+  "instructions": "Stand or kneel with your back to the high pulley, grasping the rope with both hands. Lean forward slightly, extend your elbows to press the rope forward/upward, then return to start under control.",
+  "steps": [
+    "Attach a rope to a high pulley.",
+    "Stand (or kneel) with back facing the machine.",
+    "Grasp rope, step forward, and lean slightly.",
+    "Keep upper arms still, extend elbows bringing rope forward/upward.",
+    "Return to starting position slowly."
+  ],
+  "formCues": [
+    "Keep upper arms stationary",
+    "Elbows close",
+    "Extend fully",
+    "Avoid arching back"
+  ],
+  "commonMistakes": [
+    "Moving upper arms",
+    "Flaring elbows",
+    "Arching or swinging back"
+  ],
+  "breathing": "Exhale as you extend, inhale as you bend elbows.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-rope-high-pulley-overhead-triceps-extension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-rope-high-pulley-overhead-triceps-extension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-rope-high-pulley-overhead-triceps-extension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-rope-high-pulley-overhead-triceps-extension.jpg"
+  }
+}

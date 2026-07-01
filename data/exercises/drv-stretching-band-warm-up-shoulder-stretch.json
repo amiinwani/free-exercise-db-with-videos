@@ -1,0 +1,50 @@
+{
+  "id": "drv-stretching-band-warm-up-shoulder-stretch",
+  "name": "Band Shoulder Warm-Up Stretch",
+  "aliases": [
+    "band shoulder stretch",
+    "resistance band shoulder mobility",
+    "band dislocates"
+  ],
+  "bodyPart": "shoulders",
+  "target": "deltoids",
+  "secondaryMuscles": [
+    "rotator cuff",
+    "upper trapezius",
+    "pectorals"
+  ],
+  "equipment": "band",
+  "muscleGroup": "deltoid",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A shoulder stretch and mobility drill using a resistance band to warm up the deltoids and rotator cuff.",
+  "instructions": "Grip a resistance band with both hands wider than shoulder-width. Keep arms straight and move the band from hips, overhead, and behind the back to stretch the shoulders, then reverse the motion. Maintain a steady, controlled movement.",
+  "steps": [
+    "Stand tall and grip band with hands wider than shoulders.",
+    "Hold arms straight, band in front of thighs.",
+    "Slowly raise band overhead while keeping arms straight.",
+    "Move band behind head and down to lower back.",
+    "Reverse the movement to bring band to starting position."
+  ],
+  "formCues": [
+    "Keep arms straight",
+    "Move slowly",
+    "Stay within pain-free range",
+    "Keep posture tall"
+  ],
+  "commonMistakes": [
+    "Bending arms",
+    "Rushing the movement",
+    "Arching lower back"
+  ],
+  "breathing": "Breathe naturally throughout stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-band-warm-up-shoulder-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-band-warm-up-shoulder-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-band-warm-up-shoulder-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-band-warm-up-shoulder-stretch.jpg"
+  }
+}

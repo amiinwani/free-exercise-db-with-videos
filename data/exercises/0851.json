@@ -1,0 +1,56 @@
+{
+  "id": "0851",
+  "name": "Weighted Sissy Squat",
+  "aliases": [
+    "sissy squat with weight",
+    "weighted quad squat",
+    "plate sissy squat",
+    "dumbbell sissy squat",
+    "barbell sissy squat",
+    "lean-back squat",
+    "weighted sissy squat"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": "weighted",
+  "muscleGroup": "glutes",
+  "difficulty": "advanced",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A quad-focused squat variation done on the balls of the feet with a backward torso lean while holding added weight.",
+  "instructions": "Stand with your feet shoulder-width apart and your toes pointing slightly outward. Hold a weight in front of your chest with both hands, or place a barbell across your upper back. Keeping your chest up and your core engaged, slowly lower your body down by bending at the knees and hips. Continue lowering until your thighs are parallel to the ground or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with your feet about hip-width apart and hold the weight securely in front of your chest or across your upper back.",
+    "Rise onto the balls of your feet and brace your midsection.",
+    "Lean your torso back in one straight line from knees to shoulders as your knees travel forward.",
+    "Lower under control by bending your knees until you feel a strong stretch through the front of your thighs.",
+    "Drive through the balls of your feet and straighten your knees to return to the start.",
+    "Finish tall and reset your balance before the next repetition."
+  ],
+  "formCues": [
+    "Lean back as one piece",
+    "Keep hips extended",
+    "Drive knees forward",
+    "Stay on your toes"
+  ],
+  "commonMistakes": [
+    "Bending forward at the hips during the descent",
+    "Dropping the heels and shifting weight backward",
+    "Letting the knees cave inward",
+    "Lowering too fast and bouncing out of the bottom"
+  ],
+  "breathing": "Inhale as you lower under control, then exhale as you drive back up to the starting position.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/weighted-sissy-squat.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/weighted-sissy-squat.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/weighted-sissy-squat.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/weighted-sissy-squat.jpg"
+  }
+}

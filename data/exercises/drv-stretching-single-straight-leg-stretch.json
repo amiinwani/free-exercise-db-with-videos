@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-single-straight-leg-stretch",
+  "name": "Single Straight Leg Stretch",
+  "aliases": [
+    "straight leg hamstring stretch",
+    "single leg raise stretch"
+  ],
+  "bodyPart": "cardio",
+  "target": "hamstrings",
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A floor stretch focusing on the hamstrings by raising and holding one straight leg toward the body.",
+  "instructions": "Lie on your back, legs extended. Lift one leg straight up, keeping it as straight as possible, and hold the calf or thigh to gently pull it closer, feeling a stretch in the hamstrings and calves. Then switch legs.",
+  "steps": [
+    "Lie on your back with both legs straight.",
+    "Lift one leg up while keeping it straight.",
+    "Hold the back of your thigh or calf gently.",
+    "Pull the leg slightly toward your chest.",
+    "Hold and switch legs."
+  ],
+  "formCues": [
+    "Keep leg straight",
+    "Relax neck and shoulders",
+    "Point or flex foot for deeper stretch",
+    "Avoid pulling too hard"
+  ],
+  "commonMistakes": [
+    "Bending the raised knee",
+    "Lifting hips off mat",
+    "Straining neck or back"
+  ],
+  "breathing": "Exhale as you stretch the leg, inhale as you lower it.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-single-straight-leg-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-single-straight-leg-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-single-straight-leg-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-single-straight-leg-stretch.jpg"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0406",
+  "name": "Dumbbell Shrug",
+  "aliases": [
+    "DB shrug",
+    "dumbbell shoulder shrug",
+    "trap shrug",
+    "dumbbell trap raise",
+    "shoulder lift with dumbbells",
+    "dumbbell shrug"
+  ],
+  "bodyPart": "back",
+  "target": "traps",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "An isolation exercise where you hold dumbbells at your sides and lift your shoulders up to train the trapezius muscles.",
+  "instructions": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your body. Keep your arms straight and let the dumbbells hang by your sides. Raise your shoulders as high as possible, as if you are trying to touch your ears with your shoulders. Hold the contraction for a second, then slowly lower your shoulders back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with a dumbbell in each hand at your sides and your feet about hip-width apart.",
+    "Let your arms hang straight with your palms facing your body.",
+    "Lift your shoulders straight up toward your ears without bending your elbows.",
+    "Pause briefly at the top while keeping your torso still.",
+    "Lower your shoulders back down under control to the start position and repeat."
+  ],
+  "formCues": [
+    "Shoulders straight up",
+    "Arms stay long",
+    "Neck relaxed",
+    "Control the lowering"
+  ],
+  "commonMistakes": [
+    "Rolling the shoulders in circles instead of lifting straight up and down.",
+    "Bending the elbows and turning the move into an upright row.",
+    "Leaning the torso back or forward to swing the dumbbells.",
+    "Jutting the head forward as the shoulders rise."
+  ],
+  "breathing": "Exhale as you shrug your shoulders up, and inhale as you lower them back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-shrug.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-shrug.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-shrug.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-shrug.jpg"
+  }
+}

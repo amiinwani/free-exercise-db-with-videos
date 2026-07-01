@@ -1,0 +1,47 @@
+{
+  "id": "drv-45-degree-bycicle-twisting-crunch-1",
+  "name": "45-Degree Bicycle Twisting Crunch",
+  "aliases": [
+    "bicycle crunch",
+    "oblique twist crunch",
+    "diagonal bicycle crunch"
+  ],
+  "bodyPart": "waist",
+  "target": "abdominals",
+  "secondaryMuscles": [
+    "obliques",
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "rectus abdominis",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A twisting ab exercise performed at a 45-degree angle to target the abdominals and obliques.",
+  "instructions": "Lie flat on your back with knees bent and hands behind your head. Lift your shoulders and legs off the ground to a 45-degree angle and alternate bringing each knee in toward your chest while twisting the opposite elbow towards it, simulating a bicycle pedaling motion. Maintain controlled, twisting movement for each rep.",
+  "steps": [
+    "Lie on your back with hands behind your head and knees bent.",
+    "Lift your shoulders and feet off the ground, creating a 45-degree angle with your torso and legs.",
+    "Bring your right knee in while twisting your left elbow towards it.",
+    "Switch sides, extending the right leg and bringing the left knee in as your right elbow moves towards it.",
+    "Continue alternating sides in a smooth, controlled motion."
+  ],
+  "formCues": [
+    "Keep lower back pressed to ground",
+    "Twist through your torso",
+    "Avoid pulling on your neck",
+    "Move legs in a controlled fashion"
+  ],
+  "commonMistakes": [
+    "Using momentum",
+    "Pulling on neck",
+    "Not twisting fully"
+  ],
+  "breathing": "Exhale as you crunch and twist, inhale as you return to center.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/45-degree-bycicle-twisting-crunch-1.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/45-degree-bycicle-twisting-crunch-1.jpg"
+  }
+}

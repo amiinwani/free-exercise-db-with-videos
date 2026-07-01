@@ -1,0 +1,54 @@
+{
+  "id": "0553",
+  "name": "Military Press",
+  "aliases": [
+    "overhead press",
+    "barbell military press",
+    "shoulder press",
+    "strict press",
+    "Military Press",
+    "kettlebell two arm military press"
+  ],
+  "bodyPart": "shoulders",
+  "target": "deltoids",
+  "secondaryMuscles": [
+    "triceps brachii",
+    "trapezius",
+    "upper pectorals"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "deltoideus",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A standing barbell press that builds overall shoulder strength and stability.",
+  "instructions": "Stand with feet hip-width apart, holding a barbell at shoulder height with an overhand grip. Press the bar overhead by extending your arms fully, keeping your core tight and avoiding excessive lower back arch. Lower the bar to the starting position under control.",
+  "steps": [
+    "Stand with feet hip-width apart and barbell at shoulder height.",
+    "Grip the bar with hands just outside shoulder-width.",
+    "Brace your core and squeeze your glutes.",
+    "Press the barbell overhead to full arm extension.",
+    "Lower the bar slowly back to shoulders."
+  ],
+  "formCues": [
+    "Keep core tight",
+    "Press in a straight line",
+    "Avoid arching lower back",
+    "Lock elbows at the top"
+  ],
+  "commonMistakes": [
+    "Leaning back excessively",
+    "Bouncing the bar off shoulders",
+    "Flaring elbows too wide",
+    "Not bringing bar below chin"
+  ],
+  "breathing": "Exhale as you press up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/military-press.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/military-press.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/military-press.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/military-press.jpg"
+  }
+}

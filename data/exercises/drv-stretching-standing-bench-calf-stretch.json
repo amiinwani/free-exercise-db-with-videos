@@ -1,0 +1,48 @@
+{
+  "id": "drv-stretching-standing-bench-calf-stretch",
+  "name": "Standing Bench Calf Stretch",
+  "aliases": [
+    "standing calf stretch",
+    "bench calf stretch",
+    "standing gastroc stretch"
+  ],
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "secondaryMuscles": [
+    "soleus"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "gastrocnemius",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A static stretch using a bench to lengthen the calf muscles.",
+  "instructions": "Stand facing a bench and place your toes up onto the edge with your heel on the ground. Lean forward slightly until you feel a stretch through your calf. Hold for the desired time and repeat with the other leg.",
+  "steps": [
+    "Stand in front of a bench or sturdy surface.",
+    "Place the ball of one foot onto the edge, keeping heel on the floor.",
+    "Lean your body forward while keeping your knee straight.",
+    "Hold the stretch for 15-30 seconds.",
+    "Switch legs and repeat."
+  ],
+  "formCues": [
+    "Keep knee straight",
+    "Lean from the hips",
+    "Maintain upright posture",
+    "Feel stretch in calf, not ankle"
+  ],
+  "commonMistakes": [
+    "Bending the knee too much",
+    "Letting the foot roll inward or outward",
+    "Forcing the stretch"
+  ],
+  "breathing": "Exhale as you relax into the stretch, inhale as you ease off.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-bench-calf-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-standing-bench-calf-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-bench-calf-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-standing-bench-calf-stretch.jpg"
+  }
+}

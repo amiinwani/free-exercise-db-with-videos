@@ -1,0 +1,53 @@
+{
+  "id": "0991",
+  "name": "Band Pull Through",
+  "aliases": [
+    "band pull through",
+    "resistance band pull through",
+    "banded pull through",
+    "hip hinge with band",
+    "glute pull through"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "equipment": "band",
+  "muscleGroup": "hamstrings",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A banded hip hinge that trains the glutes and hamstrings by pulling the band through the legs as you stand tall.",
+  "instructions": "Attach a resistance band to a sturdy anchor point at ground level. Stand facing away from the anchor point with your feet shoulder-width apart. Step forward to create tension in the band, keeping your knees slightly bent. Hinge at the hips and push your glutes back, maintaining a slight bend in your knees. Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings. Drive your hips forward and squeeze your glutes to return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Anchor the band at floor level and loop it between your legs.",
+    "Face away from the anchor and walk forward until the band is taut.",
+    "Stand with feet about hip-width apart and soften your knees.",
+    "Push your hips back and hinge forward, letting the band travel behind you.",
+    "Lower until you feel your hamstrings stretch while keeping your back flat.",
+    "Drive your hips forward to stand tall and squeeze your glutes at the top."
+  ],
+  "formCues": [
+    "Push hips back",
+    "Keep ribs down",
+    "Stand tall at top",
+    "Squeeze glutes hard"
+  ],
+  "commonMistakes": [
+    "Squatting down instead of hinging back",
+    "Rounding the lower back as you fold forward",
+    "Letting the band pull the hips backward at lockout",
+    "Bending the knees too much and shifting into the quads"
+  ],
+  "breathing": "Inhale as you hinge back and exhale as you drive your hips forward to stand.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-pull-through.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-pull-through.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-pull-through.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-pull-through.jpg"
+  }
+}

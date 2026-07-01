@@ -1,0 +1,55 @@
+{
+  "id": "0054",
+  "name": "Barbell Lunge",
+  "aliases": [
+    "barbell lunge",
+    "barbell forward lunge",
+    "barbell walking lunge in place",
+    "barbell alternating lunge",
+    "barbell split step lunge",
+    "lunges with barbell on back"
+  ],
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": "barbell",
+  "muscleGroup": "quadriceps",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": true,
+  "shortDescription": "A lower-body lunge with a barbell on your upper back that trains the glutes, quads, and hamstrings one leg at a time.",
+  "instructions": "Start by standing with your feet shoulder-width apart and a barbell resting on your upper back. Take a step forward with your right foot, keeping your torso upright. Lower your body by bending your right knee until your thigh is parallel to the ground. Push through your right heel to return to the starting position. Repeat with your left leg, alternating legs for the desired number of repetitions.",
+  "steps": [
+    "Set the barbell across your upper back and stand tall with feet hip-width apart.",
+    "Brace your core and take a controlled step forward with one foot.",
+    "Lower your body until both knees bend and your back knee moves toward the floor.",
+    "Keep your front foot flat and your torso upright at the bottom position.",
+    "Push through the front foot to stand back up and bring your feet together.",
+    "Repeat on the other side, alternating legs each rep."
+  ],
+  "formCues": [
+    "Stay tall",
+    "Front heel stays down",
+    "Track knees over toes",
+    "Control the descent"
+  ],
+  "commonMistakes": [
+    "Taking such a short step that the front knee shoots far past the toes.",
+    "Leaning the torso forward as you lower.",
+    "Letting the front knee cave inward.",
+    "Pushing off the back foot instead of driving through the front foot."
+  ],
+  "breathing": "Inhale as you step forward and lower down, then exhale as you push back to standing.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-lunge.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-lunge.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-lunge.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-lunge.jpg"
+  }
+}

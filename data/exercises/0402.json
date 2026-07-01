@@ -1,0 +1,53 @@
+{
+  "id": "0402",
+  "name": "Dumbbell Seated Preacher Curl",
+  "aliases": [
+    "single-arm preacher curl",
+    "seated preacher dumbbell curl",
+    "DB preacher curl",
+    "one-arm biceps curl on preacher bench",
+    "supported preacher curl",
+    "dumbbell seated preacher curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A seated single-arm biceps curl done against a preacher pad to isolate the elbow flexors and limit body momentum.",
+  "instructions": "Sit on a preacher curl bench with your feet flat on the floor. Hold a dumbbell in one hand with an underhand grip, resting your upper arm against the preacher pad. Keeping your upper arm stationary, exhale and curl the dumbbell up towards your shoulder. Pause for a moment at the top, then inhale and slowly lower the dumbbell back down to the starting position. Repeat for the desired number of repetitions, then switch arms.",
+  "steps": [
+    "Sit on the preacher bench and plant your feet flat on the floor.",
+    "Hold a dumbbell with your palm facing up and place the back of your upper arm firmly against the pad.",
+    "Start with your arm nearly straight and let the dumbbell hang just above the bottom of the pad.",
+    "Curl the dumbbell upward by bending your elbow while keeping your upper arm pressed into the pad.",
+    "Lift until the dumbbell nears your shoulder and briefly squeeze your biceps.",
+    "Lower the dumbbell slowly until your arm is nearly straight again, then repeat before switching sides."
+  ],
+  "formCues": [
+    "Keep upper arm glued down",
+    "Curl only at the elbow",
+    "Lower with control",
+    "Squeeze at the top"
+  ],
+  "commonMistakes": [
+    "Upper arm lifting off the pad during the curl",
+    "Swinging the dumbbell instead of moving smoothly",
+    "Stopping short and not lowering near full extension",
+    "Bending the wrist back as the dumbbell rises"
+  ],
+  "breathing": "Exhale as you curl the dumbbell up, and inhale as you lower it back down under control.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-seated-preacher-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-seated-preacher-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-seated-preacher-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-seated-preacher-curl.jpg"
+  }
+}

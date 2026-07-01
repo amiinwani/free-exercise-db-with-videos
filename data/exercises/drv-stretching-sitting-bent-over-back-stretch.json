@@ -1,0 +1,50 @@
+{
+  "id": "drv-stretching-sitting-bent-over-back-stretch",
+  "name": "Seated Bent Over Back Stretch",
+  "aliases": [
+    "seated back stretch",
+    "sitting bent forward stretch",
+    "spinal stretch"
+  ],
+  "bodyPart": "back",
+  "target": "erectors",
+  "secondaryMuscles": [
+    "latissimus dorsi",
+    "hamstrings",
+    "trapezius"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "erector spinae",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A static stretch performed while seated, bending forward to lengthen the lower and upper back muscles.",
+  "instructions": "Sit on the floor with legs extended or crossed. Hinge at the hips and slowly bend forward, reaching hands toward feet or out in front, keeping the back as relaxed as comfortable. Hold the stretch to gently lengthen the muscles along the spine.",
+  "steps": [
+    "Sit comfortably on the floor, legs extended or crossed.",
+    "Hinge forward at the hips, keeping back relaxed.",
+    "Let arms reach forward toward feet or floor.",
+    "Lower your chest toward your knees, breathing deeply.",
+    "Hold the stretch and relax into the position."
+  ],
+  "formCues": [
+    "Relax neck",
+    "Hinge at hips",
+    "Keep stretch gentle",
+    "Breathe deeply"
+  ],
+  "commonMistakes": [
+    "Rounding excessively",
+    "Forcing stretch",
+    "Holding breath"
+  ],
+  "breathing": "Inhale before bending, exhale as you fold forward.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-sitting-bent-over-back-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-sitting-bent-over-back-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-sitting-bent-over-back-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-sitting-bent-over-back-stretch.jpg"
+  }
+}

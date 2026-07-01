@@ -1,0 +1,54 @@
+{
+  "id": "0499",
+  "name": "Inverted Row Between Chairs",
+  "aliases": [
+    "bodyweight row",
+    "australian pull-up",
+    "chair row",
+    "Inverted Row Between Chairs",
+    "inverted row"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "biceps brachii",
+    "rhomboids",
+    "trapezius",
+    "posterior deltoids"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bodyweight pulling exercise performed using a bar or sturdy broomstick supported between two chairs.",
+  "instructions": "Set up a sturdy bar or stick horizontally between two secure chairs. Lie on your back underneath the bar, grasp it with an overhand, shoulder-width grip, and keep your body straight from head to heels. Pull your chest toward the bar, squeezing your shoulder blades together, then lower yourself back down with control.",
+  "steps": [
+    "Set up a sturdy bar between two heavy chairs.",
+    "Lie underneath with your chest directly below the bar.",
+    "Grip the bar with an overhand, shoulder-width grip.",
+    "Brace your body, keeping a straight line from head to heels.",
+    "Pull your chest to the bar, pause, then lower yourself slowly."
+  ],
+  "formCues": [
+    "Keep your body straight",
+    "Squeeze shoulder blades",
+    "Don't let hips sag",
+    "Pull to chest, not neck"
+  ],
+  "commonMistakes": [
+    "Allowing hips to drop",
+    "Flared elbows",
+    "Not lowering all the way",
+    "Not squeezing shoulder blades"
+  ],
+  "breathing": "Exhale as you pull up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/inverted-row-between-chairs.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/inverted-row-between-chairs.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/inverted-row-between-chairs.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/inverted-row-between-chairs.jpg"
+  }
+}

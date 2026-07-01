@@ -1,0 +1,52 @@
+{
+  "id": "0294",
+  "name": "Dumbbell Biceps Curl",
+  "aliases": [
+    "dumbbell biceps curl",
+    "DB curl",
+    "dumbbell curl",
+    "standing dumbbell curl",
+    "two-arm dumbbell curl",
+    "arm curl with dumbbells"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "forearms",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A standing arm exercise where you curl dumbbells from your sides to your shoulders to train the biceps.",
+  "instructions": "Stand up straight with a dumbbell in each hand, palms facing forward and arms fully extended. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with a dumbbell in each hand, arms at your sides, and palms facing forward.",
+    "Brace your torso and keep your elbows close to your ribs.",
+    "Curl both dumbbells up toward your shoulders without letting your upper arms swing forward.",
+    "Pause briefly at the top and squeeze your biceps.",
+    "Lower the dumbbells back down under control until your arms are straight."
+  ],
+  "formCues": [
+    "Elbows pinned to sides",
+    "Curl, don't swing",
+    "Squeeze at the top",
+    "Lower with control"
+  ],
+  "commonMistakes": [
+    "Swinging the torso to start the curl",
+    "Letting the elbows drift forward as the weights rise",
+    "Using partial range and not lowering fully",
+    "Bending the wrists back instead of keeping them neutral"
+  ],
+  "breathing": "Exhale as you curl the dumbbells up, and inhale as you lower them back down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-biceps-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-biceps-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-biceps-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-biceps-curl.jpg"
+  }
+}

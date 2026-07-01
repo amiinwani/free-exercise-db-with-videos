@@ -1,0 +1,49 @@
+{
+  "id": "drv-lying-scissor-kick-female",
+  "name": "Lying Scissor Kick",
+  "aliases": [
+    "scissor kicks",
+    "flutter kicks",
+    "lying flutter",
+    "scissor leg raises"
+  ],
+  "bodyPart": "waist",
+  "target": "hip flexors",
+  "secondaryMuscles": [
+    "rectus abdominis",
+    "obliques",
+    "lower abs"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "iliopsoas",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A core and hip flexor exercise performed while lying flat, alternately raising and lowering legs in a scissor-like motion.",
+  "instructions": "Lie on your back with arms at your sides, legs extended. Lift both legs slightly off the ground, then alternately move one leg up and the other down in a controlled, fluttering motion.",
+  "steps": [
+    "Lie on your back with legs extended and arms at your sides.",
+    "Lift both legs a few inches off the ground, keeping them straight.",
+    "Alternate raising one leg while lowering the other in a scissor motion.",
+    "Continue to alternate legs in a controlled manner.",
+    "Keep your head and shoulders relaxed, core engaged."
+  ],
+  "formCues": [
+    "Keep core braced",
+    "Move legs with control",
+    "Don't touch floor",
+    "Point toes"
+  ],
+  "commonMistakes": [
+    "Arching lower back",
+    "Moving too fast",
+    "Letting legs touch ground"
+  ],
+  "breathing": "Exhale as legs rise, inhale as legs lower.",
+  "videos": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lying-scissor-kick-female.mp4"
+  },
+  "thumbnails": {
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lying-scissor-kick-female.jpg"
+  }
+}

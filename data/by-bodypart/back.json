@@ -1,0 +1,3009 @@
+[
+  {
+    "id": "0489",
+    "name": "45 Degree Hyperextension",
+    "aliases": [
+      "back extension",
+      "hyperextension bench",
+      "Roman chair extension",
+      "45 Degree Hyperextension",
+      "hyperextension"
+    ],
+    "bodyPart": "back",
+    "target": "erector spinae",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "erector spinae",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A lower back exercise on a 45-degree hyperextension bench that targets the spinal erectors and posterior chain.",
+    "instructions": "Set up on a 45-degree hyperextension bench with hips supported and ankles secured. Cross arms over the chest or place hands behind the head. Hinge at the hips, lower your torso toward the floor, then contract lower back and glutes to return to start.",
+    "steps": [
+      "Position yourself on the 45-degree hyperextension bench with ankles secured.",
+      "Cross arms over chest or place hands behind head.",
+      "Lower your upper body forward at the hips.",
+      "Stop when your upper body is just below parallel to the floor.",
+      "Lift your torso back up in line with your legs."
+    ],
+    "formCues": [
+      "Keep back straight",
+      "Hinge from hips",
+      "Engage glutes",
+      "Avoid hyperextending spine"
+    ],
+    "commonMistakes": [
+      "Rounding the back",
+      "Overextending at the top",
+      "Using momentum"
+    ],
+    "breathing": "Exhale as you rise, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/45-degree-hyperextension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/45-degree-hyperextension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/45-degree-hyperextension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/45-degree-hyperextension.jpg"
+    }
+  },
+  {
+    "id": "0970",
+    "name": "Band Assisted Pull-up",
+    "aliases": [
+      "assisted pull-up",
+      "band pull-up",
+      "resistance band pull-up",
+      "banded pull-up",
+      "pull-up with band",
+      "band assisted pull-up"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps",
+      "forearms"
+    ],
+    "equipment": "band",
+    "muscleGroup": "biceps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A vertical pulling exercise using a resistance band for assistance to build pull-up strength in the lats, biceps, and upper back.",
+    "instructions": "Attach the band to a pull-up bar or sturdy anchor point. Step onto the band and grip the bar with your palms facing away from you, hands slightly wider than shoulder-width apart. Hang with your arms fully extended, keeping your core engaged and your shoulders down and back. Pull your body up towards the bar by squeezing your shoulder blades together and driving your elbows down towards your hips. Continue pulling until your chin is above the bar, then slowly lower yourself back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Loop the band securely over a pull-up bar and place one foot or knee into the bottom of the band.",
+      "Grip the bar slightly wider than shoulder width with your palms facing away from you.",
+      "Hang with straight arms, tighten your midsection, and pull your shoulders down away from your ears.",
+      "Pull yourself up by driving your elbows down and back until your chin clears the bar.",
+      "Lower yourself with control until your arms are straight again, keeping tension through your torso."
+    ],
+    "formCues": [
+      "Drive elbows to hips",
+      "Keep ribs down",
+      "Shoulders away from ears",
+      "Control the descent"
+    ],
+    "commonMistakes": [
+      "Kicking or swinging to get up",
+      "Shrugging shoulders up toward the ears",
+      "Stopping short with the chin below the bar",
+      "Dropping quickly to the bottom without control"
+    ],
+    "breathing": "Inhale at the bottom before you pull, exhale as you pull up, and inhale again as you lower under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-assisted-pull-up.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-assisted-pull-up.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-assisted-pull-up.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-assisted-pull-up.jpg"
+    }
+  },
+  {
+    "id": "0983",
+    "name": "Band Kneeling One Arm Pulldown",
+    "aliases": [
+      "single-arm band pulldown",
+      "kneeling single-arm band lat pulldown",
+      "one-arm band pulldown",
+      "band lat pulldown",
+      "single-arm kneeling pulldown",
+      "single-arm band lat pull",
+      "band kneeling one arm pulldown"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rhomboids"
+    ],
+    "equipment": "band",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": true,
+    "shortDescription": "A kneeling single-arm band pulldown that trains the lats by pulling the elbow down from an overhead position.",
+    "instructions": "Attach the band to a sturdy anchor point above your head. Kneel down and hold the band with one hand, palm facing down. Extend your arm fully overhead, keeping your elbow slightly bent. Engage your lat muscles and pull the band down towards your side, bringing your elbow towards your ribcage. Pause for a moment at the bottom, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+    "steps": [
+      "Anchor the band overhead and kneel facing the anchor point.",
+      "Grab the band with one hand and extend that arm up and slightly forward.",
+      "Brace your torso and keep your chest tall without leaning back.",
+      "Pull your elbow down toward your side until your hand reaches about shoulder or rib level.",
+      "Squeeze your lat at the bottom while keeping your shoulder down.",
+      "Slowly straighten your arm back overhead under control.",
+      "Complete all reps on one side, then switch arms."
+    ],
+    "formCues": [
+      "Drive elbow to your side",
+      "Keep ribs down",
+      "Shoulder away from your ear",
+      "Move slowly on the return"
+    ],
+    "commonMistakes": [
+      "Leaning the torso back to finish the pull",
+      "Shrugging the shoulder up toward the ear",
+      "Bending and straightening the wrist during the pull",
+      "Letting the band snap the arm back overhead"
+    ],
+    "breathing": "Inhale as your arm returns overhead, and exhale as you pull the band down to your side.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-kneeling-one-arm-pulldown.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-kneeling-one-arm-pulldown.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-kneeling-one-arm-pulldown.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-kneeling-one-arm-pulldown.jpg"
+    }
+  },
+  {
+    "id": "drv-band-one-leg-kickback-bent-position",
+    "name": "Band One-Leg Kickback (Bent Position)",
+    "aliases": [
+      "band glute kickback",
+      "resistance band kickback",
+      "band donkey kick"
+    ],
+    "bodyPart": "back",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": "band",
+    "muscleGroup": "gluteus maximus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A glute-focused kickback performed from a bent-over position using a resistance band for added intensity.",
+    "instructions": "Secure a resistance band around your working ankle and a sturdy anchor. Start on all fours with knees bent, kick one leg back against the band's resistance while keeping your core tight, then return and repeat for reps before switching sides.",
+    "steps": [
+      "Anchor the band and loop it around your working ankle.",
+      "Start on all fours with hands under shoulders and knees bent.",
+      "Engage your core and extend one leg backward against band resistance.",
+      "Pause and squeeze the glute at the top.",
+      "Return to starting position and repeat for desired reps, then switch legs."
+    ],
+    "formCues": [
+      "Keep back flat",
+      "Drive heel upward",
+      "Squeeze glutes",
+      "Avoid arching lower back"
+    ],
+    "commonMistakes": [
+      "Sagging the lower back",
+      "Rotating the hips",
+      "Using momentum"
+    ],
+    "breathing": "Exhale as you kick back, inhale as you bring the knee in.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-one-leg-kickback-bent-position.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-one-leg-kickback-bent-position.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-one-leg-kickback-bent-position.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-one-leg-kickback-bent-position.jpg"
+    }
+  },
+  {
+    "id": "0990",
+    "name": "Band Seated Row",
+    "aliases": [
+      "resistance band seated row",
+      "band row",
+      "seated band row",
+      "Band Seated Row",
+      "band one arm twisting seated row"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "rhomboids",
+      "trapezius",
+      "rear deltoids",
+      "biceps"
+    ],
+    "equipment": "band",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "Seated row using resistance bands that targets the mid-back and lats.",
+    "instructions": "Sit on the floor with your legs extended, loop the band around your feet, and grasp the ends. Keeping your back straight and core tight, pull the band handles towards your torso, squeezing your shoulder blades together. Slowly release to the starting position with control, maintaining slight tension in the band.",
+    "steps": [
+      "Sit on the floor with legs straight and loop the band over your feet.",
+      "Grab the band handles or ends with both hands, arms extended.",
+      "Keep back straight and chest up.",
+      "Pull the handles back, driving elbows past your torso and squeezing shoulder blades.",
+      "Release slowly to the starting position."
+    ],
+    "formCues": [
+      "Lead with elbows",
+      "Keep chest up",
+      "Squeeze shoulder blades",
+      "Don't round your back"
+    ],
+    "commonMistakes": [
+      "Rounding the back",
+      "Using momentum",
+      "Letting band slack between reps"
+    ],
+    "breathing": "Exhale as you row, inhale as you return to start.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-seated-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-seated-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-seated-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-seated-row.jpg"
+    }
+  },
+  {
+    "id": "3144",
+    "name": "Band Straight-Back Seated Row",
+    "aliases": [
+      "band seated row",
+      "resistance band row",
+      "band row seated",
+      "Band Straight Back Seated Row",
+      "resistance band seated straight back row"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "rhomboids",
+      "trapezius",
+      "biceps"
+    ],
+    "equipment": "band",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A banded rowing movement emphasizing the upper back and lats while seated with a straight torso.",
+    "instructions": "Sit on the floor with legs extended, loop a resistance band around your feet, and hold the handles with both hands. Keeping your back straight and core engaged, pull the band towards your torso, squeezing your shoulder blades together, then return to the starting position with control.",
+    "steps": [
+      "Sit on the floor and extend your legs forward.",
+      "Loop the band around your feet securely.",
+      "Grip the band handles with both hands, arms extended.",
+      "Keeping your back straight, pull the handles toward your waist, elbows close to your body.",
+      "Pause, squeeze your shoulder blades, then slowly return to the starting position."
+    ],
+    "formCues": [
+      "Keep chest up",
+      "Maintain neutral spine",
+      "Squeeze shoulder blades",
+      "Control the release"
+    ],
+    "commonMistakes": [
+      "Rounding your back",
+      "Letting arms flare out",
+      "Using momentum rather than back muscles"
+    ],
+    "breathing": "Exhale as you row, inhale as you return to start.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-straight-back-seated-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-straight-back-seated-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-straight-back-seated-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-straight-back-seated-row.jpg"
+    }
+  },
+  {
+    "id": "0095",
+    "name": "Barbell Shrug",
+    "aliases": [
+      "barbell shrug",
+      "BB shrug",
+      "barbell shoulder shrug",
+      "standing barbell shrug",
+      "barbell trap shrug",
+      "shoulder raise with barbell"
+    ],
+    "bodyPart": "back",
+    "target": "traps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing trap exercise where you hold a barbell at your thighs and lift your shoulders straight up and down.",
+    "instructions": "Stand with your feet shoulder-width apart and hold a barbell in front of you with an overhand grip. Keep your arms straight and your back straight throughout the exercise. Lift your shoulders up towards your ears as high as possible, squeezing your traps at the top. Hold for a moment, then slowly lower your shoulders back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet hip- to shoulder-width apart and hold the barbell in front of your thighs with an overhand grip.",
+      "Let your arms hang straight, brace your torso, and keep your chest up.",
+      "Lift your shoulders straight up toward your ears without bending your elbows or leaning back.",
+      "Pause briefly at the top and squeeze your upper traps.",
+      "Lower your shoulders under control until they return to the starting position."
+    ],
+    "formCues": [
+      "Shoulders straight up",
+      "Arms stay long",
+      "Chest tall",
+      "No rolling"
+    ],
+    "commonMistakes": [
+      "Bending the elbows to curl the bar upward.",
+      "Rolling the shoulders forward or backward at the top.",
+      "Leaning back and swinging the torso to move the bar.",
+      "Letting the head jut forward as the shoulders rise."
+    ],
+    "breathing": "Inhale before each rep, exhale as you shrug your shoulders up, and inhale as you lower back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-shrug.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-shrug.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-shrug.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-shrug.jpg"
+    }
+  },
+  {
+    "id": "0027",
+    "name": "Barbell Underhand Bent-Over Row",
+    "aliases": [
+      "reverse grip barbell row",
+      "underhand grip barbell row",
+      "supinated barbell row",
+      "Barbell Underhand Bent-over Row",
+      "barbell bent over row"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rhomboids",
+      "trapezius",
+      "rear deltoids"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "Row performed bent over with barbell and an underhand (supinated) grip, targeting lats and biceps.",
+    "instructions": "Stand with feet hip-width apart, grasp the barbell with a supinated (underhand) grip. Bend forward at the hips keeping your back flat, bar hanging from extended arms. Pull the bar towards your lower ribs, squeezing shoulder blades, then lower it until arms are straight.",
+    "steps": [
+      "Stand with feet hip-width apart, barbell on floor.",
+      "Bend forward from hips, back straight, grasp bar underhand.",
+      "Let bar hang at arm’s length below shoulders.",
+      "Row barbell to torso, elbows close to sides.",
+      "Lower barbell under control to starting position."
+    ],
+    "formCues": [
+      "Keep back flat",
+      "Pull with elbows",
+      "Squeeze shoulder blades",
+      "Keep wrists neutral"
+    ],
+    "commonMistakes": [
+      "Rounding lower back",
+      "Flaring elbows excessively",
+      "Using momentum"
+    ],
+    "breathing": "Exhale as you row up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-underhand-bent-over-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-underhand-bent-over-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-underhand-bent-over-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-underhand-bent-over-row.jpg"
+    }
+  },
+  {
+    "id": "0570",
+    "name": "Bench Pull-Up",
+    "aliases": [
+      "assisted pull-up",
+      "feet-elevated pull-up",
+      "bench-supported pull-up",
+      "Bench Pull-ups",
+      "leg pull in flat bench"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps brachii",
+      "rhomboids",
+      "brachialis",
+      "trapezius"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A pull-up variation using a bench for foot support to reduce load and assist the movement.",
+    "instructions": "Set a bench or box under a pull-up bar and place your feet on it for support. Grip the bar overhead and engage your lats to pull your chest up, using your legs to assist as needed, then lower yourself under control.",
+    "steps": [
+      "Place a bench under a pull-up bar.",
+      "Grip the bar with hands wider than shoulder-width.",
+      "Position feet on the bench for support.",
+      "Pull your chest towards the bar, using feet as needed.",
+      "Lower yourself slowly to starting position."
+    ],
+    "formCues": [
+      "Keep core engaged",
+      "Lead with chest",
+      "Pull elbows down and back",
+      "Don't let legs push too much"
+    ],
+    "commonMistakes": [
+      "Using too much leg drive",
+      "Swinging body or kicking feet",
+      "Chin barely reaching bar",
+      "Not controlling descent"
+    ],
+    "breathing": "Exhale as you pull up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/bench-pull-ups.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/bench-pull-ups.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/bench-pull-ups.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/bench-pull-ups.jpg"
+    }
+  },
+  {
+    "id": "0974",
+    "name": "Cable Close Grip Lat Pulldown",
+    "aliases": [
+      "Close Grip Lat Pulldown",
+      "V-Bar Pulldown",
+      "Cable Lat Pulldown Close Grip",
+      "Cable Close Grip Front Lat Pulldown",
+      "band close-grip pulldown"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps brachii",
+      "rhomboids",
+      "teres major",
+      "forearms"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A cable exercise using a close grip to target the latissimus dorsi and supporting back muscles.",
+    "instructions": "Sit at a lat pulldown machine with a close (V-bar) handle attached. Grasp the handles with palms facing in, keep your torso upright, and pull the handle down to your chest by squeezing your back and bringing elbows down and back, then return the handle under control.",
+    "steps": [
+      "Attach a V-bar or close grip handle to the cable machine.",
+      "Sit down and secure your thighs under the pads.",
+      "Grasp the handle with a neutral grip, hands parallel.",
+      "Pull the handle down to the top of your chest, keeping torso vertical.",
+      "Slowly return the handle to the top without locking elbows."
+    ],
+    "formCues": [
+      "Lead with the elbows",
+      "Keep chest up",
+      "Do not swing back",
+      "Squeeze lats at bottom"
+    ],
+    "commonMistakes": [
+      "Leaning back excessively",
+      "Using momentum",
+      "Not fully engaging lats",
+      "Rounding shoulders forward"
+    ],
+    "breathing": "Exhale as you pull down, inhale as you return up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-close-grip-front-lat-pulldown.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-close-grip-front-lat-pulldown.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-close-grip-front-lat-pulldown.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-close-grip-front-lat-pulldown.jpg"
+    }
+  },
+  {
+    "id": "2616",
+    "name": "Cable One Arm Lateral Pulldown",
+    "aliases": [
+      "single arm cable pulldown",
+      "one arm wide pulldown",
+      "cable unilateral lat pulldown",
+      "Cable One Arm Lateral Pulldown",
+      "cable lat pulldown with v-bar"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rhomboids"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": true,
+    "shortDescription": "A vertical pulling exercise that targets the latissimus dorsi using a single cable handle.",
+    "instructions": "Sit or stand at a cable station, grasp the single handle with one hand overhead. Pull the handle down to shoulder level, pausing briefly, then control the return.",
+    "steps": [
+      "Attach a single handle to the high cable pulley.",
+      "Sit or stand, arm overhead grasping the handle.",
+      "Stabilize your body and engage your core.",
+      "Pull handle down to shoulder/upper chest level.",
+      "Pause, then return handle slowly."
+    ],
+    "formCues": [
+      "Pull elbow down and in",
+      "Don’t shrug shoulders",
+      "Keep torso upright",
+      "Focus on the lats"
+    ],
+    "commonMistakes": [
+      "Arching back excessively",
+      "Letting shoulder roll forward",
+      "Using momentum"
+    ],
+    "breathing": "Exhale while pulling down, inhale while releasing.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-one-arm-lateral-pulldown.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-one-arm-lateral-pulldown.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-one-arm-lateral-pulldown.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-one-arm-lateral-pulldown.jpg"
+    }
+  },
+  {
+    "id": "0861",
+    "name": "Cable One-Arm Twisting Seated Row",
+    "aliases": [
+      "one-arm seated cable row with twist",
+      "single-arm rotational cable row",
+      "cable unilateral twisting row",
+      "Cable One Arm Twisting Seated Row",
+      "cable seated row"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "obliques",
+      "rhomboids",
+      "biceps brachii",
+      "posterior deltoid"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": true,
+    "shortDescription": "A unilateral cable row variation adding torso rotation to activate both the lats and core.",
+    "instructions": "Sit at a cable row station and grasp the handle with one hand. As you row the handle towards your torso, rotate your upper body toward the working side, then reverse the rotation as you extend your arm forward.",
+    "steps": [
+      "Sit on the cable row bench and grasp a single handle with one hand.",
+      "Keep back straight and feet planted on the platform.",
+      "Pull the handle toward your torso while rotating your shoulder and upper body toward the working side.",
+      "Pause and squeeze your back muscles at contraction.",
+      "Slowly return arm and torso to the starting position with control."
+    ],
+    "formCues": [
+      "Rotate torso with row",
+      "Keep chest up",
+      "Avoid jerking",
+      "Control the return"
+    ],
+    "commonMistakes": [
+      "Over-rotating",
+      "Using momentum",
+      "Shrugging the shoulder"
+    ],
+    "breathing": "Exhale as you row and rotate, inhale as you extend and return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-one-arm-twisting-seated-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-one-arm-twisting-seated-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-one-arm-twisting-seated-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-one-arm-twisting-seated-row.jpg"
+    }
+  },
+  {
+    "id": "0198",
+    "name": "Cable Pulldown",
+    "aliases": [
+      "lat pulldown",
+      "cable lat pulldown",
+      "wide-grip pulldown",
+      "pulldown machine",
+      "lat pull down",
+      "cable pulldown"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps",
+      "forearms"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A seated cable back exercise where you pull a bar from overhead to your upper chest to train the lats and upper arms.",
+    "instructions": "Adjust the cable pulldown machine so that the seat is at a comfortable height and the knee pad is secured. Sit on the seat with your back straight and your feet flat on the ground. Grasp the cable bar with an overhand grip, slightly wider than shoulder-width apart. Lean back slightly and engage your core. Pull the cable bar down towards your chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the bar back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat and knee pad so your thighs are held down and you can reach the bar overhead.",
+      "Sit tall with your feet flat, grab the bar with an overhand grip just outside shoulder width, and straighten your arms.",
+      "Lean back slightly and pull your shoulders down away from your ears.",
+      "Drive your elbows down and pull the bar to the top of your chest.",
+      "Pause briefly while keeping your chest lifted and your torso still.",
+      "Slowly straighten your arms and let the bar rise under control to the start position."
+    ],
+    "formCues": [
+      "Pull elbows to your ribs",
+      "Keep chest tall",
+      "Shoulders down, not shrugged",
+      "Control the way up"
+    ],
+    "commonMistakes": [
+      "Pulling the bar behind the neck",
+      "Swinging the torso backward to start the rep",
+      "Letting the shoulders shrug up at the top",
+      "Stopping short and not fully straightening the arms"
+    ],
+    "breathing": "Inhale as the bar rises, and exhale as you pull the bar down to your upper chest.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-pulldown.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-pulldown.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-pulldown.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-pulldown.jpg"
+    }
+  },
+  {
+    "id": "0213",
+    "name": "Cable Seated High Row (V-bar)",
+    "aliases": [
+      "seated high cable row",
+      "v-bar seated cable row",
+      "close-grip high row",
+      "machine seated high row",
+      "cable high row with V handle",
+      "seated row to upper chest",
+      "cable seated high row (v-bar)"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rhomboids",
+      "rear deltoids"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A seated cable row using a V-bar handle, pulling toward the upper torso to train the lats, upper back, and biceps.",
+    "instructions": "Sit on the cable machine with your feet flat on the floor and your knees slightly bent. Grasp the v-bar attachment with an overhand grip, palms facing each other, and your hands shoulder-width apart. Keep your back straight and lean slightly forward from the hips. Pull the v-bar towards your torso by retracting your shoulder blades and squeezing your back muscles. Pause for a moment at the peak of the contraction, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit at the cable row station facing the stack and grasp the V-bar handle with a neutral grip.",
+      "Plant your feet, soften your knees, and sit tall with your chest up and arms extended.",
+      "Brace your torso and pull your shoulder blades back and down.",
+      "Drive your elbows back and out slightly as you row the handle toward your upper stomach or lower chest.",
+      "Pause briefly with the handle close to your torso and your shoulders pulled back.",
+      "Extend your arms forward under control until your shoulders are stretched, then repeat."
+    ],
+    "formCues": [
+      "Chest up",
+      "Lead with the elbows",
+      "Squeeze shoulder blades",
+      "Control the return"
+    ],
+    "commonMistakes": [
+      "Rounding the lower back as the handle moves forward",
+      "Leaning far back and using body swing to pull",
+      "Shrugging the shoulders up toward the ears",
+      "Pulling with the arms only and not moving the shoulder blades"
+    ],
+    "breathing": "Inhale as you extend your arms forward, and exhale as you row the handle toward your torso.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-seated-high-row-v-bar.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-seated-high-row-v-bar.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-seated-high-row-v-bar.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-seated-high-row-v-bar.jpg"
+    }
+  },
+  {
+    "id": "0238",
+    "name": "Cable Straight Arm Pulldown",
+    "aliases": [
+      "straight-arm pulldown",
+      "cable straight-arm pulldown",
+      "straight arm cable pulldown",
+      "lat prayer pulldown",
+      "straight-arm lat pulldown",
+      "straight-arm cable lat pull",
+      "cable straight arm pulldown"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "shoulders",
+      "biceps"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A cable lat exercise where you pull a straight bar from shoulder height down to your thighs with mostly straight arms.",
+    "instructions": "Attach a straight bar to the high pulley of a cable machine. Stand facing the machine with your feet shoulder-width apart. Grasp the bar with an overhand grip, keeping your arms straight and your palms facing down. Engage your lats and pull the bar down towards your thighs, keeping your arms straight throughout the movement. Pause for a moment at the bottom, then slowly return the bar to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Attach a straight bar to a high cable pulley and face the machine.",
+      "Grab the bar with an overhand grip, step back slightly, and hinge forward a little at the hips.",
+      "Start with your arms straight in front of you at shoulder height and your torso braced.",
+      "Pull the bar down in a wide arc toward your thighs without bending your elbows.",
+      "Squeeze your lats at the bottom with the bar close to your hips.",
+      "Raise the bar back up slowly to shoulder height while keeping your arms long and your torso still."
+    ],
+    "formCues": [
+      "Arms long, elbows soft",
+      "Pull with your lats",
+      "Ribs down, core tight",
+      "Stop at your thighs"
+    ],
+    "commonMistakes": [
+      "Bending the elbows and turning it into a triceps pressdown",
+      "Leaning back and using body swing to move the bar",
+      "Shrugging the shoulders up toward the ears",
+      "Letting the bar drift away from the body at the bottom"
+    ],
+    "breathing": "Inhale as the bar rises to the start, and exhale as you pull it down toward your thighs.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-straight-arm-pulldown.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-straight-arm-pulldown.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-straight-arm-pulldown.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-straight-arm-pulldown.jpg"
+    }
+  },
+  {
+    "id": "0248",
+    "name": "Cambered Bar Lying Row",
+    "aliases": [
+      "cambered bar lying row",
+      "lying barbell row",
+      "prone barbell row",
+      "chest-supported barbell row",
+      "seal row",
+      "barbell seal row"
+    ],
+    "bodyPart": "back",
+    "target": "upper back",
+    "secondaryMuscles": [
+      "biceps",
+      "forearms"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "biceps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A chest-supported barbell row performed lying face down on a bench to train the upper back with minimal body English.",
+    "instructions": "Set up a barbell on the floor and lie face down on a bench with your chest just off the edge. Reach down and grab the barbell with an overhand grip, slightly wider than shoulder-width apart. With your legs straight and feet on the ground, lift the barbell off the floor by extending your arms. Pull the barbell towards your chest, squeezing your shoulder blades together. Lower the barbell back down to the starting position and repeat for the desired number of repetitions.",
+    "steps": [
+      "Place a barbell on the floor under the end of a flat bench and lie face down so your chest is supported with your arms hanging straight down.",
+      "Plant your feet on the floor, brace your midsection, and grab the bar with an overhand grip slightly wider than shoulder width.",
+      "Lift the bar clear of the floor and let it hang directly below your shoulders with your neck neutral.",
+      "Pull the bar up toward the underside of the bench or lower chest by driving your elbows back.",
+      "Pause briefly at the top and squeeze your shoulder blades together.",
+      "Lower the bar under control until your arms are straight and the bar returns just above the floor."
+    ],
+    "formCues": [
+      "Chest stays on bench",
+      "Pull elbows back",
+      "Squeeze shoulder blades",
+      "Keep neck neutral"
+    ],
+    "commonMistakes": [
+      "Lifting the chest off the bench to move the bar",
+      "Shrugging the shoulders up toward the ears",
+      "Yanking the bar off the floor with momentum",
+      "Flaring the elbows straight out to the sides"
+    ],
+    "breathing": "Inhale as you lower the bar and exhale as you pull it up toward your chest.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cambered-bar-lying-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cambered-bar-lying-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cambered-bar-lying-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cambered-bar-lying-row.jpg"
+    }
+  },
+  {
+    "id": "0253",
+    "name": "Chin-ups (narrow parallel grip)",
+    "aliases": [
+      "neutral-grip chin-up",
+      "close neutral-grip pull-up",
+      "parallel-grip chin-up",
+      "narrow parallel pull-up",
+      "close-grip chin-up",
+      "assisted bodyweight chin-up",
+      "chin-ups (narrow parallel grip)"
+    ],
+    "bodyPart": "back",
+    "target": "upper back",
+    "secondaryMuscles": [
+      "biceps",
+      "forearms"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "biceps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bodyweight vertical pull using a narrow parallel grip to train the upper back, biceps, and forearms.",
+    "instructions": "Hang from a pull-up bar with a narrow parallel grip, palms facing towards you. Engage your back muscles and pull your body up towards the bar, keeping your elbows close to your body. Continue pulling until your chin is above the bar. Pause for a moment at the top, then slowly lower your body back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Grab the parallel handles with a narrow neutral grip and hang with your arms straight.",
+      "Cross your ankles or keep your legs still, then brace your midline and pull your shoulders down away from your ears.",
+      "Pull your elbows down and back to lift your chest toward your hands.",
+      "Keep pulling until your chin rises above your hands or handles.",
+      "Lower yourself under control until your arms are straight again.",
+      "Pause briefly at the bottom without relaxing your shoulders, then repeat."
+    ],
+    "formCues": [
+      "Drive elbows to ribs",
+      "Chest up to handles",
+      "Keep shoulders down",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Shrugging the shoulders up toward the ears while pulling.",
+      "Swinging the legs or kipping to get upward.",
+      "Stopping short with the chin below the hands.",
+      "Dropping quickly to the bottom without control."
+    ],
+    "breathing": "Inhale at the bottom before you pull, exhale as you lift yourself up, and inhale again as you lower under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/chin-ups-narrow-parallel-grip.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/chin-ups-narrow-parallel-grip.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/chin-ups-narrow-parallel-grip.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/chin-ups-narrow-parallel-grip.jpg"
+    }
+  },
+  {
+    "id": "2987",
+    "name": "Close Grip Chin-Up",
+    "aliases": [
+      "close grip chinup",
+      "chinup close grip",
+      "narrow chin-up",
+      "supine pull-up",
+      "Close Grip Chin-up",
+      "weighted close grip chin-up on dip cage"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps brachii",
+      "rhomboids",
+      "brachialis"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A vertical pulling exercise emphasizing the lats and biceps using a supinated close grip.",
+    "instructions": "Hang from a pull-up bar with hands shoulder-width or closer using a supinated (underhand) grip. Pull your chin over the bar by driving your elbows down and back, then lower under control.",
+    "steps": [
+      "Grab the pull-up bar with an underhand grip, hands shoulder-width or slightly closer.",
+      "Hang at full arm extension, engage your core and back.",
+      "Pull your chest towards the bar by driving your elbows down and back.",
+      "Clear the bar with your chin, pause briefly at the top.",
+      "Lower yourself with control until arms are fully extended."
+    ],
+    "formCues": [
+      "Squeeze shoulder blades",
+      "Drive elbows down",
+      "Keep core tight",
+      "Avoid swinging"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Flaring elbows out",
+      "Partial range of motion"
+    ],
+    "breathing": "Exhale as you pull up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/close-grip-chin-up.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/close-grip-chin-up.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/close-grip-chin-up.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/close-grip-chin-up.jpg"
+    }
+  },
+  {
+    "id": "drv-commando-pull-up",
+    "name": "Commando Pull-Up",
+    "aliases": [
+      "commando pullup",
+      "side-to-side pull-up",
+      "mixed grip pull-up"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps brachii",
+      "rhomboids",
+      "forearms",
+      "obliques",
+      "trapezius"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "advanced",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A challenging pull-up variation using a parallel grip over the bar, emphasizing back, biceps, and grip strength.",
+    "instructions": "Grasp a pull-up bar with hands facing each other and step sideways under the bar so your head faces parallel along the bar. Pull your chest toward one side of the bar, passing your head to one side, then lower and repeat on the opposite side. Maintain strict control and avoid swinging.",
+    "steps": [
+      "Stand under a pull-up bar and grip it with hands facing each other, one in front of the other.",
+      "Hang with your body turned so the bar is directly in front of your face.",
+      "Brace your core and pull up, bringing your head to one side of the bar.",
+      "Lower yourself under control back to the starting position.",
+      "Repeat, bringing your head to the opposite side on the next rep."
+    ],
+    "formCues": [
+      "Keep body tight",
+      "Alternate sides",
+      "Control descent",
+      "Avoid swinging"
+    ],
+    "commonMistakes": [
+      "Losing control at bottom",
+      "Letting body swing",
+      "Not clearing chin to side",
+      "Uneven pull strength"
+    ],
+    "breathing": "Exhale as you pull up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/commando-pull-up.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/commando-pull-up.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/commando-pull-up.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/commando-pull-up.jpg"
+    }
+  },
+  {
+    "id": "0293",
+    "name": "Dumbbell Bent-Over Row",
+    "aliases": [
+      "bent over dumbbell row",
+      "dumbbell row",
+      "DB bentover row",
+      "two arm dumbbell row",
+      "Dumbbell Bent-over Row",
+      "dumbbell bent over row"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "rhomboids",
+      "trapezius",
+      "posterior deltoids",
+      "biceps brachii"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A rowing movement that targets the back muscles while bracing the core in a bent-over position.",
+    "instructions": "Hold a dumbbell in each hand with feet shoulder-width apart, hinge at the hips while keeping your back flat. Row the weights to your sides by pulling elbows back, then lower the weights slowly.",
+    "steps": [
+      "Stand with feet shoulder-width apart holding dumbbells.",
+      "Hinge at hips, keeping back flat and chest up.",
+      "Let arms hang straight down, palms facing each other.",
+      "Pull dumbbells to your sides, elbows close to body.",
+      "Lower the weights under control to starting position."
+    ],
+    "formCues": [
+      "Flat back",
+      "Lead with elbows",
+      "Engage core",
+      "Squeeze shoulder blades"
+    ],
+    "commonMistakes": [
+      "Rounding the back",
+      "Jerking the weights",
+      "Not fully extending arms",
+      "Using biceps too much"
+    ],
+    "breathing": "Exhale as you row up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-bent-over-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-bent-over-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-bent-over-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-bent-over-row.jpg"
+    }
+  },
+  {
+    "id": "1330",
+    "name": "Dumbbell Hammer Grip Incline Bench Row",
+    "aliases": [
+      "Incline Dumbbell Neutral-Grip Row",
+      "Incline Bench Row Hammer Grip",
+      "Chest-Supported Neutral Row",
+      "Dumbbell Hammer Grip Incline Bench Row",
+      "dumbbell reverse grip incline bench one arm row"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "rhomboids",
+      "trapezius",
+      "posterior deltoid",
+      "biceps"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A back-focused row performed chest-down on an incline bench with dumbbells and a neutral (hammer) grip.",
+    "instructions": "Lie face down on an incline bench with a dumbbell in each hand, neutral grip. Row the weights up toward your hips, squeezing your lats, then lower with control.",
+    "steps": [
+      "Set an incline bench to 30-45 degrees and lie facedown with dumbbells.",
+      "Hold the dumbbells with palms facing each other (neutral/hammer grip).",
+      "Pull the dumbbells up toward your hips, elbows close to your body.",
+      "Pause and contract your back muscles at the top.",
+      "Lower the weights slowly with control."
+    ],
+    "formCues": [
+      "Chest on bench",
+      "Elbows tight",
+      "No shrugging",
+      "Full squeeze"
+    ],
+    "commonMistakes": [
+      "Letting chest leave bench",
+      "Over-rowing with biceps",
+      "Shrugging shoulders"
+    ],
+    "breathing": "Exhale pulling up, inhale lowering down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-hammer-grip-incline-bench-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-hammer-grip-incline-bench-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-hammer-grip-incline-bench-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-hammer-grip-incline-bench-row.jpg"
+    }
+  },
+  {
+    "id": "0327",
+    "name": "Dumbbell Incline Row",
+    "aliases": [
+      "incline dumbbell row",
+      "chest-supported dumbbell row",
+      "incline bench dumbbell row",
+      "DB incline row",
+      "chest-supported row",
+      "lying face-down dumbbell row",
+      "dumbbell incline row"
+    ],
+    "bodyPart": "back",
+    "target": "upper back",
+    "secondaryMuscles": [
+      "biceps",
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A chest-supported dumbbell row on an incline bench that targets the upper back while limiting body momentum.",
+    "instructions": "Set up an incline bench at a 45-degree angle. Grab a dumbbell in each hand and sit on the bench with your chest against the incline. Extend your arms fully, allowing the dumbbells to hang straight down from your shoulders. Pull the dumbbells up towards your chest, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench to a moderate angle and lie face down with your chest supported and feet planted on the floor.",
+      "Hold a dumbbell in each hand with your arms hanging straight down and palms facing each other.",
+      "Brace your midline and pull your shoulders down and back.",
+      "Row the dumbbells up toward your lower ribs by bending your elbows and driving them back.",
+      "Squeeze your upper back at the top without lifting your chest off the bench.",
+      "Lower the dumbbells under control until your arms are fully extended again."
+    ],
+    "formCues": [
+      "Lead with the elbows",
+      "Keep chest on the pad",
+      "Squeeze shoulder blades together",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Shrugging the shoulders up toward the ears",
+      "Yanking the dumbbells with body momentum",
+      "Flaring the elbows straight out to the sides",
+      "Lifting the chest off the bench at the top"
+    ],
+    "breathing": "Inhale as you lower the dumbbells, and exhale as you row them up toward your ribs.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-row.jpg"
+    }
+  },
+  {
+    "id": "0329",
+    "name": "Dumbbell Incline Shrug",
+    "aliases": [
+      "incline dumbbell shrug",
+      "DB incline shrug",
+      "incline shrugs",
+      "dumbbell shrugs on incline bench",
+      "leaning dumbbell shoulder shrug",
+      "dumbbell incline shrug"
+    ],
+    "bodyPart": "back",
+    "target": "traps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A chest-supported shrug on an incline bench using dumbbells to target the upper traps with minimal body momentum.",
+    "instructions": "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand. Place your feet flat on the ground and let your arms hang straight down with your palms facing your body. Keeping your arms straight, shrug your shoulders up towards your ears as high as possible. Hold the contraction for a moment, then slowly lower your shoulders back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench to about 45 degrees and sit with your chest supported against the pad.",
+      "Hold a dumbbell in each hand and let your arms hang straight down at your sides with your palms facing in.",
+      "Plant your feet firmly on the floor and keep your chest against the bench.",
+      "Lift your shoulders straight up toward your ears without bending your elbows.",
+      "Pause briefly at the top, then lower your shoulders back down under control.",
+      "Repeat from a dead hang each rep."
+    ],
+    "formCues": [
+      "Arms stay long",
+      "Shrug straight up",
+      "Keep chest on pad",
+      "Lower with control"
+    ],
+    "commonMistakes": [
+      "Bending the elbows and turning the rep into a row",
+      "Rolling the shoulders forward or backward at the top",
+      "Lifting the chest off the bench to move the weight",
+      "Using momentum and dropping quickly between reps"
+    ],
+    "breathing": "Inhale at the bottom, exhale as you shrug your shoulders up, then inhale as you lower back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-shrug.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-shrug.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-shrug.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-shrug.jpg"
+    }
+  },
+  {
+    "id": "1328",
+    "name": "Dumbbell Lying Rear Delt Row",
+    "aliases": [
+      "rear delt row",
+      "dumbbell rear delt row",
+      "prone rear delt row",
+      "chest-supported rear delt row",
+      "lying dumbbell rear row",
+      "face-down dumbbell row",
+      "dumbbell lying rear delt row"
+    ],
+    "bodyPart": "back",
+    "target": "upper back",
+    "secondaryMuscles": [
+      "shoulders",
+      "biceps"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A chest-supported dumbbell row variation that targets the rear delts and upper back by pulling the elbows out wide.",
+    "instructions": "Lie face down on a flat bench with a dumbbell in each hand, palms facing inwards. Extend your arms straight down towards the floor, keeping a slight bend in your elbows. Engaging your back muscles, lift the dumbbells up towards your chest, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Lie face down on a flat bench holding a dumbbell in each hand, with your chest supported and arms hanging straight down.",
+      "Set your feet firmly on the floor and turn your palms to face each other.",
+      "Pull your elbows out to the sides and row the dumbbells up toward your upper chest.",
+      "Squeeze your upper back at the top while keeping your chest on the bench.",
+      "Lower the dumbbells back down under control until your arms are straight again.",
+      "Repeat without swinging the weights or shrugging your shoulders."
+    ],
+    "formCues": [
+      "Lead with the elbows",
+      "Chest stays on the bench",
+      "Pull wide, not low",
+      "Squeeze shoulder blades together"
+    ],
+    "commonMistakes": [
+      "Pulling the elbows close to the ribs like a regular row",
+      "Shrugging the shoulders up toward the ears",
+      "Lifting the chest off the bench to move the weights",
+      "Swinging the dumbbells instead of lowering them with control"
+    ],
+    "breathing": "Inhale as you lower the dumbbells, and exhale as you row them up toward your upper chest.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lying-rear-delt-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lying-rear-delt-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lying-rear-delt-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lying-rear-delt-row.jpg"
+    }
+  },
+  {
+    "id": "1329",
+    "name": "Dumbbell Palm Rotational Bent Over Row",
+    "aliases": [
+      "dumbbell palm rotational bent-over row",
+      "rotating dumbbell bent-over row",
+      "dumbbell twist row",
+      "pronating dumbbell row",
+      "bent-over dumbbell row with rotation",
+      "twisting bent-over row",
+      "dumbbell palm rotational bent over row"
+    ],
+    "bodyPart": "back",
+    "target": "upper back",
+    "secondaryMuscles": [
+      "biceps",
+      "forearms"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "biceps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bent-over dumbbell row where you rotate your palms during the pull to train the upper back, biceps, and forearms.",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. Bend forward at the hips, keeping your back straight and your knees slightly bent. Let your arms hang straight down, palms facing your body. Engage your core and pull the dumbbells up towards your chest, keeping your elbows close to your body. As you pull the dumbbells up, rotate your palms so they face away from your body. Squeeze your shoulder blades together at the top of the movement. Slowly lower the dumbbells back down to the starting position, rotating your palms back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand with your feet hip-width apart, holding a dumbbell in each hand with your arms straight and palms facing each other.",
+      "Hinge at your hips until your torso is leaned forward, soften your knees, and keep your back flat.",
+      "Let the dumbbells hang below your shoulders and brace your core.",
+      "Row both dumbbells toward your lower ribs by driving your elbows back.",
+      "Rotate your palms as you lift until they face more backward or away from your body at the top.",
+      "Pause and squeeze your upper back, then lower the dumbbells with control as you rotate your palms back to neutral."
+    ],
+    "formCues": [
+      "Keep your back flat",
+      "Drive elbows back",
+      "Rotate through the pull",
+      "Squeeze shoulder blades together"
+    ],
+    "commonMistakes": [
+      "Rounding the lower back as you hinge forward",
+      "Standing up taller to swing the dumbbells",
+      "Shrugging the shoulders toward the ears",
+      "Letting the wrists curl instead of rotating the forearms"
+    ],
+    "breathing": "Inhale at the bottom, exhale as you row and rotate the dumbbells up, then inhale as you lower them back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-palm-rotational-bent-over-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-palm-rotational-bent-over-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-palm-rotational-bent-over-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-palm-rotational-bent-over-row.jpg"
+    }
+  },
+  {
+    "id": "0406",
+    "name": "Dumbbell Shrug",
+    "aliases": [
+      "DB shrug",
+      "dumbbell shoulder shrug",
+      "trap shrug",
+      "dumbbell trap raise",
+      "shoulder lift with dumbbells",
+      "dumbbell shrug"
+    ],
+    "bodyPart": "back",
+    "target": "traps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "An isolation exercise where you hold dumbbells at your sides and lift your shoulders up to train the trapezius muscles.",
+    "instructions": "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your body. Keep your arms straight and let the dumbbells hang by your sides. Raise your shoulders as high as possible, as if you are trying to touch your ears with your shoulders. Hold the contraction for a second, then slowly lower your shoulders back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with a dumbbell in each hand at your sides and your feet about hip-width apart.",
+      "Let your arms hang straight with your palms facing your body.",
+      "Lift your shoulders straight up toward your ears without bending your elbows.",
+      "Pause briefly at the top while keeping your torso still.",
+      "Lower your shoulders back down under control to the start position and repeat."
+    ],
+    "formCues": [
+      "Shoulders straight up",
+      "Arms stay long",
+      "Neck relaxed",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Rolling the shoulders in circles instead of lifting straight up and down.",
+      "Bending the elbows and turning the move into an upright row.",
+      "Leaning the torso back or forward to swing the dumbbells.",
+      "Jutting the head forward as the shoulders rise."
+    ],
+    "breathing": "Exhale as you shrug your shoulders up, and inhale as you lower them back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-shrug.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-shrug.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-shrug.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-shrug.jpg"
+    }
+  },
+  {
+    "id": "0499",
+    "name": "Inverted Row Between Chairs",
+    "aliases": [
+      "bodyweight row",
+      "australian pull-up",
+      "chair row",
+      "Inverted Row Between Chairs",
+      "inverted row"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps brachii",
+      "rhomboids",
+      "trapezius",
+      "posterior deltoids"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bodyweight pulling exercise performed using a bar or sturdy broomstick supported between two chairs.",
+    "instructions": "Set up a sturdy bar or stick horizontally between two secure chairs. Lie on your back underneath the bar, grasp it with an overhand, shoulder-width grip, and keep your body straight from head to heels. Pull your chest toward the bar, squeezing your shoulder blades together, then lower yourself back down with control.",
+    "steps": [
+      "Set up a sturdy bar between two heavy chairs.",
+      "Lie underneath with your chest directly below the bar.",
+      "Grip the bar with an overhand, shoulder-width grip.",
+      "Brace your body, keeping a straight line from head to heels.",
+      "Pull your chest to the bar, pause, then lower yourself slowly."
+    ],
+    "formCues": [
+      "Keep your body straight",
+      "Squeeze shoulder blades",
+      "Don't let hips sag",
+      "Pull to chest, not neck"
+    ],
+    "commonMistakes": [
+      "Allowing hips to drop",
+      "Flared elbows",
+      "Not lowering all the way",
+      "Not squeezing shoulder blades"
+    ],
+    "breathing": "Exhale as you pull up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/inverted-row-between-chairs.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/inverted-row-between-chairs.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/inverted-row-between-chairs.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/inverted-row-between-chairs.jpg"
+    }
+  },
+  {
+    "id": "0498",
+    "name": "Inverted Row With Straps",
+    "aliases": [
+      "suspension row",
+      "TRX row",
+      "bodyweight row with straps",
+      "strap inverted row",
+      "lean-back row",
+      "inverted row with straps"
+    ],
+    "bodyPart": "back",
+    "target": "upper back",
+    "secondaryMuscles": [
+      "biceps",
+      "forearms"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bodyweight upper-back row using suspension straps, pulling your chest toward the handles while keeping your body straight.",
+    "instructions": "Set up a suspension trainer or straps at chest height. Stand facing the anchor point and grab the handles with an overhand grip. Walk your feet forward, leaning back until your body is at an angle. Keep your body straight and engage your core. Pull your chest towards the handles, squeezing your shoulder blades together. Pause for a moment at the top, then slowly lower yourself back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set the straps to about chest height and stand facing the anchor point.",
+      "Grab the handles with an overhand grip and walk your feet forward until your body leans back in a straight line.",
+      "Brace your core and keep your heels planted with your arms fully extended.",
+      "Pull your chest toward the handles by driving your elbows back and squeezing your shoulder blades together.",
+      "Pause briefly when your hands reach your ribs or chest.",
+      "Lower yourself with control until your arms are straight again."
+    ],
+    "formCues": [
+      "Keep body in one line",
+      "Drive elbows back",
+      "Squeeze shoulder blades",
+      "Keep shoulders down"
+    ],
+    "commonMistakes": [
+      "Hips sag or pike instead of staying straight",
+      "Shrugging the shoulders up toward the ears",
+      "Pulling with bent wrists and loose handles",
+      "Letting the body drop quickly on the way down"
+    ],
+    "breathing": "Inhale as you lower yourself away from the handles, and exhale as you pull your chest toward them.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/inverted-row-with-straps.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/inverted-row-with-straps.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/inverted-row-with-straps.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/inverted-row-with-straps.jpg"
+    }
+  },
+  {
+    "id": "drv-kettlebell-deadlift",
+    "name": "Kettlebell Deadlift",
+    "aliases": [
+      "kb deadlift",
+      "kettlebell hip hinge",
+      "kettlebell conventional deadlift"
+    ],
+    "bodyPart": "back",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "erector spinae",
+      "quadriceps",
+      "forearms"
+    ],
+    "equipment": "kettlebell",
+    "muscleGroup": "gluteus maximus",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A hip hinge movement using a kettlebell from the floor to standing, building posterior chain and grip strength.",
+    "instructions": "Stand with feet hip-width apart, kettlebell between your feet. Hinge at the hips, bend knees and keep your back flat as you grip the kettlebell handle with both hands. Drive through your heels, extend hips and stand tall with the kettlebell, then reverse the movement to return to start.",
+    "steps": [
+      "Place kettlebell between your feet; stand with feet hip-width apart.",
+      "Hinge at hips and bend knees, keeping back flat and chest up.",
+      "Grip the kettlebell handle with both hands.",
+      "Drive through your heels to stand up, fully extending hips and knees.",
+      "Lower the kettlebell to the floor under control by hinging at the hips."
+    ],
+    "formCues": [
+      "Flat back",
+      "Push through heels",
+      "Engage glutes",
+      "Keep kettlebell close"
+    ],
+    "commonMistakes": [
+      "Rounding the lower back",
+      "Letting kettlebell drift from body",
+      "Locking knees early",
+      "Shrugging shoulders"
+    ],
+    "breathing": "Exhale as you stand up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/kettlebell-deadlift.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/kettlebell-deadlift.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/kettlebell-deadlift.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/kettlebell-deadlift.jpg"
+    }
+  },
+  {
+    "id": "1346",
+    "name": "Kneeling Lat Stretch",
+    "aliases": [
+      "kneeling latissimus stretch",
+      "kneeling child's pose lat stretch",
+      "Stretching - Kneeling Lat Stretch",
+      "kneeling lat stretch"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "teres major",
+      "triceps brachii",
+      "erector spinae"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A floor stretch to lengthen the latissimus dorsi and improve shoulder mobility.",
+    "instructions": "Kneel on the ground, sit your hips back towards your heels, and reach both arms straight out in front of you on the floor. Push your chest down and feel the stretch along each side of your back. Hold, then optionally move hands to each side to target one lat more intensely.",
+    "steps": [
+      "Kneel and sit hips back on heels.",
+      "Reach both arms forward, palms on floor.",
+      "Push chest toward the ground.",
+      "Hold the stretch, focusing on the long side body.",
+      "Optionally shift hands to each side for more stretch."
+    ],
+    "formCues": [
+      "Keep arms straight",
+      "Reach fingertips forward",
+      "Drop chest down",
+      "Relax neck and shoulders"
+    ],
+    "commonMistakes": [
+      "Arching lower back excessively",
+      "Bending elbows too much",
+      "Letting hips lift off heels",
+      "Tensing shoulders"
+    ],
+    "breathing": "Inhale deeply as you reach forward, exhale as you sink deeper into the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-kneeling-lat-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-kneeling-lat-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-kneeling-lat-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-kneeling-lat-stretch.jpg"
+    }
+  },
+  {
+    "id": "0573",
+    "name": "Lever Back Extension",
+    "aliases": [
+      "machine back extension",
+      "lever back extension",
+      "back extension machine",
+      "seated back extension",
+      "lower back machine extension"
+    ],
+    "bodyPart": "back",
+    "target": "spine",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "glutes",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A machine-based trunk extension that trains the lower back, glutes, and hamstrings by moving your torso against resistance.",
+    "instructions": "Adjust the machine to fit your body size and range of motion. Sit on the machine with your back against the pad and your feet secured. Place your hands on the handles or grip bars. Engage your core and slowly lean forward, allowing your back to round slightly. Pause for a moment at the bottom position, feeling a stretch in your lower back. Using your back muscles, slowly raise your torso back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the machine so the back pad sits comfortably against your upper back and your feet are secured on the platform.",
+      "Sit tall against the pad and grip the handles or side bars.",
+      "Brace your core and lean your torso forward under control through the machine's range.",
+      "Stop at the bottom when you feel a comfortable stretch and keep your feet pressed into the platform.",
+      "Drive your torso back against the pad until you return to an upright position.",
+      "Repeat smoothly without bouncing or jerking the pad."
+    ],
+    "formCues": [
+      "Brace before you move",
+      "Move through a smooth arc",
+      "Keep feet firmly planted",
+      "Return to tall posture"
+    ],
+    "commonMistakes": [
+      "Using momentum and bouncing out of the bottom position",
+      "Pushing through a short, rushed range of motion",
+      "Letting the feet lift or shift on the platform",
+      "Hyperextending far past upright at the top"
+    ],
+    "breathing": "Inhale as you lean forward, then exhale as you extend back to an upright position.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-back-extension.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-back-extension.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-back-extension.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-back-extension.jpg"
+    }
+  },
+  {
+    "id": "0581",
+    "name": "Lever High Row",
+    "aliases": [
+      "high row machine",
+      "lever row machine",
+      "plate-loaded high row",
+      "machine high row",
+      "upper back machine row",
+      "lever high row"
+    ],
+    "bodyPart": "back",
+    "target": "upper back",
+    "secondaryMuscles": [
+      "biceps",
+      "rear deltoids"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A chest-supported machine row that trains the upper back by pulling handles from in front of you toward your torso.",
+    "instructions": "Adjust the seat height and foot platform to a comfortable position. Sit on the machine with your chest against the pad and your feet flat on the foot platform. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart. Keep your back straight and engage your core. Pull the handles towards your body, squeezing your shoulder blades together. Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat so the handles start around upper-chest height when you sit down.",
+      "Sit with your chest firmly against the pad and place your feet flat on the platform.",
+      "Grab the handles with an overhand grip and straighten your arms without lifting your chest off the pad.",
+      "Pull the handles back toward your upper ribs by driving your elbows down and back.",
+      "Squeeze your shoulder blades together at the end of the pull.",
+      "Return the handles forward under control until your arms are straight again."
+    ],
+    "formCues": [
+      "Chest stays on pad",
+      "Drive elbows back",
+      "Squeeze shoulder blades",
+      "Control the return"
+    ],
+    "commonMistakes": [
+      "Shrugging the shoulders up toward the ears as you pull",
+      "Leaning off the chest pad to move the weight",
+      "Letting the handles slam forward between reps",
+      "Bending the wrists back instead of keeping them neutral"
+    ],
+    "breathing": "Exhale as you pull the handles toward you, and inhale as you return to the starting position.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-high-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-high-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-high-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-high-row.jpg"
+    }
+  },
+  {
+    "id": "1349",
+    "name": "Lever Reverse T-Bar Row",
+    "aliases": [
+      "reverse T-bar row machine",
+      "chest-supported reverse row",
+      "lever chest-supported row",
+      "machine upper back row",
+      "pronated grip machine row",
+      "lever reverse t-bar row"
+    ],
+    "bodyPart": "back",
+    "target": "upper back",
+    "secondaryMuscles": [
+      "biceps",
+      "forearms"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A chest-supported leverage machine row using an overhand grip to train the upper back, biceps, and forearms.",
+    "instructions": "Adjust the seat height and footplate position on the leverage machine. Sit on the machine with your chest against the pad and your feet flat on the footplate. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart. Keep your back straight and engage your core. Pull the handles towards your chest, squeezing your shoulder blades together. Pause for a moment at the top of the movement, then slowly release and extend your arms back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat or chest pad so the handles line up around mid-chest when you reach forward.",
+      "Place your chest firmly against the pad and set your feet flat on the platform.",
+      "Grab the handles with an overhand grip and straighten your arms without rounding your shoulders.",
+      "Pull the handles toward your chest by driving your elbows back and out slightly.",
+      "Squeeze your shoulder blades together at the end of the pull.",
+      "Lower the handles under control until your arms are straight again."
+    ],
+    "formCues": [
+      "Chest stays on pad",
+      "Lead with your elbows",
+      "Squeeze shoulder blades together",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Shrugging the shoulders up toward the ears",
+      "Bouncing the chest off the pad to move the handles",
+      "Letting the upper back round at the start",
+      "Yanking the weight and dropping it back fast"
+    ],
+    "breathing": "Exhale as you pull the handles toward your chest, and inhale as you lower them back under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-reverse-t-bar-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-reverse-t-bar-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-reverse-t-bar-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-reverse-t-bar-row.jpg"
+    }
+  },
+  {
+    "id": "0604",
+    "name": "Lever Shrug",
+    "aliases": [
+      "machine shrug",
+      "lever machine shrug",
+      "shrug machine",
+      "trap shrug machine",
+      "shoulder shrug machine",
+      "lever shrug"
+    ],
+    "bodyPart": "back",
+    "target": "traps",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A machine trap exercise where you lift your shoulders straight up against the handles to train the upper trapezius.",
+    "instructions": "Adjust the seat height and position yourself on the leverage machine with your back against the pad. Grasp the handles with an overhand grip and keep your arms straight. Keeping your back straight, lift your shoulders up towards your ears as high as possible. Hold the contraction for a moment, then slowly lower your shoulders back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the machine so the handles rest at your sides with your shoulders relaxed.",
+      "Sit or stand against the pad and grasp the handles with a firm overhand grip.",
+      "Straighten your arms and set your chest tall with your neck neutral.",
+      "Lift your shoulders straight up toward your ears without bending your elbows.",
+      "Pause briefly at the top while keeping your torso still.",
+      "Lower your shoulders under control until they return to the start."
+    ],
+    "formCues": [
+      "Shoulders straight up",
+      "Arms stay long",
+      "Keep chest tall",
+      "Control the lowering"
+    ],
+    "commonMistakes": [
+      "Bending the elbows and turning it into a row",
+      "Rolling the shoulders forward or backward",
+      "Leaning the torso to move the weight",
+      "Jutting the chin forward as the shoulders rise"
+    ],
+    "breathing": "Inhale at the bottom, exhale as you shrug your shoulders up, then inhale as you lower back down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-shrug.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-shrug.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-shrug.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-shrug.jpg"
+    }
+  },
+  {
+    "id": "drv-lever-t-bar-row",
+    "name": "Lever T-Bar Row",
+    "aliases": [
+      "t-bar row",
+      "machine t-bar row",
+      "seal row",
+      "landmine row"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "rhomboids",
+      "rear deltoids",
+      "trapezius",
+      "biceps brachii"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A machine row movement that maximizes mid-back and lat development through a horizontal pulling pattern.",
+    "instructions": "Position yourself on the lever T-bar row machine with chest supported and feet braced. Grip the handles, retract your shoulder blades, and pull the handles toward your torso, squeezing your back muscles. Lower the weight under control with full stretch.",
+    "steps": [
+      "Lie prone on the chest pad of the T-bar row machine and grasp the handles.",
+      "Brace your upper body and retract your shoulder blades.",
+      "Pull the handles toward your chest or lower ribs.",
+      "Pause and squeeze your back at the top.",
+      "Lower the weight under control to a full stretch."
+    ],
+    "formCues": [
+      "Pinch shoulder blades",
+      "Drive elbows back",
+      "Keep chest on pad",
+      "Full stretch at bottom"
+    ],
+    "commonMistakes": [
+      "Arching lower back",
+      "Not fully extending arms",
+      "Bouncing weights",
+      "Letting shoulders round forward"
+    ],
+    "breathing": "Exhale as you row up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-t-bar-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-t-bar-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-t-bar-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-t-bar-row.jpg"
+    }
+  },
+  {
+    "id": "1405",
+    "name": "Middle Back Stretch",
+    "aliases": [
+      "Seated Middle Back Stretch",
+      "Seated Back Stretch",
+      "Thoracic Stretch",
+      "Stretching - Middle Back Stretch (1)",
+      "back pec stretch"
+    ],
+    "bodyPart": "back",
+    "target": "middle back",
+    "secondaryMuscles": [
+      "latissimus dorsi",
+      "rhomboids",
+      "erector spinae"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "thoracic spine muscles",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A static stretch to lengthen the muscles of the thoracic (middle) back region.",
+    "instructions": "Sit or stand with arms extended in front. Clasp your hands and round your upper back, reaching forward to feel a gentle stretch along your middle back. Hold the position without bouncing.",
+    "steps": [
+      "Sit or stand with feet hip-width apart.",
+      "Extend your arms straight in front and clasp your hands.",
+      "Round your upper back and push your hands forward.",
+      "Tuck your chin slightly toward your chest.",
+      "Hold the stretch for 20–30 seconds and release."
+    ],
+    "formCues": [
+      "Round your upper back",
+      "Keep arms extended",
+      "Relax your shoulders",
+      "Hold the position steady"
+    ],
+    "commonMistakes": [
+      "Arching the lower back instead of rounding the upper back",
+      "Holding breath",
+      "Bouncing during the stretch"
+    ],
+    "breathing": "Breathe slowly and evenly throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-middle-back-stretch-1.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-middle-back-stretch-1.jpg"
+    }
+  },
+  {
+    "id": "1403",
+    "name": "Neck Side Stretch",
+    "aliases": [
+      "lateral neck stretch",
+      "side neck stretch",
+      "cervical lateral flexion stretch",
+      "Stretching - Neck Side Stretch",
+      "neck side stretch"
+    ],
+    "bodyPart": "back",
+    "target": "sternocleidomastoid",
+    "secondaryMuscles": [
+      "scalenes",
+      "upper trapezius"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "sternocleidomastoid",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A gentle static stretch that targets the side muscles of the neck, improving mobility and reducing tension.",
+    "instructions": "Sit or stand upright, keeping good posture. Gently tilt your head toward one shoulder until a stretch is felt along the opposite side of the neck, holding for a set duration before switching sides.",
+    "steps": [
+      "Sit or stand with good posture.",
+      "Slowly tilt your head to one side, ear towards shoulder.",
+      "Hold the stretch for 15-30 seconds.",
+      "Return to center.",
+      "Repeat on the opposite side."
+    ],
+    "formCues": [
+      "Don't shrug shoulders",
+      "Keep shoulders level",
+      "Move slowly",
+      "Feel a gentle stretch"
+    ],
+    "commonMistakes": [
+      "Forcing the stretch",
+      "Turning the head instead of tilting",
+      "Using jerky movements"
+    ],
+    "breathing": "Breathe normally throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-neck-side-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-neck-side-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-neck-side-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-neck-side-stretch.jpg"
+    }
+  },
+  {
+    "id": "1429",
+    "name": "Pull-Up (Wide Grip)",
+    "aliases": [
+      "wide grip pull-up",
+      "wide front grip pullup",
+      "overhand wide pull-up",
+      "Pull-up (wide front grip)"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "trapezius",
+      "rhomboids",
+      "biceps brachii"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A pull-up variation performed with a wide, overhand grip to emphasize the upper lats and back.",
+    "instructions": "Hang from a pull-up bar with hands wider than shoulders using an overhand grip. Pull yourself up until your chin is over the bar, then lower slowly.",
+    "steps": [
+      "Grip pull-up bar with hands wider than shoulders, palms overhand.",
+      "Hang with arms fully extended and core tight.",
+      "Pull chest up to bar, driving elbows down and out.",
+      "Pause at the top, squeeze back muscles.",
+      "Lower down slowly to full extension."
+    ],
+    "formCues": [
+      "Keep elbows flared out",
+      "Lead with chest",
+      "Engage lats",
+      "Avoid swinging"
+    ],
+    "commonMistakes": [
+      "Partial reps",
+      "Using momentum",
+      "Shrugging shoulders"
+    ],
+    "breathing": "Exhale as you pull up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/pull-up-wide-front-grip.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/pull-up-wide-front-grip.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/pull-up-wide-front-grip.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/pull-up-wide-front-grip.jpg"
+    }
+  },
+  {
+    "id": "drv-chin-ups-pull-ups",
+    "name": "Pull-Up / Chin-Up",
+    "aliases": [
+      "pull-up",
+      "chin-up",
+      "bodyweight pull-up",
+      "neutral grip pull-up"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps brachii",
+      "brachialis",
+      "rhomboids",
+      "trapezius",
+      "rear deltoids"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bodyweight pulling exercise that develops lat and upper body strength using a hanging bar.",
+    "instructions": "Grab a pull-up bar with either a pronated (overhand, pull-up) or supinated (underhand, chin-up) grip slightly wider or narrower than shoulder width as desired. Start from a dead hang, retract your shoulders, and pull your chin above the bar using your back and arms. Control your descent back to the bottom.",
+    "steps": [
+      "Stand under a pull-up bar and grip it with your chosen grip (overhand for pull-up, underhand for chin-up).",
+      "Hang at full arm extension with shoulders engaged.",
+      "Brace your core and pull your chest up toward the bar by driving elbows down.",
+      "Clear the bar with your chin or chest as you squeeze your lats.",
+      "Lower yourself under control to the starting hang position."
+    ],
+    "formCues": [
+      "Lead with chest",
+      "Drive elbows down",
+      "Don't swing",
+      "Engage shoulders"
+    ],
+    "commonMistakes": [
+      "Not going to full hang",
+      "Using leg kick or swing",
+      "Chin not over the bar",
+      "Shrugging shoulders"
+    ],
+    "breathing": "Exhale as you pull up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/chin-ups-pull-ups.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/chin-ups-pull-ups.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/chin-ups-pull-ups.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/chin-ups-pull-ups.jpg"
+    }
+  },
+  {
+    "id": "0673",
+    "name": "Reverse Grip Machine Lat Pulldown",
+    "aliases": [
+      "reverse grip lat pulldown machine",
+      "underhand machine lat pulldown",
+      "supinated grip lat pulldown",
+      "reverse grip pulldown",
+      "underhand pulldown machine",
+      "palms-up lat pulldown",
+      "reverse grip machine lat pulldown"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps",
+      "forearms"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "biceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A machine pulldown using an underhand grip to train the lats through a vertical pulling motion.",
+    "instructions": "Adjust the seat height and position yourself on the machine with your knees under the pads and your feet flat on the ground. Grasp the handles with an underhand grip, slightly wider than shoulder-width apart. Sit upright with your chest out and shoulders back, maintaining a slight arch in your lower back. Pull the handles down towards your chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the handles back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Adjust the seat so your knees fit snugly under the pads and place your feet flat on the floor.",
+      "Reach up and grab the handles with an underhand grip about shoulder-width apart.",
+      "Sit tall with your chest up and arms fully extended overhead.",
+      "Pull the handles down toward your upper chest by driving your elbows down and back.",
+      "Squeeze your upper back and lats at the bottom without leaning far backward.",
+      "Slowly let the handles rise until your arms are straight again while keeping control."
+    ],
+    "formCues": [
+      "Chest up",
+      "Drive elbows down",
+      "Keep wrists straight",
+      "Control the return"
+    ],
+    "commonMistakes": [
+      "Leaning far back and turning it into a row",
+      "Pulling the handles behind the neck",
+      "Shrugging the shoulders up toward the ears",
+      "Letting the weight slam back at the top"
+    ],
+    "breathing": "Inhale as the handles rise back up, and exhale as you pull them down toward your chest.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/reverse-grip-machine-lat-pulldown.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/reverse-grip-machine-lat-pulldown.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/reverse-grip-machine-lat-pulldown.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/reverse-grip-machine-lat-pulldown.jpg"
+    }
+  },
+  {
+    "id": "2327",
+    "name": "Reverse Grip Pull-Up",
+    "aliases": [
+      "Chin-Up",
+      "Supinated Grip Pull-Up",
+      "Underhand Pull-Up",
+      "Reverse Grip Pull-up",
+      "dumbbell reverse grip row"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rhomboids",
+      "forearms"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A vertical bodyweight pulling exercise with palms facing you, emphasizing the lats and biceps.",
+    "instructions": "Hang from a pull-up bar with a shoulder-width, underhand (supinated) grip. Pull your chin above the bar by flexing your elbows and squeezing your lats, then lower under control.",
+    "steps": [
+      "Grab the bar with palms facing you (supinated grip), hands shoulder-width apart.",
+      "Hang with arms fully extended and scapula engaged.",
+      "Pull your chest up towards the bar, leading with your elbows.",
+      "Clear your chin above the bar, squeezing at the top.",
+      "Lower yourself back to the starting position with control."
+    ],
+    "formCues": [
+      "Chest to bar",
+      "Elbows drive down",
+      "No swinging",
+      "Full arm extension"
+    ],
+    "commonMistakes": [
+      "Not extending arms",
+      "Using momentum",
+      "Craning neck over bar"
+    ],
+    "breathing": "Exhale pulling up, inhale lowering down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/reverse-grip-pull-up.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/reverse-grip-pull-up.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/reverse-grip-pull-up.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/reverse-grip-pull-up.jpg"
+    }
+  },
+  {
+    "id": "0207",
+    "name": "Reverse-Grip Cable Lat Pulldown",
+    "aliases": [
+      "reverse cable pulldown",
+      "supinated lat pulldown",
+      "underhand grip lat pulldown",
+      "reverse bar pulldown",
+      "Cable Bar Lateral Pulldown (reverse-grip)",
+      "cable reverse-grip pushdown"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps brachii",
+      "teres major",
+      "rhomboids",
+      "lower trapezius"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A cable pulldown variation using an underhand (supinated) grip to emphasize the lower lats and biceps.",
+    "instructions": "Sit at a lat pulldown station and grasp the bar with a reverse (underhand) grip, hands shoulder-width apart. Pull the bar down to your upper chest, squeezing the shoulder blades together, then slowly return to starting position.",
+    "steps": [
+      "Set the cable bar attachment and sit with knees secured under the pad.",
+      "Grasp the bar with a reverse (supinated) shoulder-width grip.",
+      "Lean back slightly, chest up, arms fully extended.",
+      "Pull the bar down to your upper chest by contracting your lats.",
+      "Slowly return the bar to the start position with control."
+    ],
+    "formCues": [
+      "Pull elbows down",
+      "Keep chest up",
+      "Don’t swing the torso",
+      "Grip the bar tightly"
+    ],
+    "commonMistakes": [
+      "Using too much momentum",
+      "Letting shoulders round",
+      "Leaning too far back"
+    ],
+    "breathing": "Exhale as you pull down, inhale as you return up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-bar-lateral-pulldown-reverse-grip.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-bar-lateral-pulldown-reverse-grip.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-bar-lateral-pulldown-reverse-grip.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-bar-lateral-pulldown-reverse-grip.jpg"
+    }
+  },
+  {
+    "id": "drv-ring-high-row",
+    "name": "Ring High Row",
+    "aliases": [
+      "gymnastics ring high row",
+      "ring row",
+      "TRX high row",
+      "bodyweight row"
+    ],
+    "bodyPart": "back",
+    "target": "rhomboids",
+    "secondaryMuscles": [
+      "latissimus dorsi",
+      "biceps brachii",
+      "rear deltoids",
+      "trapezius"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rhomboids",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A suspended horizontal pulling movement using rings set high to target upper back and rear shoulder muscles.",
+    "instructions": "Set up rings at an appropriate height and grip handles with palms facing in. Lean back with body rigid, arms extended, and feet forward. Pull your chest up to ring height, squeezing the shoulder blades together, then lower back under control.",
+    "steps": [
+      "Adjust rings to chest height and grip handles with neutral grip.",
+      "Lean back with feet forward and body straight.",
+      "Engage core, keep arms extended.",
+      "Row your chest toward the rings, retracting shoulder blades.",
+      "Lower body back to start under control."
+    ],
+    "formCues": [
+      "Squeeze shoulder blades",
+      "Keep body aligned",
+      "Control each rep",
+      "Pull elbows high"
+    ],
+    "commonMistakes": [
+      "Sagging hips",
+      "Shrugging shoulders",
+      "Elbows flaring excessively",
+      "Incomplete range"
+    ],
+    "breathing": "Exhale as you pull, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/ring-high-row.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/ring-high-row.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/ring-high-row.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/ring-high-row.jpg"
+    }
+  },
+  {
+    "id": "3012",
+    "name": "Scapula Dips",
+    "aliases": [
+      "scapula dips",
+      "scapular dips",
+      "scap dips",
+      "shoulder blade dips",
+      "scapular depression dips"
+    ],
+    "bodyPart": "back",
+    "target": "traps",
+    "secondaryMuscles": [
+      "rhomboids",
+      "deltoids"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rhomboids",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A bodyweight shoulder-blade dip on straight arms that trains scapular control and shoulder depression in a supported position.",
+    "instructions": "Start by standing with your feet shoulder-width apart and your arms extended in front of you. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Lower your body by bending your elbows and retracting your shoulder blades, as if you are trying to squeeze a pencil between them. Pause for a moment at the bottom, then push through your hands to extend your elbows and return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Start in a straight-arm support on parallel bars or dip bars with your elbows locked and shoulders stacked over your hands.",
+      "Lift your chest and brace your trunk while keeping your legs still under you.",
+      "Lower your body a few inches by letting your shoulders rise toward your ears without bending your elbows.",
+      "Press down through your hands to pull your shoulders away from your ears and raise your body back up.",
+      "Repeat with slow, controlled shoulder movement while keeping your arms straight the whole time."
+    ],
+    "formCues": [
+      "Keep elbows locked",
+      "Shoulders away from ears",
+      "Move only at shoulders",
+      "Stay tall through chest"
+    ],
+    "commonMistakes": [
+      "Bending the elbows like a regular dip",
+      "Swinging the legs or torso to create momentum",
+      "Shrugging up and never pressing back down",
+      "Dropping too far and losing shoulder control"
+    ],
+    "breathing": "Inhale as you lower into the shoulder shrug, and exhale as you press down to lift your body back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/scapula-dips.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/scapula-dips.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/scapula-dips.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/scapula-dips.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-sitting-bent-over-back-stretch",
+    "name": "Seated Bent Over Back Stretch",
+    "aliases": [
+      "seated back stretch",
+      "sitting bent forward stretch",
+      "spinal stretch"
+    ],
+    "bodyPart": "back",
+    "target": "erectors",
+    "secondaryMuscles": [
+      "latissimus dorsi",
+      "hamstrings",
+      "trapezius"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "erector spinae",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A static stretch performed while seated, bending forward to lengthen the lower and upper back muscles.",
+    "instructions": "Sit on the floor with legs extended or crossed. Hinge at the hips and slowly bend forward, reaching hands toward feet or out in front, keeping the back as relaxed as comfortable. Hold the stretch to gently lengthen the muscles along the spine.",
+    "steps": [
+      "Sit comfortably on the floor, legs extended or crossed.",
+      "Hinge forward at the hips, keeping back relaxed.",
+      "Let arms reach forward toward feet or floor.",
+      "Lower your chest toward your knees, breathing deeply.",
+      "Hold the stretch and relax into the position."
+    ],
+    "formCues": [
+      "Relax neck",
+      "Hinge at hips",
+      "Keep stretch gentle",
+      "Breathe deeply"
+    ],
+    "commonMistakes": [
+      "Rounding excessively",
+      "Forcing stretch",
+      "Holding breath"
+    ],
+    "breathing": "Inhale before bending, exhale as you fold forward.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-sitting-bent-over-back-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-sitting-bent-over-back-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-sitting-bent-over-back-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-sitting-bent-over-back-stretch.jpg"
+    }
+  },
+  {
+    "id": "0208",
+    "name": "Seated Cable Row (V-Grip)",
+    "aliases": [
+      "v-bar seated row",
+      "cable row v-handle",
+      "neutral grip seated row",
+      "Cable Straight Back Seated Row (V-grip)",
+      "cable reverse-grip straight back seated high row"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "rhomboids",
+      "middle trapezius",
+      "biceps brachii",
+      "posterior deltoids"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A compound cable exercise targeting the mid-back and lats using a V-grip handle.",
+    "instructions": "Sit on a cable row station with feet on the platform and grasp the V-grip handle. Keep your back straight and pull the handle towards your torso by retracting your shoulder blades and bending your elbows. Control the return to the starting position.",
+    "steps": [
+      "Sit on the cable row machine and place feet on the foot platform.",
+      "Grab the V-grip handle with both hands, arms extended.",
+      "Maintain a straight back and slight knee bend.",
+      "Pull the handle toward your abdomen, retracting your shoulder blades.",
+      "Slowly extend arms to return to the starting position."
+    ],
+    "formCues": [
+      "Keep back straight",
+      "Drive elbows back",
+      "Retract shoulder blades",
+      "Don’t lean or round spine"
+    ],
+    "commonMistakes": [
+      "Hunching the back",
+      "Using momentum",
+      "Allowing elbows to flare out"
+    ],
+    "breathing": "Exhale as you row back, inhale as you extend forward.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-straight-back-seated-row-v-grip.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-straight-back-seated-row-v-grip.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-straight-back-seated-row-v-grip.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-straight-back-seated-row-v-grip.jpg"
+    }
+  },
+  {
+    "id": "0218",
+    "name": "Seated Cable Row (Wide-Grip)",
+    "aliases": [
+      "wide-grip cable row",
+      "wide handle seated row",
+      "cable wide grip row",
+      "Cable Seated Row (wide-grip)",
+      "cable seated wide-grip row"
+    ],
+    "bodyPart": "back",
+    "target": "upper back",
+    "secondaryMuscles": [
+      "posterior deltoids",
+      "biceps brachii",
+      "teres major"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "rhomboids, trapezius, latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A cable row variation using a wide grip to target the upper back and rear deltoids.",
+    "instructions": "Sit on the cable row machine with feet on the platform and grab the wide grip handle. Pull the bar towards the upper abdomen, retracting the shoulder blades, and return to the starting position with control.",
+    "steps": [
+      "Sit down and place feet against the platform.",
+      "Grasp the wide grip attachment with both hands.",
+      "Keep your torso upright, arms fully extended.",
+      "Pull the handle toward your upper abdomen, squeezing your upper back.",
+      "Slowly release back to the start position."
+    ],
+    "formCues": [
+      "Keep elbows high",
+      "Squeeze shoulder blades",
+      "Keep back neutral",
+      "Don’t rock the torso"
+    ],
+    "commonMistakes": [
+      "Leaning back too far",
+      "Letting elbows drop",
+      "Rounding the back"
+    ],
+    "breathing": "Exhale as you pull, inhale as you extend arms.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-seated-row-wide-grip.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-seated-row-wide-grip.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-seated-row-wide-grip.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-seated-row-wide-grip.jpg"
+    }
+  },
+  {
+    "id": "0690",
+    "name": "Seated Lower Back Stretch",
+    "aliases": [
+      "seated back stretch",
+      "seated spinal flexion stretch",
+      "Stretching - Seated Lower Back Stretch",
+      "seated lower back stretch"
+    ],
+    "bodyPart": "back",
+    "target": "erector spinae",
+    "secondaryMuscles": [
+      "gluteus maximus",
+      "hamstrings"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "erector spinae",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A gentle forward reaching stretch to relieve tension in the lower back while seated.",
+    "instructions": "Sit on the floor or chair with your legs extended or crossed. Reach both arms forward and slowly bend at the hips, lowering your torso and arms toward your feet, feeling the stretch across your lower back. Hold the position, keeping the back relaxed.",
+    "steps": [
+      "Sit with legs extended or crossed.",
+      "Reach both arms straight in front of you.",
+      "Slowly bend at your hips to lower your torso forward.",
+      "Relax your back and shoulders.",
+      "Hold stretch, then return to upright position."
+    ],
+    "formCues": [
+      "Reach with both arms",
+      "Relax neck and head",
+      "Hinge from hips",
+      "Breathe and relax deeper"
+    ],
+    "commonMistakes": [
+      "Rounding upper back excessively",
+      "Forcing the stretch",
+      "Holding breath"
+    ],
+    "breathing": "Inhale deeply before bending, exhale as you reach forward.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-seated-lower-back-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-seated-lower-back-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-seated-lower-back-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-seated-lower-back-stretch.jpg"
+    }
+  },
+  {
+    "id": "1587",
+    "name": "Seated Wide Angle Pose Sequence",
+    "aliases": [
+      "upavistha konasana",
+      "seated wide straddle stretch",
+      "wide angle sitting stretch",
+      "Stretching - Seated Wide Angle Pose Sequence",
+      "seated wide angle pose sequence"
+    ],
+    "bodyPart": "back",
+    "target": "adductors",
+    "secondaryMuscles": [
+      "hamstrings",
+      "erector spinae",
+      "gluteus maximus"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "adductor muscles",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A sequence of stretches performed in a wide-legged seated position to improve hip, hamstring, and lower back flexibility.",
+    "instructions": "Sit upright and spread your legs as wide as is comfortable. With a straight back, hinge forward at the hips and walk your hands out in front or toward each leg, deepening the stretch in the inner thighs and lower back. Carefully progress through variations to target various muscle groups.",
+    "steps": [
+      "Sit with legs extended wide apart.",
+      "Keep knees and toes pointing upward.",
+      "Sit tall and hinge forward at hips.",
+      "Walk hands forward, maintaining flat back.",
+      "Hold stretch or gently move side to side."
+    ],
+    "formCues": [
+      "Keep spine long",
+      "Point toes up",
+      "Lead with chest",
+      "Don't round lower back"
+    ],
+    "commonMistakes": [
+      "Letting knees roll inward",
+      "Rounding back excessively",
+      "Pushing too far"
+    ],
+    "breathing": "Inhale to prepare, exhale as you stretch forward.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-seated-wide-angle-pose-sequence.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-seated-wide-angle-pose-sequence.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-seated-wide-angle-pose-sequence.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-seated-wide-angle-pose-sequence.jpg"
+    }
+  },
+  {
+    "id": "0651",
+    "name": "Shoulder-Width Pull-Up",
+    "aliases": [
+      "pullup shoulder-width grip",
+      "standard pull-up",
+      "shoulder grip pullup",
+      "Pull-up (shoulder grip)",
+      "pull up (neutral grip)"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps",
+      "rhomboids",
+      "trapezius",
+      "forearms"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A classic bodyweight exercise targeting the lats and upper back with a shoulder-width overhand grip.",
+    "instructions": "Hang from a pull-up bar with hands shoulder-width apart, palms facing away. Initiate movement from the back and pull your chin over the bar, then lower yourself in a controlled manner back to the starting position.",
+    "steps": [
+      "Grip bar shoulder-width, palms away.",
+      "Hang with arms fully extended.",
+      "Pull up until chin clears the bar.",
+      "Pause briefly at the top.",
+      "Lower down slowly to full extension."
+    ],
+    "formCues": [
+      "Lead with chest",
+      "No swinging",
+      "Full range of motion",
+      "Elbows down and back"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Partial reps",
+      "Shrugging shoulders"
+    ],
+    "breathing": "Exhale pulling up, inhale lowering down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/pull-up-shoulder-grip.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/pull-up-shoulder-grip.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/pull-up-shoulder-grip.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/pull-up-shoulder-grip.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-slopes-towards-stretch",
+    "name": "Side Bend Stretch",
+    "aliases": [
+      "lateral bend stretch",
+      "side stretching",
+      "oblique stretch",
+      "spinal side stretch"
+    ],
+    "bodyPart": "back",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "latissimus dorsi",
+      "quadratus lumborum",
+      "erector spinae"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A standing lateral bending stretch focusing on lengthening the obliques and side body muscles.",
+    "instructions": "Stand tall with feet hip-width apart or sit upright. Raise one arm overhead and lean to the opposite side, feeling a stretch along your side and back muscles. Hold briefly, then return to start and repeat on the other side.",
+    "steps": [
+      "Stand or sit tall with spine neutral.",
+      "Raise right arm overhead.",
+      "Slowly bend torso to the left, keeping hips steady.",
+      "Hold stretch for time, feeling the pull in your side.",
+      "Return to start and repeat on the other side."
+    ],
+    "formCues": [
+      "Keep hips level",
+      "Reach upward first",
+      "Don’t twist",
+      "Bend directly sideways"
+    ],
+    "commonMistakes": [
+      "Twisting trunk",
+      "Tilting forward/backward",
+      "Dropping shoulder"
+    ],
+    "breathing": "Exhale as you bend, inhale as you return to upright.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-slopes-towards-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-slopes-towards-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-slopes-towards-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-slopes-towards-stretch.jpg"
+    }
+  },
+  {
+    "id": "1757",
+    "name": "Single Dumbbell Stiff-Leg Deadlift",
+    "aliases": [
+      "Single Arm Stiff-Leg Deadlift",
+      "One Dumbbell RDL",
+      "Single DB Stiff Deadlift",
+      "Single Dumbbell Stiff Leg Deadlift",
+      "dumbbell single leg deadlift"
+    ],
+    "bodyPart": "back",
+    "target": "hamstrings",
+    "secondaryMuscles": [
+      "glutes",
+      "lower back",
+      "erector spinae"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "hamstrings",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A stiff-legged deadlift variation using a single dumbbell to target the hamstrings and lower back.",
+    "instructions": "Stand holding a dumbbell with both hands in front of your thighs. With a slight bend at the knees, hinge at the hips to lower the dumbbell until you feel a stretch in your hamstrings and then return to the starting position.",
+    "steps": [
+      "Stand upright holding a dumbbell with both hands at your thighs.",
+      "Keep a slight bend in your knees and your back flat.",
+      "Hinge forward at the hips, lowering the dumbbell towards the floor.",
+      "Pause at the bottom while feeling a stretch in your hamstrings.",
+      "Return to the upright position by driving hips forward."
+    ],
+    "formCues": [
+      "Hips back",
+      "Flat back",
+      "Feel hamstring stretch",
+      "No rounding"
+    ],
+    "commonMistakes": [
+      "Rounding back",
+      "Excessive knee bend",
+      "Bouncing at bottom"
+    ],
+    "breathing": "Inhale lowering, exhale as you stand back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/single-dumbbell-stiff-leg-deadlift.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/single-dumbbell-stiff-leg-deadlift.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/single-dumbbell-stiff-leg-deadlift.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/single-dumbbell-stiff-leg-deadlift.jpg"
+    }
+  },
+  {
+    "id": "0752",
+    "name": "Smith Machine Deadlift",
+    "aliases": [
+      "smith deadlift",
+      "smith bar deadlift",
+      "machine deadlift",
+      "Smith Deadlift - Deadlift (1)"
+    ],
+    "bodyPart": "back",
+    "target": "erectors",
+    "secondaryMuscles": [
+      "gluteus maximus",
+      "hamstrings",
+      "trapezius",
+      "forearms"
+    ],
+    "equipment": "smith machine",
+    "muscleGroup": "erector spinae",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A guided barbell deadlift performed with a Smith machine to build lower back, glutes, and hamstrings strength.",
+    "instructions": "Stand with feet hip-width apart beneath the Smith bar. Hold the bar with an overhand grip, hinge at your hips, bend knees, and keep your back neutral. Extend hips and knees to lift the bar along the rails, then return slowly under control.",
+    "steps": [
+      "Position feet shoulder-width beneath the Smith bar.",
+      "Grip the bar just outside your knees with both hands.",
+      "Hinge hips back and lower torso, keeping chest up.",
+      "Extend hips and knees to lift the bar along the guides.",
+      "Lower the bar with control to the starting position."
+    ],
+    "formCues": [
+      "Hinge at hips",
+      "Keep back flat",
+      "Drive through heels",
+      "Bar close to shins"
+    ],
+    "commonMistakes": [
+      "Rounding the lower back",
+      "Lifting with arms instead of legs",
+      "Letting the bar drift away from body",
+      "Jerky movements"
+    ],
+    "breathing": "Inhale as you lower the bar, exhale as you lift.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/smith-deadlift-deadlift-1.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/smith-deadlift-deadlift-1.jpg"
+    }
+  },
+  {
+    "id": "1363",
+    "name": "Spine Stretch",
+    "aliases": [
+      "spinal stretch",
+      "seated spine stretch",
+      "spine flexion stretch",
+      "Stretching - Spine Stretch",
+      "spine stretch"
+    ],
+    "bodyPart": "back",
+    "target": "spinal erectors",
+    "secondaryMuscles": [
+      "latissimus dorsi",
+      "hamstrings"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "erector spinae",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A floor stretch focusing on lengthening the spine and improving flexibility in the lower back and hamstrings.",
+    "instructions": "Sit with legs extended and feet flexed, arms extended in front of you. Exhale as you reach forward, articulating the spine and stretching through your fingertips. Hold the stretch, then slowly return to start.",
+    "steps": [
+      "Sit on floor with legs extended and feet flexed.",
+      "Extend arms straight ahead at shoulder height.",
+      "Inhale, then as you exhale, reach forward, articulating your spine.",
+      "Stretch forward as far as comfortable, keeping legs straight.",
+      "Hold and return slowly to start."
+    ],
+    "formCues": [
+      "Lengthen spine",
+      "Reach with fingertips",
+      "Keep legs straight",
+      "Relax neck"
+    ],
+    "commonMistakes": [
+      "Rounding shoulders excessively",
+      "Forcing the stretch",
+      "Bending knees"
+    ],
+    "breathing": "Exhale as you stretch forward, inhale as you return to start.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-spine-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-spine-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-spine-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-spine-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-standing-back-rotation-stretch",
+    "name": "Standing Back Rotation Stretch",
+    "aliases": [
+      "standing spinal twist",
+      "standing torso rotation",
+      "standing twist stretch"
+    ],
+    "bodyPart": "back",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "erector spinae",
+      "latissimus dorsi"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A standing twisting stretch targeting the obliques and rotational muscles of the back.",
+    "instructions": "Stand with feet shoulder-width apart and arms out in front or at your sides. Slowly rotate your upper body to one side, keeping hips square, to feel a gentle stretch along your back and waist. Hold, return to center, and repeat to the other side.",
+    "steps": [
+      "Stand tall with feet shoulder-width apart.",
+      "Extend arms at shoulder height or place hands on hips.",
+      "Rotate torso gently to one side without moving hips.",
+      "Hold stretch for desired time.",
+      "Return to center and repeat on other side."
+    ],
+    "formCues": [
+      "Keep hips facing forward",
+      "Rotate gently",
+      "Elongate spine",
+      "Don’t force stretch"
+    ],
+    "commonMistakes": [
+      "Over-rotating",
+      "Letting hips twist",
+      "Holding breath"
+    ],
+    "breathing": "Exhale as you twist, inhale as you return to center.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-back-rotation-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-standing-back-rotation-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-back-rotation-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-standing-back-rotation-stretch.jpg"
+    }
+  },
+  {
+    "id": "0794",
+    "name": "Standing Lateral Stretch",
+    "aliases": [
+      "standing side stretch",
+      "standing overhead stretch",
+      "lateral bend stretch",
+      "Stretching - Standing Lateral Stretch (1)",
+      "standing lateral stretch"
+    ],
+    "bodyPart": "back",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "latissimus dorsi",
+      "intercostals"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A standing side-bending stretch to target the obliques and lengthen the muscles along the side of the torso.",
+    "instructions": "Stand tall with feet hip-width apart; raise one arm overhead and gently lean to the opposite side. Feel a stretch along the side of your torso and hold, then switch sides.",
+    "steps": [
+      "Stand upright, feet hip-width apart.",
+      "Raise one arm overhead, keeping it straight.",
+      "Place other hand on hip or let it hang at side.",
+      "Gently lean to the opposite side, keeping hips square.",
+      "Hold, then return to center and repeat on the other side."
+    ],
+    "formCues": [
+      "Reach tall, then over",
+      "Keep both feet grounded",
+      "Hips facing forward",
+      "Breathe into stretch"
+    ],
+    "commonMistakes": [
+      "Rotating torso",
+      "Bending forward or backwards",
+      "Not keeping arm straight"
+    ],
+    "breathing": "Inhale to lengthen, exhale as you lean into the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-lateral-stretch-1.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-lateral-stretch-1.jpg"
+    }
+  },
+  {
+    "id": "drv-cable-bar-lateral-pulldown-wide-shoulder-grip",
+    "name": "Wide Grip Cable Lat Pulldown",
+    "aliases": [
+      "lat pulldown",
+      "wide grip pulldown",
+      "cable pulldown",
+      "pulldown machine"
+    ],
+    "bodyPart": "back",
+    "target": "lats",
+    "secondaryMuscles": [
+      "biceps brachii",
+      "trapezius",
+      "rhomboids",
+      "rear deltoids"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "latissimus dorsi",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A cable exercise performed with a wide grip that primarily targets the latissimus dorsi to build back width and upper body strength.",
+    "instructions": "Sit at the cable pulldown machine and grip the wide bar with hands wider than shoulder width and palms facing forward. Engage your core, pull your shoulder blades down and back, and pull the bar down to your upper chest while keeping your back straight. Slowly return the bar to the starting position while controlling the resistance.",
+    "steps": [
+      "Adjust the thigh pad and sit at the cable pulldown machine.",
+      "Grip the wide bar overhead with a pronated (overhand) grip, hands wider than shoulders.",
+      "Lean back slightly, brace your core, and retract your shoulder blades.",
+      "Pull the bar down to your upper chest, driving elbows down and out.",
+      "Pause briefly, then slowly release the bar back to the starting position."
+    ],
+    "formCues": [
+      "Pull elbows down",
+      "Keep chest up",
+      "Don't swing",
+      "Control the weight"
+    ],
+    "commonMistakes": [
+      "Using momentum or body swing",
+      "Allowing shoulders to shrug up",
+      "Not fully extending arms",
+      "Pulling bar behind neck"
+    ],
+    "breathing": "Exhale as you pull the bar down, inhale as you return to start.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-bar-lateral-pulldown-wide-shoulder-grip.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-bar-lateral-pulldown-wide-shoulder-grip.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-bar-lateral-pulldown-wide-shoulder-grip.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-bar-lateral-pulldown-wide-shoulder-grip.jpg"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "0330",
+  "name": "Dumbbell Incline Triceps Extension",
+  "aliases": [
+    "incline dumbbell triceps extension",
+    "incline DB triceps extension",
+    "seated incline overhead triceps extension",
+    "incline dumbbell overhead extension",
+    "incline skull crusher with dumbbells",
+    "lean-back dumbbell triceps extension",
+    "dumbbell incline triceps extension"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "shoulders",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A seated incline dumbbell triceps exercise where you bend and straighten the elbows to move the weights behind and above the head.",
+  "instructions": "Sit on an incline bench with a dumbbell in each hand, palms facing inwards. Extend your arms fully overhead, keeping your elbows close to your head. Lower the dumbbells behind your head by bending your elbows, keeping your upper arms stationary. Pause for a moment, then raise the dumbbells back to the starting position by extending your arms. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Sit back on an incline bench holding a dumbbell in each hand.",
+    "Press the dumbbells overhead with your palms facing each other.",
+    "Keep your elbows pointed up and close to your head.",
+    "Lower the dumbbells behind your head by bending only your elbows.",
+    "Pause briefly when your forearms are below parallel to the floor.",
+    "Straighten your elbows to raise the dumbbells back overhead."
+  ],
+  "formCues": [
+    "Elbows stay tucked",
+    "Upper arms stay still",
+    "Lower with control",
+    "Finish straight overhead"
+  ],
+  "commonMistakes": [
+    "Elbows flare wide out to the sides.",
+    "Upper arms drift backward and turn it into a press.",
+    "Lowering only a few inches behind the head.",
+    "Arching the low back off the bench."
+  ],
+  "breathing": "Inhale as you lower the dumbbells behind your head, and exhale as you extend your elbows to bring them overhead.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-triceps-extension.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-triceps-extension.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-triceps-extension.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-triceps-extension.jpg"
+  }
+}

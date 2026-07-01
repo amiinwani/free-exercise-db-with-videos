@@ -1,0 +1,50 @@
+{
+  "id": "0672",
+  "name": "Reverse Dip Stretch",
+  "aliases": [
+    "seated reverse dip stretch",
+    "shoulder dip stretch",
+    "Stretching - Reverse Dip",
+    "reverse dip"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "deltoids",
+    "pectorals"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "triceps brachii",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A stretch targeting the triceps and shoulders by extending the arms behind the body and lowering the torso.",
+  "instructions": "Sit on the floor with your legs extended and place your hands behind you with fingers facing forward. Gently press through your palms to lift your chest and feel the stretch across your upper arms and shoulders, holding the position without hyperextending your elbows.",
+  "steps": [
+    "Sit with legs extended and arms behind your hips.",
+    "Place hands flat on the floor, fingers pointing forward.",
+    "Press through your palms to lift your chest up.",
+    "Keep your arms long without locking elbows.",
+    "Hold for the stretch, then slowly lower and relax."
+  ],
+  "formCues": [
+    "Lift chest tall",
+    "Keep elbows soft",
+    "Open shoulders",
+    "Avoid slumping"
+  ],
+  "commonMistakes": [
+    "Locking elbows tightly",
+    "Letting shoulders round forward",
+    "Overarching lower back"
+  ],
+  "breathing": "Breathe deeply and steadily throughout the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-reverse-dip.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-reverse-dip.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-reverse-dip.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-reverse-dip.jpg"
+  }
+}

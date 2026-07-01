@@ -1,0 +1,49 @@
+{
+  "id": "drv-stretching-hip-extension-stretch",
+  "name": "Hip Extension Stretch",
+  "aliases": [
+    "hip flexor stretch",
+    "prone hip extension stretch",
+    "hip opener"
+  ],
+  "bodyPart": "waist",
+  "target": "hip flexors",
+  "secondaryMuscles": [
+    "rectus femoris",
+    "lower back"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "iliopsoas",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A stretch focused on extending the hip to target tight hip flexors and anterior hips.",
+  "instructions": "Lie on your stomach with legs outstretched and hands placed underneath your shoulders. Gently press up through your palms, extending the hips and lifting your torso without overextending the low back. Maintain a gentle stretch and hold.",
+  "steps": [
+    "Lie face down with legs extended.",
+    "Place hands beneath shoulders, elbows bent.",
+    "Press palms into floor, lifting chest and gently extending hips.",
+    "Hold the stretch at a comfortable tension.",
+    "Slowly lower back down."
+  ],
+  "formCues": [
+    "Avoid excessive back arch",
+    "Keep hips on floor",
+    "Press through palms",
+    "Stretch gradually"
+  ],
+  "commonMistakes": [
+    "Overarching the lower back",
+    "Forcing the stretch",
+    "Holding breath"
+  ],
+  "breathing": "Inhale while preparing, exhale as you press up into stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-hip-extension-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-hip-extension-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-hip-extension-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-hip-extension-stretch.jpg"
+  }
+}

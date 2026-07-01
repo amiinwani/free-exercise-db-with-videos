@@ -1,0 +1,57 @@
+{
+  "id": "0154",
+  "name": "Cable Crossover Reverse Fly",
+  "aliases": [
+    "reverse cable fly",
+    "cable reverse fly",
+    "rear delt cable fly",
+    "cable rear delt fly",
+    "reverse fly machine cables",
+    "bent-over cable reverse fly",
+    "cable cross-over reverse fly",
+    "Cable Crossover Reverse Fly"
+  ],
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "secondaryMuscles": [
+    "rhomboids",
+    "trapezius"
+  ],
+  "equipment": "cable",
+  "muscleGroup": "rhomboids",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A cable rear-delt fly where you pull crossed low handles out and back to train the back of the shoulders and upper back.",
+  "instructions": "Attach a D-handle to each low pulley cable and stand in the middle of the cable crossover machine. Grasp the handles with a pronated grip (palms facing down) and take a step forward, positioning your feet shoulder-width apart. Bend your knees slightly and lean forward at the waist, keeping your back straight and your abs engaged. With your arms extended out to the sides and slightly bent at the elbows, exhale and squeeze your shoulder blades together as you pull the cables back and upward in a reverse fly motion. Pause for a moment at the peak contraction, then inhale and slowly return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set both cable handles to the low pulleys and stand centered between them.",
+    "Grab the left handle in your right hand and the right handle in your left hand, then step forward to create tension.",
+    "Hinge forward slightly with a soft bend in your knees and keep your chest up and back flat.",
+    "Start with your arms angled down and crossed in front of you, elbows slightly bent.",
+    "Pull both arms out and back in a wide arc until your hands reach about shoulder height.",
+    "Squeeze your rear shoulders and upper back at the end position.",
+    "Return the handles slowly to the start without shrugging or changing your torso position."
+  ],
+  "formCues": [
+    "Lead with your elbows",
+    "Keep a soft elbow bend",
+    "Chest up, back flat",
+    "Don't shrug your shoulders"
+  ],
+  "commonMistakes": [
+    "Standing fully upright and turning it into a row",
+    "Bending and straightening the elbows during the rep",
+    "Shrugging the shoulders up toward the ears",
+    "Swinging the torso to move the handles"
+  ],
+  "breathing": "Inhale as you return the handles to the start, and exhale as you pull your arms out and back.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-crossover-reverse-fly.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-crossover-reverse-fly.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-crossover-reverse-fly.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-crossover-reverse-fly.jpg"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "drv-cardio-exercises-machines",
+  "name": "Cardio Machine Workouts",
+  "aliases": [
+    "cardio machine routines",
+    "gym cardio machines",
+    "aerobic machine exercises"
+  ],
+  "bodyPart": "cardio",
+  "target": "cardiovascular system",
+  "secondaryMuscles": [
+    "varies by machine (legs, glutes, arms)"
+  ],
+  "equipment": "leverage machine",
+  "muscleGroup": "heart and lungs",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "Cardio exercises on machines like treadmills, bikes, ellipticals, or rowers improve cardiovascular fitness and endurance.",
+  "instructions": "Choose a cardio machine such as a treadmill, stationary bike, elliptical, or rowing machine. Adjust the settings for your comfort and fitness level. Begin the workout, maintaining steady pace and form as you monitor your exertion and duration.",
+  "steps": [
+    "Select a cardio machine suitable for your fitness level.",
+    "Adjust settings such as resistance, speed, and incline as desired.",
+    "Begin movement, focusing on steady pace and good posture.",
+    "Continue for your planned duration, monitoring intensity.",
+    "Cool down gradually and safely exit the machine."
+  ],
+  "formCues": [
+    "Maintain upright posture",
+    "Use full range of motion",
+    "Monitor intensity",
+    "Keep steady pace"
+  ],
+  "commonMistakes": [
+    "Poor posture",
+    "Jumping on or off quickly",
+    "Overexerting too quickly"
+  ],
+  "breathing": "Breathe steadily throughout the workout.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cardio-exercises-machines.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cardio-exercises-machines.jpg"
+  }
+}

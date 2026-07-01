@@ -1,0 +1,54 @@
+{
+  "id": "0750",
+  "name": "Smith Chair Squat",
+  "aliases": [
+    "smith chair squat",
+    "smith machine squat",
+    "smith squat",
+    "machine back squat",
+    "guided bar squat"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": "smith machine",
+  "muscleGroup": "glutes",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A Smith machine squat variation that targets the quads while training the glutes and hamstrings through a controlled bar path.",
+  "instructions": "Adjust the height of the smith machine bar to a comfortable position. Stand with your feet shoulder-width apart, toes slightly turned out. Place the barbell across your upper back, resting it on your traps. Engage your core and keep your chest up as you slowly lower your body by bending your knees and hips. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Set the Smith bar across your upper back and stand with your feet about shoulder-width apart, slightly in front of the bar path.",
+    "Unrack the bar and brace your core with your chest up and eyes forward.",
+    "Bend your knees and hips together to sit straight down under control.",
+    "Lower until your thighs are about parallel to the floor or slightly below while keeping your heels down.",
+    "Drive through your midfoot and heels to stand back up until your knees and hips are fully extended.",
+    "Lock out tall, then repeat for the next rep."
+  ],
+  "formCues": [
+    "Chest up",
+    "Knees track over toes",
+    "Drive through heels",
+    "Brace your core"
+  ],
+  "commonMistakes": [
+    "Feet set directly under the bar so the knees travel too far forward.",
+    "Heels lift off the floor at the bottom.",
+    "Knees cave inward during the ascent.",
+    "Lower back rounds as the hips drop."
+  ],
+  "breathing": "Inhale and brace before you lower, then exhale as you drive back up to standing.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/smith-chair-squat.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/smith-chair-squat.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/smith-chair-squat.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/smith-chair-squat.jpg"
+  }
+}

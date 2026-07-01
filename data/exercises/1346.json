@@ -1,0 +1,52 @@
+{
+  "id": "1346",
+  "name": "Kneeling Lat Stretch",
+  "aliases": [
+    "kneeling latissimus stretch",
+    "kneeling child's pose lat stretch",
+    "Stretching - Kneeling Lat Stretch",
+    "kneeling lat stretch"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "teres major",
+    "triceps brachii",
+    "erector spinae"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "A floor stretch to lengthen the latissimus dorsi and improve shoulder mobility.",
+  "instructions": "Kneel on the ground, sit your hips back towards your heels, and reach both arms straight out in front of you on the floor. Push your chest down and feel the stretch along each side of your back. Hold, then optionally move hands to each side to target one lat more intensely.",
+  "steps": [
+    "Kneel and sit hips back on heels.",
+    "Reach both arms forward, palms on floor.",
+    "Push chest toward the ground.",
+    "Hold the stretch, focusing on the long side body.",
+    "Optionally shift hands to each side for more stretch."
+  ],
+  "formCues": [
+    "Keep arms straight",
+    "Reach fingertips forward",
+    "Drop chest down",
+    "Relax neck and shoulders"
+  ],
+  "commonMistakes": [
+    "Arching lower back excessively",
+    "Bending elbows too much",
+    "Letting hips lift off heels",
+    "Tensing shoulders"
+  ],
+  "breathing": "Inhale deeply as you reach forward, exhale as you sink deeper into the stretch.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-kneeling-lat-stretch.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-kneeling-lat-stretch.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-kneeling-lat-stretch.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-kneeling-lat-stretch.jpg"
+  }
+}

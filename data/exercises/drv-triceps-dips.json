@@ -1,0 +1,49 @@
+{
+  "id": "drv-triceps-dips",
+  "name": "Triceps Dips",
+  "aliases": [
+    "bench dips",
+    "chair dips",
+    "bodyweight dips"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "anterior deltoids",
+    "pectoralis major"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "triceps brachii",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bodyweight exercise that targets the triceps through a pressing motion while lowering and raising the body.",
+  "instructions": "Sit on the edge of a bench or chair with hands next to your hips and legs extended forward. Slide your hips off the seat and lower your body by bending your elbows to about 90 degrees, then push yourself back up by straightening your arms.",
+  "steps": [
+    "Sit on a bench or chair with hands gripping the edge.",
+    "Extend legs forward and slide hips off the seat.",
+    "Lower body by bending elbows to 90 degrees.",
+    "Press through palms to straighten arms and lift body.",
+    "Repeat for reps."
+  ],
+  "formCues": [
+    "Keep elbows close to your body",
+    "Lower slowly",
+    "Press through your palms",
+    "Avoid shrugging shoulders"
+  ],
+  "commonMistakes": [
+    "Letting shoulders roll forward",
+    "Dropping hips too low",
+    "Elbows flaring out"
+  ],
+  "breathing": "Inhale as you lower down, exhale as you push up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/triceps-dips.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/triceps-dips.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/triceps-dips.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/triceps-dips.jpg"
+  }
+}

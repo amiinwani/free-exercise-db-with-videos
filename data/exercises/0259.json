@@ -1,0 +1,53 @@
+{
+  "id": "0259",
+  "name": "Close-Grip Push-Up",
+  "aliases": [
+    "triceps push-up",
+    "diamond push-up (if hands are closer)",
+    "narrow push-up",
+    "close hand push-up",
+    "Close Grip Push-ups",
+    "close-grip push-up"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "pectoralis major",
+    "anterior deltoid",
+    "core stabilizers"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "triceps brachii",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A push-up variation with hands close together to emphasize triceps involvement.",
+  "instructions": "Assume a plank position with hands placed close together under your chest. Lower your body, keeping elbows near your sides, and push back up to the top position.",
+  "steps": [
+    "Begin in a plank position with hands close together under your chest.",
+    "Keep your core tight and body in a straight line.",
+    "Lower your chest toward the hands, elbows tucked by your sides.",
+    "Pause briefly at the bottom without touching the floor.",
+    "Press up to the starting position."
+  ],
+  "formCues": [
+    "Tuck elbows",
+    "Keep hands under chest",
+    "Maintain straight body",
+    "Squeeze triceps at the top"
+  ],
+  "commonMistakes": [
+    "Letting elbows flare",
+    "Sagging hips",
+    "Hands too wide"
+  ],
+  "breathing": "Inhale as you lower down, exhale as you push up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/close-grip-push-ups.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/close-grip-push-ups.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/close-grip-push-ups.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/close-grip-push-ups.jpg"
+  }
+}

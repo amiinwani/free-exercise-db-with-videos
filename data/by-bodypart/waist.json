@@ -1,0 +1,3062 @@
+[
+  {
+    "id": "drv-45-degree-bycicle-twisting-crunch",
+    "name": "45-Degree Bicycle Twisting Crunch",
+    "aliases": [
+      "bicycle crunch",
+      "twisting bicycle crunch",
+      "diagonal bicycle crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "external obliques",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A twisting crunch performed at a 45-degree angle to target the obliques and rectus abdominis.",
+    "instructions": "Lie flat on your back with hands behind your head and legs raised at a 45-degree angle. Bring your right elbow toward your left knee while extending the opposite leg, then alternate sides in a pedaling motion.",
+    "steps": [
+      "Lie down with your hands behind your head and legs extended upwards at about a 45-degree angle.",
+      "Engage your core and lift your shoulders off the ground.",
+      "Twist your upper body, bringing your right elbow toward your left knee as you extend your right leg.",
+      "Return to the starting position and repeat to the opposite side.",
+      "Continue alternating sides in a controlled, twisting motion."
+    ],
+    "formCues": [
+      "Keep elbows wide",
+      "Twist through the torso",
+      "Do not pull on neck",
+      "Control each rep"
+    ],
+    "commonMistakes": [
+      "Pulling on the neck",
+      "Using momentum instead of abs",
+      "Allowing hips to sag"
+    ],
+    "breathing": "Exhale during the twist, inhale as you return to center.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/45-degree-bycicle-twisting-crunch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/45-degree-bycicle-twisting-crunch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/45-degree-bycicle-twisting-crunch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/45-degree-bycicle-twisting-crunch.jpg"
+    }
+  },
+  {
+    "id": "drv-45-degree-bycicle-twisting-crunch-1",
+    "name": "45-Degree Bicycle Twisting Crunch",
+    "aliases": [
+      "bicycle crunch",
+      "oblique twist crunch",
+      "diagonal bicycle crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "abdominals",
+    "secondaryMuscles": [
+      "obliques",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A twisting ab exercise performed at a 45-degree angle to target the abdominals and obliques.",
+    "instructions": "Lie flat on your back with knees bent and hands behind your head. Lift your shoulders and legs off the ground to a 45-degree angle and alternate bringing each knee in toward your chest while twisting the opposite elbow towards it, simulating a bicycle pedaling motion. Maintain controlled, twisting movement for each rep.",
+    "steps": [
+      "Lie on your back with hands behind your head and knees bent.",
+      "Lift your shoulders and feet off the ground, creating a 45-degree angle with your torso and legs.",
+      "Bring your right knee in while twisting your left elbow towards it.",
+      "Switch sides, extending the right leg and bringing the left knee in as your right elbow moves towards it.",
+      "Continue alternating sides in a smooth, controlled motion."
+    ],
+    "formCues": [
+      "Keep lower back pressed to ground",
+      "Twist through your torso",
+      "Avoid pulling on your neck",
+      "Move legs in a controlled fashion"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Pulling on neck",
+      "Not twisting fully"
+    ],
+    "breathing": "Exhale as you crunch and twist, inhale as you return to center.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/45-degree-bycicle-twisting-crunch-1.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/45-degree-bycicle-twisting-crunch-1.jpg"
+    }
+  },
+  {
+    "id": "drv-band-decline-sit-ups",
+    "name": "Band Resisted Decline Sit-Up",
+    "aliases": [
+      "band decline sit-up",
+      "decline sit-up with band",
+      "resisted decline sit-up"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques"
+    ],
+    "equipment": "band",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A decline sit-up performed with band resistance to increase tension on the abdominals.",
+    "instructions": "Secure a resistance band behind your head or at chest level and lie on a decline bench. Perform a sit-up against the resistance, focusing on contracting your abs to lift your torso.",
+    "steps": [
+      "Attach a resistance band securely behind the decline bench.",
+      "Lie on the bench with your feet anchored, holding the band at the chest or behind the neck.",
+      "Engage your core and perform a sit-up, raising your torso towards your knees.",
+      "Control the movement back down to starting position.",
+      "Repeat for the desired repetitions."
+    ],
+    "formCues": [
+      "Keep tension in band",
+      "Crunch up slowly",
+      "Avoid swinging",
+      "Exhale on exertion"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Letting band go slack",
+      "Improper anchoring of feet"
+    ],
+    "breathing": "Exhale as you sit up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-decline-sit-ups.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-decline-sit-ups.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-decline-sit-ups.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-decline-sit-ups.jpg"
+    }
+  },
+  {
+    "id": "0002",
+    "name": "Band Side Bend",
+    "aliases": [
+      "Resistance Band Side Bend",
+      "Band Oblique Side Bend",
+      "Standing Band Side Crunch",
+      "Band Side Bend",
+      "45° side bend"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "erector spinae"
+    ],
+    "equipment": "band",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing lateral bend using a resistance band to target and strengthen the oblique muscles.",
+    "instructions": "Stand upright with feet shoulder-width apart, holding one end of a resistance band anchored at your side. Keep your torso straight and bend laterally away from the anchored band, contracting your obliques, then return to the starting position.",
+    "steps": [
+      "Anchor the resistance band securely at ground level.",
+      "Stand beside the anchor point, feet shoulder-width apart.",
+      "Hold the band handle with the outside hand, arm extended alongside your body.",
+      "Keeping your torso straight, bend sideways at the waist away from the anchor.",
+      "Return to the starting position and repeat for reps, then switch sides."
+    ],
+    "formCues": [
+      "Keep chest up",
+      "Don’t rotate hips",
+      "Bend directly to the side",
+      "Controlled return"
+    ],
+    "commonMistakes": [
+      "Rotating the torso instead of bending laterally",
+      "Bending forward or backward",
+      "Letting the band snap back",
+      "Using momentum"
+    ],
+    "breathing": "Exhale while bending, inhale on the return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-side-bend.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-side-bend.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-side-bend.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-side-bend.jpg"
+    }
+  },
+  {
+    "id": "1005",
+    "name": "Band Standing Crunch",
+    "aliases": [
+      "band standing crunch",
+      "standing band crunch",
+      "resistance band crunch",
+      "band ab crunch",
+      "standing abs crunch with band"
+    ],
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "equipment": "band",
+    "muscleGroup": "obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing abdominal crunch using a resistance band to train the abs and obliques through spinal flexion.",
+    "instructions": "Attach the band to a sturdy anchor point at waist height. Stand facing away from the anchor point with your feet shoulder-width apart. Hold the band with both hands and bring it up to your chest, keeping your elbows bent and close to your body. Engage your abs and slowly crunch forward, bringing your chest towards your knees. Pause for a moment at the top of the crunch, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Attach the band to an anchor around waist height and stand facing away from it.",
+      "Hold the band at your chest with both hands and step forward until the band is taut.",
+      "Set your feet about hip-width apart and soften your knees.",
+      "Brace your midsection and curl your ribs down, bending your torso forward.",
+      "Pause briefly at the bottom while keeping your hips mostly still.",
+      "Slowly uncurl your torso and return to an upright position under control."
+    ],
+    "formCues": [
+      "Ribs down",
+      "Curl through your spine",
+      "Keep hips still",
+      "Move slowly both ways"
+    ],
+    "commonMistakes": [
+      "Pulling the band with the arms instead of curling the torso.",
+      "Hinging at the hips like a bow instead of rounding into a crunch.",
+      "Letting the band snap the torso back upright.",
+      "Standing too close to the anchor so the band has no tension."
+    ],
+    "breathing": "Exhale as you crunch forward, and inhale as you return to standing.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-standing-crunch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-standing-crunch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-standing-crunch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-standing-crunch.jpg"
+    }
+  },
+  {
+    "id": "1408",
+    "name": "Band Standing Lift",
+    "aliases": [
+      "Standing Band Woodchopper",
+      "Diagonal Lift with Band",
+      "Band Standing Diagonal Lift",
+      "Band Standing Lift",
+      "band hip lift"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "shoulders",
+      "hip flexors"
+    ],
+    "equipment": "band",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A diagonal band movement to train the obliques and core stabilizers.",
+    "instructions": "Anchor a resistance band low to the side. Stand sideways and grasp the free end with both hands. With arms extended, lift and rotate your torso diagonally upward across your body, then return in control.",
+    "steps": [
+      "Anchor the band low near the floor.",
+      "Stand side-on to the anchor, feet shoulder-width.",
+      "Hold the band handle with both hands at hip level.",
+      "Lift and rotate your torso diagonally to the opposite side and above shoulder.",
+      "Return to start; repeat, then switch sides."
+    ],
+    "formCues": [
+      "Keep arms mostly straight",
+      "Twist from the core",
+      "Pivot feet for rotation",
+      "Do not hyperextend back"
+    ],
+    "commonMistakes": [
+      "Using arms instead of core",
+      "Not rotating torso",
+      "Bending elbows excessively"
+    ],
+    "breathing": "Exhale as you lift/rotate, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-standing-lift.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-standing-lift.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-standing-lift.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-standing-lift.jpg"
+    }
+  },
+  {
+    "id": "drv-crunch-on-bench",
+    "name": "Bench Crunch",
+    "aliases": [
+      "crunch on bench",
+      "ab crunch on bench",
+      "bench ab crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "An abdominal crunch performed lying on a flat or decline bench to isolate the abs.",
+    "instructions": "Lie back on a bench with your knees bent and feet on the bench or floor. Cross your arms over your chest or place hands lightly behind your head, engage your abs, and lift your shoulders off the bench before lowering them down under control.",
+    "steps": [
+      "Lie flat on a bench with knees bent and feet secured or flat.",
+      "Cross your arms over your chest or place hands behind your head.",
+      "Engage your core and lift your shoulders towards your knees.",
+      "Squeeze at the top and hold briefly.",
+      "Lower your upper body back to bench in a controlled manner."
+    ],
+    "formCues": [
+      "Lift with your abs",
+      "Keep chin tucked",
+      "Don't arch back",
+      "Control the motion"
+    ],
+    "commonMistakes": [
+      "Pulling on neck",
+      "Rushing reps",
+      "Lifting too high"
+    ],
+    "breathing": "Exhale as you lift, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/crunch-on-bench.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/crunch-on-bench.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/crunch-on-bench.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/crunch-on-bench.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-bridge-pose-setu-bandhasana",
+    "name": "Bridge Pose (Setu Bandhasana)",
+    "aliases": [
+      "bridge stretch",
+      "setu bandha",
+      "yoga bridge"
+    ],
+    "bodyPart": "waist",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "spinal erectors",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "gluteus maximus",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A yoga pose that stretches and activates the glutes, lower back, and hip flexors.",
+    "instructions": "Lie on your back with knees bent, feet flat on the floor. Push through your heels to lift your hips toward the ceiling while keeping your back straight. Hold, then lower back down slowly.",
+    "steps": [
+      "Lie on your back with your knees bent and feet hip-width apart.",
+      "Place your arms at your sides, palms down.",
+      "Press through your heels and lift your hips upward.",
+      "Hold the pose, engaging your glutes and core.",
+      "Lower your hips back to the starting position."
+    ],
+    "formCues": [
+      "Squeeze glutes at the top",
+      "Keep knees aligned with hips",
+      "Do not overarch lower back",
+      "Press evenly through feet"
+    ],
+    "commonMistakes": [
+      "Arching the back excessively",
+      "Letting knees fall outward or inward",
+      "Not engaging the core"
+    ],
+    "breathing": "Exhale as you lift hips, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-bridge-pose-setu-bandhasana.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-bridge-pose-setu-bandhasana.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-bridge-pose-setu-bandhasana.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-bridge-pose-setu-bandhasana.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-bridge-pose-setu-bandhasana-1",
+    "name": "Bridge Pose (Setu Bandhasana)",
+    "aliases": [
+      "yoga bridge",
+      "setu bandhasana",
+      "supine bridge stretch"
+    ],
+    "bodyPart": "waist",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "gluteus maximus",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "Bridge Pose is a yoga stretch that lifts the hips to activate the glutes and open the chest and hip flexors.",
+    "instructions": "Lie on your back with knees bent, feet flat on the floor, and arms at your sides. Press through your heels to lift your hips toward the ceiling, engaging the glutes and lower back, and hold at the top for a stretch. Lower slowly to the ground and repeat as needed.",
+    "steps": [
+      "Lie flat on your back with knees bent and feet hip-width apart.",
+      "Place arms alongside your body, palms down.",
+      "Press into your heels to lift your hips off the floor, creating a straight line from knees to shoulders.",
+      "Engage your glutes and hold the top position for several seconds.",
+      "Lower your hips back down in a controlled motion."
+    ],
+    "formCues": [
+      "Press through heels",
+      "Squeeze glutes at the top",
+      "Keep knees aligned",
+      "Avoid over-arching lower back"
+    ],
+    "commonMistakes": [
+      "Letting knees flare outward",
+      "Overarching lower back",
+      "Not engaging glutes"
+    ],
+    "breathing": "Exhale as you lift hips, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-bridge-pose-setu-bandhasana-1.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-bridge-pose-setu-bandhasana-1.jpg"
+    }
+  },
+  {
+    "id": "0175",
+    "name": "Cable Kneeling Crunch",
+    "aliases": [
+      "kneeling cable crunch",
+      "cable rope crunch",
+      "rope kneeling crunch",
+      "high cable kneeling crunch",
+      "kneeling ab crunch",
+      "cable abs crunch",
+      "cable kneeling crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "obliques",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A kneeling cable ab exercise where you curl your torso downward against a high pulley to train the abs and obliques.",
+    "instructions": "Attach a rope handle to a high pulley and kneel down facing away from the machine. Hold the rope handle with both hands and place it behind your head, keeping your elbows out to the sides. Keeping your hips stationary, flex your waist and crunch your torso down towards your thighs. Pause for a moment at the bottom, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Attach a rope handle to the high pulley and kneel facing the machine.",
+      "Grab the rope ends and bring your hands beside your head with your elbows slightly forward.",
+      "Brace your midsection and keep your hips stacked over your knees.",
+      "Curl your ribcage toward your pelvis and bring your elbows down toward your thighs.",
+      "Pause briefly in the bottom position while keeping tension on the rope.",
+      "Slowly uncurl your spine and return to the start without letting the weight stack slam."
+    ],
+    "formCues": [
+      "Ribs to hips",
+      "Hips stay still",
+      "Curl, don't hinge",
+      "Keep neck neutral"
+    ],
+    "commonMistakes": [
+      "Pulling the rope down with the arms instead of curling the torso",
+      "Sitting hips back and turning it into a hip hinge",
+      "Jerking up and letting the weight stack drop between reps",
+      "Lifting the chest too high and losing abdominal tension at the top"
+    ],
+    "breathing": "Exhale as you curl down into the crunch, and inhale as you slowly return to the starting position.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-kneeling-crunch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-kneeling-crunch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-kneeling-crunch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-kneeling-crunch.jpg"
+    }
+  },
+  {
+    "id": "0226",
+    "name": "Cable Standing Crunch",
+    "aliases": [
+      "standing cable crunch",
+      "cable crunch",
+      "high cable standing crunch",
+      "rope standing crunch",
+      "standing ab crunch with cable",
+      "cable standing crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A standing cable ab exercise where you curl your torso downward against a high pulley to train the abs and obliques.",
+    "instructions": "Attach a cable handle to a high pulley and stand facing away from the machine. Hold the handle with both hands and place it behind your head, keeping your elbows bent. Stand with your feet shoulder-width apart and your knees slightly bent. Keeping your abs engaged, exhale and crunch your torso down towards your knees, bringing your elbows towards your thighs. Pause for a moment at the bottom of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set a cable at the high pulley and stand facing away from the machine.",
+      "Hold the attachment by the sides of your head with both hands and bend your knees slightly.",
+      "Brace your midsection and keep your hips mostly still.",
+      "Curl your ribcage down toward your pelvis, bringing your elbows toward your thighs.",
+      "Pause briefly in the bottom position and squeeze your abs.",
+      "Slowly uncurl your torso back to the start without letting the weight stack slam."
+    ],
+    "formCues": [
+      "Ribs to hips",
+      "Keep hips still",
+      "Curl, don't hinge",
+      "Brace your abs"
+    ],
+    "commonMistakes": [
+      "Hinging forward at the hips instead of curling the spine",
+      "Pulling the attachment down with the arms",
+      "Standing too upright and barely moving the torso",
+      "Letting the weight yank the torso back up"
+    ],
+    "breathing": "Inhale at the top, exhale as you curl down, and inhale again as you return under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-standing-crunch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-standing-crunch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-standing-crunch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-standing-crunch.jpg"
+    }
+  },
+  {
+    "id": "0230",
+    "name": "Cable Standing Lift",
+    "aliases": [
+      "cable standing lift",
+      "standing cable lift",
+      "high-to-low cable lift",
+      "cable diagonal lift",
+      "cable wood chop lift",
+      "standing cable core lift"
+    ],
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": [
+      "obliques",
+      "lower back"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "obliques",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A standing cable core exercise that lifts the handle diagonally across the body to train the abs and obliques.",
+    "instructions": "Stand facing the cable machine with your feet shoulder-width apart. Hold the cable handle with both hands and position it at waist height. Engage your core and maintain a straight back throughout the exercise. Keeping your arms straight, exhale and lift the cable handle up towards your opposite shoulder, rotating your torso. Pause for a moment at the top, then inhale and slowly lower the cable handle back to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+    "steps": [
+      "Set the cable handle to a low position and stand side-on to the machine with your feet about shoulder-width apart.",
+      "Hold the handle with both hands near the hip closest to the machine and straighten your arms with a soft bend in the elbows.",
+      "Brace your core and turn your chest slightly toward the handle without rounding your back.",
+      "Pull the handle diagonally up and across your body toward the opposite shoulder by rotating your torso and lifting your arms together.",
+      "Pause briefly at the top with your hips mostly facing forward and your arms extended.",
+      "Lower the handle back along the same diagonal path to the starting hip under control.",
+      "Complete all reps on one side, then turn around and repeat on the other side."
+    ],
+    "formCues": [
+      "Brace your core",
+      "Rotate through your torso",
+      "Keep arms long",
+      "Control the return"
+    ],
+    "commonMistakes": [
+      "Bending the elbows and turning it into an arm pull",
+      "Twisting the knees inward instead of rotating the torso",
+      "Leaning back or arching the lower back at the top",
+      "Letting the weight snap back down without control"
+    ],
+    "breathing": "Inhale at the start, exhale as you lift and rotate across the body, then inhale as you return under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-standing-lift.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-standing-lift.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-standing-lift.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-standing-lift.jpg"
+    }
+  },
+  {
+    "id": "0862",
+    "name": "Cable Twist (up-down)",
+    "aliases": [
+      "cable twist up-down",
+      "high-to-low cable twist",
+      "low-to-high cable twist",
+      "standing cable torso twist",
+      "cable oblique twist",
+      "cable core rotation",
+      "cable twist (up-down)"
+    ],
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": [
+      "obliques",
+      "lower back"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "obliques",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A standing cable rotation that trains the obliques by twisting the torso diagonally across the body.",
+    "instructions": "Stand with your feet shoulder-width apart, facing the cable machine. Hold the cable handle with both hands in front of your chest, keeping your arms slightly bent. Engage your core and slowly rotate your torso to one side, keeping your hips and legs stable. Pause for a moment at the end of the rotation, then slowly return to the starting position. Repeat the rotation to the opposite side. Continue alternating sides for the desired number of repetitions.",
+    "steps": [
+      "Set the cable handle at about shoulder height and stand sideways to the machine with feet hip-width apart.",
+      "Grab the handle with both hands and extend your arms in front of your chest with a soft bend in your elbows.",
+      "Brace your core and rotate your torso away from the machine while guiding the handle diagonally down across your body.",
+      "Keep your hips mostly still and finish with your hands near the outside of your opposite hip.",
+      "Control the handle back to the start, then repeat all reps before switching sides or reverse the path to move from low to high."
+    ],
+    "formCues": [
+      "Rotate through your ribs",
+      "Keep hips quiet",
+      "Move on a diagonal",
+      "Brace before you twist"
+    ],
+    "commonMistakes": [
+      "Turning the hips and feet with the cable",
+      "Bending and straightening the elbows to move the weight",
+      "Letting the cable yank the torso back",
+      "Shrugging the shoulders toward the ears"
+    ],
+    "breathing": "Exhale as you rotate and pull the handle across your body; inhale as you return under control.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-twist-up-down.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-twist-up-down.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-twist-up-down.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-twist-up-down.jpg"
+    }
+  },
+  {
+    "id": "drv-chest-lift-with-rotation",
+    "name": "Chest Lift with Rotation",
+    "aliases": [
+      "rotational crunch",
+      "oblique crunch twist",
+      "pilates chest lift with twist"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "obliques",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "An abdominal exercise that combines a chest lift with torso rotation to target the obliques.",
+    "instructions": "Lie on your back with knees bent and feet flat. Engage your core, lift your chest off the mat while simultaneously rotating your torso to one side, then return to start. Alternate rotations with each rep.",
+    "steps": [
+      "Lie on your back, knees bent, feet flat on floor.",
+      "Place hands behind head, elbows wide.",
+      "Engage core and lift head, neck, and shoulders off mat.",
+      "Rotate torso to one side while lifting.",
+      "Return to center and lower down; repeat on alternate side."
+    ],
+    "formCues": [
+      "Twist from core",
+      "Don't pull on neck",
+      "Elbows wide",
+      "Exhale on lift"
+    ],
+    "commonMistakes": [
+      "Pulling on neck",
+      "Using arms to assist",
+      "Lifting too high",
+      "Not engaging core"
+    ],
+    "breathing": "Exhale as you lift and rotate, inhale as you lower.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/chest-lift-with-rotation.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/chest-lift-with-rotation.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-chin-to-chest-stretch",
+    "name": "Chin-to-Chest Stretch",
+    "aliases": [
+      "chin to chest stretch",
+      "neck flexion stretch"
+    ],
+    "bodyPart": "waist",
+    "target": "neck flexors",
+    "secondaryMuscles": [
+      "upper trapezius"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "sternocleidomastoid",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A gentle static stretch to release tension in the neck flexors by tilting the chin toward the chest.",
+    "instructions": "Sit or stand upright. Slowly lower your chin towards your chest until you feel a gentle stretch along the back of your neck, holding the position for 15-30 seconds before releasing.",
+    "steps": [
+      "Sit or stand with a straight back.",
+      "Gently lower your chin toward your chest.",
+      "Relax your shoulders and feel the stretch along your neck.",
+      "Hold the position for 15-30 seconds.",
+      "Slowly return to neutral."
+    ],
+    "formCues": [
+      "Move slowly",
+      "Keep shoulders relaxed",
+      "Do not force the stretch",
+      "Hold gently"
+    ],
+    "commonMistakes": [
+      "Bouncing the stretch",
+      "Tensing shoulders",
+      "Overstretching the neck"
+    ],
+    "breathing": "Breathe deeply and evenly throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-chin-to-chest-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-chin-to-chest-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-chin-to-chest-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-chin-to-chest-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-crossover-kneeling-hip-flexor-stretch",
+    "name": "Crossover Kneeling Hip Flexor Stretch",
+    "aliases": [
+      "kneeling hip flexor stretch",
+      "crossover lunge stretch",
+      "hip flexor crossover"
+    ],
+    "bodyPart": "waist",
+    "target": "hip flexors",
+    "secondaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "iliopsoas",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A kneeling stretch targeting hip flexors with the trunk rotated across the body.",
+    "instructions": "Begin in a lunge position with your back knee on the ground and front foot forward. Gently shift your hips forward and rotate your torso away from the back leg to deepen the stretch. Hold the position and switch sides.",
+    "steps": [
+      "Start in a kneeling lunge with one knee on the ground and the opposite foot forward.",
+      "Tuck the pelvis under and shift your weight forward, feeling a stretch in the hip flexor of the rear leg.",
+      "Rotate your torso across the body, away from the back leg.",
+      "Hold for 20-30 seconds, breathing steadily.",
+      "Release and repeat on the other side."
+    ],
+    "formCues": [
+      "Keep torso upright",
+      "Engage glutes",
+      "Rotate gently",
+      "Hips square"
+    ],
+    "commonMistakes": [
+      "Arching the back",
+      "Letting front knee collapse inward",
+      "Leaning forward excessively"
+    ],
+    "breathing": "Inhale to prepare, exhale as you rotate and deepen stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-crossover-kneeling-hip-flexor-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-crossover-kneeling-hip-flexor-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-crossover-kneeling-hip-flexor-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-crossover-kneeling-hip-flexor-stretch.jpg"
+    }
+  },
+  {
+    "id": "0407",
+    "name": "Dumbbell Side Bend",
+    "aliases": [
+      "side bend",
+      "dumbbell oblique side bend",
+      "one-arm dumbbell side bend",
+      "standing dumbbell side bend",
+      "weighted side bend",
+      "dumbbell side bend"
+    ],
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A standing oblique exercise where you hold one dumbbell and bend your torso sideways under control.",
+    "instructions": "Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand, letting it hang down by your side. Keeping your back straight and your core engaged, slowly bend sideways at the waist towards the opposite side of the dumbbell, lowering the weight as far as you comfortably can. Pause for a moment, then slowly return to the starting position. Repeat for the desired number of repetitions, then switch sides and repeat.",
+    "steps": [
+      "Stand tall with your feet about hip-width apart and hold a dumbbell in one hand at your side.",
+      "Place your other hand on your hip or behind your head and brace your stomach.",
+      "Keep your chest up and slowly bend your torso sideways away from the dumbbell.",
+      "Lower the dumbbell down the side of your leg as far as you can without twisting or leaning forward.",
+      "Squeeze your obliques and return to standing tall.",
+      "Complete all reps on one side, then switch hands and repeat."
+    ],
+    "formCues": [
+      "Bend only to the side",
+      "Keep chest tall",
+      "Brace your core",
+      "Move slowly and controlled"
+    ],
+    "commonMistakes": [
+      "Twisting the torso as you bend",
+      "Leaning forward instead of sideways",
+      "Shrugging the weighted shoulder up",
+      "Using momentum to swing back up"
+    ],
+    "breathing": "Inhale as you bend sideways, then exhale as you return to standing.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-side-bend.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-side-bend.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-side-bend.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-side-bend.jpg"
+    }
+  },
+  {
+    "id": "1338",
+    "name": "Exercise Ball Sit-Up",
+    "aliases": [
+      "stability ball sit-up",
+      "Swiss ball sit-up",
+      "ball crunch",
+      "Sit-up On Exercise Ball",
+      "exercise ball hug"
+    ],
+    "bodyPart": "waist",
+    "target": "abdominals",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques"
+    ],
+    "equipment": "stability ball",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A core exercise where sit-ups are performed while stabilizing on a Swiss ball, increasing abdominal activation.",
+    "instructions": "Sit on a stability ball and walk your feet forward until the ball is under your lower back. Cross your arms over your chest or place hands behind your head, then contract your abs to lift your torso, performing a sit-up. Lower yourself back down slowly and repeat.",
+    "steps": [
+      "Sit on the exercise ball with feet flat on the floor.",
+      "Walk feet forward, rolling until the ball supports your lower back.",
+      "Cross arms over your chest or position hands behind your head.",
+      "Engage your core and sit up, lifting your upper body.",
+      "Lower back down under control to starting position."
+    ],
+    "formCues": [
+      "Keep feet planted",
+      "Avoid pulling neck",
+      "Engage abs throughout",
+      "Do not arch lower back"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Feet lifting off the ground",
+      "Ball not positioned under lower back"
+    ],
+    "breathing": "Exhale as you lift, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/sit-up-on-exercise-ball.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/sit-up-on-exercise-ball.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/sit-up-on-exercise-ball.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/sit-up-on-exercise-ball.jpg"
+    }
+  },
+  {
+    "id": "1339",
+    "name": "Exercise Ball Spinal Stretch",
+    "aliases": [
+      "Swiss ball spinal extension",
+      "stability ball stretch",
+      "back stretch on ball",
+      "Stretching - Spinal Stretch On Exercise Ball",
+      "exercise ball lat stretch"
+    ],
+    "bodyPart": "waist",
+    "target": "erector spinae",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "hip flexors"
+    ],
+    "equipment": "stability ball",
+    "muscleGroup": "erector spinae",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A gentle back extension and stretch performed by draping the body over an exercise ball to mobilize the spine.",
+    "instructions": "Sit on a stability ball and carefully roll down until your back is resting on the ball. Extend your arms overhead and allow your spine to gently arch over the ball, stretching the entire length of your back. Hold the stretch, breathing deeply.",
+    "steps": [
+      "Sit on the exercise ball with feet hip-width apart.",
+      "Slowly walk your feet forward, rolling until your back is draped over the ball.",
+      "Let your arms extend overhead or rest beside you for support.",
+      "Relax into the stretch, allowing your spine to gently extend.",
+      "Hold for the desired duration, then carefully return to a seated position."
+    ],
+    "formCues": [
+      "Move slowly and controlled",
+      "Keep feet planted",
+      "Relax neck and shoulders",
+      "Breathe deeply"
+    ],
+    "commonMistakes": [
+      "Arching excessively",
+      "Letting hips sag too low",
+      "Losing balance on the ball"
+    ],
+    "breathing": "Breathe deeply and steadily throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-spinal-stretch-on-exercise-ball.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-spinal-stretch-on-exercise-ball.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-spinal-stretch-on-exercise-ball.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-spinal-stretch-on-exercise-ball.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-flexion-leg-sit-up",
+    "name": "Flexion Leg Sit-Up Stretch",
+    "aliases": [
+      "sit-up stretch",
+      "leg flexion sit-up",
+      "sit-up with flexed legs"
+    ],
+    "bodyPart": "waist",
+    "target": "abdominals",
+    "secondaryMuscles": [
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A stretch that combines trunk flexion with leg movement to lengthen the abdominals and hip flexors.",
+    "instructions": "Start lying on your back with knees bent. Flex your spine as you perform a sit-up, reaching toward your knees. Pause in the top position for a stretch before lowering back down.",
+    "steps": [
+      "Lie on your back with knees bent and feet flat on the floor.",
+      "Cross arms over chest or reach toward knees.",
+      "Contract abdominal muscles to sit up, curling your spine.",
+      "Reach for your knees at the top to enhance the stretch.",
+      "Lower back to starting position with control."
+    ],
+    "formCues": [
+      "Curl up slowly",
+      "Avoid pulling on neck",
+      "Engage core throughout",
+      "Keep feet flat"
+    ],
+    "commonMistakes": [
+      "Jerking the movement",
+      "Using momentum instead of muscle",
+      "Straining the neck"
+    ],
+    "breathing": "Exhale as you sit up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-flexion-leg-sit-up.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-flexion-leg-sit-up.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-flexion-leg-sit-up.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-flexion-leg-sit-up.jpg"
+    }
+  },
+  {
+    "id": "0274",
+    "name": "Floor Crunch",
+    "aliases": [
+      "crunch",
+      "basic crunch",
+      "abdominal crunch",
+      "floor crunch for women",
+      "Crunch Floor (female)",
+      "crunch floor"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A basic abdominal crunch performed lying on the floor to strengthen the rectus abdominis.",
+    "instructions": "Lie flat on your back with knees bent and feet flat on the floor. Place your hands behind your head or across your chest, engage your core, and curl your shoulders up toward your knees.",
+    "steps": [
+      "Lie on your back with knees bent and feet hip-width apart.",
+      "Place hands lightly behind head or cross over chest.",
+      "Engage core and lift shoulders off the floor.",
+      "Pause briefly at the top of the movement.",
+      "Slowly return to the starting position."
+    ],
+    "formCues": [
+      "Keep chin off chest",
+      "Lower back pressed to floor",
+      "Controlled movement",
+      "Exhale on crunch"
+    ],
+    "commonMistakes": [
+      "Pulling on neck",
+      "Not engaging core",
+      "Using momentum",
+      "Not breathing properly"
+    ],
+    "breathing": "Exhale as you crunch up, inhale as you lower down.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/crunch-floor-female.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/crunch-floor-female.jpg"
+    }
+  },
+  {
+    "id": "0464",
+    "name": "Front Plank",
+    "aliases": [
+      "plank",
+      "prone plank",
+      "forearm plank",
+      "Front Plank (female)",
+      "front plank with twist"
+    ],
+    "bodyPart": "waist",
+    "target": "abdominals",
+    "secondaryMuscles": [
+      "transverse abdominis",
+      "obliques",
+      "glutes",
+      "shoulders"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "An isometric core stability exercise performed in a prone position to strengthen the abdominals and stabilize the entire body.",
+    "instructions": "Start in a prone position with forearms and toes on the ground. Engage your core, keep your body in a straight line from head to heels, and hold the position for the desired amount of time without allowing hips to rise or sag.",
+    "steps": [
+      "Lie face down, placing forearms on the ground and elbows under shoulders.",
+      "Lift your body off the floor, supporting weight on forearms and toes.",
+      "Keep your body in a straight line from head to heels.",
+      "Engage your core and glutes for stability.",
+      "Hold the position for the prescribed time, then lower to the ground."
+    ],
+    "formCues": [
+      "Keep core tight",
+      "Neutral spine",
+      "Do not let hips drop",
+      "Look down"
+    ],
+    "commonMistakes": [
+      "Letting hips drop or rise",
+      "Arched back",
+      "Not engaging the core"
+    ],
+    "breathing": "Breathe slowly and steadily during the hold.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/front-plank-female.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/front-plank-female.jpg"
+    }
+  },
+  {
+    "id": "1764",
+    "name": "Hanging Leg Hip Raise",
+    "aliases": [
+      "hanging leg raise",
+      "hanging knee raise",
+      "hanging hip raise",
+      "captain's chair leg raise",
+      "hang and raise your knees",
+      "hanging leg hip raise"
+    ],
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": [
+      "hip flexors",
+      "lower back"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "hip flexors",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A hanging core exercise where you raise your knees and curl your hips upward to train the abs and hip flexors.",
+    "instructions": "Hang from a pull-up bar with your arms fully extended and your palms facing away from you. Engage your core and lift your legs up by flexing your hips and knees until your thighs are parallel to the ground. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Hang from the bar with both hands and let your body settle into a dead hang.",
+      "Pull your ribs down and brace your midsection to stop excess swinging.",
+      "Bend your knees and lift them toward your chest by curling your hips upward.",
+      "Raise until your thighs are at least parallel to the floor or your knees reach hip height.",
+      "Pause briefly at the top while keeping your torso steady.",
+      "Lower your legs with control until you return to a full hang."
+    ],
+    "formCues": [
+      "Curl pelvis up",
+      "Control the swing",
+      "Ribs down",
+      "Lift knees, not shoulders"
+    ],
+    "commonMistakes": [
+      "Swinging the body to start each rep",
+      "Shrugging the shoulders up toward the ears",
+      "Dropping the legs quickly on the way down",
+      "Only lifting the knees halfway with no hip curl"
+    ],
+    "breathing": "Exhale as you raise your knees and curl your hips up; inhale as you lower back to the hang.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/hanging-leg-hip-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/hanging-leg-hip-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/hanging-leg-hip-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/hanging-leg-hip-raise.jpg"
+    }
+  },
+  {
+    "id": "0474",
+    "name": "Hanging Straight Leg Raise",
+    "aliases": [
+      "hanging leg raise",
+      "straight leg raise",
+      "pull-up bar leg raise",
+      "Hanging Straight Leg Raise",
+      "hanging straight leg hip raise"
+    ],
+    "bodyPart": "waist",
+    "target": "abdominals",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques",
+      "forearms"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A core exercise performed while hanging, lifting straight legs to target the abdominals and hip flexors.",
+    "instructions": "Hang from a pull-up bar with an overhand grip, keeping your body steady. Contract your core and raise your legs, keeping them straight, until they're parallel to the ground or higher. Lower your legs with control and repeat.",
+    "steps": [
+      "Hang from a pull-up bar with arms fully extended.",
+      "Keep legs together and straight.",
+      "Engage core and lift legs up to parallel or higher.",
+      "Pause briefly at the top.",
+      "Lower legs under control to starting position."
+    ],
+    "formCues": [
+      "Avoid swinging",
+      "Lift with core, not momentum",
+      "Keep legs straight",
+      "Control leg descent"
+    ],
+    "commonMistakes": [
+      "Swinging the body",
+      "Using momentum",
+      "Bending knees or arching back"
+    ],
+    "breathing": "Exhale as you lift legs, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/hanging-straight-leg-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/hanging-straight-leg-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/hanging-straight-leg-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/hanging-straight-leg-raise.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-hip-extension-stretch",
+    "name": "Hip Extension Stretch",
+    "aliases": [
+      "hip flexor stretch",
+      "prone hip extension stretch",
+      "hip opener"
+    ],
+    "bodyPart": "waist",
+    "target": "hip flexors",
+    "secondaryMuscles": [
+      "rectus femoris",
+      "lower back"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "iliopsoas",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A stretch focused on extending the hip to target tight hip flexors and anterior hips.",
+    "instructions": "Lie on your stomach with legs outstretched and hands placed underneath your shoulders. Gently press up through your palms, extending the hips and lifting your torso without overextending the low back. Maintain a gentle stretch and hold.",
+    "steps": [
+      "Lie face down with legs extended.",
+      "Place hands beneath shoulders, elbows bent.",
+      "Press palms into floor, lifting chest and gently extending hips.",
+      "Hold the stretch at a comfortable tension.",
+      "Slowly lower back down."
+    ],
+    "formCues": [
+      "Avoid excessive back arch",
+      "Keep hips on floor",
+      "Press through palms",
+      "Stretch gradually"
+    ],
+    "commonMistakes": [
+      "Overarching the lower back",
+      "Forcing the stretch",
+      "Holding breath"
+    ],
+    "breathing": "Inhale while preparing, exhale as you press up into stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-hip-extension-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-hip-extension-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-hip-extension-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-hip-extension-stretch.jpg"
+    }
+  },
+  {
+    "id": "0325",
+    "name": "Incline Leg Hip Raise",
+    "aliases": [
+      "Incline Hip Raise",
+      "Incline Bench Leg Raise",
+      "Incline Leg Lift for Abs",
+      "Incline Leg Hip Raise",
+      "dumbbell incline raise"
+    ],
+    "bodyPart": "waist",
+    "target": "abdominals",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A core exercise where legs and hips are raised while lying on an incline, targeting the lower abdominals.",
+    "instructions": "Lie on your back on an incline bench and hold the handles or bench for stability. Keeping legs straight, lift them until your hips come off the bench, then lower slowly.",
+    "steps": [
+      "Lie face up on an incline bench and grip the handles behind your head.",
+      "Extend your legs straight and keep them together.",
+      "Raise your legs towards your chest, lifting your hips off the bench.",
+      "Pause at the top, focusing on contracting your abs.",
+      "Lower your legs under control to the starting position."
+    ],
+    "formCues": [
+      "Keep legs straight",
+      "Lift hips at top",
+      "Control lowering",
+      "Don't use momentum"
+    ],
+    "commonMistakes": [
+      "Swinging legs",
+      "Arching lower back excessively",
+      "Not performing full hip lift"
+    ],
+    "breathing": "Exhale as you lift hips, inhale as you lower legs.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/incline-leg-hip-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/incline-leg-hip-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/incline-leg-hip-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/incline-leg-hip-raise.jpg"
+    }
+  },
+  {
+    "id": "1419",
+    "name": "Iron Cross Stretch",
+    "aliases": [
+      "supine iron cross",
+      "lying spinal twist stretch",
+      "cross-body spinal stretch",
+      "Stretching - Iron Cross Stretch",
+      "iron cross stretch"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "erector spinae",
+      "gluteus medius",
+      "gluteus maximus",
+      "pectoralis major"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "obliquus externus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A lying rotational stretch that improves spinal mobility and stretches the obliques and lower back.",
+    "instructions": "Lie on your back with arms spread out in a 'T' position. Lift one leg straight up and sweep it across your body to the opposite side, letting it fall toward the floor while keeping your shoulders flat. Hold the position, feeling a stretch through your torso and hip.",
+    "steps": [
+      "Lie on your back with arms extended out to the sides.",
+      "Lift one leg straight up towards the ceiling.",
+      "Sweep the raised leg across your body to the opposite side.",
+      "Allow your foot to touch or lower towards the floor.",
+      "Hold the stretch, then switch legs."
+    ],
+    "formCues": [
+      "Shoulders stay flat",
+      "Sweep leg slowly",
+      "Breathe deeply into stretch",
+      "Relax into the twist"
+    ],
+    "commonMistakes": [
+      "Lifting shoulders off the floor",
+      "Twisting too quickly",
+      "Holding breath",
+      "Allowing hips to pop up"
+    ],
+    "breathing": "Exhale as you move into the twist, inhale as you return to center.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-iron-cross-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-iron-cross-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-iron-cross-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-iron-cross-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-jackknife-pilates",
+    "name": "Jackknife",
+    "aliases": [
+      "jackknife pilates",
+      "pilates jackknife",
+      "reverse rollover",
+      "jackknife exercise"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "lower back",
+      "glutes"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A Pilates core exercise involving lifting hips and legs up and overhead to strengthen the abdominals.",
+    "instructions": "Lie flat on your back with arms by your sides and legs together. Lift your legs towards the ceiling and roll your hips off the mat, supporting your back lightly with your hands if needed, then lower with control.",
+    "steps": [
+      "Lie on your back with arms at your sides and legs extended.",
+      "Engage your core and lift legs towards the ceiling.",
+      "Continue lifting hips off the mat, reaching feet upward.",
+      "Pause at the top with hips elevated.",
+      "Slowly roll back down vertebra by vertebra."
+    ],
+    "formCues": [
+      "Keep legs straight",
+      "Lift with core",
+      "Control the descent",
+      "Avoid swinging"
+    ],
+    "commonMistakes": [
+      "Letting legs fall too quickly",
+      "Arching the back excessively",
+      "Pushing with arms"
+    ],
+    "breathing": "Exhale while lifting up, inhale while lowering down.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jackknife-pilates.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jackknife-pilates.jpg"
+    }
+  },
+  {
+    "id": "0981",
+    "name": "Jackknife Floor",
+    "aliases": [
+      "Jackknife Sit-Up",
+      "V-Up",
+      "Pike Crunch",
+      "Jack knife Floor",
+      "band jack knife sit-up"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A dynamic ab exercise where you simultaneously raise legs and torso to touch in a 'V' position.",
+    "instructions": "Lie flat on your back with arms and legs extended. Simultaneously lift your arms, head, and legs, bringing your hands to meet your shins or feet at the top, then lower back down with control.",
+    "steps": [
+      "Lie flat with arms extended overhead and legs straight.",
+      "Engage your core, lift arms and legs toward each other.",
+      "Reach hands toward feet, forming a 'V' at the top.",
+      "Pause briefly, squeezing at the top.",
+      "Lower back down slowly to starting position."
+    ],
+    "formCues": [
+      "Keep legs straight",
+      "Lift arms and legs together",
+      "Do not swing",
+      "Control the descent"
+    ],
+    "commonMistakes": [
+      "Bending knees or elbows too much",
+      "Heaving with momentum",
+      "Letting lower back arch"
+    ],
+    "breathing": "Exhale as you lift, inhale as you lower.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jack-knife-floor.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jack-knife-floor.jpg"
+    }
+  },
+  {
+    "id": "drv-jack-split-crunches",
+    "name": "Jackknife Split Crunch",
+    "aliases": [
+      "jack split crunch",
+      "split jackknife crunch",
+      "jackknife crunch with split",
+      "split jack crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques",
+      "adductors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A crunch variation combining a V-up with a leg split to target the abs and hip flexors.",
+    "instructions": "Lie flat on your back with legs extended and arms overhead. Simultaneously lift your torso and legs while spreading your feet apart (splitting legs) and reaching your hands towards your feet. Lower back to the starting position with control.",
+    "steps": [
+      "Lie on your back with arms extended overhead and legs straight.",
+      "Engage your core and simultaneously lift your torso and legs off the ground.",
+      "As you rise, spread your legs into a split while reaching your hands toward your feet.",
+      "Pause at the top, squeezing your abs.",
+      "Lower your legs and torso back to the ground with control, bringing feet together."
+    ],
+    "formCues": [
+      "Keep core tight",
+      "Don't arch lower back",
+      "Lead with chest",
+      "Controlled split"
+    ],
+    "commonMistakes": [
+      "Swinging the legs",
+      "Using momentum",
+      "Arching the lower back"
+    ],
+    "breathing": "Exhale when crunching up, inhale when lowering down.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/jack-split-crunches.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/jack-split-crunches.jpg"
+    }
+  },
+  {
+    "id": "0562",
+    "name": "Landmine 180",
+    "aliases": [
+      "landmine 180",
+      "landmine rotation",
+      "barbell 180",
+      "landmine twists",
+      "barbell side-to-side rotation"
+    ],
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": [
+      "obliques",
+      "quadriceps"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "obliques",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A rotating landmine core exercise where you swing the barbell side to side using your hips, shoulders, and obliques.",
+    "instructions": "Stand with your feet shoulder-width apart and hold the barbell with both hands in front of your chest. Bend your knees slightly and rotate your torso to the right, swinging the barbell down towards your right hip. As you reach the bottom of the movement, quickly reverse the motion and rotate your torso to the left, swinging the barbell up and across your body towards your left shoulder. Continue this twisting motion, alternating sides, for the desired number of repetitions.",
+    "steps": [
+      "Stand facing the free end of the barbell with your feet about shoulder-width apart, and hold the barbell sleeve with both hands in front of your chest.",
+      "Bend your knees slightly, brace your midsection, and keep your arms long but not locked.",
+      "Rotate your shoulders and hips together to lower the barbell toward one hip.",
+      "Drive through your feet and rotate across your body to sweep the barbell in an arc toward the opposite side.",
+      "Control the barbell as it changes direction, and continue rotating side to side with your chest facing the barbell.",
+      "Keep the movement smooth and balanced on both sides until the set is complete."
+    ],
+    "formCues": [
+      "Rotate hips and shoulders together",
+      "Brace your core",
+      "Move the bar in an arc",
+      "Stay tall through the chest"
+    ],
+    "commonMistakes": [
+      "Twisting only the arms while the torso stays still",
+      "Letting the lower back arch as the bar moves",
+      "Locking the knees and staying flat-footed",
+      "Jerking the bar instead of controlling the arc"
+    ],
+    "breathing": "Inhale as the barbell moves to one side, and exhale as you rotate it across to the other side.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/landmine-180.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/landmine-180.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/landmine-180.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/landmine-180.jpg"
+    }
+  },
+  {
+    "id": "0600",
+    "name": "Leg Raise Crunch",
+    "aliases": [
+      "crunch with leg raise",
+      "reverse crunch",
+      "lying leg raise crunch",
+      "leg lift crunch",
+      "Crunch (leg raise)",
+      "lever seated leg raise crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "An ab exercise combining a crunch with a leg raise to emphasize upper and lower abdominals.",
+    "instructions": "Lie on your back with your arms at your sides and legs extended. Raise your legs and torso together, crunching your upper body forward as you lift your legs off the floor, then slowly return to starting position.",
+    "steps": [
+      "Lie on your back and extend your legs.",
+      "Place your hands by your sides or behind your head.",
+      "Simultaneously lift your legs and upper torso toward each other.",
+      "Squeeze at the top of the movement.",
+      "Lower your legs and upper body back down under control."
+    ],
+    "formCues": [
+      "Keep lower back pressed to floor",
+      "Move slowly",
+      "Exhale at the crunch",
+      "Don't use momentum"
+    ],
+    "commonMistakes": [
+      "Arching the lower back",
+      "Using momentum",
+      "Neck strain from pulling"
+    ],
+    "breathing": "Exhale during the crunch, inhale as you return.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/crunch-leg-raise.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/crunch-leg-raise.jpg"
+    }
+  },
+  {
+    "id": "drv-leg-raise-hip-lift",
+    "name": "Leg Raise with Hip Lift",
+    "aliases": [
+      "leg raise hip thrust",
+      "lying leg raise with hip lift",
+      "hip lift leg raise"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "lower back"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A core exercise combining a leg raise with a hip lift to target the lower abdominals.",
+    "instructions": "Lie on your back with your arms by your sides. Raise your legs until they are perpendicular to the floor, then lift your hips off the ground by contracting your lower abs. Lower back slowly with control.",
+    "steps": [
+      "Lie flat with arms at your sides and legs straight.",
+      "Raise your legs up together towards the ceiling.",
+      "At the top of the movement, press your legs up by lifting your hips off the ground.",
+      "Pause, squeezing your abs.",
+      "Lower your hips and legs back to the starting position slowly."
+    ],
+    "formCues": [
+      "Keep legs together",
+      "Don’t swing",
+      "Lift hips with control",
+      "Keep back flat"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Arching lower back",
+      "Not controlling the descent"
+    ],
+    "breathing": "Exhale during hip lift, inhale during the descent.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/leg-raise-hip-lift.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/leg-raise-hip-lift.jpg"
+    }
+  },
+  {
+    "id": "1452",
+    "name": "Lever Seated Crunch",
+    "aliases": [
+      "machine crunch",
+      "ab crunch machine",
+      "seated ab crunch",
+      "Lever Seated Crunch (1)",
+      "lever seated crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "obliques",
+      "hip flexors"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A machine exercise that isolates and strengthens the abdominal muscles through spinal flexion.",
+    "instructions": "Sit in the lever crunch machine and grasp the handles or position yourself according to machine design. Contract your abs to flex your spine forward, bringing your chest toward your knees, then return slowly to the starting position.",
+    "steps": [
+      "Adjust seat and select appropriate resistance.",
+      "Sit back and secure feet and handles as designed.",
+      "Engage abs and flex spine forward in a crunch motion.",
+      "Bring chest toward knees while exhaling.",
+      "Control return to start and repeat."
+    ],
+    "formCues": [
+      "Move with abs, not hips",
+      "Don't use momentum",
+      "Controlled movement",
+      "Full range of motion"
+    ],
+    "commonMistakes": [
+      "Letting hip flexors dominate",
+      "Using excessive weight",
+      "Rushing reps",
+      "Partial range of motion"
+    ],
+    "breathing": "Exhale as you crunch down, inhale as you return up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-seated-crunch-1.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-seated-crunch-1.jpg"
+    }
+  },
+  {
+    "id": "drv-lying-hip-lift-on-stability-ball",
+    "name": "Lying Hip Lift on Stability Ball",
+    "aliases": [
+      "stability ball hip lift",
+      "lying glute bridge on ball",
+      "bridge on stability ball"
+    ],
+    "bodyPart": "waist",
+    "target": "glutes",
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower back",
+      "core"
+    ],
+    "equipment": "stability ball",
+    "muscleGroup": "gluteus maximus",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A hip-thrusting exercise using a stability ball to engage glutes, hamstrings, and core.",
+    "instructions": "Lie with your upper back and arms on the floor and your feet on a stability ball. Brace your core, drive through your heels, and lift your hips to form a straight line from shoulders to knees, then lower back down with control.",
+    "steps": [
+      "Lie on your back with arms by your sides and feet on the stability ball.",
+      "Bend knees at 90 degrees and keep feet hip-width apart.",
+      "Drive through your heels and squeeze your glutes to lift your hips.",
+      "Pause at the top, keeping your body in a straight line.",
+      "Lower your hips back down with control."
+    ],
+    "formCues": [
+      "Press through heels",
+      "Squeeze glutes",
+      "Keep core engaged",
+      "Avoid overextending back"
+    ],
+    "commonMistakes": [
+      "Letting knees collapse",
+      "Overarching lower back",
+      "Dropping hips too low"
+    ],
+    "breathing": "Exhale when lifting hips, inhale when lowering hips.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lying-hip-lift-on-stability-ball.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lying-hip-lift-on-stability-ball.jpg"
+    }
+  },
+  {
+    "id": "0865",
+    "name": "Lying Leg Raise",
+    "aliases": [
+      "floor leg raise",
+      "lying straight leg raise",
+      "supine leg raise",
+      "ab leg raise",
+      "Lying Floor Leg Raise",
+      "lying leg-hip raise"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A bodyweight exercise that targets the lower abdominal muscles by lifting the legs while lying flat.",
+    "instructions": "Lie flat on your back with your legs extended and arms at your sides or under your hips for support. Keeping legs straight, raise them toward the ceiling until your hips lift slightly off the floor, then lower them back down without touching the ground.",
+    "steps": [
+      "Lie flat on your back, legs straight.",
+      "Keep arms at your sides or under hips.",
+      "Lift legs upward, keeping knees straight.",
+      "Raise legs until hips come up slightly.",
+      "Lower legs slowly without touching the floor."
+    ],
+    "formCues": [
+      "Engage core",
+      "Keep lower back down",
+      "Control descent",
+      "Avoid swinging"
+    ],
+    "commonMistakes": [
+      "Arching lower back",
+      "Using momentum",
+      "Touching feet to ground between reps"
+    ],
+    "breathing": "Exhale as you raise legs, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lying-floor-leg-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lying-floor-leg-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lying-floor-leg-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lying-floor-leg-raise.jpg"
+    }
+  },
+  {
+    "id": "drv-lying-scissor-kick-female",
+    "name": "Lying Scissor Kick",
+    "aliases": [
+      "scissor kicks",
+      "flutter kicks",
+      "lying flutter",
+      "scissor leg raises"
+    ],
+    "bodyPart": "waist",
+    "target": "hip flexors",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "obliques",
+      "lower abs"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "iliopsoas",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A core and hip flexor exercise performed while lying flat, alternately raising and lowering legs in a scissor-like motion.",
+    "instructions": "Lie on your back with arms at your sides, legs extended. Lift both legs slightly off the ground, then alternately move one leg up and the other down in a controlled, fluttering motion.",
+    "steps": [
+      "Lie on your back with legs extended and arms at your sides.",
+      "Lift both legs a few inches off the ground, keeping them straight.",
+      "Alternate raising one leg while lowering the other in a scissor motion.",
+      "Continue to alternate legs in a controlled manner.",
+      "Keep your head and shoulders relaxed, core engaged."
+    ],
+    "formCues": [
+      "Keep core braced",
+      "Move legs with control",
+      "Don't touch floor",
+      "Point toes"
+    ],
+    "commonMistakes": [
+      "Arching lower back",
+      "Moving too fast",
+      "Letting legs touch ground"
+    ],
+    "breathing": "Exhale as legs rise, inhale as legs lower.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lying-scissor-kick-female.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lying-scissor-kick-female.jpg"
+    }
+  },
+  {
+    "id": "1002",
+    "name": "Lying Straight Leg Raise",
+    "aliases": [
+      "Supine Leg Raise",
+      "Straight Leg Raise",
+      "Lying Leg Lift",
+      "Lying Straight Leg Raise",
+      "band lying straight leg raise"
+    ],
+    "bodyPart": "waist",
+    "target": "hip flexors",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "lower abdominals"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "iliopsoas",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "An exercise to isolate the hip flexors and lower abdominals from a supine position.",
+    "instructions": "Lie flat on your back with legs extended and arms at your sides. Keeping legs straight and together, lift them to about 90 degrees, then lower under control without letting heels touch the ground.",
+    "steps": [
+      "Lie flat on your back, arms at sides.",
+      "Extend legs fully, feet together.",
+      "Lift legs straight up to vertical.",
+      "Pause briefly at the top.",
+      "Lower legs down slowly but don’t touch floor."
+    ],
+    "formCues": [
+      "Keep lower back flat",
+      "Control leg movement",
+      "Squeeze abs",
+      "Don’t let heels touch"
+    ],
+    "commonMistakes": [
+      "Arching lower back",
+      "Using momentum",
+      "Separation of legs"
+    ],
+    "breathing": "Exhale as you lift legs, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lying-straight-leg-raise.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lying-straight-leg-raise.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lying-straight-leg-raise.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lying-straight-leg-raise.jpg"
+    }
+  },
+  {
+    "id": "0640",
+    "name": "Medicine Ball Wall Sit-Up",
+    "aliases": [
+      "wall sit-up with medicine ball",
+      "medicine ball toss sit-up",
+      "sit-up throw",
+      "wall sit-up toss",
+      "Medicine Ball Sit-up (wall)",
+      "one arm slam (with medicine ball)"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques",
+      "shoulders"
+    ],
+    "equipment": "weighted",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A dynamic core exercise involving a sit-up while throwing and catching a medicine ball against a wall.",
+    "instructions": "Sit facing a wall with your knees bent, holding a medicine ball at your chest. Perform a sit-up and, at the top, throw the medicine ball against the wall, catch it as it rebounds, then lower back down and repeat.",
+    "steps": [
+      "Sit on the floor facing a wall, knees bent.",
+      "Hold a medicine ball at your chest.",
+      "Lie back, then perform a sit-up.",
+      "At the top, throw the ball against the wall.",
+      "Catch the rebound and lower back down."
+    ],
+    "formCues": [
+      "Engage abs",
+      "Full range of motion",
+      "Coordinate throw and catch",
+      "Keep feet grounded"
+    ],
+    "commonMistakes": [
+      "Leaning too far back",
+      "Using arms instead of core",
+      "Missing the ball"
+    ],
+    "breathing": "Exhale as you sit up/throw, inhale as you lower down.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/medicine-ball-sit-up-wall.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/medicine-ball-sit-up-wall.jpg"
+    }
+  },
+  {
+    "id": "drv-otis-ups",
+    "name": "Otis-Up",
+    "aliases": [
+      "otis up",
+      "otis-ups",
+      "weighted sit-up"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "obliques",
+      "hip flexors",
+      "shoulders"
+    ],
+    "equipment": "weighted",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "advanced",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A sit-up variation holding a weight at arm’s length overhead to increase abdominal engagement.",
+    "instructions": "Lie on your back with knees bent and feet flat, holding a weight plate or dumbbell above your chest with arms extended. Sit up while keeping the weight overhead at arm's length, then lower back down under control.",
+    "steps": [
+      "Lie on your back with knees bent and feet anchored.",
+      "Hold a weight with both hands, arms fully extended above your chest.",
+      "Engage your core and sit up, keeping arms straight and weight overhead.",
+      "Reach an upright seated position.",
+      "Lower yourself back down under control with arms extended."
+    ],
+    "formCues": [
+      "Keep arms locked out",
+      "Do not swing weight",
+      "Engage abs fully",
+      "Maintain slow control"
+    ],
+    "commonMistakes": [
+      "Bending arms",
+      "Dropping weight forward",
+      "Using momentum to sit up"
+    ],
+    "breathing": "Exhale as you sit up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/otis-ups.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/otis-ups.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/otis-ups.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/otis-ups.jpg"
+    }
+  },
+  {
+    "id": "drv-corkscrew-pilates",
+    "name": "Pilates Corkscrew",
+    "aliases": [
+      "corkscrew",
+      "supine leg circles",
+      "corkscrew abdominal"
+    ],
+    "bodyPart": "waist",
+    "target": "abdominals",
+    "secondaryMuscles": [
+      "obliques",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A Pilates core exercise where the legs draw a circular motion to challenge abdominal stability.",
+    "instructions": "Lie on your back with arms at your sides and legs extended overhead. Lift your hips slightly off the mat, then circle your legs in a controlled motion, using your core to stabilize and reverse the direction after each circle.",
+    "steps": [
+      "Lie on back, arms by side, legs straight up.",
+      "Engage core, lift hips off mat gently.",
+      "Circle legs together in a clockwise motion.",
+      "Lower hips as legs complete the circle.",
+      "Reverse the circle direction."
+    ],
+    "formCues": [
+      "Abs tight",
+      "Control the motion",
+      "Keep shoulders down",
+      "Slow and steady"
+    ],
+    "commonMistakes": [
+      "Arching lower back",
+      "Swinging legs",
+      "Holding breath"
+    ],
+    "breathing": "Exhale as you circle legs, inhale to prepare.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/corkscrew-pilates.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/corkscrew-pilates.jpg"
+    }
+  },
+  {
+    "id": "drv-hundred-pilates",
+    "name": "Pilates Hundred",
+    "aliases": [
+      "the hundred",
+      "100s",
+      "pilates ab warm up"
+    ],
+    "bodyPart": "waist",
+    "target": "abdominals",
+    "secondaryMuscles": [
+      "obliques",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A classic Pilates exercise involving rhythmic arm pumps and core engagement.",
+    "instructions": "Lie on your back with legs extended or in tabletop position. Lift your head, neck, and shoulders off the mat, extend arms, and pulse them up and down in small, quick movements while holding the core contracted for 100 counts.",
+    "steps": [
+      "Lie on back, legs in tabletop or extended.",
+      "Lift head, neck, shoulders off mat.",
+      "Extend arms at sides, hovering above floor.",
+      "Pump arms up and down vigorously.",
+      "Inhale for 5 pumps, exhale for 5 pumps; repeat to 100."
+    ],
+    "formCues": [
+      "Engage core",
+      "Keep lower back down",
+      "Strong arm pulses",
+      "Steady breath"
+    ],
+    "commonMistakes": [
+      "Neck strain",
+      "Arching lower back",
+      "Rapid, shallow breathing"
+    ],
+    "breathing": "Inhale for 5 pumps, exhale for 5 pumps, continue cycle.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/hundred-pilates.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/hundred-pilates.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-hip-flexor-stretch-rear-foot-elevated",
+    "name": "Rear Foot Elevated Hip Flexor Stretch",
+    "aliases": [
+      "bulgarian hip flexor stretch",
+      "elevated split squat stretch"
+    ],
+    "bodyPart": "waist",
+    "target": "hip flexors",
+    "secondaryMuscles": [
+      "rectus femoris",
+      "quadriceps"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "iliopsoas",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A deep hip flexor stretch with the rear foot elevated for improved flexibility.",
+    "instructions": "Stand facing away from a bench or sturdy platform. Place one foot on the bench behind you and lower into a lunge, feeling a stretch in the hip flexors of the elevated leg. Keep your torso upright and pelvis tucked for maximum benefit.",
+    "steps": [
+      "Stand with your back to a bench; place one foot on the bench.",
+      "Step the front foot forward and lower into a lunge.",
+      "Tuck pelvis under, keeping chest tall.",
+      "Lean gently forward to intensify the stretch.",
+      "Hold, then switch legs."
+    ],
+    "formCues": [
+      "Torso upright",
+      "Pelvis tucked",
+      "Front knee over ankle",
+      "Breathe"
+    ],
+    "commonMistakes": [
+      "Overarching lower back",
+      "Knee traveling past toes",
+      "Leaning forward"
+    ],
+    "breathing": "Inhale to prepare, exhale as you sink into the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-hip-flexor-stretch-rear-foot-elevated.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-hip-flexor-stretch-rear-foot-elevated.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-hip-flexor-stretch-rear-foot-elevated.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-hip-flexor-stretch-rear-foot-elevated.jpg"
+    }
+  },
+  {
+    "id": "0872",
+    "name": "Reverse Crunch",
+    "aliases": [
+      "lower ab crunch",
+      "reverse abdominal crunch",
+      "Reverse Crunch (female)",
+      "reverse crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "abdominals",
+    "secondaryMuscles": [
+      "obliques",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A bodyweight abs exercise lifting the hips toward the chest to target the lower abdominals.",
+    "instructions": "Lie on your back with your arms by your sides and knees bent at 90 degrees. Engage your core and lift your hips off the floor, bringing your knees toward your chest, then slowly lower back to the starting position without letting your feet touch the floor.",
+    "steps": [
+      "Lie on your back, arms at your sides, knees bent, and feet off the ground.",
+      "Engage your core and lift your legs, bringing knees toward your chest.",
+      "Lift hips off the floor in a curling motion.",
+      "Pause and squeeze your abs at the top.",
+      "Lower your hips back down slowly, keeping control."
+    ],
+    "formCues": [
+      "Move slowly",
+      "Don't swing legs",
+      "Keep core braced",
+      "Avoid arching lower back"
+    ],
+    "commonMistakes": [
+      "Using momentum to swing legs",
+      "Not controlling the descent",
+      "Letting lower back arch off the floor"
+    ],
+    "breathing": "Exhale as you lift hips, inhale as you lower down.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/reverse-crunch-female.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/reverse-crunch-female.jpg"
+    }
+  },
+  {
+    "id": "0211",
+    "name": "Russian Twist on Stability Ball (Arms Straight)",
+    "aliases": [
+      "stability ball russian twist",
+      "straight arm russian twist",
+      "ball-supported russian twist",
+      "Russian Twist (on stability ball arms straight)",
+      "cable russian twists (on stability ball)"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "transverse abdominis",
+      "hip flexors"
+    ],
+    "equipment": "stability ball",
+    "muscleGroup": "external and internal obliques",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "An advanced core exercise targeting the obliques by rotating the torso while balanced on a stability ball with arms extended.",
+    "instructions": "Sit on a stability ball with feet flat on the ground, then walk feet forward to roll down until your upper back is supported. Extend your arms straight in front and rotate your torso side to side, keeping arms aligned and abs engaged throughout.",
+    "steps": [
+      "Sit on a stability ball and walk feet forward until shoulders rest on the ball.",
+      "Keep knees bent at 90 degrees, hips lifted in a bridge position.",
+      "Extend arms straight toward the ceiling with hands together.",
+      "Rotate torso and arms as one unit to the left.",
+      "Return to center, then rotate to the right, repeating for reps."
+    ],
+    "formCues": [
+      "Keep arms extended",
+      "Engage core",
+      "Move smoothly",
+      "Avoid sagging hips"
+    ],
+    "commonMistakes": [
+      "Letting hips drop",
+      "Bending arms",
+      "Rotating too quickly"
+    ],
+    "breathing": "Exhale during each rotation, inhale as you return to center.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/russian-twist-on-stability-ball-arms-straight.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/russian-twist-on-stability-ball-arms-straight.jpg"
+    }
+  },
+  {
+    "id": "1011",
+    "name": "Seated Straight Arm Twist",
+    "aliases": [
+      "seated twisting crunch",
+      "waist twist",
+      "Russian twist (arms extended)",
+      "seated trunk rotation (arms straight)",
+      "Seated Twist (straight arm)",
+      "band seated twist"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "transverse abdominis",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "Seated torso rotation with arms straight to target the obliques and core stability.",
+    "instructions": "Sit on the floor with your knees bent and feet elevated or flat. Extend both arms straight out in front of you, clasping your hands together. Rotate your torso to one side, keeping arms straight, then rotate to the other side while engaging your core throughout.",
+    "steps": [
+      "Sit with knees bent, feet either flat or off the ground.",
+      "Extend arms straight forward, clasping hands.",
+      "Lean back slightly with a neutral spine.",
+      "Rotate torso to one side, arms following movement.",
+      "Return to center and repeat to opposite side."
+    ],
+    "formCues": [
+      "Keep arms straight",
+      "Brace your core",
+      "Rotate shoulders not just arms",
+      "Don't round your lower back"
+    ],
+    "commonMistakes": [
+      "Using just arms instead of rotating the torso",
+      "Rounding the spine",
+      "Moving too quickly or without control"
+    ],
+    "breathing": "Exhale as you twist, inhale returning to center.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/seated-twist-straight-arm.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/seated-twist-straight-arm.jpg"
+    }
+  },
+  {
+    "id": "0849",
+    "name": "Seated Twist on Stability Ball",
+    "aliases": [
+      "stability ball seated twist",
+      "ball Russian twist",
+      "oblique twist ball",
+      "rotational seated twist",
+      "Seated Twist (on stability ball)",
+      "weighted seated twist (on stability ball)"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "hip flexors"
+    ],
+    "equipment": "stability ball",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A rotational core exercise performed while seated on a stability ball to target the obliques.",
+    "instructions": "Sit upright on a stability ball, feet flat and hip-width apart. Twist your torso to one side while keeping hips steady, then return to center and repeat on the other side.",
+    "steps": [
+      "Sit on a stability ball with feet flat, core engaged.",
+      "Hold arms in front or across chest.",
+      "Rotate your torso to the right, keeping hips stationary.",
+      "Pause, then twist to the left.",
+      "Return to center, repeat alternately."
+    ],
+    "formCues": [
+      "Sit tall",
+      "Keep hips steady",
+      "Rotate from the waist",
+      "Engage core"
+    ],
+    "commonMistakes": [
+      "Slouching",
+      "Over-rotating hips",
+      "Forgetting to brace core"
+    ],
+    "breathing": "Exhale during the twist, inhale as you return to center.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/seated-twist-on-stability-ball.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/seated-twist-on-stability-ball.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-seated-twist-straight-arm",
+    "name": "Seated Twist Stretch (Straight Arm)",
+    "aliases": [
+      "seated spinal twist",
+      "seated twist",
+      "straight arm seated twist"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "erector spinae",
+      "gluteus maximus"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A flexibility exercise involving seated trunk rotation to stretch the obliques and lower back.",
+    "instructions": "Sit on the floor with your legs extended and back straight. Extend your right arm behind you and twist your torso to the right, keeping your left arm straight across your knee for leverage, hold, and repeat on the other side.",
+    "steps": [
+      "Sit upright with legs extended forward.",
+      "Cross your left leg over your right if desired for more stretch.",
+      "Extend your right arm straight behind you for support.",
+      "Twist your torso toward your right, using the opposite arm for leverage.",
+      "Hold, then repeat to the other side."
+    ],
+    "formCues": [
+      "Keep back straight",
+      "Twist gently",
+      "Look over shoulder",
+      "Breathe deeply"
+    ],
+    "commonMistakes": [
+      "Slouching the back",
+      "Over-twisting",
+      "Holding breath"
+    ],
+    "breathing": "Breathe steadily while holding the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-seated-twist-straight-arm.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-seated-twist-straight-arm.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-seated-twist-straight-arm.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-seated-twist-straight-arm.jpg"
+    }
+  },
+  {
+    "id": "0850",
+    "name": "Side Bend on Stability Ball",
+    "aliases": [
+      "stability ball side bend",
+      "ball side crunch",
+      "oblique crunch ball",
+      "Side Bend (on stability ball)",
+      "weighted side bend (on stability ball)"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "quadratus lumborum"
+    ],
+    "equipment": "stability ball",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A lateral flexion movement performed on a stability ball to target the obliques.",
+    "instructions": "Lie sideways over a stability ball, feet anchored, and hands behind head. Crunch your torso upward in a side-bending motion, then lower with control.",
+    "steps": [
+      "Position yourself sideways on a stability ball, feet braced.",
+      "Place top hand behind head, other hand for balance.",
+      "Lower your torso over the ball for a stretch.",
+      "Contract your side to lift torso up in a side bend.",
+      "Lower back down with control, repeat."
+    ],
+    "formCues": [
+      "Keep hips stacked",
+      "Engage obliques",
+      "Avoid pulling neck",
+      "Slow movement"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Rotating torso",
+      "Not stabilizing with lower arm"
+    ],
+    "breathing": "Exhale as you crunch up, inhale as you lower.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/side-bend-on-stability-ball.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/side-bend-on-stability-ball.jpg"
+    }
+  },
+  {
+    "id": "0705",
+    "name": "Side Plank",
+    "aliases": [
+      "side bridge",
+      "lateral plank",
+      "side elbow plank",
+      "Side Bridge - Side Plank"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "gluteus medius",
+      "quadratus lumborum",
+      "shoulders"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "obliquus externus abdominis",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": true,
+    "shortDescription": "A core-strengthening hold performed on one side, engaging the obliques and stabilizing hip muscles.",
+    "instructions": "Lie on one side with your elbow under your shoulder and legs extended. Lift your hips off the ground to form a straight line from head to feet, bracing your abs and holding the position while breathing steadily.",
+    "steps": [
+      "Lie on your side, elbow stacked under shoulder.",
+      "Stack your feet or place one in front of the other.",
+      "Raise hips up to create a straight line.",
+      "Hold body in line, keeping abs and glutes engaged.",
+      "Lower hips gently to finish; switch sides."
+    ],
+    "formCues": [
+      "Keep body straight",
+      "Elbow directly under shoulder",
+      "Squeeze glutes",
+      "Don't let hips sag"
+    ],
+    "commonMistakes": [
+      "Letting hips drop",
+      "Shoulder collapsing inward",
+      "Twisting upper body"
+    ],
+    "breathing": "Breathe steadily throughout the hold.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/side-bridge-side-plank.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/side-bridge-side-plank.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/side-bridge-side-plank.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/side-bridge-side-plank.jpg"
+    }
+  },
+  {
+    "id": "drv-sit-ups",
+    "name": "Sit-Up",
+    "aliases": [
+      "sit up",
+      "full sit-up",
+      "classic sit-up"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A classic ab exercise involving lifting the torso from the floor to a seated position to build core strength.",
+    "instructions": "Lie on your back with knees bent and feet flat on the ground. Place your hands behind your head or across your chest, engage your core, and lift your torso all the way up to your knees, then lower back down with control.",
+    "steps": [
+      "Lie flat on your back with knees bent and feet anchored.",
+      "Place hands behind your head or across your chest.",
+      "Engage your core to lift your torso to a seated position.",
+      "Pause at the top, then slowly lower back to the floor.",
+      "Repeat for the desired number of repetitions."
+    ],
+    "formCues": [
+      "Avoid pulling on neck",
+      "Lift chest first",
+      "Engage abs throughout",
+      "Control the lower"
+    ],
+    "commonMistakes": [
+      "Jerking the neck",
+      "Using momentum",
+      "Feet lifting off the ground"
+    ],
+    "breathing": "Exhale as you rise, inhale as you lower.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/sit-ups.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/sit-ups.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/sit-ups.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/sit-ups.jpg"
+    }
+  },
+  {
+    "id": "drv-sit-up",
+    "name": "Sit-Up",
+    "aliases": [
+      "sit up",
+      "basic sit-up",
+      "traditional sit up"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A classic abdominal exercise that lifts the torso upward from a lying position.",
+    "instructions": "Lie on your back with knees bent and feet flat on the floor. Cross your arms over your chest or place hands behind your head, and use your abdominals to lift your upper body toward your knees, then lower back down with control.",
+    "steps": [
+      "Lie down with knees bent and feet flat.",
+      "Cross arms over chest or place hands behind head.",
+      "Engage your core and raise your torso towards your knees.",
+      "Pause briefly at the top.",
+      "Slowly lower back to starting position."
+    ],
+    "formCues": [
+      "Lead with chest",
+      "Avoid pulling neck",
+      "Move with control",
+      "Keep feet flat"
+    ],
+    "commonMistakes": [
+      "Pulling on neck",
+      "Arching lower back",
+      "Using momentum"
+    ],
+    "breathing": "Exhale on the ascent, inhale on the descent.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/sit-up.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/sit-up.jpg"
+    }
+  },
+  {
+    "id": "0777",
+    "name": "Spell Caster",
+    "aliases": [
+      "spell caster",
+      "dumbbell spell caster",
+      "alternating dumbbell toe touch",
+      "cross-body dumbbell reach",
+      "standing oblique twist with dumbbell"
+    ],
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": [
+      "obliques",
+      "lower back"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "obliques",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A standing dumbbell core move where you hinge and rotate side to side, reaching the weight toward each foot to train the obliques.",
+    "instructions": "Stand with your feet shoulder-width apart and hold a dumbbell in one hand. Bend your knees slightly and hinge forward at the waist, keeping your back straight. Extend your arm with the dumbbell towards the opposite foot, rotating your torso as you do so. Return to the starting position and repeat on the other side. Continue alternating sides for the desired number of repetitions.",
+    "steps": [
+      "Stand tall with your feet about shoulder-width apart, holding one dumbbell with both hands in front of your hips.",
+      "Soften your knees and hinge slightly at your hips while keeping your chest up and back flat.",
+      "Rotate your torso and lower the dumbbell toward the outside of one foot.",
+      "Drive through your hips and return to the center with the dumbbell back in front of your hips.",
+      "Rotate to the other side and lower the dumbbell toward the outside of the opposite foot.",
+      "Continue alternating sides with controlled movement."
+    ],
+    "formCues": [
+      "Rotate through your torso",
+      "Keep your back flat",
+      "Bend at the hips",
+      "Move with control"
+    ],
+    "commonMistakes": [
+      "Rounding the lower back as the dumbbell lowers",
+      "Bending mostly through the spine instead of hinging at the hips",
+      "Letting the knees cave inward during the reach",
+      "Swinging the dumbbell quickly instead of controlling each side"
+    ],
+    "breathing": "Inhale as you lower and rotate toward one foot, then exhale as you return to center and switch sides.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/spell-caster.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/spell-caster.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/spell-caster.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/spell-caster.jpg"
+    }
+  },
+  {
+    "id": "0271",
+    "name": "Stability Ball Leg Elevated Crunch",
+    "aliases": [
+      "crunch legs on stability ball",
+      "elevated crunch on ball",
+      "ball-supported crunch",
+      "stability ball crunch",
+      "Crunch (legs on stability ball)",
+      "crunch (on stability ball)"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "obliques",
+      "hip flexors"
+    ],
+    "equipment": "stability ball",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A crunch variation where the legs rest on a stability ball, increasing core engagement and instability.",
+    "instructions": "Lie on your back with legs bent and calves resting on a stability ball, hands behind your head. Engage your core and lift your shoulders toward your knees, keeping your lower back on the floor, then return to the starting position.",
+    "steps": [
+      "Place stability ball in front of you and sit down.",
+      "Lie back and position your calves and feet on top of the ball with knees bent.",
+      "Place your hands lightly behind your head or crossed on your chest.",
+      "Engage your core and curl your upper body toward your knees.",
+      "Pause briefly at the top, then lower back down without losing control."
+    ],
+    "formCues": [
+      "Keep lower back pressed to floor",
+      "Do not pull with your neck",
+      "Control the movement",
+      "Exhale on lift"
+    ],
+    "commonMistakes": [
+      "Using momentum instead of muscle",
+      "Straining the neck",
+      "Letting the ball roll away",
+      "Arching the lower back"
+    ],
+    "breathing": "Exhale as you crunch up, inhale as you lower down.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/crunch-legs-on-stability-ball.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/crunch-legs-on-stability-ball.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-standing-side-bend-bent-arm",
+    "name": "Standing Side Bend Stretch (Bent Arm)",
+    "aliases": [
+      "standing side bend",
+      "bent arm side bend",
+      "lateral stretch standing"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "latissimus dorsi",
+      "serratus anterior"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A side bending stretch performed while standing to lengthen the obliques and lats.",
+    "instructions": "Stand tall with feet hip-width apart, raise one arm overhead and bend it, then lean to the side while keeping the torso in one plane, hold the stretch, and repeat on the other side.",
+    "steps": [
+      "Stand with feet shoulder-width apart.",
+      "Raise one arm overhead, bending the elbow comfortably.",
+      "Lean sideways away from the raised arm to stretch the side of your torso.",
+      "Hold the stretch for 15-30 seconds.",
+      "Switch sides and repeat."
+    ],
+    "formCues": [
+      "Keep hips square",
+      "Bend without twisting",
+      "Stretch through the side",
+      "Breathe steadily"
+    ],
+    "commonMistakes": [
+      "Rotating the torso",
+      "Overextending",
+      "Holding breath"
+    ],
+    "breathing": "Breathe deeply throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-side-bend-bent-arm.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-standing-side-bend-bent-arm.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-side-bend-bent-arm.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-standing-side-bend-bent-arm.jpg"
+    }
+  },
+  {
+    "id": "drv-crunch-straight-leg-up",
+    "name": "Straight-Leg Up Crunch",
+    "aliases": [
+      "vertical leg crunch",
+      "straight leg crunch",
+      "leg-up crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "obliques",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A crunch variant with straight legs held vertically to challenge upper abdominals.",
+    "instructions": "Lie on your back with legs straight up in the air, arms at your sides or behind your head. Engage your core to lift your head, neck, and shoulders toward your feet, then lower back down with control.",
+    "steps": [
+      "Lie on back, legs straight up, feet flexed.",
+      "Place arms beside you or hands behind head.",
+      "Engage core, lift head and shoulders toward legs.",
+      "Pause at top, exhale.",
+      "Lower down with control."
+    ],
+    "formCues": [
+      "Chin tucked",
+      "Reach toward ceiling",
+      "Don't strain neck",
+      "Slow movement"
+    ],
+    "commonMistakes": [
+      "Jerking up",
+      "Using momentum",
+      "Flaring elbows"
+    ],
+    "breathing": "Exhale as you crunch up, inhale as you lower down.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/crunch-straight-leg-up.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/crunch-straight-leg-up.jpg"
+    }
+  },
+  {
+    "id": "0985",
+    "name": "Twisting Crunch",
+    "aliases": [
+      "Oblique Crunch",
+      "Cross-Body Crunch",
+      "Rotational Crunch",
+      "Twisting Crunch",
+      "band kneeling twisting crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "external obliques",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A crunch variation with a rotation to engage the obliques and upper abdominals.",
+    "instructions": "Lie on your back, knees bent, hands behind head. Crunch up while rotating one elbow toward the opposite knee, then return and alternate sides.",
+    "steps": [
+      "Lie on your back with knees bent and feet flat.",
+      "Place hands lightly behind your head.",
+      "Crunch up, twisting your torso to bring one shoulder toward the opposite knee.",
+      "Return to start and repeat to the other side.",
+      "Alternate sides for each repetition."
+    ],
+    "formCues": [
+      "Twist from the torso",
+      "Elbow toward knee",
+      "Avoid pulling neck",
+      "Keep lower back down"
+    ],
+    "commonMistakes": [
+      "Pulling on the head/neck",
+      "Not rotating enough",
+      "Lifting lower back"
+    ],
+    "breathing": "Exhale as you crunch and twist, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/twisting-crunch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/twisting-crunch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/twisting-crunch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/twisting-crunch.jpg"
+    }
+  },
+  {
+    "id": "drv-v-up",
+    "name": "V-Up",
+    "aliases": [
+      "jackknife sit-up",
+      "v crunch",
+      "v sit-up",
+      "jackknife"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A dynamic core exercise where both legs and torso are lifted to meet in a 'V' position, activating the abdominals.",
+    "instructions": "Lie flat on your back with arms extended overhead and legs straight. Simultaneously raise your legs and upper body, reaching your hands towards your feet to form a 'V' shape, then lower back down in control.",
+    "steps": [
+      "Lie on your back with arms extended overhead and legs straight.",
+      "Engage your core to lift your legs and torso simultaneously.",
+      "Reach your hands toward your feet at the top, forming a 'V' shape.",
+      "Pause briefly, squeezing your abs.",
+      "Lower down slowly to starting position."
+    ],
+    "formCues": [
+      "Lift with abs",
+      "Keep legs straight",
+      "Reach toward toes",
+      "Control the descent"
+    ],
+    "commonMistakes": [
+      "Swinging legs",
+      "Arching lower back",
+      "Not fully engaging abs"
+    ],
+    "breathing": "Exhale when lifting up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/v-up.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/v-up.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/v-up.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/v-up.jpg"
+    }
+  },
+  {
+    "id": "0826",
+    "name": "Vertical Leg Raise (on parallel bars)",
+    "aliases": [
+      "vertical leg raise",
+      "parallel bar leg raise",
+      "captain's chair leg raise",
+      "straight leg raise on dip bars",
+      "hanging leg raise on parallel bars",
+      "raise straight legs on bars",
+      "vertical leg raise (on parallel bars)"
+    ],
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": [
+      "hip flexors"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "hip flexors",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bodyweight core exercise on parallel bars where you raise straight legs in front of you under control.",
+    "instructions": "Hang from the parallel bars with your arms fully extended and your body straight. Engage your core and lift your legs up in front of you, keeping them straight. Continue lifting until your legs are parallel to the ground or slightly higher. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Support yourself on the parallel bars with straight arms and your legs hanging together.",
+      "Pull your shoulders down and brace your midsection to stop your body from swinging.",
+      "Keep your knees straight and lift your legs forward in front of you.",
+      "Raise your legs until they reach hip height or slightly higher.",
+      "Pause briefly at the top without leaning back.",
+      "Lower your legs with control to the start and reset before the next repetition."
+    ],
+    "formCues": [
+      "Keep legs straight",
+      "Brace and stop the swing",
+      "Lift with control",
+      "Shoulders down"
+    ],
+    "commonMistakes": [
+      "Swinging the torso to start each rep",
+      "Bending the knees as the legs rise",
+      "Shrugging the shoulders up toward the ears",
+      "Dropping the legs quickly on the way down"
+    ],
+    "breathing": "Exhale as you lift your legs, then inhale as you lower them back to the start.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/vertical-leg-raise-on-parallel-bars.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/vertical-leg-raise-on-parallel-bars.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/vertical-leg-raise-on-parallel-bars.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/vertical-leg-raise-on-parallel-bars.jpg"
+    }
+  },
+  {
+    "id": "0832",
+    "name": "Weighted Leg Extension Crunch",
+    "aliases": [
+      "weighted crunch with leg extension",
+      "dumbbell leg extension crunch",
+      "leg extension abs",
+      "Weighted Leg Extension Crunch",
+      "weighted crunch"
+    ],
+    "bodyPart": "waist",
+    "target": "rectus abdominis",
+    "secondaryMuscles": [
+      "hip flexors",
+      "obliques"
+    ],
+    "equipment": "weighted",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A core exercise combining a crunch with a resisted leg extension to engage the abdominals.",
+    "instructions": "Lie on your back holding a weight at your chest, legs lifted and knees bent. Extend your legs out as you crunch upward, then return to the start position.",
+    "steps": [
+      "Lie flat on your back with knees bent, holding a weight across your chest.",
+      "Lift your legs to tabletop position (knees over hips, 90-degree bend).",
+      "Simultaneously extend your legs outward and crunch your upper body up.",
+      "Pause briefly at peak contraction.",
+      "Return arms and legs to the starting position."
+    ],
+    "formCues": [
+      "Keep core braced",
+      "Don't arch lower back",
+      "Control leg extension",
+      "Crunch chest up"
+    ],
+    "commonMistakes": [
+      "Using momentum",
+      "Letting lower back arch",
+      "Holding breath"
+    ],
+    "breathing": "Exhale as you crunch and extend, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/weighted-leg-extension-crunch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/weighted-leg-extension-crunch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/weighted-leg-extension-crunch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/weighted-leg-extension-crunch.jpg"
+    }
+  },
+  {
+    "id": "0846",
+    "name": "Weighted Lying Twist",
+    "aliases": [
+      "weighted windshield wiper",
+      "lying weighted hip twist",
+      "supine weighted twist",
+      "Weighted Lying Twist",
+      "weighted russian twist"
+    ],
+    "bodyPart": "waist",
+    "target": "obliques",
+    "secondaryMuscles": [
+      "rectus abdominis",
+      "hip flexors"
+    ],
+    "equipment": "weighted",
+    "muscleGroup": "external obliques",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A core rotational movement that targets the obliques using added resistance.",
+    "instructions": "Lie flat on your back, arms extended to your sides and holding a weight between your feet or over chest. Rotate your lower body side-to-side while stabilizing your upper body.",
+    "steps": [
+      "Lie on your back with arms outstretched for support.",
+      "Hold a weight between your feet (or over chest).",
+      "Lift your legs up to a 90-degree angle.",
+      "Slowly rotate your legs to one side, keeping shoulders down.",
+      "Return to center and repeat on the other side."
+    ],
+    "formCues": [
+      "Keep shoulders grounded",
+      "Move slowly and controlled",
+      "Engage obliques",
+      "Don’t swing legs"
+    ],
+    "commonMistakes": [
+      "Letting shoulders lift",
+      "Using momentum",
+      "Dropping legs too low"
+    ],
+    "breathing": "Exhale as you twist, inhale as you return to center.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/weighted-lying-twist.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/weighted-lying-twist.jpg"
+    }
+  }
+]

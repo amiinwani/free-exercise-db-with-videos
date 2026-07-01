@@ -1,0 +1,1453 @@
+[
+  {
+    "id": "0025",
+    "name": "Barbell Bench Press",
+    "aliases": [
+      "bench press",
+      "barbell bench",
+      "flat barbell bench press",
+      "BB bench press",
+      "chest press with barbell",
+      "barbell bench press"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "triceps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A flat bench press using a barbell to train the chest, triceps, and shoulders with a horizontal pressing motion.",
+    "instructions": "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart. Lift the barbell off the rack and hold it directly above your chest with your arms fully extended. Lower the barbell slowly towards your chest, keeping your elbows tucked in. Pause for a moment when the barbell touches your chest. Push the barbell back up to the starting position by extending your arms. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Lie flat on the bench with your eyes under the bar and plant your feet firmly on the floor.",
+      "Grip the bar slightly wider than shoulder width and straighten your arms to unrack it over your chest.",
+      "Lower the bar under control to your mid-chest while keeping your wrists stacked over your forearms.",
+      "Lightly touch your chest, then press the bar straight up until your arms are fully extended.",
+      "Guide the bar back into the rack once you finish the set."
+    ],
+    "formCues": [
+      "Drive feet into floor",
+      "Keep wrists stacked",
+      "Touch mid-chest",
+      "Press straight up"
+    ],
+    "commonMistakes": [
+      "Bar drifts toward the neck or stomach",
+      "Elbows flare straight out from the shoulders",
+      "Wrists bend backward under the bar",
+      "Hips lift off the bench during the press"
+    ],
+    "breathing": "Inhale as you lower the bar to your chest, and exhale as you press it back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-bench-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-bench-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-bench-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-bench-press.jpg"
+    }
+  },
+  {
+    "id": "0033",
+    "name": "Barbell Decline Bench Press",
+    "aliases": [
+      "decline barbell bench press",
+      "decline bench press",
+      "barbell decline press",
+      "decline chest press",
+      "decline barbell press",
+      "barbell decline bench press"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "triceps",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A decline barbell press done on a downward-angled bench to train the chest, triceps, and shoulders through a pressing pattern.",
+    "instructions": "Lie on a decline bench with your feet secured and your head lower than your hips. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in. Pause for a moment at the bottom, then push the barbell back up to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Lie on the decline bench and secure your legs under the pads with your eyes under the bar.",
+      "Grip the bar slightly wider than shoulder width and pull your shoulder blades back into the bench.",
+      "Unrack the bar and hold it above your lower chest with straight wrists and locked elbows.",
+      "Lower the bar under control to your lower chest or upper sternum while keeping your elbows at about a 45-degree angle.",
+      "Press the bar straight up until your elbows are extended and the bar returns over your lower chest.",
+      "Repeat each rep with the same bar path and controlled tempo."
+    ],
+    "formCues": [
+      "Drive shoulders into bench",
+      "Wrists stacked over forearms",
+      "Lower to lower chest",
+      "Press straight up"
+    ],
+    "commonMistakes": [
+      "Bouncing the bar off the chest",
+      "Flaring the elbows straight out to the sides",
+      "Letting the wrists bend back under the bar",
+      "Pressing the bar toward the face instead of over the chest"
+    ],
+    "breathing": "Inhale as you lower the bar to your chest, and exhale as you press it back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-decline-bench-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-decline-bench-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-decline-bench-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-decline-bench-press.jpg"
+    }
+  },
+  {
+    "id": "0047",
+    "name": "Barbell Incline Bench Press",
+    "aliases": [
+      "incline barbell bench press",
+      "incline bench press",
+      "barbell incline press",
+      "incline chest press",
+      "upper chest barbell press",
+      "barbell incline bench press"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "barbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A pressing exercise on an incline bench using a barbell to train the upper chest, shoulders, and triceps.",
+    "instructions": "Set up an incline bench at a 45-degree angle. Lie down on the bench with your feet flat on the ground. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows at a 45-degree angle. Pause for a moment at the bottom, then push the barbell back up to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench and lie back with your eyes under the bar and your feet flat on the floor.",
+      "Grip the bar slightly wider than shoulder width with straight wrists and pull your shoulder blades down and back.",
+      "Unrack the bar and hold it above your upper chest with your arms straight.",
+      "Lower the bar under control to your upper chest, keeping your elbows slightly tucked from straight out.",
+      "Press the bar upward until your arms are straight again, keeping the bar path over your shoulders.",
+      "Rack the bar back onto the supports with control after your final rep."
+    ],
+    "formCues": [
+      "Drive feet into floor",
+      "Keep chest up",
+      "Wrists stacked over elbows",
+      "Press straight up"
+    ],
+    "commonMistakes": [
+      "Flaring the elbows straight out to the sides",
+      "Bouncing the bar off the chest",
+      "Lifting the feet or shifting on the bench",
+      "Lowering the bar to the neck or stomach"
+    ],
+    "breathing": "Inhale as you lower the bar to your chest, and exhale as you press it back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/barbell-incline-bench-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/barbell-incline-bench-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/barbell-incline-bench-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/barbell-incline-bench-press.jpg"
+    }
+  },
+  {
+    "id": "1269",
+    "name": "Cable Standing Fly",
+    "aliases": [
+      "cable fly",
+      "crossover fly",
+      "standing cable chest fly",
+      "cable chest crossover",
+      "Cable Standing Fly, Crossover fly",
+      "cable standing up straight crossovers"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "anterior deltoids",
+      "biceps brachii"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A cable isolation exercise for the chest, performed standing and moving arms in a hugging motion.",
+    "instructions": "Stand between two cable stacks, grab the D-handles, and take a step forward. With a slight bend in elbows, bring the handles together in front of the chest, then slowly return to the starting position.",
+    "steps": [
+      "Attach handles to both high pulleys.",
+      "Stand centered between pulleys, grasp handles in each hand.",
+      "Step forward into a staggered stance, arms outstretched.",
+      "With elbows slightly bent, bring handles together in front of chest.",
+      "Return slowly to starting position, feeling the stretch in the chest."
+    ],
+    "formCues": [
+      "Lead with your elbows",
+      "Slight bend at elbows",
+      "Keep chest up",
+      "Don’t let shoulders roll forward"
+    ],
+    "commonMistakes": [
+      "Over-extending arms",
+      "Letting elbows lock",
+      "Rounding the back"
+    ],
+    "breathing": "Exhale as you bring hands together, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-standing-fly-crossover-fly.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-standing-fly-crossover-fly.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-standing-fly-crossover-fly.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-standing-fly-crossover-fly.jpg"
+    }
+  },
+  {
+    "id": "drv-chest-dips",
+    "name": "Chest Dips",
+    "aliases": [
+      "parallel bar dips",
+      "dips (chest focus)",
+      "weighted dips"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "triceps",
+      "anterior deltoids"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A compound bodyweight exercise performed on parallel bars to target the chest, shoulders, and triceps.",
+    "instructions": "Grasp parallel bars and lift yourself to starting position with arms locked. Lean the torso slightly forward and lower your body by bending the elbows until your upper arms are parallel to the floor. Push yourself back to the start, emphasizing the chest contraction.",
+    "steps": [
+      "Grip parallel bars and lift to start.",
+      "Lean torso forward and bend elbows.",
+      "Lower until upper arms are parallel to floor.",
+      "Pause at the bottom, feeling the stretch.",
+      "Push up through palms, returning to start."
+    ],
+    "formCues": [
+      "Lean forward",
+      "Keep elbows out to sides",
+      "Descend under control",
+      "Avoid locking elbows at top"
+    ],
+    "commonMistakes": [
+      "Staying too upright (triceps focus)",
+      "Going too deep",
+      "Flaring elbows excessively"
+    ],
+    "breathing": "Inhale as you lower, exhale as you press up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/chest-dips.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/chest-dips.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/chest-dips.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/chest-dips.jpg"
+    }
+  },
+  {
+    "id": "0301",
+    "name": "Decline Dumbbell Bench Press",
+    "aliases": [
+      "decline DB bench press",
+      "dumbbell decline press 45 degree",
+      "decline dumbbell chest press",
+      "Decline Dumbbell Bench Press (45 degree)",
+      "dumbbell decline bench press"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "triceps brachii",
+      "anterior deltoids"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A chest pressing exercise performed on a 45-degree decline bench using dumbbells.",
+    "instructions": "Secure your feet in the decline bench and lie back holding a dumbbell in each hand at chest level. Press the weights up until arms are extended, then lower them until elbows are at about 90 degrees.",
+    "steps": [
+      "Set a bench to a 45-degree decline angle.",
+      "Secure feet, lie back holding dumbbells over chest.",
+      "Lower dumbbells to the sides of your chest.",
+      "Pause at the bottom.",
+      "Press weights back to starting position."
+    ],
+    "formCues": [
+      "Control lowering phase",
+      "Do not let elbows flare",
+      "Keep wrists straight",
+      "Press through the heels"
+    ],
+    "commonMistakes": [
+      "Dropping elbows too low",
+      "Using uneven range",
+      "Arching lower back",
+      "Rushed reps"
+    ],
+    "breathing": "Inhale as you lower the dumbbells, exhale as you press up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/decline-dumbbell-bench-press-45-degree.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/decline-dumbbell-bench-press-45-degree.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/decline-dumbbell-bench-press-45-degree.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/decline-dumbbell-bench-press-45-degree.jpg"
+    }
+  },
+  {
+    "id": "0302",
+    "name": "Decline Dumbbell Fly",
+    "aliases": [
+      "decline DB fly",
+      "dumbbell decline fly 45 degree",
+      "decline chest fly",
+      "Dumbbell Decline Fly (45 degree) (1)",
+      "dumbbell decline fly"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "anterior deltoids",
+      "biceps brachii"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A fly movement on a 45-degree decline bench to isolate the lower chest with dumbbells.",
+    "instructions": "Lay back on a 45-degree decline bench holding a dumbbell in each hand above chest. Lower the weights in an arc to sides until a stretch is felt, then bring them back together, squeezing the chest.",
+    "steps": [
+      "Set bench to 45-degree decline, secure feet.",
+      "Lie back, arms extended above chest, slight bend in elbows.",
+      "Lower dumbbells in a wide arc to sides.",
+      "Pause at bottom for a stretch.",
+      "Return dumbbells to starting position, squeezing chest."
+    ],
+    "formCues": [
+      "Arms slightly bent",
+      "Big arc motion",
+      "Don't overstretch",
+      "Squeeze at top"
+    ],
+    "commonMistakes": [
+      "Straightening arms",
+      "Dropping dumbbells too low",
+      "Using too much weight",
+      "Rushing the rep"
+    ],
+    "breathing": "Inhale as you open arms, exhale as you bring weights together.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-decline-fly-45-degree-1.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-decline-fly-45-degree-1.jpg"
+    }
+  },
+  {
+    "id": "1274",
+    "name": "Deep Push-Up",
+    "aliases": [
+      "deep pushups",
+      "deficit push-up",
+      "deep range push-up",
+      "elevated hands push-up",
+      "Deep Push-ups",
+      "deep push up"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "triceps brachii",
+      "anterior deltoids",
+      "core"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A push-up performed with hands elevated for a greater range of motion to emphasize lower chest activation.",
+    "instructions": "Assume a push-up position with hands on raised platforms or handles to allow your chest to go deeper than standard push-ups. Lower your chest below hand level, then press back up powerfully to full arm extension.",
+    "steps": [
+      "Place hands on elevated surfaces shoulder-width apart.",
+      "Assume a plank position with tight core and straight body.",
+      "Lower your chest between your hands, dipping below hand level.",
+      "Pause at the bottom, feeling a deep stretch in the chest.",
+      "Push up powerfully until arms are extended."
+    ],
+    "formCues": [
+      "Keep elbows at 45 degrees",
+      "Lower chest below hands",
+      "Maintain a straight line",
+      "Engage your core"
+    ],
+    "commonMistakes": [
+      "Sagging hips",
+      "Flaring elbows",
+      "Not going deep enough",
+      "Letting shoulders round"
+    ],
+    "breathing": "Inhale as you lower down, exhale as you push up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/deep-push-ups.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/deep-push-ups.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/deep-push-ups.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/deep-push-ups.jpg"
+    }
+  },
+  {
+    "id": "0308",
+    "name": "Dumbbell Fly",
+    "aliases": [
+      "dumbbell fly",
+      "DB fly",
+      "dumbbell chest fly",
+      "chest fly with dumbbells",
+      "lying dumbbell fly",
+      "dumbbell pec fly"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A lying chest isolation exercise where you open the arms wide with dumbbells, then bring them together in an arc over the chest.",
+    "instructions": "Lie flat on a bench with a dumbbell in each hand, palms facing each other. Extend your arms straight up over your chest, with a slight bend in your elbows. Keeping a slight bend in your elbows, lower your arms out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then reverse the movement and bring the dumbbells back up to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Lie flat on a bench holding a dumbbell in each hand, and plant your feet on the floor.",
+      "Press the dumbbells above your chest with your palms facing each other and soften your elbows slightly.",
+      "Lower both arms out to the sides in a wide arc until your elbows reach about chest level.",
+      "Pause briefly at the bottom while keeping the same elbow bend.",
+      "Squeeze your chest and bring the dumbbells back together over your chest along the same arc."
+    ],
+    "formCues": [
+      "Hug a wide barrel",
+      "Keep elbows softly bent",
+      "Lower with control",
+      "Squeeze chest at the top"
+    ],
+    "commonMistakes": [
+      "Bending and straightening the elbows like a press",
+      "Lowering the dumbbells too far below chest level",
+      "Bringing the dumbbells together by shrugging the shoulders forward",
+      "Dropping the arms quickly instead of controlling the arc"
+    ],
+    "breathing": "Inhale as you lower the dumbbells out to the sides, and exhale as you bring them back together over your chest.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-fly.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-fly.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-fly.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-fly.jpg"
+    }
+  },
+  {
+    "id": "1277",
+    "name": "Dumbbell Fly On Exercise Ball",
+    "aliases": [
+      "exercise ball dumbbell fly",
+      "stability ball dumbbell fly",
+      "Swiss ball chest fly",
+      "DB fly on ball",
+      "chest fly on exercise ball",
+      "dumbbell chest fly on ball",
+      "dumbbell fly on exercise ball"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A chest isolation move done on an exercise ball, lowering dumbbells in a wide arc and bringing them back together over the chest.",
+    "instructions": "Sit on an exercise ball and hold a dumbbell in each hand. Walk your feet forward and roll your body down until your head, neck, and upper back are supported by the ball. Extend your arms straight up above your chest, palms facing each other. Bend your elbows slightly and lower your arms out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then reverse the movement and squeeze your chest muscles as you bring the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Sit on the exercise ball holding a dumbbell in each hand at your thighs.",
+      "Walk your feet forward and roll down until your head, neck, and upper back rest on the ball, then lift your hips so your torso is level.",
+      "Press the dumbbells above your chest with your palms facing each other and your elbows slightly bent.",
+      "Lower your arms out to the sides in a wide arc while keeping the same small bend in your elbows.",
+      "Stop when your upper arms are roughly in line with your torso and your chest feels stretched.",
+      "Bring the dumbbells back together over your chest along the same arc and squeeze your chest at the top."
+    ],
+    "formCues": [
+      "Keep hips up",
+      "Soft bend in elbows",
+      "Open wide, not too low",
+      "Bring bells together smoothly"
+    ],
+    "commonMistakes": [
+      "Letting the hips sag below the torso",
+      "Turning the movement into a press by bending the elbows too much",
+      "Lowering the dumbbells far below chest level",
+      "Shrugging the shoulders up toward the ears"
+    ],
+    "breathing": "Inhale as you lower the dumbbells out to the sides, and exhale as you bring them back together over your chest.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-fly-on-exercise-ball.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-fly-on-exercise-ball.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-fly-on-exercise-ball.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-fly-on-exercise-ball.jpg"
+    }
+  },
+  {
+    "id": "0314",
+    "name": "Dumbbell Incline Bench Press",
+    "aliases": [
+      "incline dumbbell press",
+      "DB incline press",
+      "incline bench dumbbell press",
+      "dumbbell incline chest press",
+      "incline chest press with dumbbells",
+      "dumbbell incline bench press"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A pressing exercise on an incline bench using dumbbells to train the upper chest, shoulders, and triceps.",
+    "instructions": "Set up an incline bench at a 45-degree angle. Sit on the bench with your feet flat on the ground and your back pressed firmly against the bench. Hold a dumbbell in each hand, palms facing forward, and lift them to shoulder height. Slowly lower the dumbbells to the sides of your chest, keeping your elbows at a 90-degree angle. Push the dumbbells back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench and sit back with a dumbbell in each hand resting on your thighs.",
+      "Lie back on the bench and bring the dumbbells to chest level with your palms facing forward.",
+      "Plant your feet on the floor and position your elbows slightly below shoulder height.",
+      "Press the dumbbells up over your upper chest until your arms are straight.",
+      "Lower the dumbbells under control to the sides of your upper chest.",
+      "Repeat by pressing back up along the same path."
+    ],
+    "formCues": [
+      "Keep wrists stacked",
+      "Drive feet into floor",
+      "Lower with control",
+      "Press over upper chest"
+    ],
+    "commonMistakes": [
+      "Flaring the elbows straight out to the sides",
+      "Letting the dumbbells drift toward the face",
+      "Bouncing the dumbbells off the chest position",
+      "Arching the lower back off the bench"
+    ],
+    "breathing": "Inhale as you lower the dumbbells, and exhale as you press them up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-bench-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-bench-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-bench-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-bench-press.jpg"
+    }
+  },
+  {
+    "id": "0319",
+    "name": "Dumbbell Incline Fly",
+    "aliases": [
+      "incline dumbbell fly",
+      "incline DB fly",
+      "dumbbell incline chest fly",
+      "incline chest fly",
+      "incline fly",
+      "incline dumbbell chest fly",
+      "dumbbell incline fly"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A chest isolation exercise done on an incline bench by opening the arms wide with dumbbells and squeezing them back together.",
+    "instructions": "Set an incline bench to a 45-degree angle. Sit on the bench with a dumbbell in each hand, palms facing each other. Lie back on the bench and press the dumbbells up to the starting position, directly above your chest. Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then squeeze your chest muscles to bring the dumbbells back up to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench and sit with a dumbbell in each hand on your thighs.",
+      "Lie back and press the dumbbells above your upper chest with your palms facing each other.",
+      "Bend your elbows slightly and keep that bend locked in.",
+      "Lower the dumbbells out to your sides in a wide arc until they reach chest level or a gentle chest stretch.",
+      "Squeeze your chest to bring the dumbbells back together over your upper chest along the same arc.",
+      "Stop with the dumbbells nearly touching and repeat."
+    ],
+    "formCues": [
+      "Soft elbows, fixed angle",
+      "Open wide, not too low",
+      "Squeeze chest at the top",
+      "Keep shoulders down"
+    ],
+    "commonMistakes": [
+      "Bending and straightening the elbows like a press",
+      "Lowering the dumbbells far below chest level",
+      "Letting the dumbbells drift behind the shoulders",
+      "Clanging the dumbbells together at the top"
+    ],
+    "breathing": "Inhale as you lower the dumbbells out to the sides, and exhale as you bring them back together over your chest.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-fly.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-fly.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-fly.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-fly.jpg"
+    }
+  },
+  {
+    "id": "1278",
+    "name": "Dumbbell Incline Fly On Exercise Ball",
+    "aliases": [
+      "incline dumbbell fly",
+      "DB incline fly",
+      "incline chest fly",
+      "incline dumbbell chest fly",
+      "dumbbell chest fly on ball",
+      "dumbbell incline fly on exercise ball"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A chest isolation exercise done with dumbbells while supported on an exercise ball at an incline angle.",
+    "instructions": "Set up an incline bench at a 45-degree angle. Sit on an exercise ball and roll forward until your upper back is resting on the incline bench. Hold a dumbbell in each hand with your palms facing each other and your arms extended above your chest. Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then squeeze your chest muscles to bring the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Hold a dumbbell in each hand and position your upper back on the exercise ball so your torso is angled upward.",
+      "Plant your feet firmly on the floor and raise the dumbbells above your upper chest with your palms facing each other.",
+      "Keep a soft bend in your elbows and lower your arms out to the sides in a wide arc.",
+      "Stop when your elbows are roughly level with your chest and you feel your chest stretch.",
+      "Squeeze your chest and bring the dumbbells back up along the same arc until they meet above your chest."
+    ],
+    "formCues": [
+      "Keep elbows slightly bent",
+      "Open wide under control",
+      "Lift through your chest",
+      "Feet planted, hips steady"
+    ],
+    "commonMistakes": [
+      "Straightening the elbows and turning the move into a press",
+      "Lowering the dumbbells too far below chest level",
+      "Bouncing the hips or letting the ball roll around",
+      "Bringing the dumbbells up unevenly or clanking them together"
+    ],
+    "breathing": "Inhale as you lower the dumbbells out to the sides, and exhale as you bring them back together above your chest.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-fly-on-exercise-ball.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-fly-on-exercise-ball.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-fly-on-exercise-ball.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-fly-on-exercise-ball.jpg"
+    }
+  },
+  {
+    "id": "0321",
+    "name": "Dumbbell Incline Hammer Press",
+    "aliases": [
+      "incline hammer press",
+      "dumbbell incline hammer press",
+      "neutral-grip incline dumbbell press",
+      "incline DB hammer press",
+      "incline dumbbell chest press",
+      "incline press with palms facing in"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "shoulders",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "An incline dumbbell press with a neutral grip that trains the upper chest, shoulders, and triceps.",
+    "instructions": "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, resting on your thighs. Lie back on the bench and position the dumbbells at shoulder level with your palms facing each other. Press the dumbbells up and away from your body until your arms are fully extended. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Set an incline bench and sit with a dumbbell in each hand on your thighs.",
+      "Lie back on the bench and bring the dumbbells to chest height with your palms facing each other.",
+      "Plant your feet, pull your shoulder blades back into the bench, and keep your wrists stacked over your elbows.",
+      "Press the dumbbells upward until your arms are straight above your upper chest.",
+      "Lower the dumbbells under control until they return to chest level with your palms still facing in.",
+      "Repeat the press without bouncing the dumbbells off your chest or shoulders."
+    ],
+    "formCues": [
+      "Drive up over upper chest",
+      "Keep palms facing in",
+      "Pin shoulders to bench",
+      "Wrists stacked over elbows"
+    ],
+    "commonMistakes": [
+      "Flaring the elbows straight out to the sides",
+      "Letting the dumbbells drift back over the face",
+      "Banging the dumbbells together at the top",
+      "Arching the lower back and lifting the hips"
+    ],
+    "breathing": "Inhale as you lower the dumbbells to chest level, and exhale as you press them up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-incline-hammer-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-incline-hammer-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-incline-hammer-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-incline-hammer-press.jpg"
+    }
+  },
+  {
+    "id": "0340",
+    "name": "Dumbbell Lying Hammer Press",
+    "aliases": [
+      "dumbbell lying hammer press",
+      "neutral grip dumbbell bench press",
+      "neutral-grip dumbbell press",
+      "hammer grip dumbbell press",
+      "palms-in dumbbell chest press",
+      "dumbbell chest press with palms facing"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": "dumbbell",
+    "muscleGroup": "triceps",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A flat bench dumbbell press done with a neutral grip to train the chest, triceps, and shoulders.",
+    "instructions": "Lie flat on a bench with a dumbbell in each hand, palms facing each other and arms extended straight up. Lower the dumbbells to the sides of your chest, keeping your elbows at a 90-degree angle. Press the dumbbells back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "steps": [
+      "Lie flat on a bench holding a dumbbell in each hand, and press the dumbbells above your chest with your palms facing each other.",
+      "Plant your feet on the floor and brace your torso while keeping your wrists stacked over your elbows.",
+      "Lower the dumbbells under control to either side of your chest, keeping your elbows slightly tucked from your shoulders.",
+      "Pause briefly when your upper arms reach bench level or the dumbbells lightly touch your chest line.",
+      "Press the dumbbells straight up until your arms are extended above your chest, keeping the palms facing each other throughout.",
+      "Bring the dumbbells back together over your chest and repeat."
+    ],
+    "formCues": [
+      "Keep palms facing in",
+      "Tuck elbows slightly",
+      "Press over mid-chest",
+      "Keep wrists straight"
+    ],
+    "commonMistakes": [
+      "Elbows flare straight out to the sides.",
+      "Dumbbells drift toward the face instead of staying over the chest.",
+      "Wrists bend back under the dumbbells.",
+      "Lowering too fast and bouncing at the bottom."
+    ],
+    "breathing": "Inhale as you lower the dumbbells to your chest and exhale as you press them back up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-lying-hammer-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-lying-hammer-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-lying-hammer-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-lying-hammer-press.jpg"
+    }
+  },
+  {
+    "id": "1167",
+    "name": "Dynamic Chest Stretch",
+    "aliases": [
+      "dynamic chest opener",
+      "arm swings chest",
+      "chest warm-up swing",
+      "Stretching - Dynamic Chest Stretch",
+      "dynamic chest stretch"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "anterior deltoids",
+      "biceps"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A rhythmic arm movement to increase chest mobility and warm up the pectoral muscles.",
+    "instructions": "Stand tall with feet shoulder-width apart and arms extended at shoulder height. Swing your arms in a controlled, hugging motion across your chest and then open wide, repeating rhythmically to stretch and activate the chest.",
+    "steps": [
+      "Stand with your feet shoulder-width apart.",
+      "Extend both arms out to your sides at shoulder height.",
+      "Swing your arms forward, crossing them in front of your chest.",
+      "Open your arms wide, stretching your chest as you do.",
+      "Repeat the swinging motion for the desired number of repetitions."
+    ],
+    "formCues": [
+      "Keep movements controlled",
+      "Maintain upright posture",
+      "Engage core",
+      "Avoid twisting torso"
+    ],
+    "commonMistakes": [
+      "Swinging arms too forcefully",
+      "Allowing shoulders to shrug",
+      "Rotating the torso excessively"
+    ],
+    "breathing": "Breathe naturally throughout the movement.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-dynamic-chest-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-dynamic-chest-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-dynamic-chest-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-dynamic-chest-stretch.jpg"
+    }
+  },
+  {
+    "id": "0620",
+    "name": "Flat Bench Cable Fly",
+    "aliases": [
+      "cable lying fly",
+      "lying cable fly",
+      "cable chest fly",
+      "flat cable fly",
+      "Cable Lying Fly, Flat Bench Cable Fly",
+      "lying leg raise flat bench"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "anterior deltoids",
+      "biceps"
+    ],
+    "equipment": "cable",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "intermediate",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A chest isolation exercise using cables while lying on a flat bench for continuous tension.",
+    "instructions": "Lie on a flat bench positioned between two low cable pulleys. Grab the handles with arms extended and a slight bend in the elbows, then bring your hands together in a wide arc before returning to the start position.",
+    "steps": [
+      "Set a flat bench between two cable pulleys and attach handles.",
+      "Lie back and grip each handle with arms extended.",
+      "With elbows slightly bent, bring handles together above your chest.",
+      "Squeeze your chest at the top.",
+      "Slowly return to the starting position with control."
+    ],
+    "formCues": [
+      "Maintain slight elbow bend",
+      "Keep arms wide",
+      "Control both directions",
+      "Avoid overstretching"
+    ],
+    "commonMistakes": [
+      "Locking elbows",
+      "Letting the cables slam back",
+      "Using too much weight"
+    ],
+    "breathing": "Exhale as you bring hands together, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/cable-lying-fly-flat-bench-cable-fly.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/cable-lying-fly-flat-bench-cable-fly.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/cable-lying-fly-flat-bench-cable-fly.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/cable-lying-fly-flat-bench-cable-fly.jpg"
+    }
+  },
+  {
+    "id": "0493",
+    "name": "Incline Push-Up",
+    "aliases": [
+      "elevated push-up",
+      "bench push-up",
+      "hands elevated push-up",
+      "Incline Push-Ups",
+      "incline push-up"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "anterior deltoids",
+      "triceps"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A push-up variation with hands elevated, reducing resistance on the chest and triceps.",
+    "instructions": "Place your hands on an elevated surface like a bench, stand with feet extended behind you and body straight. Lower your chest toward the surface, keeping elbows at a 45-degree angle, then press up to starting position.",
+    "steps": [
+      "Place hands shoulder-width apart on elevated surface.",
+      "Extend legs back with feet together, forming a straight line.",
+      "Lower chest toward the surface, elbows at 45 degrees.",
+      "Pause when chest is just above the surface.",
+      "Push back up to starting position."
+    ],
+    "formCues": [
+      "Maintain straight line body",
+      "Core engaged",
+      "Lower under control",
+      "Exhale as you push up"
+    ],
+    "commonMistakes": [
+      "Sagging hips",
+      "Flaring elbows out",
+      "Incomplete range of motion"
+    ],
+    "breathing": "Inhale as you lower, exhale as you push up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/incline-push-ups.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/incline-push-ups.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/incline-push-ups.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/incline-push-ups.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-kneeling-back-rotation-stretch",
+    "name": "Kneeling Back Rotation Stretch",
+    "aliases": [
+      "kneeling thoracic rotation stretch",
+      "kneeling spinal rotation"
+    ],
+    "bodyPart": "chest",
+    "target": "thoracic spine",
+    "secondaryMuscles": [
+      "obliques",
+      "pectorals",
+      "latissimus dorsi"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "thoracic spinal extensors",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": true,
+    "shortDescription": "A mobility stretch that improves thoracic spine rotation while kneeling, also opening the chest and shoulders.",
+    "instructions": "Begin in a quadruped or kneeling lunge position. Place one hand behind your head and rotate your torso to open the chest, aiming elbow upward. Hold briefly and return, then repeat on the other side.",
+    "steps": [
+      "Kneel on the floor (all fours or lunge position).",
+      "Place one hand behind your head or neck.",
+      "Rotate elbow and upper body upward, opening chest.",
+      "Hold for a moment at top of rotation.",
+      "Return to start and repeat; switch sides."
+    ],
+    "formCues": [
+      "Keep hips stable",
+      "Open chest fully",
+      "Rotate through upper back",
+      "Move slowly"
+    ],
+    "commonMistakes": [
+      "Rotating through lower back",
+      "Forcing the stretch",
+      "Letting hips move"
+    ],
+    "breathing": "Exhale as you rotate, inhale returning to start.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-kneeling-back-rotation-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-kneeling-back-rotation-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-kneeling-back-rotation-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-kneeling-back-rotation-stretch.jpg"
+    }
+  },
+  {
+    "id": "1299",
+    "name": "Lever Incline Hammer Chest Press",
+    "aliases": [
+      "machine incline chest press",
+      "hammer strength incline press",
+      "incline plate-loaded chest press",
+      "Lever Incline Hammer Chest Press",
+      "lever incline chest press"
+    ],
+    "bodyPart": "chest",
+    "target": "upper pectorals",
+    "secondaryMuscles": [
+      "anterior deltoids",
+      "triceps brachii"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "pectoralis major, clavicular head",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A machine-based incline chest press emphasizing the upper chest and shoulders.",
+    "instructions": "Adjust the seat so the handles are level with your upper chest when seated. Grip the handles firmly and press them up and slightly forward, focusing on squeezing your upper chest. Return to the starting position under control after a brief pause.",
+    "steps": [
+      "Adjust seat height for optimal handle position.",
+      "Sit and grip handles with elbows bent.",
+      "Press handles up and forward above chest.",
+      "Avoid locking elbows completely.",
+      "Lower handles slowly to starting position."
+    ],
+    "formCues": [
+      "Press upward and slightly forward",
+      "Keep feet flat on floor",
+      "Don't shrug shoulders",
+      "Pause at top"
+    ],
+    "commonMistakes": [
+      "Letting elbows flare too wide",
+      "Locking out elbows",
+      "Arching back off seat",
+      "Gripping handles unevenly"
+    ],
+    "breathing": "Exhale as you press up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-incline-hammer-chest-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-incline-hammer-chest-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-incline-hammer-chest-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-incline-hammer-chest-press.jpg"
+    }
+  },
+  {
+    "id": "0577",
+    "name": "Lever Lying Chest Press",
+    "aliases": [
+      "machine bench press",
+      "hammer strength chest press",
+      "plate-loaded chest press",
+      "Lever Lying Chest Press",
+      "lever chest press"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "triceps brachii",
+      "anterior deltoids"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A plate-loaded machine press mimicking the bench press to target the entire chest safely.",
+    "instructions": "Lie back on the lever chest press machine, gripping the handles just outside shoulder-width. Press the levers forward and upward by extending your arms fully, focusing on squeezing your chest, then return with control to the starting position.",
+    "steps": [
+      "Lie supine on the machine bench.",
+      "Grip the handles firmly, elbows bent.",
+      "Engage chest and press handles forward and up.",
+      "Fully extend arms without locking out elbows.",
+      "Slowly return to starting position."
+    ],
+    "formCues": [
+      "Keep feet flat on floor",
+      "Don't overextend elbows",
+      "Press evenly with both arms",
+      "Squeeze chest at top"
+    ],
+    "commonMistakes": [
+      "Letting shoulders roll forward",
+      "Lifting lower back off bench",
+      "Using too much weight",
+      "Allowing wrists to bend"
+    ],
+    "breathing": "Exhale as you press up, inhale as you lower down.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-lying-chest-press.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-lying-chest-press.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-lying-chest-press.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-lying-chest-press.jpg"
+    }
+  },
+  {
+    "id": "1259",
+    "name": "Overhead Chest Stretch",
+    "aliases": [
+      "above head chest stretch",
+      "standing overhead chest stretch",
+      "Stretching - Above Head Chest Stretch",
+      "behind head chest stretch"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "anterior deltoid",
+      "biceps"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A static stretch that opens the chest by extending the arms overhead and pulling back.",
+    "instructions": "Stand tall with your feet hip-width apart, interlace your fingers and extend your arms overhead. Gently pull your arms back and upward, feeling a stretch in your chest and shoulders.",
+    "steps": [
+      "Stand upright with feet hip-width apart.",
+      "Interlace fingers and stretch arms straight overhead.",
+      "Gently pull arms back behind head.",
+      "Squeeze shoulder blades together.",
+      "Hold the stretch for 15-30 seconds."
+    ],
+    "formCues": [
+      "Keep arms straight",
+      "Open the chest",
+      "Maintain tall posture",
+      "Avoid arching lower back"
+    ],
+    "commonMistakes": [
+      "Hyperextending lower back",
+      "Bending elbows",
+      "Letting shoulders shrug"
+    ],
+    "breathing": "Breathe deeply and steadily throughout the stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-above-head-chest-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-above-head-chest-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-above-head-chest-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-above-head-chest-stretch.jpg"
+    }
+  },
+  {
+    "id": "drv-lever-pec-deck-fly",
+    "name": "Pec Deck Fly",
+    "aliases": [
+      "pec deck",
+      "machine chest fly",
+      "lever chest fly"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "anterior deltoids",
+      "biceps"
+    ],
+    "equipment": "leverage machine",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A machine-based isolation exercise focusing on squeezing the chest muscles through a fly motion.",
+    "instructions": "Sit on the pec deck machine with forearms against the pads and elbows slightly bent. Bring the arms together by contracting the chest, then slowly return to the starting position while maintaining control.",
+    "steps": [
+      "Adjust seat and sit with back against pad.",
+      "Place forearms on pads with elbows slightly bent.",
+      "Bring arms together in a wide arc.",
+      "Squeeze chest at the end of movement.",
+      "Return slowly to starting position."
+    ],
+    "formCues": [
+      "Keep elbows soft",
+      "Squeeze chest at peak",
+      "Maintain back on pad",
+      "Control return phase"
+    ],
+    "commonMistakes": [
+      "Locking elbows",
+      "Arching lower back",
+      "Using too much weight"
+    ],
+    "breathing": "Exhale as you bring arms together, inhale as you open.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/lever-pec-deck-fly.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/lever-pec-deck-fly.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/lever-pec-deck-fly.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/lever-pec-deck-fly.jpg"
+    }
+  },
+  {
+    "id": "drv-push-ups",
+    "name": "Push-Up",
+    "aliases": [
+      "pushups",
+      "press ups",
+      "bodyweight pushup",
+      "military push-up"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "triceps",
+      "anterior deltoids",
+      "core"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "beginner",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A bodyweight exercise performed in a prone position, targeting the chest, shoulders, and triceps.",
+    "instructions": "Start in a plank position with hands slightly wider than shoulder-width apart. Lower your body by bending elbows until your chest nearly touches the floor, then push back to the starting position while keeping your core engaged.",
+    "steps": [
+      "Begin in a plank with hands under shoulders.",
+      "Engage core and glutes.",
+      "Lower chest toward floor, elbows at 45 degrees.",
+      "Pause briefly when close to ground.",
+      "Press back up to plank position."
+    ],
+    "formCues": [
+      "Keep body straight",
+      "Engage core",
+      "Elbows 45 degrees",
+      "Lower under control"
+    ],
+    "commonMistakes": [
+      "Letting hips sag",
+      "Flaring elbows too wide",
+      "Incomplete range of motion"
+    ],
+    "breathing": "Inhale as you lower, exhale as you push up.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/push-ups.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/push-ups.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/push-ups.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/push-ups.jpg"
+    }
+  },
+  {
+    "id": "drv-band-high-fly",
+    "name": "Resistance Band High Fly",
+    "aliases": [
+      "band high fly",
+      "high band chest fly",
+      "standing high band fly"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "anterior deltoids",
+      "serratus anterior",
+      "biceps"
+    ],
+    "equipment": "band",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A chest isolation movement where resistance bands are used to fly arms downward from above shoulder height.",
+    "instructions": "Attach bands above head height and hold one handle in each hand. Stand with arms overhead in a wide position, then pull hands down and together in an arc, squeezing the chest. Return slowly to the start.",
+    "steps": [
+      "Anchor resistance band above shoulder height.",
+      "Grasp handles and step forward for tension.",
+      "Start with arms raised wide, aligned with shoulders.",
+      "Pull arms downward and together in a wide arc.",
+      "Squeeze chest, then return slowly to start."
+    ],
+    "formCues": [
+      "Keep slight bend in elbows",
+      "Control movement",
+      "Squeeze chest at bottom",
+      "Don't let band snap back"
+    ],
+    "commonMistakes": [
+      "Overextending elbows",
+      "Letting shoulders shrug",
+      "Losing tension at top"
+    ],
+    "breathing": "Exhale as you bring arms together, inhale as you return.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-high-fly.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-high-fly.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-high-fly.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-high-fly.jpg"
+    }
+  },
+  {
+    "id": "drv-rotate-push-up-female",
+    "name": "Rotational Push-Up",
+    "aliases": [
+      "rotate push up",
+      "T push-up",
+      "rotation push-up",
+      "push-up with rotation"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "deltoids",
+      "triceps",
+      "obliques",
+      "serratus anterior"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "intermediate",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "A push-up variation involving a torso rotation to challenge the chest, shoulders, triceps, and core.",
+    "instructions": "From a push-up position, lower down as normal. As you press up, rotate your torso and extend one arm toward the ceiling, forming a T with your arms. Return to push-up position and repeat to the other side.",
+    "steps": [
+      "Begin in a standard push-up position.",
+      "Lower your chest toward the floor.",
+      "As you press up, rotate your torso and lift one arm toward the ceiling.",
+      "Hold briefly, keeping hips square.",
+      "Return to start, repeat on the other side."
+    ],
+    "formCues": [
+      "Rotate from torso",
+      "Stack shoulders",
+      "Keep core tight",
+      "Breathe evenly"
+    ],
+    "commonMistakes": [
+      "Letting hips sag",
+      "Twisting too fast",
+      "Losing shoulder alignment"
+    ],
+    "breathing": "Exhale when pushing up and rotating, inhale when lowering.",
+    "videos": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/rotate-push-up-female.mp4"
+    },
+    "thumbnails": {
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/rotate-push-up-female.jpg"
+    }
+  },
+  {
+    "id": "drv-stretching-standing-reach-up-back-rotation-stretch",
+    "name": "Standing Reach Up Back Rotation Stretch",
+    "aliases": [
+      "standing reach back stretch",
+      "standing overhead torso twist"
+    ],
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": [
+      "deltoids",
+      "latissimus dorsi",
+      "trapezius"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "pectoralis major",
+    "difficulty": "beginner",
+    "compound": false,
+    "unilateral": false,
+    "shortDescription": "A dynamic stretch involving reaching overhead and rotating to open up the chest and upper back.",
+    "instructions": "Stand with your feet shoulder-width apart. Reach both arms overhead and gently arch your upper back while rotating your torso to one side, focusing on stretching through your chest and shoulders. Hold for a moment, return to center, and repeat to the other side.",
+    "steps": [
+      "Stand tall with feet shoulder-width apart.",
+      "Raise both arms overhead.",
+      "Gently arch your upper back and chest.",
+      "Rotate your torso to one side while maintaining the stretch.",
+      "Return to center, then rotate to the other side."
+    ],
+    "formCues": [
+      "Keep core engaged",
+      "Avoid hyperextending lower back",
+      "Reach up and out",
+      "Move smoothly"
+    ],
+    "commonMistakes": [
+      "Overarching the lower back",
+      "Not fully extending arms",
+      "Twisting too abruptly"
+    ],
+    "breathing": "Inhale before reaching up; exhale as you rotate and stretch.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-reach-up-back-rotation-stretch.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-standing-reach-up-back-rotation-stretch.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-reach-up-back-rotation-stretch.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-standing-reach-up-back-rotation-stretch.jpg"
+    }
+  },
+  {
+    "id": "0796",
+    "name": "Standing Wheel Rollout",
+    "aliases": [
+      "standing ab wheel rollout",
+      "ab wheel stretch",
+      "wheel rollout stretch",
+      "Stretching - Standing Wheel Rollout",
+      "standing wheel rollout"
+    ],
+    "bodyPart": "chest",
+    "target": "abdominals",
+    "secondaryMuscles": [
+      "latissimus dorsi",
+      "pectoralis major",
+      "deltoids"
+    ],
+    "equipment": "body weight",
+    "muscleGroup": "rectus abdominis",
+    "difficulty": "advanced",
+    "compound": true,
+    "unilateral": false,
+    "shortDescription": "An advanced rollout exercise that stretches and strengthens the abdominals, chest, shoulders, and back.",
+    "instructions": "Begin standing with an ab wheel on the floor in front of you. Holding the handles, slowly roll the wheel forward as you lower your torso, keeping your arms straight, until your body is almost parallel to the ground. Use your core and lats to pull yourself back up.",
+    "steps": [
+      "Stand with feet shoulder-width apart and hold the ab wheel.",
+      "Bend forward and place the wheel on the floor in front of your feet.",
+      "Roll the wheel forward, extending your arms and torso while keeping your core tight.",
+      "Lower your body until you're just above the floor, maintaining a straight line from head to heels.",
+      "Reverse the motion by pulling the wheel back toward your feet, returning to the start."
+    ],
+    "formCues": [
+      "Engage core strongly",
+      "Do not let hips sag",
+      "Keep arms straight",
+      "Move slowly and with control"
+    ],
+    "commonMistakes": [
+      "Letting lower back arch excessively",
+      "Collapsing hips",
+      "Bending elbows during rollout"
+    ],
+    "breathing": "Inhale as you roll out, exhale as you pull back in.",
+    "videos": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/stretching-standing-wheel-rollout.mp4",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/stretching-standing-wheel-rollout.mp4"
+    },
+    "thumbnails": {
+      "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/stretching-standing-wheel-rollout.jpg",
+      "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/stretching-standing-wheel-rollout.jpg"
+    }
+  }
+]

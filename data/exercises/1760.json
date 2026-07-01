@@ -1,0 +1,55 @@
+{
+  "id": "1760",
+  "name": "Dumbbell Goblet Squat",
+  "aliases": [
+    "goblet squat",
+    "DB goblet squat",
+    "dumbbell squat",
+    "front-loaded dumbbell squat",
+    "holding-a-dumbbell squat",
+    "dumbbell goblet squat"
+  ],
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "glutes",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A front-loaded squat holding one dumbbell at the chest to train the quads, glutes, and legs through a controlled deep squat.",
+  "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell vertically against your chest with both hands. Keeping your chest up and core engaged, lower your body down into a squat position by pushing your hips back and bending your knees. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Stand tall with your feet about shoulder-width apart and hold one dumbbell vertically at your chest with both hands.",
+    "Brace your midsection and keep your elbows pointed down close to your body.",
+    "Sit your hips down and back while bending your knees, and lower until your thighs are parallel to the floor or slightly lower.",
+    "Keep the dumbbell tight to your chest and your feet flat as your knees track over your toes.",
+    "Drive through your whole foot to stand back up until your hips and knees are fully extended.",
+    "Reset your stance and repeat the next rep."
+  ],
+  "formCues": [
+    "Chest up",
+    "Keep heels down",
+    "Knees track over toes",
+    "Hold the bell close"
+  ],
+  "commonMistakes": [
+    "Letting the dumbbell drift away from the chest",
+    "Heels lifting off the floor at the bottom",
+    "Knees collapsing inward during the squat",
+    "Folding the chest forward instead of staying upright"
+  ],
+  "breathing": "Inhale as you lower into the squat, and exhale as you stand back up.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-goblet-squat.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-goblet-squat.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-goblet-squat.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-goblet-squat.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0826",
+  "name": "Vertical Leg Raise (on parallel bars)",
+  "aliases": [
+    "vertical leg raise",
+    "parallel bar leg raise",
+    "captain's chair leg raise",
+    "straight leg raise on dip bars",
+    "hanging leg raise on parallel bars",
+    "raise straight legs on bars",
+    "vertical leg raise (on parallel bars)"
+  ],
+  "bodyPart": "waist",
+  "target": "abs",
+  "secondaryMuscles": [
+    "hip flexors"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "hip flexors",
+  "difficulty": "intermediate",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "A bodyweight core exercise on parallel bars where you raise straight legs in front of you under control.",
+  "instructions": "Hang from the parallel bars with your arms fully extended and your body straight. Engage your core and lift your legs up in front of you, keeping them straight. Continue lifting until your legs are parallel to the ground or slightly higher. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.",
+  "steps": [
+    "Support yourself on the parallel bars with straight arms and your legs hanging together.",
+    "Pull your shoulders down and brace your midsection to stop your body from swinging.",
+    "Keep your knees straight and lift your legs forward in front of you.",
+    "Raise your legs until they reach hip height or slightly higher.",
+    "Pause briefly at the top without leaning back.",
+    "Lower your legs with control to the start and reset before the next repetition."
+  ],
+  "formCues": [
+    "Keep legs straight",
+    "Brace and stop the swing",
+    "Lift with control",
+    "Shoulders down"
+  ],
+  "commonMistakes": [
+    "Swinging the torso to start each rep",
+    "Bending the knees as the legs rise",
+    "Shrugging the shoulders up toward the ears",
+    "Dropping the legs quickly on the way down"
+  ],
+  "breathing": "Exhale as you lift your legs, then inhale as you lower them back to the start.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/vertical-leg-raise-on-parallel-bars.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/vertical-leg-raise-on-parallel-bars.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/vertical-leg-raise-on-parallel-bars.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/vertical-leg-raise-on-parallel-bars.jpg"
+  }
+}

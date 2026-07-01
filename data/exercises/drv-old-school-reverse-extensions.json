@@ -1,0 +1,49 @@
+{
+  "id": "drv-old-school-reverse-extensions",
+  "name": "Old School Reverse Extensions",
+  "aliases": [
+    "reverse triceps extensions",
+    "old school triceps kickbacks",
+    "prone triceps extensions"
+  ],
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "secondaryMuscles": [
+    "posterior deltoids",
+    "latissimus dorsi"
+  ],
+  "equipment": "body weight",
+  "muscleGroup": "triceps brachii",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": false,
+  "shortDescription": "This bodyweight movement isolates the triceps by extending the elbows while lying face down.",
+  "instructions": "Lie face down on the floor or bench with arms bent and hands under shoulders. Extend your arms straight back by pressing your palms into the ground or lifting them off the ground, fully straightening your elbows and contracting your triceps. Lower back down under control.",
+  "steps": [
+    "Lie face down on the floor or bench with elbows bent and hands at your sides.",
+    "Position elbows by your torso.",
+    "Straighten your arms fully behind you, contracting your triceps.",
+    "Pause and squeeze at full extension.",
+    "Return to the start in a controlled manner."
+  ],
+  "formCues": [
+    "Keep elbows tight to torso",
+    "Extend arms fully",
+    "Squeeze triceps at the top",
+    "Avoid swinging arms"
+  ],
+  "commonMistakes": [
+    "Using body momentum",
+    "Not achieving full extension",
+    "Letting elbows flare out"
+  ],
+  "breathing": "Exhale as you extend your arms, inhale as you return.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/old-school-reverse-extensions.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/old-school-reverse-extensions.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/old-school-reverse-extensions.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/old-school-reverse-extensions.jpg"
+  }
+}

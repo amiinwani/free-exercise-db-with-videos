@@ -1,0 +1,53 @@
+{
+  "id": "0285",
+  "name": "Seated Alternating Dumbbell Curl",
+  "aliases": [
+    "alternating seated dumbbell curl",
+    "alternating biceps curl seated",
+    "seated dumbbell biceps curl",
+    "Dumbbell Alternate Seated Biceps Curl",
+    "dumbbell alternate biceps curl"
+  ],
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "secondaryMuscles": [
+    "brachialis",
+    "brachioradialis",
+    "forearms"
+  ],
+  "equipment": "dumbbell",
+  "muscleGroup": "biceps brachii",
+  "difficulty": "beginner",
+  "compound": false,
+  "unilateral": true,
+  "shortDescription": "A seated exercise curling dumbbells alternately to build bicep size and strength.",
+  "instructions": "Sit on a bench with back support holding a dumbbell in each hand at your sides. Curl one dumbbell by flexing the elbow, then lower it and repeat with the opposite arm, keeping your torso stable.",
+  "steps": [
+    "Sit with back against support and feet flat.",
+    "Hold dumbbells at your sides, palms facing in.",
+    "Curl one dumbbell while rotating palm up.",
+    "Lower to starting position and alternate arms.",
+    "Repeat, keeping back straight and elbows close to sides."
+  ],
+  "formCues": [
+    "Keep elbows stationary",
+    "Rotate palm up during curl",
+    "Don't swing weights",
+    "Engage your core"
+  ],
+  "commonMistakes": [
+    "Using momentum",
+    "Elbows flaring",
+    "Rocking the torso",
+    "Moving both arms together"
+  ],
+  "breathing": "Exhale as you curl up, inhale as you lower down.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/dumbbell-alternate-seated-biceps-curl.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/dumbbell-alternate-seated-biceps-curl.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/dumbbell-alternate-seated-biceps-curl.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/dumbbell-alternate-seated-biceps-curl.jpg"
+  }
+}

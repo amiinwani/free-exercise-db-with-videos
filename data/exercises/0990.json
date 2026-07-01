@@ -1,0 +1,53 @@
+{
+  "id": "0990",
+  "name": "Band Seated Row",
+  "aliases": [
+    "resistance band seated row",
+    "band row",
+    "seated band row",
+    "Band Seated Row",
+    "band one arm twisting seated row"
+  ],
+  "bodyPart": "back",
+  "target": "lats",
+  "secondaryMuscles": [
+    "rhomboids",
+    "trapezius",
+    "rear deltoids",
+    "biceps"
+  ],
+  "equipment": "band",
+  "muscleGroup": "latissimus dorsi",
+  "difficulty": "beginner",
+  "compound": true,
+  "unilateral": false,
+  "shortDescription": "Seated row using resistance bands that targets the mid-back and lats.",
+  "instructions": "Sit on the floor with your legs extended, loop the band around your feet, and grasp the ends. Keeping your back straight and core tight, pull the band handles towards your torso, squeezing your shoulder blades together. Slowly release to the starting position with control, maintaining slight tension in the band.",
+  "steps": [
+    "Sit on the floor with legs straight and loop the band over your feet.",
+    "Grab the band handles or ends with both hands, arms extended.",
+    "Keep back straight and chest up.",
+    "Pull the handles back, driving elbows past your torso and squeezing shoulder blades.",
+    "Release slowly to the starting position."
+  ],
+  "formCues": [
+    "Lead with elbows",
+    "Keep chest up",
+    "Squeeze shoulder blades",
+    "Don't round your back"
+  ],
+  "commonMistakes": [
+    "Rounding the back",
+    "Using momentum",
+    "Letting band slack between reps"
+  ],
+  "breathing": "Exhale as you row, inhale as you return to start.",
+  "videos": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/male/band-seated-row.mp4",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-videos/female/band-seated-row.mp4"
+  },
+  "thumbnails": {
+    "male": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/male/band-seated-row.jpg",
+    "female": "https://pub-585d42eb1aa64a67aedf483ec328d3fe.r2.dev/exercise-posters/female/band-seated-row.jpg"
+  }
+}
