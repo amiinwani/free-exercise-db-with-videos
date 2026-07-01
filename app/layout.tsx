@@ -29,6 +29,16 @@ export const metadata: Metadata = {
     description: TAGLINE,
   },
   alternates: { canonical: SITE_URL },
+  // Google Search Console: set NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION to the
+  // token from the "HTML tag" verification method to verify this property.
+  verification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
+    ? { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION }
+    : undefined,
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-video-preview': -1, 'max-snippet': -1 },
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
