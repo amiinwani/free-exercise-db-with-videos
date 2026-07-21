@@ -193,8 +193,23 @@ commercial and personal projects. See [Credits](#credits) for video provenance.
 
 - Exercise metadata (instructions, cues, mistakes, descriptions) was generated and curated for this
   project.
-- Demo videos are from an animated exercise video set, redistributed here with the maintainer's
-  rights.
+- Demo videos: see below. 👇
+
+## Where did the videos come from? 🌀 (They were revealed to me in an Ad)
+
+> **⚠️ Source of these videos:**
+>
+> "They were revealed to me in an Ad" kinda situation. 😅 I was scrolling on Instagram and it
+> recommended me an ad of this, and I **DID pay** for these videos — but I am not sure where the
+> seller I got it from originally got them. **So use with caution.**
+
+That's the honest, whole truth. I didn't film these, I don't have a secret animation studio — the
+algorithm showed me an ad at 2am, I bought the dataset, and figured the world might as well vibe
+with them, so I made them public. Free. MIT. Go nuts. 🏋️
+
+**If you're the original owner / creator of this footage:** please, genuinely, reach out. 🙏 Open an
+issue on this repo or email me and I'll take these down immediately — no drama, no lawyers, no hard
+feelings. I just want to do the right thing.
 
 ---
 
